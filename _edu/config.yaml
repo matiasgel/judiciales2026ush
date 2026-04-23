@@ -1,0 +1,86 @@
+U — Academic Course Production Suite
+# Standalone Configuration
+# Version: 1.0.0
+# Date: 2026-03-07
+
+# --- Project ---
+project_name: ""           # Nombre de la materia/curso
+institution: ""            # Institución educativa
+communication_language: "spanish"
+document_output_language: "spanish"
+user_name: ""              # Nombre del docente
+
+# --- Multi-Class ---
+course_prefix: ""                                          # Prefijo corto de la materia (ej: leng, para, algo). Usar /edu-switch-course para cambiar.
+course_year: "2026"                                        # Año académico activo — actualizar en /edu-start-new-year
+course_id: "{course_prefix}-{course_year}"                 # Clave compuesta materia+año (ej: leng-2026). Se deriva automáticamente.
+
+# --- Folder Structure ---
+output_folder: "{project-root}/salida"
+course_output_folder: "{output_folder}/cursadas/{course_id}"
+topics_folder: "{course_output_folder}/temas"              # Carpeta raíz de temas del año activo
+memory_folder: "{project-root}/_edu-memory"                # Memoria colectiva: memory.db + sidecars
+memory_db: "{memory_folder}/memory.db"                     # SQLite FTS5 — búsqueda full-text cross-curso
+
+# --- Module ---
+code: edu
+name: "EDU: Academic Course Production Suite"
+header: "Pipeline completo de producción docente universitaria con inteligencia pedagógica"
+subheader: "Desde la ingesta del programa oficial hasta el cierre de cursada con validación automática y memoria acumulada año a año"
+
+# --- Behavioral ---
+default_professor_profile: "profesor-practico"
+default_class_duration: "90"
+lms_provider: "none"
+academic_guardrail_enabled: "true"
+command_aliases: "true"
+
+# --- Professor Profiles ---
+# Available: profesor-teorico, profesor-practico, profesor-socratico, profesor-flipped, profesor-investigador
+# Each profile affects cognitive density metrics used by academic-guardrail agent
+
+# --- Accessibility (Sprint 1) ---
+accessibility_check_enabled: false
+delivery_mode: "presencial"                 # presencial | remoto | hybrid
+classroom_distance_meters: 6
+screen_resolution: "1080p"
+
+# --- Cognitive Science (Sprint 4) ---
+cognitive_validation_enabled: false
+cognitive_max_consecutive_theory: 3
+cognitive_concepts_per_30min: 6
+
+# --- GitHub Classroom (Sprint 3) ---
+classroom_enabled: false
+github_org: ""                          # Organización de GitHub Classroom
+classroom_prefix: ""                    # Prefijo para repos de alumnos
+
+# --- Interactive Content (Sprint 7) ---
+interactive_enabled: false
+tts_enabled: false
+tts_provider: "edge-tts"               # edge-tts (gratuito)
+tts_voice: "es-AR-TomasNeural"          # Voz por defecto para TTS
+simulation_enabled: false
+
+# --- PBL (Sprint 8) ---
+pbl_enabled: false
+
+# --- Topic Analysis (Sprint 9) ---
+semantic_drift_enabled: false
+topic_analysis_enabled: false
+fact_check_enabled: false
+
+# --- Knowledge Graph (Sprint 11) ---
+knowledge_graph_enabled: false
+
+# --- Orchestrator (Sprint 12) ---
+orchestrator_enabled: false
+orchestrator_mode: "minimal"            # minimal | smolagents
+orchestrator_model: "Qwen/Qwen2.5-72B-Instruct"
+hf_inference_api: true                  # usa HuggingFace Inference API gratuita
+local_model_path: null                  # alternativa: ruta a modelo Ollama local
+
+# --- Knowledge Base (ChromaDB) ---
+knowledge_base_enabled: true
+knowledge_base_path: "{project-root}/_edu-knowledge"        # Referencias académicas + docs de herramientas
+knowledge_base_chroma_path: "{project-root}/_edu-knowledge/chroma_db"
