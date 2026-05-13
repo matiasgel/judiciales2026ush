@@ -1,0 +1,1735 @@
+# Fuente
+- archivo: Preserving_the_rule_of_law_in_the_era_of_artificial_intelligence_AI.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Preserving_the_rule_of_law_in_the_era_of_artificial_intelligence_AI.pdf
+- extraido: 2026-04-24T11:34:06
+
+# Contenido
+
+Artificial Intelligence and Law (2022) 30:291–323
+https://doi.org/10.1007/s10506-021-09294-4
+
+ORIGINAL RESEARCH
+
+Preserving the rule of law in the era of artificial intelligence 
+(AI)
+
+Stanley Greenstein1 
+
+Accepted: 24 June 2021 / Published online: 17 July 2021 
+© The Author(s) 2021
+
+Abstract
+The study of law and information technology comes with an inherent contradiction 
+in that while technology develops rapidly and embraces notions such as internation-
+alization and globalization, traditional law, for the most part, can be slow to react to 
+technological developments and is also predominantly confined to national borders. 
+However, the notion of the rule of law defies the phenomenon of law being bound to 
+national borders and enjoys global recognition. However, a serious threat to the rule 
+of  law  is  looming  in  the  form  of  an  assault  by  technological  developments  within 
+artificial intelligence (AI). As large strides are made in the academic discipline of 
+AI, this technology is starting to make its way into digital decision-making systems 
+and  is  in  effect  replacing  human  decision-makers.  A  prime  example  of  this  devel-
+opment is the use of AI to assist judges in making judicial decisions. However, in 
+many circumstances this technology is a ‘black box’ due mainly to its complexity 
+but also because it is protected by law. This lack of transparency and the diminished 
+ability to understand the operation of these systems increasingly being used by the 
+structures of governance is challenging traditional notions underpinning the rule of 
+law. This is especially so in relation to concepts especially associated with the rule 
+of law, such as transparency, fairness and explainability. This  article examines the 
+technology  of  AI  in  relation  to  the  rule  of  law,  highlighting  the  rule  of  law  as  a 
+mechanism for human flourishing. It investigates the extent to which the rule of law 
+is being diminished as AI is becoming entrenched within society and questions the 
+extent to which it can survive in the technocratic society.
+
+Keywords  Artificial Intelligence (AI) · Machine Learning (ML) · Rule of law · 
+Judicial decision-making systems · Explainability
+
+ *  Stanley Greenstein 
+
+Stanley.greenstein@juridicum.su.se
+
+1  Department of Law, Stockholm University, Stockholm, Sweden
+
+Vol.:(0123456789)1 3 
+292 
+
+1  Introduction
+
+S. Greenstein 
+
+The study of law and information technology comes with an inherent contradiction 
+in that while technology embraces notions such as internationalization and globali-
+zation, the law, for the most part, is to a certain extent still confined to national bor-
+ders. Transgressing this contradiction to a certain degree is the notion of the rule of 
+law that carries within it the ideal that ‘the “rule of law” is good for everyone’, an 
+attitude that seemingly enjoys international support.1 It is conceded that this over-
+whelming support for the rule of law is based on differing interpretations of what the 
+rule of law is and in some cases it may even be hijacked by those who wish to use it 
+as a smokescreen to hide practices that in fact contradict its ideals. Nevertheless, for 
+the most part, the rule of law still carries the ideal of being, ‘analogous to the notion 
+of the “good”, in the sense that everyone is for it, but have contrasting convictions 
+about what it is’.2 If the rule of law, therefore, is a notion that is worth retaining as a 
+measurement of a ‘good’ that is worth striving after, it should be disconcerting that 
+for a second year running, it declined in more countries than it improved in, denot-
+ing an overall weakening of the rule of law worldwide.3
+
+However,  a  second  more  concealed  threat  is  increasing  as  society  becomes 
+increasingly digitalizes. This is the threat from technology, more specifically tech-
+nology containing elements of artificial intelligence (AI). As large strides are made 
+in the academic discipline of AI, this technology is starting to make its way into dig-
+ital decision-making systems, which in turn are replacing human decision-makers, 
+institutions, both public and private, seeking increasing effectivity. Human decision-
+making is currently being assisted by digital decision-making systems and this func-
+tion  is  increasingly  being  given  to  machines,  the  sphere  of  governance  no  excep-
+tion. The threat to the rule of law lies in the fact that most of these decision-making 
+systems are ‘black boxes’ because they incorporate extremely complex technology 
+that is essentially beyond the cognitive capacities of humans and the law too inhib-
+its transparency to a certain degree. It is here that the demands of the rule of law, 
+such  as  insight,  transparency,  fairness  and  explainability,  are  almost  impossible  to 
+achieve,  which  in  turn  raises  questions  concerning  the  extent  to  which  the  rule  of 
+law is a viable concept in the technocratic society.
+
+Section 2 of this article provides a brief description of the rule of law in order to 
+provide a general overview of this complex concept and on which a subsequent anal-
+ysis will be based. Section 3 focuses on the technological concept of AI, illuminat-
+ing the complexity and opaqueness of these technologies. Section 4 provides exam-
+ples of applications using this technology, the justice system just one such example. 
+Section  5  provides  an  analysis  wherein  the  extent  to  which  AI  is  challenging  the 
+ideals of the rule of law is depicted. Finally, Sect. 6 concludes this article.
+
+1  Tamanaha, Brian 2004, p. 1.
+2  Tamanaha, Brian 2004, p. 3.
+3  World Justice Project, Insights 2019, p. 7.
+
+1 3293
+
+2   The rule of law as an ideal
+
+There  are  many  interpretations  of  what  the  rule  of  law  actually  is,  which  in  turn 
+complicates defining it precisely. A classical dictionary definition of the rule of law 
+describes it as, ‘…the mechanism, process, institution, practice, or norm that sup-
+ports the equality of all citizens before the law, secures a nonarbitrary form of gov-
+ernment,  and  more  generally  prevents  the  arbitrary  use  of  power’.4  That  everyone 
+is equal in the eyes of the law means that everyone is subject to the law and no-one 
+is above the law, in other words that everyone, no matter who you are, is subject to 
+the  laws  of  a  state.  Besides  having  the  function  of  curtailing  state  power,  another 
+perspective of the rule of law defines it not only in terms of the characteristics that 
+a legal system should encompass but also in terms of justice in society in general, 
+human rights being one such value.5
+
+A  central  tenet  of  the  rule  of  law  is  that  it  embodies  a  notion  of  reciprocity 
+between those that govern and those that are governed. On the one hand, those in 
+positions  of  authority  must  exercise  this  authority  according  to  established  public 
+norms and not arbitrarily (government must act within the confines of the law) and 
+on the other hand, citizens are expected to comply with legal norms, the law should 
+be the same for everyone, no one is above the law and finally, everyone should be 
+protected by the law.6
+
+The  rule  of  law  discourse  is  often  defined  by  the  distinction  made  between  the 
+rule  of  law’s  formal  requirements  and  the  material  aspects  that  it  is  purported  to 
+encompass. This is reflected in the numerous theories of the rule of law, where some 
+view the rule of law as a concept comprised purely of formal structures of govern-
+ance,  these  theories  reflecting  the  concept  of  legal  positivism,  while  others  recog-
+nize it as including moral considerations.7
+
+Dworkin  illuminates  the  distinction  between  the  rule  of  law  as  comprising  the 
+existence  of  formal  institutions  of  governance  against  the  notion  of  it  comprising 
+considerations  of  morality,  the  first  referred  to  as  the  ‘rule-book’  conception  and 
+the  latter  as  the  ‘rights’  conception.  The  former  states  that  the  power  of  the  state 
+should be exercised against individuals only where this is based on rules that have 
+been  made  public.  Both  government  and  citizens  must  then  abide  by  these  rules 
+until they are changed according to the rules for change that have also been made 
+public.  This  conception  does  not  say  anything  about  the  nature  of  the  rules  in  the 
+‘rule-book’, this being related to substantive justice. The rights conception assumes 
+that  people  have  moral  rights  and  duties  with  respect  to  one  another  and  political 
+rights against the state. These moral rights are required recognition in the positive 
+
+4  Choi (2021), available at https:// www. brita nnica. com/ topic/ rule- of- law (Accessed 11 June 2021).
+5  Organization  for  Security  and  Co-Operation  in  Europe  (OSCE),  Rule  of  law,  Rule  of  law  |  OSCE 
+(Accessed 11 June 2021).
+6  Stanford Encyclopedia of Philosophy, The Rule of Law, available at https:// plato. stanf ord. edu/ entri es/ 
+rule- of- law/ (Accessed 20 December 2019), p. 1.
+7  Simmonds (1986), p. 115.
+
+1 3Preserving the rule of law in the era of artificial intelligence…294 
+
+S. Greenstein 
+
+law in order that people may enforce them through the courts or other institutions. 
+It therefore disregards the distinction between formal requirements and the require-
+ments of justice, requiring the rules in the rule-book to take heed of substantive and 
+moral  requirements.8  The  rule  of  law  can  also  be  described  in  terms  of  function, 
+where it is argued that there is a limitation to studying the notion of the rule of law 
+as an object, the question of its importance for the goals of development paramount 
+as well as how these are to be achieved.9 Simmonds uses the metaphor of the spoon: 
+in explaining what a spoon is, the formal features are only intelligible in light of a 
+description of what the spoon does, that is its purpose, and a spoon that has a bad 
+purpose is a bad spoon.10
+
+One of the most well-known theories describing the rule of law is attributed to 
+Lon Fuller in his work The Morality of Law.11 Fuller too perceives the rule of law 
+as a combination of the formal institutions of society together with what he terms 
+‘the inner morality of law’. Fuller’s conception of the rule of law is based on eight 
+principles  that  are  formalistic  in  nature:  (1)  there  must  be  rules,  (2)  they  must  be 
+prospective, not retrospective, (3) the rules must be published, (4) the rules must be 
+intelligible,  (5)  the  rules  must  not  be  contradictory,  (6)  compliance  with  the  rules 
+must be possible, (7) the rules must not be constantly changing and (8) there must be 
+congruence between the rules as declared and as applied by officials.12 Nevertheless, 
+Simmonds,  in  his  interpretation  of  Fuller’s  outwardly  formalistic  depiction  of  the 
+rule of law, argues that the ‘inner morality’ aspect of Fuller’s eight principles comes 
+to  the  fore  in  relation  to  two  further  concepts,  namely  ‘the  morality  of  duty’  and 
+‘the morality of aspiration’.13 The former involves a duty to abide by laws that are 
+obligatory and either one does this or not whereas the latter concept is not an ‘either/
+or’  notion  but  rather  a  question  of  degree,  where  one  strives  towards  this  ideal  to 
+the best of one’s ability.14 The eight principles (representing the morality of duty in 
+their rationale) provide a degree of regularity and order necessary in order to attain 
+the morality of aspiration, and they represent the morality of aspiration in that they 
+represent an ideal to which a legal system should strive towards.15 Furthermore, the 
+attainment of the morality of aspiration requires that there be rules and orderliness, 
+created by the morality of duty, and that eventually allow us to attempt to attain that 
+situation  as  depicted  by  the  concept  ‘rule  of  law’.  Accordingly,  Simmonds  argues 
+that  the  morality  of  duty  and  the  morality  of  aspiration  differ  in  their  goal,  where 
+the latter concerns the attainment of the ‘good life’ in a context where ‘people can 
+meaningfully  formulate  and  pursue  personal  projects  and  ideals’.  The  rule  of  law 
+therefore is an instrument allowing us to ‘value the projective capacities of men and 
+
+8  Dworkin, Ronald, A Matter of Principle, Cambridge Mass., Harvard University Press, pp. 11–14.
+9  Matsou (2009), p. 42.
+10  Simmonds (1986), p. 115.
+11  Fuller (1964).
+12  Fuller (1964), p. 39.
+13  Simmonds (1986), p. 118.
+14  Simmonds (1986), p. 118.
+15  Simmonds (1986), p. 121.
+
+1 3295
+
+women’, an ideal that is achievable only where there are clear and notified rules.16 
+Simmonds, in referring to the eight principles, states:
+
+These values are internal to the law in the sense that they form a part of the 
+concept of law itself. We understand what the law is only by reference to its 
+purpose; and its purpose is an ideal state of affairs (the rule of law) represented 
+by the eight principles. […][The law] carries a commitment to the idea of man 
+as a rational purposive agent, capable of regulating his conduct by rules rather 
+than as a pliable instrument to be manipulated; and it carries a commitment to 
+the values of the rule of law as expressed in the eight principles.’17
+
+Consequently, there are many interpretations of the rule of law that find an expres-
+sion in theories, which usually reflect the interwoven nature of both the functional 
+and moral aspect of the rule of law.18 Wennerström, shedding light on the practical 
+manifestation of the rule of law, states that it is usually used in national and interna-
+tional relations as a reference to a, ‘general order and […] predictability of events. 
+It  can  refer  to  the  state  of  affairs  in  a  particular  country  or  to  the  way  in  which  a 
+country conducts its international relations’. In addition to the formal and substan-
+tive divide, Wennerström refers to a third conception of the rule of law, namely the 
+‘functional’  conception,  measuring  the  quality  and  also  quantity  of  specific  func-
+tions  of  a  legal  system,  for  example,  the  predictability  of  judicial  decisions  or  the 
+waiting period for access to the judiciary.19 It is with the emphasis on functionality 
+the rule of law that is measured in regard to its manifestation within a state.20 The 
+World Justice Project states:
+
+Effective  rule  of  law  reduces  corruption,  combats  poverty  and  disease,  and 
+protects people from injustices large and small. It is the foundation for com-
+munities  of  justice,  opportunity,  and  peace—underpinning  development, 
+accountable government, and respect for fundamental rights’.21
+
+Brownsword  describes  the  rule  of  law  as  a  combination  of  the  condemnation  of 
+arbitrary governance on the one hand and the irresponsible citizenship on the other. 
+
+16  Simmonds (1986), p. 120.
+17  Simmonds (1986), p. 122.
+18  See Matsou (2009), pp. 49–53 and Ziegert (2009), p. 29.
+19  Wennerström  (2009),  pp.  58–60.  Wennerström  refers  to  the  formal  (procedural)  and  substantive 
+(material) divide and states that the formal conceptions states that an ideal legal system has some estab-
+lished elements in order for it to qualify as adhering to the rule of law, for example, independent judi-
+ciary,  publically  available  laws  that  are  applied  generally,  the  prohibition  of  retroactive  legislation  and 
+the judicial review of government. Measuring the material or substantive aspects is more difficult as it 
+requires a deliberation of concepts such as ‘fair’ and ‘just’. In addition, Wennerström highlights that the 
+formal  versus  substantive  separation  is  usually  bridged  by  a  definition  of  the  rule  of  law  that  is  suffi-
+ciently broad so as to incorporate both aspects. In addition, both Anglo-American formulation of the rule 
+of  law  (focussing  on  the  rights  of  the  individual)  and  the  Continental  European  Rechtsstaat  (focussing 
+on the formal aspects) refer to the same values that fall under the notion of ‘legality’ and incorporate the 
+same fundamental principles, albeit under a different name, Ibid, pp. 61–62.
+20  World Justice Project, Rule of Law Index, 2019, (2019a), p. 7.
+21  World Justice Project, World Justice Project Rule of Law Index 2019 Insights, (2019b), p. 7.
+
+1 3Preserving the rule of law in the era of artificial intelligence…296 
+
+S. Greenstein 
+
+According  to  this  view,  the  rule  of  law  represents  a  contract  between,  on  the  one 
+hand, lawmakers, law-enforcers, law-interpreters and law appliers and on the other 
+hand  citizens  (including  lawmakers,  law-enforcers,  law-interpreters  and  law  appli-
+ers). In its essence, the contract entails that the actions of the governors always be in 
+accordance with the law and that the citizens abide by decisions made in accordance 
+with the legal rules, the result being that no one is above the law.22 The Council of 
+Europe has also weighed in on defining the rule of law:
+
+The rule of law is a principle of governance by which all persons, institutions 
+and  entities,  public  and  private,  including  the  state  itself,  are  accountable  to 
+laws  that  are  publicly  promulgated,  equally  enforced,  independently  adjudi-
+cated and consistent with international human rights norms and standards. It 
+entails  adherence  to  the  principles  of  supremacy  of  law,  equality  before  the 
+law, accountability to the law, fairness in applying the law, separation of pow-
+ers, participation in decision making, legal certainty, avoidance of arbitrariness 
+and procedural and legal transparency.23
+
+The rule of law, therefore, is a political ideal, although its content and composition 
+does remain a point of discussion and to a certain degree controversial.24 In defin-
+ing the rule of law in relation to its purpose, Krygier, in simple terms, stresses the 
+fact that the rule is a solution to a problem, the problem being how to make the law 
+rule.25 The reason for striving to make the law rule are concerns regarding the way 
+power is exercised, more specifically the abuse of power by exercising this power in 
+an arbitrary manner.26 Associated with the notion of how power is exercised is the 
+idea that the source of authority to rule originates from a moral right to rule, where 
+this moral dimension dictates that rules be publicly declared in a perspective manner 
+and are general, equal and certain.27
+
+Associated with the notion of publicity is that of transparency. It has been argued 
+that the rule of law is based upon two-pillar transparency principle, where the rule-
+making process should be open to people through political representation and that 
+enforcement should allow procedural safeguards in the form of the ability to contest 
+decisions.28 The transparency of the rule-making process is important in respect of 
+
+22  Brownsword (2016), p. 106.
+23  Report of the Secretary General of the United Nations, The Rule of Law and Transitional Justice in 
+Conflict and Post Conflict Countries, United Nations Security Council (2004), p. 4. See also Council of 
+Europe Commissioner for Human Rights, Issue Paper, The Rule of Law on the Internet and in the Wider 
+Digital World, at p. 8. The Council of Europe also refers to the rule of law test established by the Euro-
+pean Court of Human Rights, which has the following formulation: ‘To pass these tests, all restrictions 
+on fundamental rights must be based on clear, precise, accessible and foreseeable legal rules, and must 
+serve  clearly  legitimate  aims;  they  must  be  “necessary”  and  “proportionate”  to  the  relevant  legitimate 
+aim  (within  a  certain  “margin  of  appreciation”);  and  there  must  be  an  “effective  [preferably  judicial] 
+remedy” against alleged violations of these requirements’.
+24  Matsou (2009), p. 41.
+25  Krygier (2019), p. 758.
+26  Krygier (2019), p. 760.
+27  Bayamlioglu and Leenes (2018), p. 29.
+28  Bayamlioglu and Leenes (2018), p. 30.
+
+1 3297
+
+this inherent function of the rule of law, namely a mechanism ensuring the ability to 
+contest decisions.29 It is therefore in the eye of the beholder as to whether is defined 
+more in terms of the formal structures necessary for making law or more as a con-
+cept requiring substantive morality. It can also be expressed in theoretical or practi-
+cal terms, the latter coming to the fore in statements that it is a practical instrument 
+that caters for society’s need for predictability and that orders an otherwise chaotic 
+society, thereby answering the question of what tomorrow brings.30
+
+As  illuminated  in  this  section,  the  rule  of  law  is  an  allusive  concept  that  com-
+prises  multiple  interpretations,  ranging  from  its  function  as  a  mechanism  for  cur-
+tailing arbitrary state power to a mechanism for describing the attributes necessary 
+for  attaining  a  just  society  that  takes  cognisance  of  various  ideals  and  values,  for 
+example, human rights. Considering that not all these perspectives can be examined 
+simultaneously, the following sections examine the rule of law from the perspective 
+of its role as mechanism for determining rules, which if followed, create the condi-
+tions for allowing individuals to reach their potential in terms of the goals that they 
+set for themselves and to achieve the ideals that they pursue. This is particularly rel-
+evant considering that the technology described below, discussed under the umbrella 
+term called AI, can be described as especially inhibiting to the extent that individu-
+als are made more susceptible to being manipulated and essentially categorized by 
+the  technology,  albeit  in  a  rather  blunt  manner.  Connected  to  this  is  the  notion  of 
+power, which too elevates the function of the rule of law as a mechanism for mini-
+mizing the abuse of power.
+
+3   The advent of artificial intelligence
+
+What constitutes AI is subjective and best described as moving target. What AI is 
+for one person may not necessarily be AI for another, what was considered AI say 
+fifteen  years  ago  is  nowadays  considered  commonplace  and  even  the  question  of 
+‘what  is  intelligence?’  is  contested  and  debated.  Popular  culture  has  also  played  a 
+role in the way AI is generally perceived.
+
+Dartmouth  College  is  the  institution  accredited  with  the  birth  of  AI,  where  in 
+1951  John  McCarthy,  brought  together  a  number  of  researchers  at  a  workshop  in 
+order to study automata theory, neural nets and the study of intelligence.31 This new 
+academic  discipline  called  ‘artificial  intelligence’,  in  addressing  problems,  sought 
+solutions inspired from a number of fields, such as neuroscience, mathematics and 
+information theory control theory (cybernetics), all which coincided with the devel-
+opment  of  the  digital  computer.32  This  new  field  transcended  conventional  sub-
+jects,  such  as  mathematics,  focused  on  topics  such  as  duplicating  human  faculties 
+
+29  Bayamlioglu and Leenes (2018), p. 29.
+30  Sannerholm (2020), p. 12 (translated by the author).
+31  Russell and Norvig (2010), p. 17.
+32  Brownlee (2011), p. 3.
+
+1 3Preserving the rule of law in the era of artificial intelligence…298 
+
+S. Greenstein 
+
+(creativity,  self-improvement  and  language  use)  and  attempted  to  build  machines 
+that could function autonomously in complex, changing environments.33
+
+The above highlights that AI is not just about technology—rather, it incorporates 
+multiple disciplines in attempting to create machines that think like humans. There-
+fore, it is natural that these machines, in social contexts where they ‘think’ as well 
+as or even better than human beings, are increasingly being used to assist and even 
+replace  humans  in  decision-making  processes,  or  parts  thereof.  And  this  is  in  fact 
+happening. Commercial actors and public authorities are increasingly starting to use 
+machines to mediate their interaction with clients and citizens via models embedded 
+in  digital  decision-making  systems.  This  increases  effectivity,  cuts  costs  and  opti-
+mizes  processes  as  humans  are  gradually  replaced  by  machines.  However  limited 
+access  to  this  technology  also  provides  these  actors  with  incredible  power  as  the 
+technology  provides  insight  into  human  behaviour  that  only  machines  can  gauge, 
+this access restricted to those that own the technology. Finally, what the below sec-
+tion that examine the notion of AI will illuminate is the fact that in order to make 
+decisions about people, they are essentially reduced to data points that are correlated 
+with  and  mathematically  weighted  against  each  other.  This  in  turn  results  in  the 
+models making the decisions, treating people based on the manner in which they are 
+represented in the data as determined by the model incorporating the algorithm. This 
+technology may prone to bias and mistakes and the digital representations of people 
+may  not  reflect  reality.  However,  probably  the  main  harm  with  the  technology  is 
+the fact that a model cannot be trained to foresee each and every personality it must 
+decide about, resulting in the person having to be fitted to an existing set of factors. 
+Not only is this problematic from a fundamental rights perspective, but it potentially 
+prevents  a  person  from  being  allowed  to  achieve  his  or  her  potential  or  desires  in 
+relation to identity creating, in turn inhibiting him or her from achieving the desired 
+ideals, the manipulative effect models can have exacerbating this problem.
+
+3.1   Achieving artificial intelligence
+
+AI  is  an  academic  discipline  within  the  realm  of  computer  science.  It  has  been 
+described  as  ‘the  field  devoted  to  building  artefacts  capable  of  displaying,  in  con-
+trolled,  well-understood  environment,  and  over  sustained  periods  of  time,  behav-
+iours that we consider to be intelligent, or more generally, behaviours that we take 
+to be at the heart of what it is to have a mind […] any insight into human thought 
+might help us to build machines that work similarly’.34 AI is an academic discipline 
+that covers many subjects: philosophy, mathematics, economics, neuroscience, psy-
+chology,  computer  engineering,  control  theory  and  cybernetics  and  linguistics.35 
+More  specifically,  it  encompasses  topics  such  as  knowledge  representation,  heu-
+ristic  search,  planning,  expert  systems,  machine  vision,  machine  learning,  natural 
+
+33  Russell and Norvig (2010), p. 17.
+34  Arkoudas and Bringsjord (2014), p. 34.
+35  Russell and Norvig (2010), pp. 5–26.
+
+1 3299
+
+language processing, software agents, intelligent tutoring systems and robotics.36 A 
+more formal definition describes AI as:
+
+[a]  cross-disciplinary  approach  to  understanding,  modelling  and  replicat-
+ing  intelligence  and  cognitive  processes  by  invoking  various  computational, 
+mathematical, logical, mechanical, and even biological principles and devices 
+[…] [i]t forms a critical branch of cognitive science since it is often devoted 
+to  developing  models  that  explain  various  dimensions  of  human  and  animal 
+cognition.37
+
+A  test  that  became  the  yardstick  for  determining  the  presence  of  AI  is  the  Turing 
+test,  which  simply  put  states  that  a  human  being,  addressing  written  questions  to 
+a  hidden  entity,  cannot  determine  whether  the  written  responses  originate  from  a 
+human or from a computer.38 AI technologies are characterised by two main attrib-
+utes, namely, ‘autonomy’, being ‘the ability to perform tasks in in complex environ-
+ments  without  guidance  by  a  user  and  ‘adaptivity’,  being  ‘[t]he  ability  to  improve 
+performance  by  learning  from  experience’.39  Presently  there  is  no  legal  definition 
+of AI, however a recent draft for a new regulation on AI was presented by the Euro-
+pean  Commission,  where  it  is  defined  as,  ‘software  that  is  developed  with  one  or 
+more  of  the  techniques  and  approaches  listed  in  Annex  I  and  can,  for  a  given  set 
+of human-defined objectives, generate outputs such as content, predictions, recom-
+mendations,  or  decisions  influencing  the  environments  they  interact  with’  (Article 
+3)  and  where  Annexure  1  refers  to,  ‘(a)  Machine  learning  approaches,  including 
+supervised, unsupervised and reinforcement learning, using a wide variety of meth-
+ods including deep learning; (b) Logic- and knowledge-based approaches, including 
+knowledge  representation,  inductive  (logic)  programming,  knowledge  bases,  infer-
+ence and deductive engines, (symbolic) reasoning and expert systems; (c) Statistical 
+approaches, Bayesian estimation, search and optimization methods.’40
+
+While  AI  has  experienced  periods  of  greater  and  lesser  interest  over  time,  the 
+recent  increase  in  its  popularity  can  be  attributed  to  a  greater  availability  of  data, 
+increased processing power and more advanced mathematical algorithms which can 
+be used to gain greater insight into data as well as allow AI to operate autonomously. 
+This has invigorated the research area of machine learning. Machine Learning is a 
+sub-category of AI and which broadly speaking concerns the use of algorithms to 
+
+36  Frankish and Ramsey (2014), pp. 24–27.
+37  Frankish and Ramsey (2014), p. 1.
+38  Russell and Norvig (2010), p. 2.
+39  Elements of AI, Chapter 1, available at https:// www. eleme ntsof ai. com/.
+40  European Commission, Proposal for a Regulation of the European Parliament and of the Council Lay-
+ing Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Cer-
+tain European Union Acts, Brussels, 21.4.2021 COM (2021) 206 final, available at Proposal for a Regu-
+lation laying down harmonised rules on artificial intelligence | Shaping Europe’s digital future (europa.
+eu) (last accessed 2021-04-29).
+
+1 3Preserving the rule of law in the era of artificial intelligence…300 
+
+S. Greenstein 
+
+learn  from  training  data  in  both  a  ‘supervised’  and  ‘unsupervised’  (self-organized 
+manner).41 It is also described as:
+
+an  application  of  artificial  intelligence  (AI)  that  provides  systems  the  ability 
+to  automatically  learn  and  improve  from  experience  without  being  explicitly 
+programmed. Machine learning focuses on the development of computer pro-
+grams that can access data and use it to learn for themselves. The process of 
+learning begins with observations or data, such as examples, direct experience, 
+or instruction, in order to look for patterns in data and make better decisions in 
+the future based on the examples that we provide. The primary aim is to allow 
+the  computers  learn  automatically  without  human  intervention  or  assistance 
+and adjust actions accordingly.42
+
+Machine learning is described as, ‘a subfield of artificial intelligence concerned with 
+the  computerized  automatic  learning  from  data  of  patterns.  The  aim  of  machine 
+learning is to use training data to detect patterns, and then to use these learned pat-
+terns automatically to answer questions and autonomously make and execute deci-
+sions’.43  At  the  heart  of  machine  learning  is  the  mathematical  algorithm,  which 
+can  be  described  as,  ‘[a]  process  or  set  of  rules  to  be  followed  in  calculations  or 
+other  problem-solving  operations,  especially  by  a  computer’.44  Whereas  a  regular 
+computer system’s logic is created by a human programmer, the logic of a system 
+using machine learning is created by an algorithm. Machine learning is essentially 
+the application of mathematical algorithms on data to produce a model that can be 
+incorporated into decision-making systems, the model autonomous to the extent that 
+it can update itself based on new data. A model can be conceptualized in two ways. 
+First, on an abstract level, models explain various dimensions of human and animal 
+cognition  and  where  the  focus  can  be  on  the  engineering  of  smart  machines  and 
+applications.45 Second, models are the core technical component of a system used to 
+make decisions, having been equipped with the insights into data gained by an algo-
+rithm.46 Models can also have a predictive aim in that having gained insights from 
+data they can make predictions concerning human behaviour: ‘[a] predictive model 
+captures the relationships between predictor data and behaviour […][o]nce a model 
+has been created, it can be used to make new predictions about people (or other enti-
+ties) whose behaviour is unknown’.47 The algorithm and accompanying knowledge 
+
+41  Frankish and Ramsey (2014), p. 26. The term algorithm is also important in light of the fact that it is 
+often used to describe the technology incorporating AI, for example, ‘algorithmic justice’.
+42  Expert.ai, What is Machine Learning? A Definition, available at What is Machine Learning? A defini-
+tion—Expert System | Expert.ai (last accessed on 2021-06-12).
+43  Amir (2014), p. 200.
+44  English Oxford Living Dictionaries (2019).
+45  Frankish and Ramsay (2014), p. 1.
+46  From the computer science perspective, any system has three main components: an input, an internal 
+model and an output. When concerning modelling problems, both the inputs and outputs are known and 
+the problem is then to build a model that essentially is able to link both inputs and corresponding outputs 
+and deliver the correct output in relation to input, see Eiben and Smith (2010), p. 9.
+47  Finlay (2014), p. 215.
+
+1 3301
+
+learnt is then incorporated in a computer model and rolled out as part of a decision-
+making system.48 In attempting to optimize the giving of credit, by minimizing the 
+risks, an algorithm will analyse the historical data in order to produce a predictive 
+model that will be incorporated in any decision-making system, which is then set to 
+work, predicting the likelihood or probability of new credit applicants successfully 
+being able to repay their loans in the future. This learning capability of algorithms is 
+central as they start to operate more autonomously and in increasingly complex and 
+dynamic areas of application.49
+
+The modelling process can be described by means of an example: a credit insti-
+tution  wants  to  increase  profitability  by  identifying  risks  in  the  form  of  potential 
+clients who will default on the credit repayments; the credit institution holds huge 
+amounts of historical data about clients’ repayment behaviour and their associated 
+circumstantial  characteristics;  an  algorithm  is  used  to  make  correlations  between 
+these data points in order to discover rules (who defaulted and why); a model is cre-
+ated incorporating these rules; a prospective client applied to the credit institution 
+for a loan and the model incorporated into a system operated by the credit institu-
+tion makes a determination of the probability that the prospective client will default 
+in  his  or  her  credit  repayments  and  finally  a  determination  is  made  by  the  model, 
+which  determination  may  be  followed  by  the  credit  institution.  Quite  simply,  this 
+data includes information on both people who have successfully repaid their loans 
+and those that have defaulted. The creation of a system for making decisions can be 
+described as follows:
+
+Two concepts of relevance within machine learning are ‘supervised’ and ‘unsu-
+pervised’  learning.  Supervised  learning  is  the  process  whereby  a  programme  is 
+provided with labelled input data as well as the expected results and the algorithm, 
+learning the underlying patterns, is then able to identify these learned patterns when 
+confronted  with  new  data.  With  unsupervised  training,  the  algorithm  is  provided 
+with the input data only, and it is then able to freely analyse the data in order to find 
+interesting groupings of data of its own accord and without the data being labelled. 
+Supervised algorithms are essentially taught using historical data training sets, and 
+once they have achieved a certain level of capability, are then applied to novel situa-
+tions, where predictive decisions can be made.50
+
+48  Models allow us to generalize about our surroundings in order the gain valuable insights that can be 
+used to predict events, for a general analysis of the extent to which models are used within society, see 
+Winter and Johansson (2009).
+49  Frankish and William (2014), p. 26.
+50  On  a  more  technical  level,  machine  learning  models  comprise  three  parts:  first,  the  model  (system 
+architecture, nodes, links and weights to be applied to the data), second, the parameters (the properties 
+of the training data to be learnt from) and third, the learner (comprising a learning algorithm and activa-
+tion algorithm). This process is sometimes referred to using the umbrella term ‘algorithm’, see Buyers 
+(2018), p. 10.
+
+1 3Preserving the rule of law in the era of artificial intelligence…302 
+
+S. Greenstein 
+
+3.2   A technology inspired by nature
+
+Biological inspiration has always been at the core of AI. If the end goal has been to 
+achieve a mechanical intelligence on a par with human intelligence, then nature has 
+also been an inspiration for attaining that goal. In other words, the art of learning has 
+also occupied a central role in AI research. In attempting to develop more effective 
+technology, nature has been a source of inspiration, with two sources of inspiration 
+dominating, namely, the human brain (neurocomputing) and evolution (evolutionary 
+computing).51
+
+Turning to neural computing, a term that has gained attention within the AI dis-
+course  is  that  of  ‘artificial  neural  networks’.  Natural  Computing  is  an  interdisci-
+plinary field of study in computer science that is concerned with computation and 
+biology, a sub-category of which is Biologically Inspired Computing (the study of 
+biologically  motivated  computing  for  problem  solving  originating  in  the  natural 
+world). It is here that artificial neural networks come to the fore as an architecture 
+that is modelled on the neurons of the human brain, has adaptive learning processes, 
+are  used  in  pattern  recognition  and  where  the  feedback  from  the  environment  is 
+divided into either supervised or unsupervised learning strategies.52 It is in this con-
+text  that  the  terms  ‘deep  learning’  or  ‘deep  neural  networks’  arise,  networks  that 
+essentially learn by being fed data and information about this data (supervised learn-
+ing).53  The  architecture  of  deep  neural  networks  consist  of  many  layers  of  nodes, 
+to which data are sent. Typically, there is the ‘input layer’ (accepts data to the net-
+work), ‘output layer’ (delivers the output) and between these two layers there may 
+be many ‘hidden layers’ (where the mathematical calculations are performed on the 
+input data).54 Neural networks learn just as children learn: wishing to teach a neural 
+network to identify a picture of a cat, it is fed thousands of pictures of cats, with the 
+pictures of cats ‘labelled’ as representing a cat (this requires a human to teach the 
+algorithm what a cat looks like); then testing the ability of the neural network to rec-
+ognize pictures of cats, it is fed pictures of all types of animals with the task of iden-
+tifying the pictures with cats in them; where the neural network is informed that it 
+got it wrong, it automatically adjusts the complex mathematical weighting structure 
+at  its  inner  layers  in  order  to  ‘learn’  and  increase  its  accuracy  in  the  future;  when 
+the accuracy is deemed good enough, it is put to work in the digital environment in 
+order to identify cats with a certain degree of probability.
+
+Natural  evolution  is  also  used  for  inspiration  to  determine  which  AI  solutions 
+achieve the best results, given a particular problem. The natural evolution approach 
+is  prevalent  when  building  predictive  models  and  determines  which  solutions  are 
+best suited in order to solve a particular problem. It is based on the Darwinian the-
+ory  of  evolution  and  survival  of  the  fittest.55  Therefore,  where  the  aim  is  to  learn 
+
+51  Eiben and Smith (2010), p. 7.
+52  Brownlee (2011), pp. 5–7.
+53  Modin and Andrén (2019), p. 63.
+54  Modin and Andrén (2019), pp. 71–72.
+55  Eiben and Smit (2010), p. 3.
+
+1 3303
+
+the best solution to a problem, the rationale is that competition among the potential 
+solutions will ultimately produce the winning (most optimal) solution.56 The ration-
+ale is simply that by using the process of trial-end-error, the solutions that best solve 
+the required problem will be retained and in turn used to construct new solutions.57 
+In other words, only a limited number of solutions can exist in an environment and 
+that  those  that  compete  most  effectively  for  resources  are  the  best  suited  for  that 
+environment:
+
+Phenotypic traits […] are those behavioural and physical features of an indi-
+vidual  that  directly  affects  its  response  to  the  environment  (including  other 
+individuals), thus determining its fitness. Each individual represents a unique 
+combination  of  phenotypic  traits  that  is  evaluated  by  the  environment.  If  it 
+evaluates favourably, then it is propagated via the individual’s offspring, other-
+wise it is discarded by dying without offspring […] small, random variations 
+– mutations – in phenotypic traits occur during reproduction from generation 
+to generation […] new combinations of traits occur and get evaluated. The best 
+ones survive and reproduce and so evaluation progresses.58
+
+Bedau provides an example that explains how genetic algorithms works in practice. 
+A problem may be to find the shortest route between two cities and in this regard, 
+an itinerary may be suggested. A ‘fitness function’ will be used to calculate the ‘fit-
+ness’  of  a  proposed  solution.  In  this  example,  such  a  fitness  function  will  be  the 
+sum of all the segments of the itinerary, the fitness function in effect being the envi-
+ronment to which the solution must adapt. The more effective solutions in turn are 
+used to model new solutions by means of randomly creating ‘mutations’ compris-
+ing elements of the more successful solutions, the ensuing ‘generations’ of solutions 
+becoming more and more effective.59
+
+Without delving too deeply into the intricate workings of solutions (algorithms), 
+the  point  wishing  to  be  stressed  here  is  that  decision-making  algorithms,  be  they 
+deep  neural  networks  or  biologically  inspired,  are  built  using  mathematical  com-
+plexities  and  statistical  rules  that  far  exceed  the  cognitive  capabilities  of  most 
+humans.
+
+3.3   A question of design
+
+An initial point when discussing design aspects of AI is that a distinction must be 
+made  between  rule-based  systems  and  ML  systems.  The  former  can  be  described 
+as  static  systems,  with  stand-alone  characteristics,  where  the  rules  are  determined 
+by humans with ML systems, which are dynamic and heavily integrated with other 
+systems.60
+
+56  Bedau (2014), p. 303.
+57  Eiben and Smit (2010), p. 1.
+58  Eiben and Smit (2010), p. 4.
+59  Bedau (2014), p. 303.
+60  Bayamlioglu and Leenes (2018), p. 13.
+
+1 3Preserving the rule of law in the era of artificial intelligence…304 
+
+S. Greenstein 
+
+Concerning  philosophies  of  AI  design,  two  types  prevail.  The  first  philoso-
+phy  is  known  as  ‘the  traditional  approach’,  (‘good  old  fashioned  AI’  or  the  ‘neat 
+approach’).  This  philosophy  employs  a  symbolic  basis  for  studying  these  mecha-
+nisms, symbolic knowledge representation and logic processes that can explain why 
+the systems work. Neat AI approaches are prescriptive in nature, which means that 
+they provide an explanation as to why they work. The main drawback of this form of 
+AI is in relation to scalability, that is, as the size and complexity of problems requir-
+ing solving increase, they require increased resources (if this AI is to continue pro-
+viding a guarantee in relation to the most ‘optimal’, ‘precise’ or ‘true’ solution). For 
+example, algorithmic decision trees are easy to understand and to explain.61 In other 
+words, as an observation falls through the decision tree branches, the logic used to 
+determine which branch of the tree to send it on to or what it was that contributed to 
+a certain result, is identifiable and explainable.
+
+The second and newer philosophy is called ‘scruffy AI’ and has been described 
+as ‘less crisp technique[s] that are able to locate approximate, imprecise or partially/
+true  solutions  to  problems  with  a  reasonable  cost  of  resources’.  Instead  of  a  sym-
+bolic base, it uses inference strategies for adaption and learning and bases them on 
+biological  or  natural  processes.  Scruffy  AI  is  descriptive  (as  opposed  to  neat  AI) 
+which means that it reveals how a solution was arrived at (the process for achieving 
+a solution) but not why. The biggest difference between these two methods, there-
+fore, is that the former can explain why a solution was suggested while the latter can 
+explain  how  it  was  reached  (but  not  why).  Another  distinction  between  the  above 
+two philosophies is that scruffy AI involves,’[…] the incorporation of randomness in 
+their processes resulting in robust, probabilistic and stochastic decision-making con-
+trasted to the sometimes more fragile determinism of the crisp approaches’. Finally, 
+neat AI adopts a deductive approach to problem solving whereas scruffy AI incorpo-
+rates an inductive approach.62
+
+The above illustrates that a driving force propelling technology are market forces, 
+where  the  demand  for  intelligent  problem-solving  automation  has  surpassed  the 
+supply  of  problem-solving  products,  spurring  technologies  that  are  faster  but  less 
+explainable. Consequently, as time and resources become a scarce commodity, more 
+precise tailor-made algorithms are discarded in favour of robust solutions, that work 
+across a wide array of problems in a satisfactory manner.63 In other words, the tech-
+nology  can  be  made  more  explainable  but  this  comes  with  a  financial  cost,  a  cost 
+that  many  commercial  entities  may  be  reluctant  to  take.  In  addition,  the  problems 
+to  be  addressed  using  AI  solutions  are  becoming  more  complex,  self-driving  cars 
+being one example. As the presumed benefits of AI take centre stage, so too does the 
+faith in AI to solve these complex problems.
+
+61  Finlay (2014), p. 215.
+62  Brownlee (2011), p. 4.
+63  Eiben and Smit (2010), at p. 8.
+
+1 3305
+
+4   AI in the criminal justice system
+
+Artificial  intelligence  is  increasingly  being  incorporated  into  systems  that  are 
+intended to assist actors within the criminal justice system in their decision-making 
+responsibilities. This section examines one such initiative.64 One such example is the 
+use of systems incorporating models to assist judges in making determinations about 
+people in various circumstances, for example whether a person should be released 
+pending trial but also the severity of a sentence.
+
+The criminal justice system in the United States is an example where AI is being 
+used  in  order  to  mediate  between  state  and  accused.  It  is  becoming  commonplace 
+that  ‘pretrial  risk  assessment  algorithms’  are  being  consulted  when  setting  bail, 
+determining the duration of prison sentences and contributing to decisions concern-
+ing guilt and innocence.65 The basis for decisions made by these algorithms are fac-
+tors such as age, sex, geography, socio-economic status, family background, neigh-
+bourhood crime and family status.66 The intelligent aspect of any such system, and 
+which is concealed in technical complexity, is the manner in which the selected fac-
+tors are mathematically weighted in relation to each other in order to form a behav-
+ioural profile of the accused.
+
+In  the  matter  of  State  v.  Loomis,  where  a  Wisconsin  trial  court  sentenced  a 
+defendant to six years in prison for a criminal act, the corresponding sentence was 
+in part determined by ‘algorithmic risk assessment’.67 In the United States criminal 
+context,  it  is  common  procedural  practice  that  judges  are  provided  with  a  presen-
+tencing  investigation  report  (PSI)  that  provides  background  information  about  the 
+defendant and includes an assessment of the risk of recidivism based on this report. 
+In  the  above  matter,  the  PSI  incorporated  an  algorithmic  assessment  report.  The 
+software, called COMPAS (Correctional Offender Management Profiling for Alter-
+native Sanctions), was developed by Northpointe Inc., a private company, where the 
+output  comprises  a  number  of  bar  charts  depicting  the  risk  that  the  accused  will 
+commit crimes in the future.68 Accompanying the PSI was also a procedural safe-
+guard in the form of a written statement to the judges concerning the risks associated 
+
+64  There  are  a  number  of  such  systems  being  introduced  into  the  criminal  justice  systems  worldwide. 
+One such system is called the Harm Assessment Risk Tool (HART). HART is used by law enforcement 
+in the United Kingdom in order to support decisions relating to custody matters. It produces a forecast 
+of the probability that a person will commit a serious offence within the next two years. Three risk lev-
+els are produced: high risk, moderate risk and low risk. For an in-dept study on how the HART system 
+impacts  the  notion  of  the  fair  trial,  see  Palmiotto,  Francesca,  The  Black  Box  on  Trial:  The  Impact  of 
+Algorithmic Opacity on Fair Trial Rights in Criminal Proceedings.
+65  The referral to numerical factors to produce guidelines in order to arrive at a decision regarding sen-
+tencing is not new. In this regard, see Wahlgren (2014), p. 187.
+66  Electronic Privacy Information Centre, https:// epic. org/ algor ithmic- trans paren cy/ crim- justi ce/.
+67  State  v.  Loomis,  881,  N.W.2d  749,  7532  (Wis  2016).  See  also  Harvard  Law  Review,  Criminal  Law 
+(2017).
+68  There  are  currently  three  systems  being  used  for  predicting  criminal  behaviour  in  the  United  States 
+context:  Correctional  Offender  Management  Profiling  for  Alternative  Sanctions  (COMPAS),  Public 
+Safety  Assessment  (PSA)  and  Level  of  Service  Inventory  Revised  (LSI-R).  LSI-R,  developed  by  the 
+Canadian company Multi-Health Systems, takes factors such as criminal history and personality patterns 
+into account, Electronic Privacy Information Centre.
+
+1 3Preserving the rule of law in the era of artificial intelligence…306 
+
+S. Greenstein 
+
+with pretrial risk assessments. The Wisconsin Supreme Court subsequently upheld 
+the  lower  court’s  decision,  stating  that  the  use  of  the  algorithmic  risk  assessment 
+software did not violate the defendant’s right to due process even though it was not 
+made available either to the court or Loomis.69 COMPAS assesses variables under 
+five main areas: criminal involvement, relationships/lifestyles, personality/attitudes, 
+family,  and  social  exclusion.70  Subsequently,  and  upon  request,  Northpointe  Inc. 
+refused to make the software available citing that it was proprietary and a core busi-
+ness secret.71
+
+Another system that became the object of a court case is that of System Risk Indi-
+cation (SyRI), which is a digital system used by the authorities in the Netherlands to 
+identify benefit fraud in poorer socio-economic communities. The system received 
+attention  due  to  a  decision  from  a  District  Court  in  the  Hague,  Netherlands,  that 
+ruled that the system ne stopped due to human rights violations. The algorithm in 
+SyRI was used to spy on entire neighbourhoods classed as low-income, even though 
+there was no prior suspicion of fraud being committed.72 The system was enabled 
+by legislation called the SyRI Act of 2013 that enabled the collection of data from 
+various public databases, with data concerning income, house ownership, benefits, 
+address, family relations, debts, and data on the use of water and energy being corre-
+lated and weighed by the algorithm, the final output a score, where the highest level 
+received the label ‘worth investigation’.73 The harms of this system were multiple, 
+privacy,  discrimination  and  stigmatization  being  some  clear  examples.  However, 
+another harm was the rule of law to the extent that the system allowed for the indis-
+criminate wielding of power by the executive:
+
+The laws introducing SyRI do not meaningfully limit the power of the exec-
+utive  bodies  involved.  The  law  is  filled  with  vague  language  that  refers  to 
+the  ‘necessity’  of  the  system,  the  ‘safeguards’  that  are  in  place,  and  a  set  of 
+extremely  broad  purposes.  The  administration  has  a  very  broad  margin  to 
+decide  which  data  they  will  collect  and  have  the  freedom  to  use  secret  risk 
+models to analyse this data, co-opting the rationale behind operating practices 
+of intelligence agencies. To my knowledge, this is an unparalleled expansion 
+of  power  of  the  executive  branch,  which  exposes  every  adult  citizen  in  the 
+Netherlands  to  the  danger  of  arbitrary  and  opaque  interferences.  All  of  this 
+also  has  a  tremendous  damaging  effect  on  the  relationship  of  trust  that  you 
+should have between citizens and the state.74
+
+An aspect associated with the SyRI matter is that the system was based on a piece 
+of enabling legislation that made its existence and operation public. This allowed for 
+
+69  Harvard Law Review (2017).
+70  Electronic Privacy Information Centre.
+71  Liptak (2017).
+72  United  Nations  Human  Rights  Office  of  the  High  Commissioner,  Landmark  ruling  by  Dutch  court 
+stops  government  attempts  to  spy  on  the  poor—UN  expert,  available  at  OHCHR|Landmark  ruling  by 
+Dutch court stops government attempts to spy on the poor–UN expert (last accessed 2021-06-12).
+73  Van Eck (2020).
+74  Asser Institute (2020).
+
+1 3307
+
+the investigation into the system. It is argued that there are many systems out there 
+that are not based on legislation in this manner thus their existence is not common 
+knowledge.75 With the increased use of systems like COMPAS and SyRI, there is a 
+risk that we may be stumbling head-on into the ‘digital welfare dystopia’.76
+
+The technology used in algorithmic decision-making systems is complex and the 
+
+next section delves a little deeper into how these systems work.
+
+5   The erosion of the rule of law in the age of AI
+
+Technology  is  often  described  as  a  ‘double-edged  sword’  as  its  effects  on  society 
+can be both beneficial but also risky. For example, technology may curtail freedom 
+of expression but at the same time facilitate it. The inherent nature of AI is without 
+doubt a threat to the rule of law and these must therefore be addressed. It is therefore 
+necessary first to highlight some of the risks to the rule pf law.
+
+The  Loomis  case  raises  some  important  issues.  The  Supreme  Court,  while  dis-
+missing  the  matter  on  appeal,  provided  five  reasons  for  caution:  first,  COMPAS 
+was  proprietary  software  and  void  of  transparency;  second,  the  COMPAS  system 
+calculated the recidivism risk for groups, not individuals; third, COMPAS relies on 
+national data and not on data from Wisconsin; fourth, studies question the extent to 
+which sentencing algorithms disproportionately classify minority offenders as hav-
+ing  a  higher  risk  and  fifth,  COMPAS  was  developed  to  assist  the  Department  of 
+Corrections and not necessarily to be applied in the criminal court system.77 In order 
+to limit the scope of discussion, these points act as a point of departure.
+
+5.1   The notion of accessibility to the law
+
+A  core  element  of  the  rule  of  law  is  that  laws  should  be  accessible  in  order  that 
+people can abide by them and know what is expected of them, predictability being 
+paramount.78 It is for this reason that the notions of publication and intelligibility as 
+
+75  Van Eck (2020).
+76  ‘The digital welfare state is either already a reality or emerging in many countries across the globe. 
+In  these  states,  systems  of  social  protection  and  assistance  are  increasingly  driven  by  digital  data  and 
+technologies that are used to automate, predict, identify, surveil, detect, target and punish. In the present 
+report,  the  irresistible  attractions  for  Governments  to  move  in  this  direction  are  acknowledged,  but  the 
+grave risk of stumbling, zombie-like, into a digital welfare dystopia is highlighted. It is argued that big 
+technology companies (frequently referred to as “big tech”) operate in an almost human rights-free zone, 
+and that this is especially problematic when the private sector is taking a leading role in designing, con-
+structing and even operating significant parts of the digital welfare state. It is recommended in the report 
+that, instead of obsessing about fraud, cost savings, sanctions, and market-driven definitions of efficiency, 
+the starting point should be on how welfare budgets could be transformed through technology to ensure 
+a  higher  standard  of  living  for  the  vulnerable  and  disadvantaged’,  United  Nations  General  Assembly, 
+Report of the Special Rapporteur on extreme poverty and human rights, 2019, available at A/74/493—
+E—A/74/493 -Desktop (undocs.org) (last accessed on 2021-06-12), Summary.
+77  Harvard Law Review, Criminal Law (2017), p. 7.
+78  Stanford Encyclopaedia of Philosophy.
+
+1 3Preserving the rule of law in the era of artificial intelligence…308 
+
+S. Greenstein 
+
+promoted by scholars such as Fuller are depicted as central to the rule of law. Under-
+mining these prescribed attributes of the rule of law is the lack of accessibility that 
+AI presents. The technological complexity associated with AI does not make it suit-
+able to human comprehension, insight or transparency. For example, the mathemati-
+cal calculations taking place at the hidden layers of neural networks or the mutating 
+capabilities of genetic algorithms are beyond human cognitive comprehension and 
+for the most part human explanation. Using the above example of teaching a neural 
+network what a cat is, it is highly unlikely that the mathematical complexities of this 
+operation can be fully explained in natural language. For example, it can be stated 
+that a neural network was employed to solve a problem and that it can identify cats 
+with a certain degree of accuracy. However, the ‘why’ in relation to the output can-
+not be explained.79 It is here that the notion of natural language versus the language 
+of AI gains importance. AI has rules, however these rules are the rules of mathemat-
+ics and statistics. To exacerbate matters, these rules are hidden either in the propri-
+etary ‘black box’ or hidden also to the extent that they cannot be understood—they 
+cannot be read, they cannot be discussed, they cannot be analysed and they cannot 
+be  reasoned.  The  rule  of  law  up  until  now  has  been  dependent  on  its  form  being 
+in  the  format  of  natural  language—it  entails  a  governance  by  natural  language  as 
+compared  to  the  governance  of  the  algorithm.80  The  rule  of  law  is  dependent  on 
+natural language in order to be comprehended. This is not necessarily the case for 
+all  areas  of  law,  where  some  legal  processes  are  easier  to  automate.  For  example, 
+the levying of a congestion tax in the city of Stockholm, has been successfully fully 
+automated.81 Therefore, as governance increasingly finds its expression in computer 
+code, its comprehension by a country’s citizens is bound to decrease. This in turn 
+relates to the notion of what is ‘intelligible’, with neither regular people nor judges 
+applying systems like COMPAS having the cognitive ability to actually understand 
+them. Even their creators do not really understand them, these self-learning and self-
+evolving algorithms taking on a life of their own. This is especially so considering 
+that algorithms potentially mutate themselves and updated their processes multiple 
+times a second, the mathematical balancing of the attributes that the algorithm con-
+siders  constantly  being  altered.82  It  is  here  that  the  technical  concept  of  interpret-
+ability comes to the fore.83 It is also argued that with complexity comes the potential 
+for error. It has been suggested that a rule of thumb for working with the technology 
+of AI should be that the technology be deemed incorrect until proven correct.84 This 
+
+79  Kowalkiewicz (2019).
+80  Suksi (2017), p. 292 (Footnote 16).
+81  Wahlgren, Automatiserade Juridiska Beslut (2018), p. 414.
+82  In general, technology is testing the ability of traditional legal frameworks to keep pace. For example, 
+from the contract law perspective, it is becoming challenging for humans to determine the existence of a 
+contract where potentially thousands of contracts can be entered into between machines in just a fraction 
+of a second. For an analysis of the notion of time in relation to law, see Lundblad (2018), p. 401–414.
+83  For an extended discussion on interpretability, see Greenstein (2017), p. 421.
+84  Suksi (2017), p. 296 (Footnote 21).
+
+1 3309
+
+highlights  the  importance  of  the  right  to  complain,  where  important  decisions  are 
+taken automatically by autonomous machines.85
+
+It seems that there is a psychological line, that when crossed, places the rule of 
+law on a collision course with AI. This is the moment at which we allow machines 
+to  make  decisions  over  human  beings  without  humans  really  understanding  how 
+these  machines  work.  Public  services  may  be  automated  and  algorithms  may  be 
+used to streamline government. However, the moment one uses opaque technology 
+that is incomprehensible, our trust in the technology is nothing more than the ina-
+bility to understand it. AI is an existential threat to the rule of law and a question 
+that has been put is whether the future will bring with it a rule of law or a rule of 
+algorithm?86
+
+It is in this regard that the notions of legality and accessibility of the rule of law 
+as expressed in the Venice Commission are triggered. It requires that laws are acces-
+sible,  that  court  decisions  are  accessible  and  that  the  effects  of  laws  are  foreseea-
+ble.87  However,  the  use  of  AI  by  the  judiciary  can  be  seen  as  undermining  these 
+principles as illustrated above.
+
+5.2   A black box created by law
+
+The  blame  for  the  erosion  of  the  rule  of  law  cannot  be  put  squarely  at  the  foot  of 
+technology.  Sometimes  the  law  itself,  as  a  mechanism  for  balancing  conflicting 
+interests, reaches a balance between these interests in the form of balancing the vari-
+ous  rights  and  obligations  of  different  stakeholders  in  traditional  legal  documents. 
+However, technology is a disruptor of society in many ways and one manifestation 
+of this disrupting characteristic is its putting out of synch the balancing of interests 
+that may have occurred by means of traditional law.
+
+The  General  Data  Protection  Regulation  (GDPR)  is  an  example  of  this  balanc-
+ing  act  performed  by  traditional  law  in  the  context  of  data  protection.  This  legal 
+framework attempts to balance intellectual property rights against rights associated 
+with privacy in relation to AI. Recital 63, expanding on Article 22 which deals with 
+AI,  affords  the  data  subject  a  right  to  know  and  receive  communications  regard-
+ing the logic behind any data processing in relation to automated decision-making. 
+This potentially grants the data subject the right to an explanation of the technology. 
+However, this right is watered down in the very same recital where trade secrets and 
+intellectual  property  rights  take  precedence  over  transparency.88  This  can  be  seen 
+in the light of a right to information concerning the processing of personal data can 
+be  found  in  Article  15(1)(h)  GDPR  that  provides  the  data  subject  with  a  right  to 
+information about the logic involved in automated processing and the consequences 
+
+85  Magnusson Sjöberg (2016), p. 310.
+86  Suksi (2017), p. 316.
+87  European Commission for Democracy Through Law (Venice Commission) (2016), p. 15.
+88  Regulation  (EU)  2016/679  of  the  European  Parliament  and  of  the  Council  of  27  April  2016  on  the 
+protection of natural persons with regard to the processing of personal data and on the free movement of 
+such data, and repealing Directive 95/46/EC (General Data Protection Regulation), OJ L 119, 4.5.2016.
+
+1 3Preserving the rule of law in the era of artificial intelligence…310 
+
+S. Greenstein 
+
+thereof,  although  it  has  been  argued  that  a  ‘right  to  information’  is  the  same  as  a 
+‘right to explanation’.89 Here it can be argued that the balancing of privacy against 
+intellectual property is disrupted by the nature of the technology itself—AI cannot 
+be compared to any technology preceding it and it can be argued that transparency 
+into its inner working is absolutely necessary in order to provide adequate adequate 
+protection from its harms. Hence the argument that intellectual property rights are 
+potentially assisting in the creation of the black box of technology.
+
+The obstacle of proprietary software arose in the Loomis case where the appli-
+cant  asserted  that  he  had  the  right  to  information  that  the  trial  court  had  used  at 
+sentencing, but that the proprietary nature of COMPAS prevented this. The reply of 
+the Supreme Court was that,’[…] Northpointe’s 2015 Practitioner’s Guide to COM-
+PAS explains that the risk scores are based largely on static information (criminal 
+history), with limited use of some dynamic variables (i.e. criminal associates, sub-
+stance abuse).’ In addition, the court argued that the COMPAS score was based on 
+questions that the appellant himself had answered, which gave him access to infor-
+mation  upon  which  the  risk  assessment  was  made.  In  the  SyRI  case  too,  the  pro-
+prietary nature of the technology, creating a black box in terms of insight into the 
+technology, is argued to have weighed against the state in that the court was not able 
+to verify the state’s claims as to how the technology works.90
+
+Considering  the  wide  ambit  of  the  applicability  of  the  GDPR,  it  is  not  incon-
+ceivable  that  it  will  be  relevant  in  many  circumstances  where  AI  is  used  to  make 
+administrative decisions or even in the justice system. Here too the SyRI case illu-
+minated  the  GDPR  by  referencing  the  data  protection  principles  of  transparency, 
+purpose limitation, and data minimization, the latter two making up the proportion-
+ality principle.91
+
+It  is  acknowledged  that  there  are  good  reasons  as  to  why  intellectual  property 
+rights and trade secrets are protected in law. For example, intellectual property rights 
+have the goal of encouraging creativity and providing an economic incentive for cre-
+ativity. However, considering the potential for errors or inaccuracies in the decisions 
+made by AI in the public domain, it is not inconceivable that a clash between the 
+rule of law and the values it carries (openness, transparency, right to explanation and 
+check on the abuse of power) and other areas of law may be brought to the fore by 
+the increased reliance on AI.
+
+Finally, it should be noted that the imbalance created by AI in relation to differing 
+interests can be rectified by various mechanisms. In this regard, trusted third parties 
+may have a constructive role in ensuring that algorithms are developed and applied 
+in accordance with the values of the rule of law. For example, in the United King-
+dom, The Law Commission on the Use of Algorithms in the Justice System recently 
+published a report where one of the recommendations was the creation of a National 
+Register of Algorithmic Systems, where various aspects in relation to the algorithms 
+
+89  Wachter et al. (2016).
+90  Battaglini (2020).
+91  Battaglini (2020).
+
+1 3311
+
+being used in the criminal justice system could be checked and verified.92 This idea 
+is also reflected in the draft regulation on AI made public recently by the European 
+Commission. Here, in relation to high-risk AI, the draft regulation creates the mech-
+anism whereby these AI systems must be registered in an EU database (Article 51) 
+established  by  mean  of  collaboration  between  Member  States  (Article  60).93  It  is 
+argued that the use of trusted third parties potentially increases insight into the com-
+plexity of AI while at the same time preventing general public insight, thereby main-
+taining the interests protected by intellectual property rights.
+
+5.3   Detecting bias and discrimination in data
+
+The notion of bias is an inherent aspect of data science and therefore technologies 
+AI. In other words, the second you handle data it automatically brings with it bias. 
+The act of choosing one dataset over another will potentially reflect a certain bias. 
+Bias  can  be  both  intentional  and  unintentional  and  a  rule  of  thumb  should  always 
+be  that  a  data  set  incorporates  some  degree  of  bias.  Bias  is  present  in  almost  all 
+data sets and biased data will invariably lead to a biased output by the models that 
+are trained on this biased data.94 A definition of bias is that, ‘the available data is 
+not representative of the population or phenomenon of study […][that] [d]ata does 
+not include variables that properly capture the phenomenon we want to predict [and 
+that]  [d]ata  includes  content  produced  by  humans  which  may  contain  bias  against 
+groups of people’.95 The problem with bias and discrimination in a data context is 
+that  ‘masking’  can  occur:  this  occurs  where  two  characteristics  are  correlated,  the 
+one trivial and the other sensitive, and where the former is used to indicate the pres-
+ence of the latter.96 Typical example are using area code (zip code) to denote health 
+status, where socio-economic factors may play a role or using area code instead of 
+race. Bias should also be distinguished from discrimination, which is a legal concept 
+that can be described as, ‘the prejudiced treatment of an individual based on their 
+membership in a certain group or category’, where the attributes encompassing dis-
+crimination include race, ethnicity, religion, nationality, gender, sexuality, disability, 
+marital status, genetic features, language and age.97 Consequently, a model is said 
+to be discriminatory in situations where two individuals have the same characteris-
+tic relevant to a decision making process, yet they differ with respect to a sensitive 
+attribute,  which  results  in  a  different  decision  produced  by  the  model.98  Bias  and 
+
+92  The Law Society of England and Wales, p. 6.
+93  European Commission, Proposal for a Regulation of the European Parliament and of the Council Lay-
+ing Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Cer-
+tain European Union Acts, Brussels, 21.4.2021 COM(2021) 206 final, available at Proposal for a Regula-
+tion laying down harmonised rules on artificial intelligence | Shaping Europe’s digital future (europa.eu) 
+(last accessed 2021-04-29).
+94  Prabhakar (2019).
+95  For an in-depth description of the different types of bias that can occur, see Prabhakar (2019).
+96  Custers (2013), at pp. 9–10.
+97  Calders (2013), p. 44.
+98  Calders (2013), p. 44.
+
+1 3Preserving the rule of law in the era of artificial intelligence…312 
+
+S. Greenstein 
+
+discrimination  are  therefore  related  to  the  extent  that  bias  in  data  can  lead  to  dis-
+criminatory effects, but may not necessarily do so in all cases.
+
+Subsequent to the Loomis case, the use of AI in the justice system in the United 
+States has received increased media attention. This especially since ProPublica, hav-
+ing examined the outcomes of cases where algorithmic risk assessments have been 
+used, has claimed that the statistics are starting to identify a racial bias in decisions, 
+where White people were treated more favourably than African Americans.99 First, 
+examining 7000 decisions, the results showed that the algorithm is only 20 percent 
+successful  in  accurately  predicting  recidivism.  Second,  the  algorithm  incorrectly 
+flagged African Americans at twice the rate of White people.100 The Venice Com-
+mission treats equality before the law and non-discrimination as an essential element 
+of the rule of law.101 Here grounds for discrimination include race, colour, sex lan-
+guage, religion, political or other opinion, national or social origin, association with 
+national minority, property, birth or other status.102
+
+One example of how bias can creep into data is via context. For example, a data 
+set from one context used to train an algorithm may not work as expected in another 
+context. Data is contextual and using data from one context in another context can 
+lead to incorrect decisions. Data is described as ‘spatio-temporal’ with data having a 
+certain meaning in a defined situation but this meaning can vary in another situation, 
+as well as over time.103 Once again the Loomis case is an example of this. COM-
+PAS was developed to be used by the Department of Correction but is now being 
+deployed for use in sentencing. These are different contexts and while an algorithm 
+learnt from one context the conclusions it draws may not be as relevant in another 
+context.  Here  attention  must  be  drawn  to  the  issue  of  contextual  data  or  systems 
+being developed for one context being used in another. In this regard mention can 
+be made of other research on the degree with which predictive models used in the 
+criminal justice system can lead to unfair outcomes. In one paper, Machine Learning 
+algorithms were compared against conventional systems in relation to the prediction 
+of juvenile recidivism. The main conclusions were that the Machine Learning mod-
+els scored slightly higher with regards to accuracy whereas with regards to fairness, 
+the Machine Learning models tended to discriminate against males, foreigners and 
+specific national groups.104
+
+99  Angwin et al.
+100  Angwin  et  al.  The  statistics  showed  that  of  those  labelled  ‘high  risk  but  did  not  re-offend’,  23.5% 
+were White and 44.9% African American and of those labelled ‘low risk yet did re-offend, 47.7% were 
+White and 28% African American.
+101  European Commission for Democracy Through Law (Venice Commission) (2016), p. 18.
+102  European Commission for Democracy Through Law (Venice Commission) (2016), p. 18.
+103  Van der Sloot (2013), p. 285.
+104  Tolan  et  al.  This  paper  investigated  the  trade-off  between  performance  and  fairness  between  ML 
+models  and  the  Structured  Assessment  of  Violence  Risk  in  Youth  (SAVRY)  risk  assessment  tool.  The 
+main  feature  of  SAVRY  is  that  it  is  an  ‘open  and  interpretable  assessment’  that  guides  the  assessor 
+through  the  individual  features,  ensuring  a  high  level  of  individual  involvement.  It  is  also  noteworthy 
+that, ‘[t]his final evaluation is a professional judgement, not algorithmic’. This examination is relevant in 
+relation to the above reference to rule-based systems and Machine Learning systems in 3.3. It is precisely 
+the dynamic nature of Machine Learning that makes a determination regarding causation in law so much 
+more difficult, as highlighted in Bayamlioglu and Leenes (2018), p. 18.
+
+1 3313
+
+It is within the realm of the Venice Commission that discrimination is viewed in 
+opposition  to  the  rule  of  law,  where  not  only  is  non-discrimination  demanded  but 
+also  ‘equality  in  law’  and  ‘equality  before  the  law’.  This  is  a  relevant  distinction 
+within the context of decision-making systems incorporating elements of AI, where 
+it can be difficult to identify an inequality or specific instance of discrimination. Put 
+another way, the existence of the prerequisites demanded by a traditional law may be 
+difficult to identify within the complex mathematical processes of AI. Compounding 
+the situation is the notion that the mathematical rules of the decision-making models 
+have not necessarily been exposed to traditional law-making procedures, but rather 
+are ‘promulgated’ by private corporations.105
+
+5.4   The potential for the abuse of power
+
+The argument of Krygier, mentioned above, is that the rule of law essentially con-
+cerns power, where its main goal is to make law rule in order to curb the potential 
+for abuse of power by those who use this power in an arbitrary manner. He states 
+that  there  are  many  ways  to  exercise  power  and  that  the  arbitrary  ways  should  be 
+shunned.106 It is in this context that the Venice Commission benchmark of ‘preven-
+tion of abuse (misuse) of power’ is relevant. It is submitted that there is a correla-
+tion  between  on  the  one  hand  defining  the  rule  of  law  through  the  lens  of  power 
+and on the other hand the notion of reciprocity. For reciprocity to flourish, a certain 
+equilibrium in the power relationship between those that govern and the governed is 
+required. However, it is argued that the transfer of governance to technology, such 
+as  witnessed  in  the  Loomis  case,  brings  with  it  a  monopoly  in  terms  of  access  to 
+the  technology.  It  is  essentially  only  those  who  govern  that  have  the  resources  to 
+produce  or  purchase  the  technology  that  is  used  to  make  decisions  about  citizens. 
+This continually increasing imbalance is disempowering the governed in favour of 
+those who govern. For example, with the monopolization of the power over technol-
+ogy  in  the  hands  of  those  that  govern,  the  risk  that  executive  discretion  becomes 
+unfettered increases, this being contrary to the rule of law as expressed by the Ven-
+ice  Commission.107  In  addition,  an  aspect  of  the  abuse  of  power  as  identified  by 
+the Venice Commission is irrational decisions.108 However, to what extent can the 
+decisions taken by AI ever be challenged as ‘irrational’ when they firstly cannot be 
+comprehended but also when human rationality is not necessarily a prerequisite for 
+an algorithmic solution? A final complexity in the power equilibrium is the fact that 
+the producers of AI technology are private actors, the power equilibrium essentially 
+having to be achieved between three entities,  namely  those  that govern,  those  that 
+are governed and the private corporations developing the technology for mediation. 
+The Venice Commission does recognize that there may be situations where private 
+
+105  For a discussion on the role of private actors in the justice system, see Fitzgibbon and Lea (2020).
+106  Krygier (2019), p. 761.
+107  European Commission for Democracy Through Law (Venice Commission) (2016a), p. 17.
+108  European Commission for Democracy Through Law (Venice Commission) (2016a), p. 17.
+
+1 3Preserving the rule of law in the era of artificial intelligence…314 
+
+S. Greenstein 
+
+actors exercise powers that traditionally have been exercised by states.109 However, 
+the examples provided include the management of prison services, and it is argued 
+that  situations  where  private  actors  take  over  the  judicial  discretion  of  judges  was 
+never envisaged.
+
+5.5   Challenging traditional legal protections
+
+The  increased  use  of  AI  to  predict  human  behaviour,  more  specifically  criminal 
+behaviour, is also challenging some traditional legal notions. One legal notion being 
+challenged  is  that  of  an  accused  being  regarded  as  innocent  until  proven  guilty. 
+For example, the use of algorithmic risk  assessments  in criminal  trials in order  to 
+determine  recidivism  raises  the  question  of  whether  the  accused  is  deemed  guilty 
+of  a  potential  crime,  that  is  the  propensity  to  commit  a  crime  before  it  has  actu-
+ally occurred. This is recognized in the principles of ‘nullum crimen sine lege’ and 
+‘nulla poena sine lege’ which recognize that there is no crime or punishment with-
+out a law, these principles also incorporated in the Venice Commission.110 The pre-
+sumption of innocence and right to a fair trial are encompassed in the benchmarks 
+regarding the access to justice of the Venice Commission.
+
+Another challenge to the traditional view of the rule of law is the extent to which 
+the  judiciary,  relying  on  AI  developed  by  private  corporations,  can  be  deemed 
+independent.  The  Venice  Commission  demands  that  there  should  be  legal  guaran-
+tees in order to secure the independence of the judiciary. Independence, according 
+to  the  Venice  Commission  is  taken  to  mean  a  judiciary  ‘free  from  external  pres-
+sure’.111 While the corporations that produce algorithmic risk assessments may not 
+directly exert pressure on judges, a question that requires raising is to what extent 
+people  (judges,  jurors,  and  parole  officers)  will  dare  go  against  a  risk  assessment 
+made by technology. This in turn brings to the fore issues of a philosophical nature 
+where technology is granted a degree of autonomy. Ellul argues that technology has 
+acquired an autonomy from its association with the legitimacy of scientific progress 
+in general. In other words, technology has a legitimacy due to the perception that it 
+is scientific and objective.112
+
+5.6   The right to contest decisions
+
+One of the core characteristics of the rule of law, as discussed above, is the notion of 
+a right to contest decisions. Considering the black box nature of AI—due its com-
+plexity  as  well  as  due  to  legal  constructions  associated  with  intellectual  property 
+law—it becomes apparent that the right to contest decisions weakens considerably. It 
+is argued that, ‘… in techno-regulatory settings, the three phases of legal process as: 
+
+109  European Commission for Democracy Through Law (Venice Commission) (2016a), p. 14.
+110  European Commission for Democracy Through Law (Venice Commission) (2016a), p. 16.
+111  European Commission for Democracy Through Law (Venice Commission) (2016a), p. 20.
+112  Ellul (2003), pp. 386–395.
+
+1 3315
+
+direction (rule making), detection and correction collapse on top of each other and 
+become an opaque inner process imbedded in the systems’.113 One potential solution 
+is that of making contestability part of the design process.114 However, one problem 
+revolves around the fact that in order to contest a decision, for example an automated 
+decision, one first needs to know that a decision has been taken about oneself. This 
+my not be that challenging, for example, in the COMPAS situation where it is rather 
+clear that a person has been subject to a decision by a black box. However, there are 
+decisions taken about people every day that do not reach any formal forum, such as a 
+court of law, a consequence being that we are never enlightened about the fact that a 
+decision was actually taken.115
+
+Relevant in this regard is how one could be notified that one has been the object if 
+a decision taken by AI, for example in the form of a predictive model. One sugges-
+tion is the creation of a right of access to the knowledge that a decision was taken, 
+this  referred  to  as  a  ‘right  to  know’.  Branscomb  advances  such  a  right,  calling  it 
+‘the right to know’, stating that this right can be complex and also can take on vari-
+ous  forms.  In  other  words,  the  enforcer  of  the  right  can  be  a  different  protagonist 
+depending on the circumstances. For example, it could be a right for an individual 
+to know his or her origins or it may be the right of the public to know the basis for 
+decisions  of  a  public  nature.116  The  idea  is  that  some  form  of  notification  mecha-
+nism would alert a person to the fact that an entity has taken a decision about him or 
+her by means of AI.
+
+It is also important to consider the manner in which technology can assist with 
+the  right  to  contest  decisions,  thereby  fortifying  the  rule  of  law.  Here  reference  is 
+made to the ‘chatbot lawyer’ called DoNotPay. This application uses artificial intelli-
+gence and provides a free service that assists individuals, who have received a park-
+ing fine, to appeal that parking fine via a user-friendly interface. Having received a 
+parking fine, the individual accesses the chatbot lawyer and is prompted in an inter-
+active manner to provide certain details surrounding the circumstances under which 
+the fine was received. Thereafter the chatbot lawyer seeks a legal bases upon which 
+to file an appeal against the fine. For example, it could be that there were no signs 
+reflecting that it was illegal to park in a particular manner. Having provided the nec-
+essary information, the user merely presses a button and the appeal is automatically 
+sent off to the authorities.117
+
+113  Bayamlioglu and Leenes (2018), p. 30.
+114  Sarra (2020).
+115  Reference is made to Footnote 76 that mentions the notion of the ‘digital welfare dystopia’.
+116  Branscomb (1985) p. 86.
+117  Gibbs (2016).
+
+1 3Preserving the rule of law in the era of artificial intelligence…316 
+
+S. Greenstein 
+
+6   Analysis: constraining human flourishing
+
+Having examined the notion of the rule of law, it is submitted that one of its main 
+functions is to allow human beings to flourish. In other words, it allows individuals 
+to attain their desired goals and be creative in deciding what a good life is, this state 
+also referred to as having agency. One of the main harms of AI is that this technol-
+ogy curtails human agency thereby diminishing human flourishing, the promotion of 
+which is argued to be a goal of the rule of law.
+
+A question that can be asked is if one of the aims of law in general is to condition 
+a desired type of behaviour in society, what then is the difference between a system 
+of  governance  under  the  rule  of  law  and  say  another  system  of  social  control  that 
+uses technology to designate the ‘model citizen’, thereby encouraging citizens to live 
+up to this measure?118 The answer potentially is provided by Simmonds in his inter-
+pretations of Fullers eight principles, addressed above. Simmonds refers to the fact 
+that the law is not the only form of governance, other forms being coercion, social 
+conditioning or mediation and compromise. However, the law stands out in relation 
+to these other forms of social control to the extent that it bears a commitment to the 
+idea that people are rational purposive agents capable of regulating their conduct in 
+relation to rules as well as a commitment to the rule of law as expressed by Fuller 
+in his eight principles.119 In other words, the rule of law is an instrument that allows 
+people  to  adjust  their  behaviour  in  relation  to  the  law,  it  allows  them  to  be  free 
+agents in effect enhancing personal autonomy and it is to a certain extent empower-
+ing. It is argued that the notion of reciprocity, as encompassed by the rule of law, is 
+that notion that allows individuals to attain a certain level of agency. According to 
+Murphy,  the  rule  of  law  specifies  certain  requirements  that  lawmakers  must  abide 
+by in order to govern legally, in other words, restricting the extra-legal use of power, 
+continuing that the rule of law ensures that the political relationships structured by 
+the legal system express the moral values of reciprocity and respect for autonomy.120 
+She continues that citizens experience resentment when the law is not clear, if the 
+law is contradictory or if it is not properly enforced and in general when citizens fol-
+low the law without this being reciprocated by government.121 Fuller states:
+
+Certainly there can be no rational ground for asserting that a man can have a 
+moral obligation to obey a legal rule that does not exist, or is kept secret from 
+him, or that came into existence only after he had acted, or was unintelligible, 
+or  was  contradicted  by  another  rule  of  the  same  system,  or  commanded  the 
+impossible, or changed every minute.122
+
+118  Just  one  example  of  the  use  of  technology  in  order  to  determine  the  model  citizen  is  described  in 
+Stanley (2015) and Chin (2016).
+119  Simmonds (1986), p. 115.
+120  Murphy (2005), p. 239.
+121  Murphy (2005), Colleen, p. 242.
+122  Fuller (1964), p. 39.
+
+1 3317
+
+  It  is  therefore  argued  that  one  of  the  greatest  concerns  with  AI  is  in  relation  to 
+algorithmic governance, where the notion of reciprocity is diminished. Brownsword 
+refers to the regulatory environment that is technologically managed as opposed to 
+rule-based and makes the distinction between traditional normative rule-based reg-
+ulatory  instruments  and  non-normative  technological  management.123  The  above 
+notions are succinctly distinguished by referring to the former as speaking in terms 
+of’oughts’ and the latter in terms of ‘can’ and ‘cannot’.124 Consequently, the tradi-
+tional  rule-based  regulatory  environment  provides  the  citizen  with  a  choice  as  to 
+follow this rule or not whereas the latter provides no such option—it is a take it or 
+leave  it  situation,  where  the  programming  code  determines  behaviour  and  there  is 
+no leeway for considering the degree to which one wants to live up to a rule. It is 
+precisely this that places the notion of reciprocity in danger. Brownsword argues that 
+it  is  still  important  to  recognize  the  link  between  the  regulators’  normative  inten-
+tions and the technology that embeds these intentions in that it enables a testing of 
+the technology against the rule of law.125 In other words, if the rule being enforced 
+by  the  technology  lives  up  to  the  rule  of  law,  then  the  technology  too  lives  up  to 
+the rule of law. However, it is argued that it is exactly here that it is crucial to make 
+a distinction between the different types of technology, or more precisely, between 
+the  technology  where  normative  rules  have  been  transformed  into  code  by  human 
+programmers (regular programming) and the technology of AI. For it is within the 
+context of the latter that the rules that regulate may have been identified by the tech-
+nology itself, may fluctuate from one second to the next and may operate differently 
+if the input data changes with just one single data point. In addition, in the age of 
+technological management, the regulators are private companies who make the rules 
+that  are  locked  away  in  black  boxes.  Probably  affecting  the  notion  of  reciprocity, 
+the most is the fact that in the age of technological management, to what extent do 
+people even know that they have been the subject of a decision, the technologies of 
+regulation hidden where we may not expect them to be. Considering the notion of 
+a contract between the regulators and citizens, Brownsword himself alludes to the 
+fact that any defection on either side can lead to a downward spiral of diminished 
+trust.126
+
+This raises a number of questions in the age of AI: to what extent is it possible for 
+citizens to enter into this contract of reciprocity with machines, to what extent are 
+citizens increasingly being expected to adhere to the notion of reciprocity where the 
+opposing partner is not Government but rather private corporations that produce the 
+technology, to what extent can human agency and autonomy exist as values in socie-
+ties characterised by technocratic governance, to what extent can the governance of 
+the algorithm be considered fair when it is hidden in the ‘black box’ and finally, how 
+can we be expected to abide by rules that potentially change in a micro-second?
+
+123  Brownsword (2016), p. 102.
+124  Brownsword (2016), p. 102.
+125  Brownsword (2016), p. 102.
+126  Brownsword (2016), p. 107.
+
+1 3Preserving the rule of law in the era of artificial intelligence…318 
+
+S. Greenstein 
+
+It is argued that human agency is a concept that runs contrary to AI processes. A 
+central questions is that of equal treatment and fairness, where being incorporated 
+into a group does not necessarily mean that one shares all of that groups characteris-
+tics.127 It has been suggested that, ‘persons should always be treated as persons with 
+interests and a voice that needs to be heard’ and one can question the extent to which 
+AI diminishes people to data points, hidden in the black box of complexity, effec-
+tively taking away peoples’ voices.128
+
+The notion of human flourishing is addressed by Floridi et al.129 Here the notion 
+of promoting human flourishing in the light of AI developments is reflected upon. 
+Here human flourishing is described in terms of, ‘who we can become (autonomous 
+self-realisation);  what  we  can  do  (human  agency);  what  we  can  achieve  (individ-
+ual and social capabilities; and how we can interact with each other and the world 
+(societal cohesion).’130 The authors argue that AI’s predictive power should be used 
+for fostering self-determination and social cohesion instead of undermining human 
+flourishing,  reference  made  to  the  House  of  Lords  Artificial  Intelligence  Commit-
+tee’s Report wherein it is argued that people should be able to, ‘flourish mentally, 
+emotionally and economically alongside artificial intelligence’.131
+
+7   Conclusions
+
+The rule of law as a legal notion is elusive to the extent that the more one attempts 
+to define it, the more diffuse it appears to become. The spectrum describing the rule 
+of law is long—it is viewed as a political ideal, a mechanism for curtailing the abuse 
+of power as well as a mechanism for ensuring that society uphold certain values, for 
+example, human rights. A common denominator of the rule of law is that it is viewed 
+as a notion that is worth protecting despite its susceptibility to political abuse.
+
+Modern  technologies  are  increasingly  being  used  within  society,  AI  a  prime 
+example. As Machine Learning techniques are improved, so to are AI systems being 
+used  to  assist  human  decision-makers  in  almost  all  fields.  It  should  be  anticipated 
+that  as  these  technologies  become  better  at  assisting  with  decisions,  more  control 
+and  responsibility  will  be  transferred  to  them.  It  is  therefore  important  that  heed 
+should be taken to the fact that these technologies are challenging the ideals asso-
+ciated with the rule of law as a concept of traditional law. In addressing the harms 
+associated with AI in relation to the rule of law, a common denominator that stands 
+out is the manner in which it potentially inhibits the flourishing of humans. While 
+
+127  Here reference is made to the notion of ‘non-distributed groups’ or classification, where not all the 
+members of a group share all the attributes of that group, yet are treated as if they do. See Vedder (1999), 
+p. 275 in Greenstein (2017).
+128  Krygier (2019), p. 763, interpreting Waldron, Jeremy, The Rule of Law and the Importance of Proce-
+dure, New York University School of Law, Public Law Research Paper No 10-73, 2010.
+129  Floridi et al. (2018).
+130  Floridi et al. (2018), p. 690.
+131  UK  House  of  Lords  Artificial  Intelligence  Committee’s  Report,  AI  in  the  UK:  ready,  willing  and 
+able? (2018) in Floridi et al. (2018).
+
+1 3319
+
+this may traditionally not be the first association in relation to the rule of law as a 
+concept, it is nevertheless important to address as human agency can be argued to be 
+a cornerstone of society.
+
+A challenge for the future will be how to reap the benefits of AI for society while 
+at  the  same  time  protecting  society  from  its  harms,  essentially  promoting  innova-
+tion while at the same time balancing it against the interests of society. A challenge 
+will be to determine which values to balance technology against. In this regard, it is 
+argued that the values enshrined in the rule of law operate as a good starting point in 
+determining the fabric of any society. Herein lies the value of protecting the rule of 
+law from technologies incorporating AI.
+
+Funding  Open access funding provided by Stockholm University.
+
+Open Access  This  article  is  licensed  under  a  Creative  Commons  Attribution  4.0  International  License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as 
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Com-
+mons licence, and indicate if changes were made. The images or other third party material in this article 
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is 
+not  permitted  by statutory regulation or exceeds the permitted use,  you will  need to obtain permission 
+directly from the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen 
+ses/ by/4. 0/.
+
+References
+
+Books
+
+Berling P, Ederlöf J, Taylor V (eds) (2009) Rule of Law Promotion: Global Perspectives, Local Applica-
+tions. Skrifter från juridiska institutionen vid Umeå universitet Nr 21. Iustus Förlag, Uppsala
+
+Branscomb A (1985) Property rights in information. In: Guile B (ed) National Academy of Engineering, 
+Information Technologies and Social Transformation, National Academy Press, Washington DC
+Brownlee  J  (2011)  Clever  Algorithms:  Nature-Inspired  Programming  Recipes.  http:// github. com/ cleve 
+
+ralgo rrith ms/ Cleve rAlgo rithms
+
+Buyers J (2018) Artificial intelligence: the practical legal issues. Law Brief Publishing, Somerset, 2018
+Custers B, Calders T, Schermer B, Zarsky T (eds) (2013) Discrimination and privacy in the information 
+
+society: data mining and profiling in large databases. Springer, Berlin Heidelberg
+
+Dworkin R (1985) A matter of principle. Harvard University Press, Cambridge Mass
+Eiben A, Smit J (2010) Introduction to evolutionary computing. Springer, Heidelberg
+Fitzgibbon W, Lea J (2020) Privatising justice. Pluto Press, London
+Frankish K, Ramsey W (eds) (2014) The cambridge handbook of artificial intelligence. Cambridge Uni-
+
+versity Press, Cambridge
+
+Greenstein  S  (2017),  Our  Humanity  Exposed:  Predictive  Modelling  in  a  Legal  Context.  Dissertation 
+Stockholm  University,  available  at  http:// su. diva- portal. org/ smash/ record. jsf? pid= diva2% 3A108 
+8890& dswid=- 7446.
+
+Finlay S (2014) Predictive analytics, data mining, and big data: Myths. Palgrave Macmillan, Misconcep-
+
+tions and Methods, p 2014
+
+Fuller L (1964) The Morality of Law, Revised Edition. Yale University Press, New Haven and London
+Lessig L (2006) Code Version 2.0. Basic Books, New York
+
+1 3Preserving the rule of law in the era of artificial intelligence…320 
+
+S. Greenstein 
+
+Lind A, Reichel J, Österdahl I (2017) Transparency in the future: swedish openness 250 years. Ragulka 
+
+Press, Visby
+
+Magnusson Sjöberg C (2016) Rättsinformatik: Juridiken i det digitala informationssamhället. Studentlit-
+
+teratur, Lund
+
+MacCormick N (2005) Rhetoric and the rule of law: a theory of legal reasoning. Oxford University Press, 
+
+Oxford
+
+Modin A, Andrén J (eds) (2019) The essential AI handbook for leaders. Peltarion
+Nääv M, Zamboni M (2018) Juridisk Metodlära. Studentlitteratur, Lund
+Russell S, Norvig P (2010) Artificial intelligence: a modern approach, 3rd edn. Pearson, London
+Sannerholm R (2020) Rättsstaten Sverige: skandaler, kriser, politik, Timbro
+Simmonds  NE  (1986)  Central  Issues  in  Jurisprudence:  Justice,  Law  and  Rights.  Sweet  and  Maxwell, 
+
+London
+
+Tamanaha B (2004) On the Rule of Law. Cambridge University Press, Cambridge
+Vouk V, Gammerman A, Shafer G (2005) Algorithmic Learning in a Random World. Springer, New York
+Wahlgren P (ed) (2018) 50 Years of Law and IT, vol 65. Scandinavian Studies in Law, Stockholm
+Wahlgren P (2014) Lagstiftning: rationalitet, teknik, möjligheter. Jure AB, Stockholm
+
+Book Chapter
+
+Amir E (2014) Reasoning and Decision Making. In: Frankish K, Ramsey W (eds) The Cambridge Hand-
+
+book of Artificial Intelligence. Cambridge University Press, Cambridge
+
+Arkoudas K, Bringsjord S (2014) (2014) Philosophical Foundations. In: Frankish K, Ramsey WM (eds) 
+The Cambridge Handbook of Artificial Intelligence. Cambridge University Press, Cambridge
+Bedau M (2014) Artificial Life. In: Frankish K, Ramsey W (eds) The Cambridge Handbook of Artificial 
+
+Intelligence. Cambridge University Press, Cambridge
+
+Calders T, Zliobaite I (2013) Why Unbiased Computational Processes Can Lead to Discriminative Deci-
+sion Procedures. In: Custers B et al (eds) Discrimination and Privacy in the Information Society – 
+Data Mining and Profiling in Large Databases. Springer
+
+Custer B (2013) Data Dilemas in the Information Society: Introduction and Overview. In: Custers B et al 
+(eds) Discrimination and Privacy in the Information Society – Data Mining and Profiling in Large 
+Databases. Springer, p 2013
+
+Ellul J (2003) The ‘autonomy’ of the technological phenomenon. In: Scharff RC, Dusek V (eds) Philoso-
+
+phy of Technology: The Technological Condition. Blackwell Publishing Ltd, Malden, pp 386–395
+
+Floridi L, Cowls J, Beltrametti M et al (2018) AI4People: An Ethical Framework for a Good AI Soci-
+ety—opportunities,  risks,  principles,  and  recommendations.  Mind  Mach  28:689–707.  https:// doi. 
+org/ 10. 1007/ s11023- 018- 9482-5
+
+Lundblad N (2018) Law, Technology and Time. In: Wahlgren P (ed) 50 Years of Law and IT. Scandina-
+
+vian Studies in Law, Jure, pp 401–414
+
+Matsou,  (2009)  Let  the  Rule  of  Law  be  Flexible  to  Attain  Good  Governance.  In:  Berling  P,  Ederlöf  J, 
+Taylor V (eds) Rule of Law Promotion: Global Perspectives, Local Applications, Skrifter från jurid-
+iska institutionen vid Umeå universitet Nr 21. Iustus Förlag, Uppsala, pp 41–56
+
+Palmiotto F (2020) The black box on trial: the impact of algorithmic opacity on fair trial rights in crimi-
+nal proceedings. In: Cantero Ebers M, Gamito M (eds) Algorithmic Governance and Governance of 
+Algorithms: Legal and Ethical Challenges. Springer International Publishing, Switzerland
+
+Suksi M (2017) On the openness of the digital society: from religion via language to algorithm as the 
+basis for the exercise of public powers. In: Lind A, Reichel J, Österdahl I (eds) Transparency in the 
+Future: Swedish Openness 250 Years. Ragulka Press, Visby
+
+Van der Sloot B (2013) From data minimization to data minimummization. In: Custers B, Calders T, Sch-
+ermer B, Zarsky T (eds) Discrimination and Privacy in the Information Society: Data Mining and 
+Profiling in Large Databases. Springer, Berlin Heidelberg, p 285
+
+Wahlgren P (2018) Automatiserade Juridiska Beslut. In: Nääv M, Zamboni M (eds) Juridisk Metodlära. 
+
+Studentlitteratur, Lund, p 414
+
+Wennerström E (2009) Measuring the rule of law. In: Berling P, Ederlöf J, Taylor V (eds) Rule of Law 
+Promotion: Global Perspectives, Local Applications, Skrifter från juridiska institutionen vid Umeå 
+universitet Nr 21. Iustus Förlag, Uppsala, pp 57–75
+
+1 3321
+
+Ziegert K (2009) Is the rule of law portable?: A socio-legal journey from the Nordic Mediterranean Sea 
+via the silk road to China. In: Berling P, Ederlöf J, Taylor V (eds) Rule of Law Promotion: Global 
+Perspectives, Local Applications, Skrifter från juridiska institutionen vid Umeå universitet Nr 21. 
+Iustus Förlag, Uppsala, pp 19–40
+
+Journals
+
+Bayamlioglu E, Leenes R (2018) Data-driven decision-making and the ‘Rule of Law.’ TILT Law Technol 
+
+Working Paper, Tilburg University. https:// doi. org/ 10. 1080/ 17579 961. 2016. 11618 91
+
+Brownsword R (2016) Technological Management and the Rule of Law. Law Innovation Technol, Rout-
+
+ledge 8(1):100–140
+
+Harvard Law Review, Criminal Law (2017), State v. Loomis, 130 Harv. L. Rev. 1530, available at https:// 
+
+harva rdlaw review. org/ 2017/ 03/ state-v- loomis/. (Accessed 30 Dec 2019).
+
+Murphy  C  (2005)  Lon  Fuller  and  the  Moral  Value  of  the  Rule  of  Law.  Law  Philosophy,  Springer 
+
+24(3):239–262
+
+Tolan, S, Miron, M, Gomez, E, Castillo, C (2019) Why Machine Learning May Lead to Unfairness: Evi-
+dence from Risk Assessment for Juvenolöe Justice in Catalonia. In Seventeenth International Con-
+ference on Artificial Intelligence and Law (ICAIL ’19), June 17–21, 2019, Montreal.
+
+Vedder A (1999) KDD: The challenge to individualism. Ethics Information Technol, Kluwer Academic 
+
+Publishers 1:275–281
+
+Wachter S, Mittelstadt, B, Floridi L (2016) Why a Right to Explanation of Automated Decision-Making 
+Does Not Exist in the General Data Protection Regulation, International Data Privacy Law, 2017. 
+Accessed 30 Dec 2019 at SSRN: https:// ssrn. com/ abstr act= 29034 69 or https:// doi. org/ 10. 2139/ ssrn. 
+29034 69 .
+
+Winter S, Johansson P (2009) Digitalis filosofi: Människor, modeller och maskiner, SE’s Internet guide, 
+
+nr. 13, version 1.0.
+
+Kroll J, Huey J, Barocas S, Felten E, Reidenberg J, Robinson D, Yu H (2017), Accountable Algorithms, 
+165(3), University of Pensylvania Law Review, http:// schol arship. law. upenn. edu/ penn_ law_ review/ 
+vol165/ iss3/3. Accessed on 30 Dec 2019.
+
+Krygier M (2019) What’s the point of the rule of law? Buffalo Law Rev 67(3):743–791
+Sarra,  C  (2020)  Put  Dialectics  into  the  Machine:  Protecting  Against  Automatic-Ddecision-making 
+through  a  Deeper  Understanding  of  Contestability  by  Design,  Vol.  20,  Issue  3,  Global  Jurist,  De 
+Gryter available at Put Dialectics into the Machine: Protection against Automatic-decision-making 
+through  a  Deeper  Understanding  of  Contestability  by  Design  (degruyter.com)  (last  accessed  on 
+2021-06-15).
+
+Other matter
+
+Angwin J, Larson J, Mattu S, Kirchner L, Machine Bias, ProPublica, https:// www. propu blica. org/ artic le/ 
+
+machi ne- bias- risk- asses sments- in- crimi nal- sente ncing. Accessed 30 Dec 2019.
+
+Asser Institute 2020, [Interview]: Curtailing the surveillance state? Anticipating the SyRI case judgment, 
+2020, Interview with Wisman, T., available at [Interview]: Curtailing the surveillance state? Antici-
+pating the SyRI case judgment (asser.nl) (last accessed on 2021-06-12).
+
+Battaglini M (2020) Historical sentence of the Court of The Hague striking down the collection of data 
+and profiling for Social Security fraud (SyRI), Transparent Internet available at Syri Sentence, an 
+historical  Sentence  against  discriminatory  profiling  (transparentinternet.com)  (last  accessed  on 
+2021-06-14).
+
+Chin J (2016) China’s new tool for social control: a credit rating for everything, The Wall Street Jour-
+nal,  https:// www. wsj. com/ artic les/ chinas- new- tool- for- social- contr ol-a- credit- rating- for- every thing- 
+14803 51590. Accessed on 30 December 2019.
+
+Choi,  N,  Rule  of  law,  Encyclopedia  Britannica,  2019,  https:// www. brita nnica. com/ topic/ rule- of- law. 
+
+Accessed on 11 June 2021.
+
+1 3Preserving the rule of law in the era of artificial intelligence…322 
+
+S. Greenstein 
+
+Electronic Privacy Information Centre, Algorithms in the Criminal Justice System: Pre-Trial Assessment 
+
+Tools, https:// epic. org/ algor ithmic- trans paren cy/ crim- justi ce/. Accessed on 30 Dec 2019.
+
+Elements of AI, Chapter 1, available at https:// www. eleme ntsof ai. com/.
+English Oxford Living Dictionaries, Algorithm, available at https:// en. oxfor ddict ionar ies. com/ defin ition/ 
+
+algor ithm. Accessed on 30 December 2019.
+
+Expert.ai, What is Machine Learning? A Definition, available at What is Machine Learning? A defini-
+
+tion-Expert System|Expert.ai (last accessed on 2021-06-12).
+
+Gibbs  S  (2016),  Chatbot  Lawyer  Overturns  160  000  Parking  Tickets  in  London  and  New  York,  The 
+Guardian,  available  at  https:// www. thegu ardian. com/ techn ology/ 2016/ jun/ 28/ chatb ot- ai- lawyer- 
+donot pay- parki ng- ticke ts- london- new- york  (last  accessed  on  2021-06-15).  See  also  DoNotPay, 
+available at http:// www. donot pay. co. uk/ signup. php (last accessed on 2021-06-15).
+
+Liptak  A  (2017)  Sent  to  Prison  by  a  Software  Programe’s  Secret  Algorithm,  The  New  York  Times, 
+https:// www. nytim es. com/ 2017/ 05/ 01/ us/ polit ics/ sent- to- prison- by-a- softw  are- progr ams- secret- 
+algor ithms. html. Accessed on 30 December 2019.
+
+Organization  for  Security  and  Co-Operation  in  Europe  (OSCE),  Rule  of  law,  Rule  of  law  |  OSCE 
+
+(Accessed 11 June 2021).
+
+Prabhakar  K  (2019),  Understanding  Data  Bias,  Towards  Data  Science,  https:// towar dsdat ascie nce. com/ 
+
+survey- d4f16 8791e 57. Accessed on 30 Dec 2019.
+
+Stanford  Encyclopedia  of  Philosophy,  The  Rule  of  Law,  available  at  https:// plato. stanf ord. edu/ entri es/ 
+
+rule- of- law/. Accessed on 30 December 2019.
+
+Stanley J (2015) ACLU, China’s Nightmarish Citizen Scores Are a Warning for Americans, https:// www. 
+aclu. org/ blog/ priva cy- techn ology/ consu mer- priva cy/ chinas- night marish- citiz en- scores- are- warni  
+ng- ameri cans? redir ect= blog/ free- future/ chinas- night marish- citiz en- scores- are- warni ng- ameri cans. 
+Accessed on 30 December 2019.
+
+World Justice Project (2019), Rule of Law Index, 2019.
+World Justice Project (2019), World Justice Project Rule of Law Index 2019 Insights.
+European  Commission  for  Democracy  Through  Law  (Venice  Commission),  Rule  of  Law  Checklist, 
+CDL-AD(2016)007-e  available  at  https:// www. venice. coe. int/ webfo rms/ docum ents/? pdf= CDL- 
+AD(2016) 007-e. Accessed on 30 December 2019.
+
+Kowalkiewicz  M,  How  Did  We  Get  There?  The  Story  of  Algorithms,  Towards  Data  Science,  https:// 
+towar dsdat ascie nce. com/ how- did- we- get- here- the- story- of- algor ithms- 9ee18 6ba2a 07.  Accessed  on 
+30 Dec 2019.
+
+Van Eck, M (2020), Risk profiling Act SyRI off the table, Leiden University, available at Risk profiling 
+Act SyRI off the table - Leiden University (universiteitleiden.nl) (last accessed on 2021-06-12).
+
+Case Law and Official Matter
+
+State v. Loomis, 881, N.W.2d 749, 7532 (Wis, 2016).
+NJCM et al. v. The State of the Netherlands Hague District Court, C/09/550982 / HA ZA 18-388, Judge-
+
+ment 5 February, 2020, (SyRI case).
+
+European Commission for Democracy Through Law (Venice Commission), Rule of Law Checklist, CDL-
+(2016)007-e  https:// www. venice. coe. int/ webfo rms/ docum ents/? pdf= CDL- AD(2016) 007-e. 
+
+AD 
+Accessed on 30 December 2019.
+
+UK House of Lords Artificial Intelligence Committee’s Report, AI in the UK: ready, willing and able? 
+
+(2018).
+
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the pro-
+tection of natural persons with regard to the processing of personal data and on the free movement 
+of  such  data,  and  repealing  Directive  95/46/EC  (General  Data  Protection  Regulation),  OJ  L  119, 
+4.5.2016.
+
+European Commission, Proposal for a Regulation of the European Parliament and of the Council Lay-
+ing Down Harmonized Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending 
+Certain European Union Acts, Brussels, 21.4.2021 COM(2021) 206 final, available at Proposal for a 
+Regulation laying down harmonised rules on artificial intelligence | Shaping Europe’s digital future 
+(europa.eu) (last accessed 2021-04-29).
+
+The Law Society of England and Wales, The Law Society Commission on the Use of Algorithms in the 
+Criminal Justice System, Algorithms in the Criminal Justice System, https:// www. lawso ciety. org. uk/ 
+
+1 3323
+
+suppo rt- servi ces/ resea rch- trends/ algor ithm- use- in- the- crimi nal- justi ce- system- report/.  Accessed  on 
+30 Dec 2019.
+
+Report of the Secretary General of the United Nations, The Rule of Law and Transitional Justice in Con-
+
+flict and Post Conflict Countries, United Nations Security Council, 2004.
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published 
+maps and institutional affiliations.
+
+1 3Preserving the rule of law in the era of artificial intelligence…

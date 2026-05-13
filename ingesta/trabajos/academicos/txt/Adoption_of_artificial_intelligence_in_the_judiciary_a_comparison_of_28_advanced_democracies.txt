@@ -1,0 +1,1888 @@
+# Fuente
+- archivo: Adoption_of_artificial_intelligence_in_the_judiciary_a_comparison_of_28_advanced_democracies.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Adoption_of_artificial_intelligence_in_the_judiciary_a_comparison_of_28_advanced_democracies.pdf
+- extraido: 2026-04-24T11:33:50
+
+# Contenido
+
+Discover Artificial Intelligence
+
+Brief Report
+
+Adoption of artificial intelligence in the judiciary: a comparison of 28 
+advanced democracies
+
+Clement Guitton1 · Vlada Druta2 · Markus Hinterleitner2 · Aurelia Tamò‑Larrieux2 · Simon Mayer1
+
+Received: 22 January 2025 / Accepted: 13 May 2025
+
+© The Author(s) 2025 
+
+  OPEN
+
+Abstract
+Artificial Intelligence (AI) is increasingly used worldwide to make decisions, be it by public administrations, industry, 
+banks, or insurers. One area with a particularly high impact on citizens is its use in judiciary processes. To this day, there has 
+been little investigation into why countries decide to adopt AI in this area. In this article, we show that the mere promise 
+of efficiency gains is not enough of an explanation for why countries adopt AI within judiciary processes. Instead, we 
+show that the administrative burden (as measured by the number of days to trial), a government’s leaning within the 
+political spectrum (namely towards the left), and the level of adoption of technology by governments in neighboring 
+countries predict countries’ announcement to adopt AI in their judiciary. Taken together, our findings derived from a 
+data analysis of 28 advanced democracies constitute an important step towards a better understanding of the factors 
+shaping AI’s integration into judiciary processes.
+
+1  Introduction
+
+Automation within public administration has gained global momentum [1], with artificial intelligence (AI) technologies 
+being increasingly implemented to streamline government processes that directly impact citizens [2, 3], and with keen 
+interest from legislators on the topic [4]. One area drawing significant attention is the judiciary, where AI is beginning 
+to support various stages of legal proceedings [5]. As the judiciary plays an important role in deciding citizen disputes 
+and thereby significantly interferes in social relations, it is a particularly interesting use case to study the motivations 
+behind AI adoption [6].
+
+The integration of AI technologies into legal proceedings constitutes a far-reaching regulatory reform that may fun-
+damentally alter traditional judicial practices, changing the ways policies are made and decisions are taken in a political 
+system. Such reforms generally do not come lightly and are believed to be not only driven by utility considerations but 
+by a broader range of political, functional, and/or ideational motivations [7]. While the promise of efficiency gains and, 
+thereby, a reduction of current backlogs in courts has driven much of the initial interest, this premise alone is unlikely to 
+account for the complexities surrounding the integration of AI in judicial systems [8].
+
+This article is organised into four key sections. Section 2 outlines the theoretical framework, positioning AI adoption 
+in the judiciary as a form of regulatory reform whose adoption can be explained by looking at political, functional, and 
+ideational factors. Section 3 describes the methodology employed. Section 4 presents the findings, showing that all three 
+factors are statistically significant in influencing AI adoption in judicial systems. Section 5 provides a broader interpreta-
+tion of these results, situating them within the context of judicial reform while also addressing the study’s limitations 
+
+ *  Clement Guitton, clement.guitton@unisg.ch | 1University of St. Gallen, St. Gallen, Switzerland. 2University of Lausanne, Lausanne, 
+Switzerland.
+
+ Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+Vol.:(0123456789)Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+and avenues for future research. Together, these sections build an exploratory understanding of the factors shaping AI’s 
+integration into judiciary processes.
+
+2   Theorising adoption
+
+There are various frameworks that aim to explain technology adoption, with the most cited ones the Technology Accept-
+ance Model (TAM; [9]), the Unified Theory of Acceptance and Use of Technology (UTAUT [10]), and respective iterations 
+on them [11]. Recent years have witnessed a proliferation of analyses of these frameworks across many domains, most 
+of them focusing on adoption of users and by the private sector [12]. Additionally, with the emergence of more advanced 
+technology, more studies have emerged specifically focusing on AI adoption but have, once more, largely focused on 
+user adoptions in the private sector [13]. The findings of a review of 60 studies indicate that the most influential factors 
+in AI adoption are perceived usefulness, performance expectancy, attitudes, trust, and effort expectancy, mirroring that 
+the most used and cited theory for user acceptance was the extended Technology Acceptance Model (TAM) [13].
+
+Some of these frameworks have also been applied to explore technology adoption in the public sector, uncovering 
+several factors influencing adoption. With regard to the judiciary, notably, studies have highlighted that technology 
+acceptance is primarily linked to perceptions of usefulness [14, 15], utility of technology [16] and perception of trust 
+[17]. The utility factor in technology adoption is further supported by numerous studies in the context of the COVID-
+19 pandemic, with one study highlighting that the legal profession has embraced technology as an important tool for 
+enhancing access to justice [18]. Once again, a host of studies has looked at drivers behind user adoption of e-government 
+services [19, 20]—a question which is beyond the scope of this research. A few others have focused on the factors that 
+shape the transition of public services to the digital realm, highlighting the role of: the need to streamline administra-
+tive tasks and enhance accessibility for users [21], the level of democracy and regional competition [22, 23], perceived 
+organisational benefits, in-house capacities and clear strategies [2].
+
+At a very basic level, it is important to note that the capacity to pursue digital transformation in the public sector—
+particularly in sensitive domains such as the judiciary—is shaped by broader institutional conditions. In particular, high 
+levels of institutional quality, such as those discussed in the literature on the “quality of government” [24], appear to be 
+a necessary precondition for governments to undertake and implement far-reaching reforms involving AI. This litera-
+ture underscores the importance of effective, impartial, and corruption-free institutions in enabling states to carry out 
+complex regulatory changes—conditions that are typically met in advanced democracies and that set the stage for the 
+adoption of AI in judicial systems.
+
+At the same time, it is important to emphasise that the adoption of e-government services, in particular those involv-
+ing AI components, constitute far-reaching regulatory reforms that face significant political, ideational, and functional 
+hurdles before their adoption [25]. The reason is that such reforms are likely to alter decision-making processes within 
+government and that those involved in these processes may fear to lose out from the reforms. Especially in advanced 
+democracies, which are very path-dependent [8] due to the presence of multiple veto points that can block substantial 
+change [26], institutional reforms are unlikely to be the result of utility considerations alone. Even governments intent on 
+doing the “right” thing often fail to do so because of structural or political constraints or because they are simply unaware 
+of how to match problems to potential solutions. For example, when examining legal technology in contemporary USA 
+and China, Wang [27] highlights that the characteristics of legal tech are closely tied to each country’s political land-
+scape (centralized versus decentralized governance), legal system objectives (whether aimed at increasing efficiency or 
+enhancing justice), and judicial structure. Another study on e-justice in Switzerland and Brazil emphasises the interplay of 
+innovation features (e.g., usability), organisational aspects (team dynamics), and environmental influences (e.g., centrali-
+sation, federalism, and legislation) [7]. Additionally, a study on implementing technology in the Canadian justice sector 
+highlights that learning from the mistakes and successes of others plays an important role in fostering adoption [28].
+
+With these insights in mind, we develop a theoretical framework for explaining AI adoption in the judiciary that 
+accounts for functional, political, and ideational factors. These factors have been shown to drive the adoption of other 
+regulatory reforms in advanced democracies [25, 29] and are hence well suited for an exploratory analysis in our area of 
+interest. Moreover, our framework is based on the well-established insight that governments may embark on regulatory 
+reforms for both substantive reason (i.e., they want a reform to address a particular problem) and for more symbolic 
+reasons (i.e., they are less interested in the reform’s actual effects and more in the political message it sends, see e.g. [30, 
+31]). To encapsulate these ideas in a theoretically parsimonious way, we focus on three concrete factors: (i) the degree 
+
+Vol:.(1234567890) 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Brief Report
+
+of overburdening of the judiciary, (ii) the political position of the government, and (iii) diffusion effects. In the following, 
+we discuss these factors in detail and formulate expectations on how they should influence AI adoption in the judiciary.
+
+2.1   Functional pressures: overburdening of the judiciary
+
+The proliferation of rules and regulations has been identified as a ubiquitous feature of modern democracies [32]. As 
+the administrative capacities necessary to implement ever more rules and regulations have not grown to the same 
+extent, administrative overburdening has become a widespread phenomenon in advanced democracies [33]. While 
+this finding applies to public administrations in general, it has also been observed in the judiciary. Many judiciaries [34] 
+currently work at or beyond their capacity limit and struggle with ever-growing case backlogs and longer durations to 
+trial. Administrative overburdening creates pressure for governments to look for ways to slow down workload growth 
+and allow administrations to shoulder greater workloads by streamlining and automating procedures. One example 
+are regulatory offsetting schemes that seek to compel governments to compensate for the production of additional 
+rules by simultaneously abolishing existing provisions and associated burdens [29]. We thus expect that countries with 
+overburdened judiciaries are more likely to adopt an AI project than countries whose judiciary faces no such problem.
+
+H1: The average duration of a case to trial has a positive effect on the decision to adopt AI in the judiciary.
+
+2.2   Political factors: the position of the government
+
+Political parties are known to be both vote and policy seekers [31]. They compete for office by championing issues that 
+their supporters care about, and, once in government, they seek to adopt policies that benefit their supporters and 
+align with their own ideological orientations. Left-leaning parties are generally known to advocate for an expansive and 
+influential government and broad-based access to public services. Left-leaning parties have historically championed a 
+comprehensive welfare state, supported government oversight of markets [35], and focused on social protection and 
+human capital creation [36, 37]. Right-leaning parties, on the contrary, have been shown to champion a smaller state 
+that restricts access to social services, contingent on specific criteria. In the US, for example, Republican governments, 
+which traditionally oppose generous welfare programs, have repeatedly managed to put a high administrative burden 
+on welfare recipients so as to make it harder for them to claim the benefits they are entitled to [38]. We thus expect that 
+left-leaning parties are generally more likely to adopt regulatory reforms that promise to make the state more respon-
+sive to its citizens. Since many AI projects in the judiciary seek to increase access to judicial services that citizens are 
+entitled to (e.g., by making the law more transparent through anonymized case publications, by making the law more 
+understandable to laypeople by adapting the language to the vernacular, see for more examples [3, 5]), we expect left-
+leaning parties to be positively associated with AI adoption while this should not be the case for right-leaning parties.1
+H2: Left-leaning governments are more likely to decide to adopt AI in the judiciary than right-leaning governments.
+
+2.3   Matching solutions to problems: the role of diffusion effects
+
+Governments rarely act entirely independently when attempting to tackle specific political challenges. Instead, they 
+often draw inspiration from the experiences and policy solutions of other governments [41, 42]. This tendency is even 
+more pronounced when there are multiple regulatory options available, allowing governments to choose among several 
+potential solutions rather than being limited to a single approach. Policy diffusion is especially likely between neighbor-
+ing countries that are closely interlinked through trade relationships and political alliances, as these connections facilitate 
+the sharing and adaptation of ideas and policies [43]. Neighboring countries are especially prone to drawing insights 
+from one another’s experiences with various policies and to adopting each other’s attempts at problem-solving [44, 45]. 
+Based on these insights, we expect that the level of adoption of technology in neighboring countries positively impacts 
+a government’s decision to adopt AI in the judiciary.
+
+H3: The level of adoption of e-government in neighboring countries has a positive effect on a government’s decision 
+
+to adopt AI in the judiciary.
+
+1  We note that right-wing parties are generally pro law and order [39, 40]. However, as described below in the section Methodology, the 
+projects captured do not solely focus on seeking to enhance law and order, and in fact, very few even focus on criminal matters at all (see 
+the Sect. 5 for this).
+
+Vol.:(0123456789) 
+Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+3   Methodology
+
+3.1   Dependent variable
+
+We are interested in capturing data on the first AI project implemented by a country in the judiciary to assess the hypoth-
+eses; this corresponds to data for years 1997–2024 (1997 being the earliest year for which we found a project for the 
+countries under study, and 2024 corresponding to when we conducted the research). From this, one component to 
+capture is already evident: the projects are in different stages (we categorised them between not started, pilot/ongoing, 
+and implemented). Furthermore, in order to analyse H2, it is important to capture when the project was initiated. We 
+also applied the typology from Guitton et al. [46] to capture whether a project is primarily geared towards increasing 
+accessibility to the law or towards improving its efficiency, as well as the area of implementation (courts, prosecutors, 
+notaries) and what purpose exactly the project seeks to achieve (anonymisation, transcription, information extraction, 
+etc.). We therefore captured 5 variables: year, stage, aim, area, and purpose.
+
+The sources for the data were twofold. First, we manually looked for information for each country for which sources 
+for the independent variables existed (see below). Second, we cross-checked and complemented this information with 
+data from the Council of Europe’s resource on “cyberjustice and artificial intelligence” [47]. It is also noteworthy that we 
+only relied on secondary sources about the existence and data of each programme. In order to minimise errors, two of 
+the authors independently went through the data collection.
+
+The list of 28 countries was primarily derived from the intersection of countries for which we could find information 
+for the different independent variables. We sought to maximise this dataset and, in a second step, eliminated countries 
+whose socio-political structures were judged to be too different from the rest of the dataset, particularly in terms of 
+democratic institutions (e.g. Azerbaijan, Morocco), since our theory is specifically concerned with advanced democracies.
+The criterion for inclusion was for a country itself to label the technology that they were using as “AI”. Regarding the 
+lack of accepted consensus around a definition of AI,2 this approach suited our research goal, as we are interested in why 
+countries would seek to present themselves as (early) adopters of AI. Following this, two specific types of projects were 
+excluded, as they were systematically not presented under the “AI” label: projects related to risk-assessment-instruments, 
+and those related to the automatic assignment of cases.
+
+The result of the data collection shows a rather homogeneous dataset, with only 5 countries with no implementation 
+at all. 86% of the projects collected were in the context of courts, 10% for adjudication, and 5% for the overall justice 
+system (note that one project was for both court and adjudication within the administration). Furthermore, most pro-
+jects focused on anonymising court records for their release to the general public; the second most frequent category 
+of projects concerned automatic speech-to-text transcription of court hearings (see Fig. 1).
+
+3.2   Independent variables
+
+We used the three different metrics and sources for each hypothesis as listed in Table 1.
+
+The dataset for H2 only included data up to 2022. As we carried out a survival analysis (see below), this was sufficient 
+for all countries whose adoption of AI in the judiciary came before or in 2022. For 3 other countries (namely: Romania, 
+Slovenia, Spain), we completed the dataset by adding the composition of right-wing members in the government manu-
+ally following Armingeon et al. [49] for the years 2023–2024.
+
+We took the subset of countries for which data was available for each of the three introduced operationalisations. This 
+led to slightly different datasets for H1/H3 and H2, with 25 countries considered in H1/H3 and 28 for H2 (the complete 
+list is provided in Appendix A).
+
+3.3   Data analysis
+
+For H1 and H3, we carried out separate simple linear regressions including each of the five dependent variables, as this 
+is a standard method within policy/political science to attempt at identifying potential relations between different sets 
+
+2  https:// cacm. acm. org/ opini on/ betwe en- the- booms- ai- in- winter/.
+
+Vol:.(1234567890) 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Brief Report
+
+Fig. 1   Frequency of projects 
+by types of application
+
+of variables and is in line with how we posited the hypotheses [51]. This yielded a set of 5 linear regressions, with  b0 the 
+intercept and  bi>0 the linear regression coefficient. In all models, we also control for the quality of government [52] and 
+GDP per capita [53] by taking 2022 data to take into account previous evidence on the factors that may drive AI adop-
+tion in government [6, 24]:
+
+= b0
+= b0
+= b0
+= b0
+
+Yyear
+Ystage
+Yaim
+Yarea
+Ypurpose
+
++ b1XH1
++ b1XH1
++ b1XH1
++ b1XH1
+
++ b2XH2
++ b2XH2
++ b2XH2
++ b2XH2
+
++ b3XH3
++ b3XH3
++ b3XH3
++ b3XH3
+
++ bGovernmentQualityXGovernmentQuality
++ bGovernmentQualityXGovernmentQuality
++ bGovernmentQualityXGovernmentQuality
++ bGovernmentQualityXGovernmentQuality
+
++ bGDPperCapitaXGDPperCapita
++ bGDPperCapitaXGDPperCapita
++ bGDPperCapitaXGDPperCapita
++ bGDPperCapitaXGDPperCapita
+
+= b0
+
++ b1XH1
+
++ b2XH2
+
++ b3XH3
+
++ bGovernmentQualityXGovernmentQuality
+
++ bGDPperCapitaXGDPperCapita
+
+Furthermore, we conducted one-way ANOVA tests on the stage of the projects to try to evidence differences between 
+the different groups, and in a second step, we merged the stage of projects so that they could fit within two groups only: 
+those countries with no project started vs. those with an ongoing project or one already implemented. This allowed us 
+to carry out one-tail t-tests.
+
+For H2, further in line with the hypothesis, we carried out an event history analysis, which is a well-suited form of 
+analysis when the phenomenon under a study has a duration with an occurrence at a discrete point in time (so called 
+“time-to-event data”), and which allows us to identify a likelihood of a variable to trigger an “event” (see for a similar data 
+analysis method [29]. In our case, every country is “at risk” of starting an AI project in its judiciary and this represents 
+therefore the event under consideration; once this has occurred, the country is then “censored” (removed) from the 
+dataset for the subsequent years. The unit of analysis is therefore the country level, time periods are years, and all data 
+are continuous as explained in the section above. We take as a starting year 1995, slightly before the year of the first 
+project on the compiled list (1997 in Austria). This allows us to compute the probability of survival to the time t Pr(Ti ≥ t), 
+with the following model description:
+
+yt,c: binary component that captures whether a country has started an AI project in the judiciary
+t: time expressed in year
+c: country
+
+We then compute a univariate Cox’s regression on the survival function for its statistical significance. In a second step, 
+we repeated the event history analysis by adding as a treatment the aim followed behind kickstarting a project (whether 
+for efficiency gain or to promote accessibility to the law).
+
+Vol.:(0123456789) 
+Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+e
+h
+t
+
+r
+o
+f
+n
+o
+i
+s
+s
+i
+
+m
+m
+o
+C
+n
+a
+e
+p
+o
+r
+u
+E
+
+]
+8
+5
+[
+e
+c
+i
+t
+s
+u
+J
+
+f
+o
+y
+c
+n
+e
+i
+c
+ffi
+E
+
+]
+2
+[
+
+t
+e
+S
+a
+t
+a
+D
+
+l
+
+a
+c
+i
+t
+i
+l
+
+o
+P
+e
+v
+i
+t
+a
+r
+a
+p
+m
+o
+C
+
+n
+
+i
+
+e
+c
+r
+u
+o
+S
+
+s
+e
+i
+t
+r
+a
+p
+g
+n
+w
+
+i
+
+-
+t
+h
+g
+i
+r
+
+i
+
+f
+o
+s
+t
+s
+o
+p
+t
+e
+n
+b
+a
+c
+f
+o
+n
+o
+i
+t
+r
+o
+p
+o
+r
+p
+e
+h
+t
+“
+s
+a
+d
+e
+r
+u
+s
+a
+e
+m
+
+,
+t
+n
+e
+m
+n
+r
+e
+v
+o
+g
+a
+f
+o
+n
+o
+i
+t
+i
+s
+o
+p
+
+l
+
+a
+c
+i
+t
+i
+l
+
+o
+P
+
+4
+2
+0
+2
+–
+a
+7
+9
+9
+1
+
+s
+l
+a
+i
+r
+t
+e
+v
+i
+t
+a
+r
+t
+s
+i
+n
+m
+d
+a
+d
+n
+a
+
+i
+
+,
+l
+i
+
+v
+i
+c
+
+,
+l
+
+a
+n
+m
+
+i
+
+i
+r
+c
+r
+o
+f
+
+)
+s
+y
+a
+d
+n
+i
+(
+
+l
+
+a
+i
+r
+t
+o
+t
+n
+o
+i
+t
+a
+r
+u
+d
+e
+g
+a
+r
+e
+v
+a
+
+:
+
+e
+m
+
+i
+t
+n
+o
+i
+t
+i
+s
+o
+p
+s
+i
+D
+
+c
+i
+r
+t
+e
+M
+
+s
+r
+a
+e
+Y
+
+2
+2
+0
+2
+
+]
+9
+5
+[
+
+s
+n
+o
+i
+t
+a
+N
+d
+e
+t
+i
+n
+U
+
+s
+t
+i
+
+s
+s
+o
+r
+c
+a
+e
+g
+a
+r
+e
+v
+a
+e
+h
+t
+d
+n
+a
+x
+e
+d
+n
+
+i
+
+s
+’
+y
+r
+t
+n
+u
+o
+c
+a
+n
+e
+e
+w
+t
+e
+b
+e
+c
+n
+e
+r
+e
+ff
+D
+
+i
+
+:
+
+x
+e
+d
+n
+
+i
+
+l
+
+t
+n
+e
+m
+p
+o
+e
+v
+e
+d
+t
+n
+e
+m
+n
+r
+e
+v
+o
+g
+-
+E
+
+2
+2
+0
+2
+
+]
+2
+[
+”
+r
+a
+e
+y
+n
+e
+v
+g
+a
+n
+
+i
+
+i
+
+e
+c
+ffi
+o
+n
+
+i
+
+s
+y
+a
+d
+f
+o
+r
+e
+b
+m
+u
+n
+e
+h
+t
+y
+b
+d
+e
+t
+h
+g
+e
+w
+
+i
+
+,
+s
+t
+s
+o
+p
+t
+e
+n
+b
+a
+c
+l
+
+i
+
+a
+t
+o
+t
+o
+t
+n
+o
+i
+t
+a
+e
+r
+
+l
+
+s
+e
+i
+r
+t
+n
+u
+o
+c
+g
+n
+i
+r
+u
+o
+b
+h
+g
+e
+n
+
+i
+
+#
+H
+
+1
+H
+
+2
+H
+
+3
+H
+
+s
+e
+i
+r
+t
+n
+u
+o
+c
+d
+e
+t
+c
+e
+e
+s
+8
+2
+e
+h
+t
+
+l
+
+f
+o
+t
+e
+s
+b
+u
+s
+e
+h
+t
+n
+
+i
+
+s
+e
+c
+a
+f
+r
+u
+s
+
+j
+
+t
+c
+e
+o
+r
+p
+
+I
+
+A
+n
+a
+t
+a
+h
+t
+
+r
+a
+e
+y
+t
+s
+r
+fi
+e
+h
+t
+o
+t
+
+s
+d
+n
+o
+p
+s
+e
+r
+r
+o
+c
+7
+9
+9
+ 1
+a
+
+s
+e
+s
+e
+h
+t
+o
+p
+y
+h
+r
+o
+f
+
+s
+c
+i
+r
+t
+e
+m
+d
+n
+a
+s
+e
+c
+r
+u
+o
+S
+
+1
+e
+l
+b
+a
+T
+
+Vol:.(1234567890) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Brief Report
+
+Fig. 2   Principal component 
+analysis for the dependent 
+variables and H1/H3. As the 
+vectors are not orthogonal, 
+this can be taken as an indica-
+tion of possible statistical 
+relation between them
+
+Table 2   Results are 
+statistically significant for H1 
+and H3 when tested against 
+the dependent variable “stage 
+of the project”
+
+N = 25
+
+H1 (duration to trial of civil cases)
+
+H3 (adoption in border-
+ing countries)
+
+Linear regression coefficient 
+
+against stage (p < 0.01)
+
+0.003 (p < 0.01,  R2 = 0.28)
+
+8.051 (p < 0.02,  R2 = 0.21)
+
+T-stat (df = 24)
+
+3.206 (p < 0.03)
+
+1.904 (p < 0.04)
+
+4   Results
+
+4.1   H1 and H3
+
+We only find statistical significant results when considering the stage of the project; the other dependent variables did 
+not result in statistically significant relations even if a Principal Component Analysis showed them as rather close together 
+(see Fig. 2), notably with stage very close to the area of implementation. When controlling for quality of government and 
+GDP per capita, none of them have a significant effect on the dependent variables.
+
+Furthermore, and regarding H1, we only obtained statistically significant results when considering duration of civil 
+trials (see Table 2) and using one-tail t-tests with the stage of the projects clustered into 2 groups. Duration to criminal 
+and administrative trials did not result in statistically significant results (see in Appendix B Table 7), as well as a one-way 
+ANOVA test was not statistically significant (F = 1.946, p = 0.161, df = 24).
+
+Therefore, we can accept H1 and H3 within this set of conditions: the average number of days to trial in a country as 
+well as the level of e-government adoption in neighboring countries both significantly influence a government’s deci-
+sion to start projects on AI in the judiciary.
+
+4.2   H2
+
+The survival function for the risk of starting an AI project obtained on N = 28 countries is shown in Fig. 3; the Cox’s regres-
+sion returns a statistically significant relation (coefficient = 0.277, p < 0.01).
+
+We can therefore accept H2: left-leaning governments are more likely to start projects on AI in the judiciary. However, 
+we did not find that the aim of the project (efficiency or accessibility) was statistically relevant to the likelihood of a left-
+wing (or right-wing) government to initiate an AI project in the judiciary (see Appendix B, Table 8).
+
+Vol.:(0123456789) 
+Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+Fig. 3   The survival function 
+shows a higher probability 
+of projects being started 
+from a left-wing government 
+majority, and this constantly 
+over time
+
+5   Discussion
+
+We can draw three conclusions from our analysis of the drivers behind the decision to implement AI in the judiciary 
+in the context of advanced democracies. First, we find that the duration to trial of civil cases plays a role in deciding 
+to turn to AI to alleviate the burden. More specifically, the average number of days to trial in civil cases for countries 
+with an AI implementation averaged 310 whereas it averaged only 126 for those countries without implementation. 
+This confirms the perception of the role of technology in relieving some of the burden on the state as it tries to find 
+room to operate within existing constraints (financial resources, political capital).
+
+Second, we find that the political orientation of the government in power does have an influence on starting AI 
+projects in the judiciary, with left-wing governments more likely to do so than right-wing ones. Of the 23 countries 
+with an implementation, only six were kickstarted by a right-wing government (Canada, Czech Republic, Estonia, 
+France, Latvia, Switzerland) and 17 by a left-wing government (Austria, Croatia, Germany, Spain, Malta, Romenia, 
+Slovenia, Denmark, Finland, Italy, Luxembourg, Netherlands, Poland, Portugal, Sweden, UK, USA). Also strengthening 
+our conclusion is the observation that of the five countries without an implementation (Belgium, Cyprus, Hungary, 
+Lithuania, Norway), all but one country (Hungary) did go through governments with a different majority across the 
+26 years under study. A closer look at the countries in our sample reveals no consistent pattern in socio-political or 
+economic structures that would account for the observed variation. Both lists—those with and without AI initiatives 
+in the judiciary—include a mix of social democracies and economically liberal states, centralised and federal systems, 
+high- and low-GDP countries, large and small populations, as well as EU and non-EU members. This diversity sug-
+gests that these structural factors are unlikely to explain the observed difference. Instead, the pattern appears to 
+align more closely with an ideological inclination, specifically a greater propensity among left-leaning governments 
+to pursue such initiatives.
+
+We therefore interpret this result in light of the agenda of left-wing governments to give more access to a coun-
+try’s residents to state services, even beyond the judiciary, regardless of the aim when starting the AI project. The 
+mixture of projects started actually falls under both aims of making the state more efficient and to promote access 
+to the law (e.g. with the single highest number of projects in the category of automatically anonymising court pro-
+ceedings to publish them online, often explicitly to foster legal access), which explains why the addition of the aim 
+as a treatment in the event history analysis did not play a role. Yet, we contend that even projects geared to make 
+the judiciary more efficient contribute to a more responsive state, and hence to one that can better fulfil its promise 
+and mandate towards its inhabitants.
+
+Our third and last finding concerns the influence of neighbouring countries. As we have shown, countries with a 
+judicial AI implementation exhibit, on average, a positive difference between their e-government index and their 
+
+Vol:.(1234567890) 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Brief Report
+
+neighbours’ while countries without a judicial AI implementation exhibit, on average, a negative difference. In other 
+words, those countries which have implemented judicial AI tools have generally a better readiness to implement 
+access to public services via digital means, and those without lag behind their neighbouring peers when it comes 
+to e-government.
+
+6   Limitations and conclusion
+
+In conducting this study, we have faced a number of methodological hurdles, probably due in no small part to the 
+exploratory nature of the research question. With no clear framework to follow, and with no clear set of countries to 
+focus on, we have iterated a number of times between frameworks, country sets, dependent/independent variables and 
+data sources available before we could find meaningful and statistically relevant results (a few of the negative results 
+of our investigation can be found in Appendix B). Our initial methodology was more traditional to comparative politics 
+by picking three countries and qualitatively analysing them in-depth: two countries with judicial AI implementation, 
+and a counter-case of a country without. However, by seeking to generalise the hypotheses to a larger N, we did not 
+succeed. With this in mind, we would like to urge caution in the interpretation of our findings, notably when it comes to 
+extrapolating them beyond the dataset of the countries considered.
+
+Similarly, the results reported here have a certain number of limitations per hypothesis too. First regarding H1, we could 
+not find any statistically significant result when looking at the waiting time to trial in the cases of criminal and administra-
+tive cases (even when trying with different statistical tools, from Pearson’s correlation, to Principal Component Analysis, 
+to one-way ANOVA). There might be a rationale explanation to this: when collecting the data, it has come to our atten-
+tion that a few countries have explicitly referred to focusing on implementation of AI tools in the civil law domain, and 
+it is hence sensical that we find this mirrored as to why they chose to focus on this sub-domain. Furthermore, countries’ 
+focus on civil rather than criminal cases, especially as a first foray to deploy AI tools in the judiciary may be explained by 
+how resolving procedural issues or small claims is generally less sensitive than criminal proceedings [54, 55]. The higher 
+stakes in criminal proceedings could therefore play a role, an argument which is also valid when looking at administrative 
+justice where significant ethical and legal risks also arise, including concerns about the dehumanization of justice, real 
+threats to the independence and impartiality of justice [56]. The many scandals which have arisen concerning using AI 
+in public administration to make decisions quicker about social benefits (see from the Netherlands, to France, to the US 
+[57]) appear to give credence to the argument about stakes at play—all the while highlighting the many pitfalls which 
+exist when deploying AI tools in general [58] and in the judiciary in particular [59]. It remains that future qualitative 
+studies using process tracing and (semi-) structured interviews with key decision-makers would be needed to confirm 
+how the decision process was shaped.
+
+Second, regarding H2, it may be argued that we only looked at the leaning of the majority in government as opposed 
+to looking at the leaning of the minister of justice most likely in charge. The different datasets we considered (e.g. the 
+Manifesto Project Dataset [60]) also did not include this information, and we accept that this may skew the results, albeit 
+only to a certain limited extent. Also noteworthy concerning H2 is that we could not find any relation when running 
+the historical event analysis with as additional covariate the aim of the project (efficiency/accessibility),we also found 
+no relation when looking at odds-ratio and regressions. We cannot therefore conclude that the leaning of the party in 
+government has an influence on the type of project started, and we can “only” fail to accept H2 without making a distinc-
+tion for the aims of projects.
+
+Lastly, regarding H3, we note that the operationalisation matters. We found no statistical significance in the following 
+cases: when we only took the average (or standard deviation) between a country and its bordering neighbours’ e-gov-
+ernment index, when we took only the e-government index without consideration of neighbours (the e-government 
+index is supposed to be a relative assessment of countries, not an absolute measure), or when we defined neighbours 
+more coarsely in terms of sub-continent (Northern Europe, Northern America, etc.). While we posit that our current 
+operationalisation is the one that makes the most sense (by looking at the difference, we actually look at how the country 
+differs in relation to its neighbours), we also acknowledge the difficulty in the fragility of the conclusion dependent on 
+the definition of the metric used to assess it.
+
+Yet another challenge that we have experienced—on top of defining a subset of country and data availability—con-
+cerned the selection of the independent variable for a model. We started with a lot more hypotheses, but for the sake 
+of coherence and shortness, we decided to present a model based only on the three hypotheses reported here. Other 
+hypotheses for which we collected data and found no meaningful relations were: trust in AI, R&D spending, the degree 
+
+Vol.:(0123456789) 
+Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+of access to AI expertise, regulation concerning AI in the judiciary, the independence and corruption of the judiciary, and 
+distance to power. We notably acknowledge that our initial thinking was, if not that these variables correlate to some 
+extent with AI adoption in the judiciary, that they might be otherwise confounding variables. For each of them, however, 
+we have either found no relation worth reporting, or we faced challenges to match with our subset of countries at the 
+intersection of our other datasets.
+
+Despite these limitations, we still posit that the findings offer insights into AI adoption in the judiciary amidst the hype 
+and craze that surrounds the topic of AI. By looking at data, we obtain different insights than what qualitative interviews 
+can return on both adoption or non adoption [61] and offer a complementary picture. Whether decision-makers are 
+aware that they follow certain drivers—be it on their perception of the state capacity as overburdened, of their own 
+political party’s agenda, or of how competitive they want to be against their neighbours—, the research teases out the 
+relevance of the factors nonetheless. Future research could consider finding relations with further factors—although it 
+may be well noted again to consider that we did not find any when looking at trust in AI, R&D spending, the degree of 
+access to AI expertise, regulation concerning AI in the judiciary, corruption, independence of the judiciary, and distance 
+to power. Regarding the wealth of possible factors playing a role (e.g. role of international organisations, trust in the 
+police vs trust in the courts, etc.), and as already highlighted in the literature review section 2, there should not be a lack 
+of material to collect and test.
+
+Future research should also further investigate whether these findings apply to AI use in other branches of govern-
+ment, as current research in this area remains limited. For example, research on public perceptions of AI in policing 
+indicates the influence of political partisanship: Republican members of the public tend to favor predictive policing 
+over automated internal reviews, whereas Democrats show higher support for both [62]. Additionally, a few studies have 
+similarly suggested how e-government initiatives could support AI adoption for crime management [63], and when 
+fighting corruption and the shadow economy [64]. It would be valuable to further explore how a country’s political ide-
+ology influences AI implementation in law enforcement—not only in the judiciary—and examine whether neighboring 
+e-government initiatives similarly impact AI adoption. Investigating these factors across different government branches, 
+such as policing, could offer deeper insights into the key drivers of AI adoption and the role of context in shaping policies.
+
+Author contributions  CG wrote the main manuscript and carried out the data analysis; VD and MH wrote the theory and hypotheses; CG and 
+VD collected the data; ATM and SM gave directions to the research; all contributed to the conceptualisation of the research and all reviewed 
+the manuscript.
+
+Funding  Not applicable.
+
+Data availability  Data is publicly available and appropriate references to the data are provided within the manuscript.
+
+Declarations 
+
+Ethics approval and consent to participate   Not applicable.
+
+Consent for publication  Not applicable.
+
+Competing interests  The authors declare no competing interests.
+
+Open Access   This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which 
+permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to 
+the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You 
+do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party 
+material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If 
+material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds 
+the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creat iveco 
+mmons. org/ licen ses/ by- nc- nd/4. 0/.
+
+Appendix A: List of countries
+
+See Table 3.
+
+Vol:.(1234567890) 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Table 3   List of countries 
+under analysis for each 
+hypothesis
+
+H1/H3
+
+Austria
+Belgium
+Croatia
+Cyprus
+Denmark
+Estonia
+Finland
+France
+Germany
+Hungary
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Serbia
+Slovenia
+Spain
+Sweden
+Switzerland
+
+Brief Report
+
+H2
+
+Austria
+Belgium
+Canada
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Hungary
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Slovenia
+Spain
+Sweden
+Switzerland
+United Kingdom
+USA
+
+Appendix B: Summary of negative results
+
+As exploratory research, we investigated a number of other relations (dependent and independent variables) which 
+turned out to be either problematic or negative. Not to over-crowd the presentation of the main results, we report the 
+results of this analysis only in this Appendix (Figs. 4, 5; Tables 4, 5, 6, 7, 8, 9).
+
+Vol.:(0123456789) 
+Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+Fig. 4   Principal component 
+analysis showing no correla-
+tion between the dependent 
+variables and H4-H5 as they 
+are orthogonal to one another
+
+Variables − PCA
+
+H5
+
+0.5
+
+0.0
+
+)
+
+%
+6
+2
+(
+
+2
+m
+D
+
+i
+
+−0.5
+
+Stage
+
+Purpose
+
+Aim
+
+Area.of.implementation
+
+H3
+
+H1
+
+H4
+
+0.0
+
+0.3
+Dim1 (37.9%)
+
+0.6
+
+0.9
+
+Fig. 5   Controlling for quality 
+of government shows no 
+effect (stage 0 = non-initiated, 
+stage 1 = ongoing, stage 2 = 
+implemented), with Pearson’s 
+correlation at 0.12 and p-value 
+when regressing at 0.55
+
+Table 4   Alternative 
+hypotheses for which we ran 
+into data issues when seeking 
+to intersect for the country list 
+with H1-H2-H3
+
+Variable
+
+Trust in AI
+R&D spending
+Degree of access to AI expertise
+
+Regulation concerning AI in the judiciary
+
+Data source
+
+KMPG
+OECD
+Economist 
+
+Intelligence 
+Unit
+Manual
+
+Vol:.(1234567890) 
+ 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Brief Report
+
+Table 5   Alternative hypotheses and the t-stats results against the status of the project
+
+H#
+
+Hypotheses
+
+Method of 
+analysis
+
+Data source
+
+T-stat
+
+p-value
+
+df
+
+H4
+H5
+
+The distance to power impacts the decision to use AI in the judiciary
+The level of judicial independence and corruption impact the decision 
+
+OLS
+OLS
+
+Hofstede
+Maplecroft/IHS
+
+0.18875
+0.33828
+
+0.42593
+0.36904
+
+24
+24
+
+to use AI in the judiciary
+
+Table 6   Pearson’s correlations 
+with the dependent variables
+
+Year
+
+Stage
+
+Aim
+
+Area of implementa-
+tion
+
+Purpose
+
+H4
+H5
+
+0.03283419
+
+−0.0789893
+
+−0.1393671
+0.03105127
+
+−0.055295
+0.0014733
+
+0.27671811
+-0.2814943
+
+−0.0281
+0.10653
+
+Table 7   Statistically insignificant results of the one-tail t-test for two sub-categories within H1 against the stage of projects
+
+N = 25
+
+T-stat
+p-value
+
+H1 Administrative cases
+
+H1 Criminal cases
+
+0.640586
+0.263931
+
+1.072671
+0.147043
+
+Table 8   Result of Cox’s 
+regression when adding the 
+aim of the project
+
+Table 9   Odds ratio between 
+political party and aim at 0.29 
+at CI = 0.7
+
+Political
+Aim
+
+# cases
+
+Left wing
+Right wing
+
+References
+
+Coef
+
+0.27699
+0.02285
+
+Accessibility
+
+10
+5
+
+p
+
+0.000515
+0.654135
+
+Efficiency
+
+7
+1
+
+  1.  R Madan M Ashok 2023 AI adoption and diffusion in public administration: A systematic literature review and future research agenda 
+
+Gov Inf Q 40 1 101774
+
+  2.  Grimmelikhuijsen S, Tangi L. What factors influence perceived artificial intelligence adoption by public managers?, European Commission, 
+
+JRC138684. https:// doi. org/ 10. 2760/ 01792 85 (2024).
+
+  3.  Tangi L, Van Noordt C, Combetto M, Gattwinkel D, Pignatelli F. AI Watch. European landscape on the use of artificial intelligence by the 
+
+public sector. Publications Office of the European Union, https:// doi. org/ 10. 2760/ 39336 (2022).
+
+  4.  DS Schiff KJ Schiff 2023 Narratives and expert information in agenda-setting: experimental evidence on state legislator engagement 
+
+with artificial intelligence policy Policy Stud J 51 4 817 842
+
+  5.  OECD. “Governing with Artificial Intelligence: Are governments ready?”, OECD Artificial Intelligence Papers, No. 20, OECD Publishing, Paris, 
+
+https:// doi. org/ 10. 1787/ 26324 bc2- en (2024)
+
+  6.  Goel RK, Nelson MA. Awareness of artificial intelligence: Diffusion of information about AI versus ChatGPT in the United States (No. 2259). Kiel 
+
+Working Paper (2023).
+
+  7.  Sousa M, Kettiger D, Lienhard A. E-justice in Switzerland and Brazil: Paths and experiences. In: IJCA, vol. 13, p. 1 (2022).
+  8.  P Pierson 2004 Politics in time Princeton University Press Princeton
+  9.  FD Davis 1989 Technology acceptance model: TAM MN Al-Suqri AS Al-Aufi Eds Information seeking behavior and technology adoption 
+
+IGI Global Hershey 205 219
+
+ 10.  V Venkatesh MG Morris GB Davis FD Davis 2003 User acceptance of information technology: Toward a unified view MIS Q 27 3 425 478
+
+Vol.:(0123456789) 
+Brief Report 
+
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y
+
+ 11.  V Venkatesh JY Thong X Xu 2016 Unified theory of acceptance and use of technology: A synthesis and the road ahead J Assoc Inf Syst 17 
+
+5 328 376
+
+ 12.  MMH Emon 2023 Insights into technology adoption: a systematic review of framework, variables and items Inf Manag Comput Sci 
+
+6 2 27 33
+
+ 13.  S Kelly SA Kaye O Oviedo-Trespalacios 2023 What factors contribute to the acceptance of artificial intelligence? A systematic review 
+
+Telemat Inform 77 101925
+
+ 14.  MA Ahmed T Kaya T Karanfiller 2024 Evaluating E-court systems in regional governments in developing countries using technology 
+
+acceptance model Inf Dev https:// doi. org/ 10. 1177/ 02666 66924 12291 76
+ 15.  D Barysė 2022 People’s attitudes towards technologies in courts Laws 11 5 71
+ 16.  NA Nguyen VP Nguyen KH Bui 2024 Legal technology acceptance in Vietnam’s courts Cogent Bus Manag 11 1 2321955
+ 17.  N Xu KJ Wang 2021 Adopting robot lawyer? The extending artificial intelligence robot lawyer technology acceptance model for legal 
+
+industry by an exploratory study J Manag Organ 27 5 867 885
+
+ 18.  Muigua, K. (2020). Legal Practice and New Frontiers: Embracing Technology for Enhanced Efficiency and Access to Justice. ADR Journal, 
+
+11(2).
+
+ 19.  NP Rana YK Dwivedi B Lal MD Williams M Clement 2017 Citizens’ adoption of an electronic government system: towards a unified view 
+
+Inf Syst Front 19 549 568
+
+ 20.  SF Verkijika L Wet De 2018 E-government adoption in sub-Saharan Africa Electron Commer Res Appl 30 83 93
+ 21.  G Ilieva T Yankova M Ruseva Y Dzhabarova V Zhekova S Klisarova-Belcheva 2024 Factors influencing user perception and adoption of 
+
+E-government services Admin Sci 14 3 54
+
+ 22.  A Ingrams A Manoharan L Schmidthuber M Holzer 2020 Stages and determinants of e-government development: A twelve-year longi-
+
+tudinal study of global cities Int Public Manag J 23 6 731 769
+
+ 23.  J Bussell 2011 Explaining cross-national variation in government adoption of new technologies Int Stud Quart 55 1 267 280
+ 24.  La Porta R, Lopez-de-Silanes F, Shleifer A, Vishny R. The quality of government. J Law Econ Org. 1999;15(1):222–79.
+ 25.  C Knill J Tosun 2020 Public policy: A new introduction Bloomsbury Publishing New York
+ 26.  G Tsebelis 2002 Veto players: How political institutions work Princeton University Press Princeton
+ 27.  R Wang 2020 Legal technology in contemporary USA and China Comput Law Secur Rev 39 105459
+ 28.  J Bailey J Burkell 2013 Implementing technology in the justice sector: A Canadian perspective Can J Law Technol 11 2 253
+ 29.  Y Steinebach M Hinterleitner X Fernández-i-Marín 2024 Regulatory offsetting in advanced democracies Public Admin Rev https:// doi. 
+
+org/ 10. 1111/ puar. 13887
+
+ 30.  JS Hacker P Pierson 2014 After the ‘Master Theory’: downs, schattschneider, and the rebirth of policy-focused analysis Perspect Polit 12 
+
+03 643 662
+
+ 31.  K Strøm 1990 A behavioral theory of competitive political parties Am J Polit Sci 34 2 565 598
+ 32.  M Hinterleitner C Knill Y Steinebach 2024 The growth of policies, rules, and regulations: a review of the literature and research agenda 
+
+Regul Gov 18 2 637 654
+
+ 33.  X Fernández-i-Marín M Hinterleitner C Knill Y Steinebach 2024 bureaucratic overburdening in advanced democracies Public Adm Rev 84 
+
+4 696 709
+
+ 34.  A Martinuzzi 2017 Taking justice seriously: the problem of courts overload and the new model of judicial process (April 6, 2017) Civil 
+
+Procedure Rev 8 1 65 106
+
+ 35.  MLF Jakobsen PB Mortensen 2015 How politics shapes the growth of rules Governance 28 497 515
+ 36.  B Bremer S McDaniel 2020 The ideational foundations of social democratic austerity in the context of the Great Recession Soc Econ Rev 
+
+18 2 439 463
+
+ 37.  S Häusermann J Garritzmann B Palier 2022 The politics of social investment JL Garritzmann S Häusermann B Palier Eds The world politics 
+
+of social investment Oxford University Press Oxford
+
+ 38.  P Herd DP Moynihan 2019 Administrative burden: Policymaking by other means Russell Sage Foundation New York
+ 39.  T Baker C Falco Metcalfe T Berenblum G Aviv M Gertz 2015 Examining public preferences for the allocation of resources to rehabilitative 
+
+versus punitive crime policies Crim Justice Policy Rev 26 5 448 462
+
+ 40.  L Ren J Zhao NP Lovrich 2008 Liberal versus conservative public policies on crime: What was the comparative track record during the 
+
+1990s? J Crim Just 36 4 316 325
+
+ 41.  D Marsh JC Sharman 2009 Policy diffusion and policy transfer Policy Stud 30 3 269 288
+ 42.  C Meseguer 2005 Policy learning, policy diffusion, and the making of a new order Ann Am Acad Pol Soc Sci 598 1 67 82
+ 43.  M Maggetti F Gilardi 2016 Problems (and solutions) in the measurement of policy diffusion mechanisms J Publ Policy 36 1 87 107
+ 44.  F Gilardi 2016 Four ways we can improve policy diffusion research State Polit Policy Q 16 1 8 21
+ 45.  BA Simmons Z Elkins 2004 The globalization of liberalization: policy diffusion in the international political economy Am Polit Sci Rev 98 
+
+1 171 189
+
+ 46.  C Guitton A Tamò-Larrieux S Mayer 2022 A typology of automatically processable regulation Law Innov Technol 14 2 267 304
+ 47.  Council of Europe. Resource Centre Cyberjustice and AI. https:// public. table au. com/ app/ profi le/ cepej/ viz/ Resou rceCe ntreC  yberj ustic 
+
+eandAI/ AITOO LSINI TIATI VESRE PORT? publi sh= yes (2024)
+
+ 48.  European Commission for the Efficiency of Justice (2024) https:// public. table au. com/ app/ profi le/ cepej/ viz/ Effic iency EN/ Effic iency
+ 49.  K Armingeon S Engler L Leemann D Weisstanner 2024 Comparative Political Data Set 1960–2022 University of Zurich Zurich
+ 50.  United Nations. E-Government Development Index. https:// publi cadmi nistr ation. un. org/ egovkb/ en- us/ About/ Overv iew/-E- Gover nment- 
+
+Devel opment- Index (2022).
+
+ 51.  S Chatterjee F Wiseman 1983 Use of regression diagnostics in political science research Am J Polit Sci 27 3 601 613
+ 52.  World Bank. Worldwide Governance Indicators, 2024 Update. https:// www. world bank. org/ en/ publi cation/ world wide- gover nance- indic 
+
+ators, accessed on March 25, 2025 (2022).
+
+ 53.  World Bank. GDP per capita (current US$). https:// data. world bank. org/ indic ator/ NY. GDP. PCAP. CD, accessed on March 25, 2025 (2025).
+
+Vol:.(1234567890) 
+Discover Artificial Intelligence           (2025) 5:169  
+
+| https://doi.org/10.1007/s44163-025-00311-y 
+
+Brief Report
+
+ 54.  F Bell LB Moses M Legg J Silove M Zalnieriute 2022 AI decision-making and the courts: A guide for judges, tribunal members and court 
+
+administrators Australasian Institute of Judicial Administration Incorporated Sydney
+
+ 55.  A Fine S Marsh 2024 Judicial leadership matters (yet again): the association between judge and public trust for artificial intelligence in 
+
+courts Discov Artif Intell 4 1 44
+
+ 56.  Z Nouri WB Salah N AlOmran 2024 Artificial intelligence and administrative justice: an analysis of predictive justice in France Hasanuddin 
+
+Law Rev 10 2 119 143
+
+ 57.  A Tamò-Larrieux C Guitton S Mayer 2025 AI and law: how automation is changing the law CRC Press Boca Raton
+ 58.  C Guitton S Mayer A Tamo-Larrieux D Landuyt Van E Fosch-Villaronga I Kamara P Pałka 2024 Responsible automatically processable 
+
+regulation AI Soc 40 2 1075 1090
+
+ 59.  John AM, Aiswarya MU, Panachakel JT. Ethical challenges of using artificial intelligence in judiciary. In: 2023 IEEE International Conference 
+
+on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), pp. 723–728. IEEE (2023).
+
+ 60.  P Lehmann S Franzmann D Al-Gaddooa T Burst C Ivanusch S Regel F Riethmüller A Volkens B Weßels L Zehnter 2024 The Manifesto Data 
+
+Collection. Manifesto Project (MRG/CMP/MARPOR). Version 2024a Wissenschaftszentrum Berlin für Sozialforschung Berlin
+
+ 61.  Druță V, Tamo-Larrieux A, Guitton C, van Dijck G. From analog risk assessment instruments to digital ones: mapping the concerns. In: 
+Proceedings of Ongoing Research, Practitioners, Posters, Workshops, and Projects of the International Conference EGOV-CeDEM-ePart 
+2024 (2024).
+
+ 62.  KJ Schiff DS Schiff IT Adams J McCrain SM Mourtgos 2025 Institutional factors driving citizen perceptions of AI in government: Evidence 
+
+from a survey experiment on policing Public Adm Rev 85 2 451 467
+
+ 63.  Gummadidala PR, Karippur NK, Koilakuntla M. Analysis of factors influencing the adoption of artificial intelligence for crime manage-
+ment. In Re-imagining Diffusion and Adoption of Information Technology and Systems: A Continuing Conversation: IFIP WG 8.6 International 
+Conference on Transfer and Diffusion of IT, TDIT 2020, Tiruchirappalli, India, December 18–19, 2020, Proceedings, Part I (pp. 3–9). Springer 
+International Publishing (2020).
+
+ 64.  RK Goel JW Saunoris 2016 Virtual versus physical government decentralization: Effects on corruption and the shadow economy Public 
+
+Budg Financ 36 4 68 93
+
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Vol.:(0123456789)

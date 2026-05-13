@@ -1,0 +1,35 @@
+# Topic: Encuentro 1 - Entender para no equivocarse
+# Course: iapjn-2026
+# Generated: 2026-04-27
+
+topic_number: "01"
+topic_name: "encuentro-1"
+topic_title: "Encuentro 1 — Entender para no equivocarse"
+course_id: "iapjn-2026"
+topic_folder: "salida/cursadas/iapjn-2026/temas/01-encuentro-1"
+
+# Duration constraint (from config.yaml default_class_duration)
+class_duration: "90"
+
+# Git branch for this topic
+git_branch: "tema/01-encuentro-1"
+
+# Lifecycle status: design | class | study-guide | tp | quality | testing | closed
+status: "design"
+
+# Topicos del plan-minimo asignados a este encuentro
+plan_minimo_topicos:
+  - "1. Introduccion a la IA"
+  - "2. Uso de IA en el Poder Judicial"
+  - "3. Riesgos del uso de IA"
+  - "4. Ventana de contexto"
+  - "5. Introduccion al prompting"
+
+# Artifacts produced during this topic's lifecycle
+artifacts:
+  diseno: "diseno.md"
+  minuta: "minuta.md"
+  filminas: "filminas.md"
+  guia_estudio: "guia-estudio.md"
+  tp: "tp.md"
+  guia_profesor: "guiaprofesor.md"

@@ -1,0 +1,579 @@
+# Fuente
+- archivo: ARTIFICIAL_INTELLIGENCE_IN_THE_JUDICIARY_AI_JUDGES_AND_ITS_APPLICABILITY_IN_NORTH_MACEDONIA.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\ARTIFICIAL_INTELLIGENCE_IN_THE_JUDICIARY_AI_JUDGES_AND_ITS_APPLICABILITY_IN_NORTH_MACEDONIA.pdf
+- extraido: 2026-04-24T11:33:58
+
+# Contenido
+
+ARTIFICIAL INTELLIGENCE IN THE JUDICIARY, AI JUDGES, 
+AND ITS APPLICABILITY IN NORTH MACEDONIA 
+
+Asist. Prof. Azam KORBAYRAM, P.h.D,                                                                                    
+
+Faculty of Law, International Vision University,                                                                              
+
+E-mail: azam.korbayram@vision.edu.mk 
+
+Elif HOCA,Ph.D. Candidate,                                                                                                  
+
+Faculty of Law, International Vision University,                                                                              
+
+E-mail: elif.hoca@vision.edu.mk 
+
+ABSTRACT 
+
+This paper aims to examine the potential impact of artificial intelligence in judicial systems 
+and assess the readiness of legal institutions and professionals to adopt and implement AI-
+based  tools  in  adjudication  and  court  management.  Artificial  intelligence  (AI)  is 
+increasingly being integrated into various areas of judicial systems. From legal analysis to 
+decision  support  tools,  from  court  administration  to  automated  adjudication,  AI 
+technologies have the potential to improve the speed, accuracy, and efficiency of judicial 
+processes.  This  article  outlines  the  general  framework  of  AI  implementation  in  the 
+judiciary,  explores  the  concept  of  “AI  judges,”  and  examines  the  applicability  of  such 
+technologies  in  the  Republic  of  North  Macedonia.  Considering  the  current  legal  and 
+constitutional context, as well as technological limitations, the integration of AI into North 
+Macedonia’s judiciary appears conditionally feasible. This study has been conducted based 
+on a diverse range of sources, including various books, scholarly articles, peer-reviewed 
+journals, and official reports published by key public institutions. Accordingly, the article 
+examines the use of artificial intelligence in the judiciary and legal system under four main 
+subheadings:  theoretical  framework,  ethical  concerns,  technological  infrastructure,  and 
+legal  regulations.  Each  of  these  dimensions  has  been  explored  in  a  more  concrete  and 
+detailed manner. As a result, it is argued that for North Macedonia to implement AI systems 
+within its judiciary, it should first develop a comprehensive national AI strategy, initiate 
+both legislative and constitutional reforms with reference to comparative law, and align 
+with EU standards. Furthermore, it should adhere to the fundamental principles outlined 
+throughout this study. However, critical questions remain regarding how such applications 
+can be reconciled with fundamental legal principles such as the rule of law, the right to a 
+fair trial, transparency, and accountability. This study contributes to the emerging literature 
+on AI in justice systems by offering a context-specific analysis of its applicability within a 
+developing legal and institutional framework, using North Macedonia as a case study. 
+
+Keywords: Artificial Intelligence, AI Judges, North Macedonia, Legal Framework, Ethics 
+and Digital Justice 
+
+ 
+ 
+1.  Introduction 
+
+The  use  of  artificial  intelligence  (AI)  technologies  in  the  legal  field  particularly  within  judicial 
+systems  has  been  drawing  increasing  attention  worldwide  due  to  its  potential  to  enhance  the 
+efficiency  and  effectiveness  of  justice  delivery.  In  parallel,  the  concept  of  the  “AI  judge”  has 
+emerged, primarily aimed at automating decision-making processes in simple legal disputes. For 
+instance, in Estonia, a pilot project has been proposed involving a “robot judge” system designed 
+to resolve small claims cases. Under this model, parties would submit their documents digitally, 
+after which the AI system would issue a decision, subject to appeal before a human judge. Similarly, 
+since 2017, China's Internet Courts have handled millions of cases online with the assistance of AI 
+judges.  In  many  proceedings,  virtual  judges  in  the  form  of  holograms  have  conducted  video 
+interactions  with  parties,  received  evidence,  and  rendered  decisions.  While  these  developments 
+demonstrate that the integration of AI into judicial processes is practically feasible, they also give 
+rise to significant ethical, technical, and legal debates. 
+
+This study aims to examine the implementation of artificial intelligence in the judiciary within the 
+context of North Macedonia. As the country undergoes digital transformation and legal reforms in 
+line with its EU accession process, the applicability of AI-based systems will be addressed across 
+three  main  dimensions.  First,  ethical  concerns  will  be  explored,  including  impartiality, 
+transparency, human rights, and the accountability of decisions. Second, the focus will shift to the 
+technological infrastructure - namely the current level of digitalization, data management capacity, 
+and  the  IT  systems  required  for  AI  integration.  Finally,  legal  regulations  will  be  analyzed, 
+particularly  the  existing  legal  framework  of  North  Macedonia,  its  alignment  with  EU  and 
+international  standards,  and  potential  regulatory  gaps.  Within  this  framework,  international 
+experiences  and  examples from  EU practices  will  be used to  assess  North Macedonia’s  current 
+position and future prospects. 
+
+2.  Theoretical Framework  
+
+Artificial intelligence (AI) is defined as a set of algorithms designed to equip machines with human-
+like cognitive abilities such as learning, reasoning, and decision-making. (Susskind, 2019). The 
+development of AI technologies has gained strength through concrete applications in various fields 
+such  as  education,  law,  healthcare,  finance,  and  security,  enabling  the  automation  of  numerous 
+processes that traditionally required human intervention. (Selimi, Saracevic, & Useini, 2020). The 
+rise  of  AI  in  the  legal field  has  accelerated  with  the  effective  application  of  big  data  analytics, 
+natural language processing (NLP), and machine learning techniques to legal texts. (Surden, 2014). 
+
+Globally, the literature on AI in the judiciary presents a dual narrative: one of innovation and one 
+of caution. On the one hand, AI offers tools for legal research, case management, risk assessment, 
+and preliminary adjudication. (Zouridis, van Eck, M. L.,, & Bovens, 2019). For instance, China’s 
+Internet  Courts  have  handled  over  three  million  disputes  using  digital  platforms  and  AI-driven 
+tools. (Vasdani, 2020). Estonia has proposed an AI adjudicator for claims under €7,000, with the 
+intention of improving efficiency in small claims cases. (Niiler, 2019). On the other hand, academic 
+scholars  raise  concerns  about  algorithmic  bias,  transparency,  and  human  rights  implications. 
+(McGregor,  2021).  The  Council  of  Europe’s  (2018)  Ethical  Charter  on  AI  in  the  judiciary 
+underscores the need for human oversight, transparency, and respect for fundamental rights. 
+
+This initiative is particularly noteworthy as it would represent one of the first instances of granting 
+decision-making authority - albeit limited - to an AI system. Similarly, in some U.S. states, risk 
+assessment algorithms (e.g., COMPAS) are used to assist judges in criminal proceedings; however, 
+such tools have been criticized for allegedly exhibiting racial bias. (Estonia, 2019). In the United 
+Kingdom, an AI-powered chatbot called DoNotPay has assisted citizens in drafting appeals against 
+parking  fines,  leading  to  the  cancellation  of  thousands  of  erroneous  tickets.  (Angwin,  Larson, 
+Mattu, & Kirchner, 2016). 
+
+Academic  studies  examine  the  role  of  AI  in  judicial  processes  from  both  opportunity  and  risk 
+perspectives.  AI  holds  significant  potential to enhance  efficiency  by  supporting human labor in 
+areas  such  as  legal  research,  precedent  analysis,  and  the  classification  of  petitions  and  legal 
+documents (Ali, 2024). For instance, in complex case files, AI algorithms can rapidly scan relevant 
+case law and legislation, providing judges with comprehensive information thereby contributing to 
+more informed and consistent decision-making. (Dönmez, 2025). Indeed, a recent study suggests 
+that the chronic workload and case backlog issues within the North Macedonian judiciary could be 
+alleviated  through  AI-assisted  automation.  (Korbayram  &  Angeleska,  2023).  In  particular,  the 
+automation of routine and straightforward procedural tasks by AI could allow judges and court staff 
+to  concentrate  on  more  complex  and  substantive  matters.  However,  the  literature  consistently 
+underscores  ethical  concerns.  It  emphasizes  the  need  for  transparency  in  decision-making 
+processes,  the  elimination  of  algorithmic  bias,  the  establishment  of  oversight  mechanisms  for 
+errors, and ultimately, the responsibility of a human judge to oversee and validate AI-generated 
+outcomes. (Korbayram & Angeleska, 2023). The European Ethical Charter on the Use of Artificial 
+Intelligence in Judicial Systems, adopted by the Council of Europe in 2018 (Council of Europe, 
+2018), It recommends that AI applications comply with the principles of respect for human rights, 
+non-discrimination, quality and security, transparency and impartiality, and user control (human 
+oversight (Nuredin, 2022b).  
+
+These principles advocate for a cautious approach toward granting AI systems autonomous and 
+unchecked judicial authority. (Council of Europe, 2018). Consequently, the prevailing view in the 
+literature is that AI should not replace human judges entirely, but rather be implemented gradually 
+and carefully as a supportive tool within the judicial process. As Estonian President Kersti Kaljulaid 
+has noted, when AI takes over routine and labor-intensive tasks, human judges can focus on aspects 
+such as empathy and moral judgment - areas that machines can never truly replicate; provided, of 
+course, that AI systems are deployed in a secure and transparent manner. (Estonia, 2019). 
+
+3.  Ethical Dimensions 
+
+The use of artificial intelligence in the judiciary raises significant ethical questions. The first major 
+concern is how to uphold the principle of impartiality. AI algorithms carry the risk of reflecting the 
+biases  present  in  the  datasets  on  which  they  are  trained.  For  instance,  in  the  United  States,  the 
+COMPAS risk assessment AI system used in criminal courts was found to assign higher risk scores 
+to Black defendants, thereby contributing to discriminatory outcomes. (Estonia, 2019). Such cases 
+demonstrate that AI decisions can unintentionally be biased based on factors like race, gender, or 
+social status. The prohibition of discrimination is explicitly emphasized as one of the core ethical 
+principles  of  the  Council  of  Europe  regarding  AI.  Accordingly,  AI  systems  must  ensure  equal 
+treatment  for  all  individuals  and  must  not  adversely  affect  disadvantaged  or  vulnerable  groups. 
+(Council of Europe, 2018). 
+
+The second critical issue concerns the principles of transparency and explainability. AI judges or 
+decision-support systems must not operate as “black boxes” in other words, the logic behind their 
+conclusions must be comprehensible and explainable. One of the fundamental principles of law is 
+the right to a reasoned judgment, which also applies to AI-generated decisions; the rationale behind 
+the  outcome  must  be  meaningful  and  accessible.  However,  complex  algorithms  such  as  deep 
+learning often produce models that are difficult for humans to interpret. This lack of transparency 
+poses challenges for the public acceptance and accountability of judicial decisions. 
+
+Accountability  becomes  especially  crucial  in  this  context,  raising  the  question:  who  bears 
+responsibility when an AI-assisted decision is flawed or unjust? Is it the system developers, the 
+judicial  authorities,  or  the  human  judge  who  ultimately  approves  the  decision?  This  ambiguity 
+represents a critical gap that must be addressed before AI can be responsibly used in the judiciary. 
+Furthermore, there must be clear mechanisms for correcting errors and appealing decisions made 
+with AI involvement. Indeed, in China’s AI judge pilot programs, decisions made by AI systems 
+are  subject  to  review  by  human  judges  in  higher  courts  an  example  of  how  the  principle  of 
+accountability can be operationalized in practice. (Vasdani, 2020).  
+
+In countries like North Macedonia, which are parties to the European Convention on Human Rights 
+(ECHR), no practice should be allowed that undermines the fairness of judicial proceedings, as 
+guaranteed under Article 6 of the Convention, the right to a fair trial. In this context, the use of AI 
+must  not  conflict  with  fundamental  rights  such  as  access  to  a  court,  equality  of  arms,  or  the 
+presumption  of  innocence.  For  instance,  a  fully  automated  decision-making  system  could 
+potentially limit the defendant’s right to appear before a judge or to have a face-to-face hearing 
+with the decision-maker. Therefore, before such systems are implemented, their legal and ethical 
+legitimacy must be carefully examined. (Korbajram & Hoca, 2021). 
+
+The human factor and human dignity also occupy a central place in the ethical dimension  (Nuredin 
+& Nuredin, 2023) of AI in the judiciary. Judicial proceedings are not merely about mechanically 
+applying legal rules (Nuredin, 2016) - they require human judgment and moral reasoning. A human 
+judge, by listening to the testimonies of victims and defendants in person, can perceive nuances in 
+speech,  emotional  reactions,  and  signs  of  remorse  -  elements  that  carry  significant  weight  in 
+delivering justice. In contrast, current AI systems lack emotional intelligence and the capacity for 
+ethical judgment. As a result, AI judges are often criticized for their lack of a “human touch,” which 
+may undermine the inherently humane character of the judicial process. (Council of Europe, 2018). 
+Public trust in the judiciary may also be affected at this stage; the perception that justice is being 
+administered by machines, especially in the absence of sufficient transparency can make it more 
+difficult  for  citizens  to  accept  judicial  decisions.  To  build  and  maintain  trust,  it  must  be  made 
+explicitly clear that in all cases where AI is used as a tool, the final responsibility for the decision 
+lies with a human judge, and that AI serves only as an assistive mechanism. 
+
+This reflects the core of the “user control” principle outlined in the Council of Europe’s Ethical 
+Charter, which asserts that while AI can support judicial processes, judicial discretion must always 
+remain  in  human  hands.  In  conclusion,  from  an  ethical  standpoint,  it  is  essential  that  North 
+Macedonia  establish  rules  and  oversight  mechanisms  that  safeguard  the  principles  of  non-
+discrimination, transparency, respect for human rights, and accountability before implementing AI 
+systems in the judiciary. (Council of Europe, 2018). 
+
+4.  Analysis of Technological Infrastructure 
+
+The integration of AI into the judicial system requires a robust technological infrastructure. As a 
+first step, case files, court decisions, and legal documents must be digitized and made accessible 
+through integrated databases. In North Macedonia’s judiciary, an Automated Case Management 
+Information System (ACCMIS) is currently in use. However, the infrastructure of this system is 
+significantly outdated it operates on a Windows Server 2008 platform, with each court managing 
+its  own  separate  database,  and  the  capacity  of  the  central  server  remains  limited.  (Janevski  & 
+Zoroska Kamilovska, 2009).  
+
+Although the Information Center within the Supreme Court provides certain centralized services 
+through  data  replication  from  all  courts,  it  is  evident  that  the  current  data  storage  and  sharing 
+capacities  are  insufficient,  and  the  existing  systems  are  in  need  of  a  comprehensive  upgrade. 
+Moreover, auxiliary digital systems such as the court audio recording system (FEMIDA) also suffer 
+from capacity limitations. Given the demands of AI applications - particularly in terms of big data 
+management  and  real-time  processing  -  these  infrastructural  shortcomings  pose  a  significant 
+obstacle to effective implementation. (Gjorgjioska, Gorgieva D., & Stoileva., 2020). 
+
+In  recent  years,  the  government  of  North  Macedonia  has  taken  strategic  steps  to  accelerate 
+digitalization in the judiciary. The Ministry of Justice’s 2020-2022 Strategic Plan and the 2019-
+2024 Information and Communication Technology Strategy have identified the digitalization of 
+judicial processes and the establishment of a modern e-justice system as key priorities. Within the 
+scope of these plans, concrete objectives have been set, including the development of a centralized 
+e-Court portal, the modernization of case management systems for courts and prosecutors’ offices, 
+the  standardization  of  data,  and  training  programs  to  help  judicial  personnel  adapt  to  new 
+technologies. (Ministry of Justice, 2020).  
+
+Indeed, in November 2024, the Judiciary Working Group of the EU National Convention in North 
+Macedonia  issued  recommendations  to  the  government,  emphasizing  the  completion  of  an 
+interoperability platform for inter-court systems and the full implementation of the e-Court system. 
+(National Convention on the EU in the RN Macedonia, Acc. 2025). Through these initiatives, it is 
+envisioned that key procedures such as filing lawsuits, submitting petitions and documents, and 
+monitoring  hearings  can  be  conducted  entirely  in  digital  form,  enabling  the  end-to-end 
+digitalization of judicial processes. The same report also recommended the establishment of public 
+oversight mechanisms via digital platforms-allowing civil society to monitor the progress of court 
+cases—as well as cybersecurity and data protection training for members of the judiciary, and the 
+adaptation of successful digital justice models from EU member states. These recommendations 
+indicate that North Macedonia is actively working to address its technological infrastructure gaps 
+and  lay  the  groundwork  for  the  future  integration  of  advanced  technologies  such  as  artificial 
+intelligence. (National Convention on the EU in the RN Macedonia, Acc. 2025). 
+
+When discussing infrastructure for AI applications, it is important to consider not only software but 
+also hardware and human resources. Implementing such systems will require servers capable of 
+processing large volumes of judicial data, cloud computing services, or high-capacity data centers. 
+In North Macedonia, the country’s limited technical capacity has also slowed the progress of the 
+working group established in 2021 to develop a National AI Strategy (Ali & Skender, 2020). Key 
+challenges identified in both the preparation and implementation of this strategy include the lack 
+of  sufficient  data,  a  shortage  of  qualified  experts, and  inadequate technical  infrastructure. (Law 
+Gratis Reports., 2025). 
+
+Experts  have  noted  that  developing  a  comprehensive  AI  strategy  is  further  complicated  by  the 
+ongoing brain drain, emphasizing the need to retain well-trained young IT professionals within the 
+country. To address these shortcomings, it has been pledged that an AI strategy aligned with EU 
+standards will be developed with the support of international organizations such as the World Bank 
+and UNDP. In addition, private sector initiatives in the ICT field are being encouraged. The Fund 
+for Innovation and Technology Development (FITD) provides grants to start-up projects in the AI 
+sector and has supported the creation of applications such as “ADA,” the first Macedonian AI-
+powered digital assistant. These types of digital assistants, which offer basic advisory services to 
+citizens within public administration, help build institutional experience and foster broader public 
+familiarity with AI technologies. (Radonjanin, Lazarevska , & Srbinoski, 2024). 
+
+When considering AI judges specifically, North Macedonia's level of digital infrastructure maturity 
+is  not  yet  fully  adequate.  AI  judge  systems  require  access  to  vast  digital  archives  containing 
+millions  of  judicial  decisions  and  case  data  to  effectively  train  algorithms  (Ali,  Ristevski,  & 
+Jolevski, 2022). Making court decisions publicly available in a digital and anonymized format is 
+essential-not only for ensuring transparent use of data but also for training AI models. In this regard, 
+a regional workshop held in Bosnia and Herzegovina in May 2025 reported that Western Balkan 
+countries, including North Macedonia, are collectively working to improve their case management 
+systems, publish anonymized court decisions online, and integrate AI and digital tools into judicial 
+workflows. (Europe, 2025). 
+
+The aforementioned workshop, organized under the Council of Europe’s CEPEJ program, aims to 
+foster  regional  knowledge-sharing  on  digitalization  and  AI  integration.  It  is  evident  that  North 
+Macedonia is actively working to build its capacity through peer learning within this framework. 
+In light of these developments, for North Macedonia to establish an AI-supported judicial system, 
+it must first complete its e-justice infrastructure, ensure the full functionality of electronic case and 
+record  management  systems  across  all  courts,  and  elevate  its  data  protection  and  cybersecurity 
+standards to the highest level. (Europe, 2025).  
+
+Another critical factor is the ability of judges and court personnel to adapt to new technologies. 
+Without adequate user training and cultural adaptation, even the most advanced AI systems will 
+fail to deliver their intended benefits. Therefore, in conclusion, the applicability of AI judges in 
+North Macedonia will largely depend on the success of current digitalization efforts and the extent 
+of future investments in this domain. (National Convention on the EU in the RN Macedonia, Acc. 
+2025). 
+
+5.  Legal Framework 
+
+To  date,  North  Macedonia  has  not  enacted  any  comprehensive  legal  framework  specifically 
+addressing  artificial  intelligence.  As  of  May  2025,  there  is  no  law  or  binding  regulation  in  the 
+country that directly governs the use of AI. The absence of dedicated legislation concerning the 
+application  of  AI  in  the  legal  domain  highlights  the  urgent  need  to  establish  a  clear  regulatory 
+framework. In this context, it is imperative that legal systems move swiftly and effectively toward 
+adopting regulations capable of accommodating this emerging technology. (Turan, Kemaloğlu, & 
+Küçüksille, 2020). At present, developments in the field of AI in North Macedonia are primarily 
+guided by strategic documents and general regulatory instruments, such as laws on personal data 
+protection. Notably, the preparation of a National AI Strategy, which began in 2021, has yet to 
+result in a concrete legislative draft. Structural challenges-such as the lack of sufficient data and a 
+
+shortage  of  qualified  experts-have  contributed  to  this  delay.  Nevertheless,  as  North  Macedonia 
+continues  its  alignment  with  the  EU  acquis, it is  also  preparing  to  adopt the  European  Union’s 
+approach to artificial intelligence regulation. (Law Gratis Reports., 2025). Experts emphasize that 
+the legal gaps surrounding artificial intelligence in North Macedonia leave citizens vulnerable to 
+potential  misuse,  and  that  an  AI  regulatory  framework  aligned  with  EU  standards  must  be 
+developed urgently. In this regard, the country already has regulations in place that parallel the 
+EU’s General Data Protection Regulation (GDPR). North Macedonia’s Personal Data Protection 
+Agency actively monitors the development and use of AI technologies to ensure a balance with 
+individual privacy rights. Furthermore, the new Law on Personal Data Protection, which came into 
+force  in  2020,  along  with  its  implementing  regulations,  sets  out  general  principles  concerning 
+automated  data  processing  and  decision-making  procedures.  (Korbayram,  2024).  For  example, 
+safeguards  aligned  with  the  GDPR  have  been  established  regarding  the  processing  of  sensitive 
+personal data by AI and the issuance of fully automated decisions. However, highly specific issues-
+such  as  delegating  judicial  decisions  to  AI-are  not  explicitly  addressed  within  the  current  legal 
+framework. At present, the Law on Courts and related legislation in North Macedonia define the 
+concept of a judge strictly as a human being and require that all judgments and rulings bear the 
+signature of an authorized judge. This implies that, even if an AI system were to render a decision 
+in practice, it would not be legally valid without the formal approval of a human judge. (Law Gratis 
+Reports., 2025). 
+
+At the European Union level, although a unified legal framework on artificial intelligence has not 
+yet entered into force, the forthcoming EU Artificial Intelligence Act-expected to be finalized by 
+2025-serves as a significant point of reference. Through this draft regulation, it is evident that the 
+EU  has  adopted  a  more cautious  and  human  rights-oriented approach compared to  some  of the 
+early-adopting countries in the field of AI. (Dönmez, 2025).  The draft AI Act classifies artificial 
+intelligence systems according to their level of risk and explicitly designates the use of AI in the 
+field of justice and the judiciary as a “high-risk” category. (EU AI Act, 2025). Accordingly, AI 
+systems  used  by  judicial  authorities  for  decision-making  or  the  application  of  law-such  as 
+algorithms that conduct legal precedent analysis, evaluate evidence, or render judgments in place 
+of a judge-are considered high-risk and will be subject to strict regulatory requirements. (European 
+Commission,  2024).  The  deployment  or  use  of  such  systems  will  be  required  to  meet  specific 
+mandatory  criteria  regarding  transparency,  traceability,  human  oversight,  and  safety.  The  EU 
+regulation  aims  to  prevent  the  uncontrolled  use  of  automated  decision-making  systems  in  both 
+member and candidate countries. (EU AI Act, 2025). Therefore, if North Macedonia intends to 
+pursue future projects involving AI judges or similar initiatives, it must take into account the high 
+standards established in EU legislation. Additionally, the Council of Europe’s 2018 Ethical Charter 
+serves as a valuable soft law instrument for member states, and North Macedonia is expected to 
+develop its domestic regulations and ethical codes in alignment with these principles. 
+
+When compared to practices in other countries, North Macedonia’s regulatory gaps become more 
+apparent. For instance, neighboring Serbia published a National AI Ethics Guidelines document in 
+2019,  outlining  principles  to  ensure  that  AI  systems  are  developed  in  a  fair,  accountable,  and 
+transparent manner. (Radonjanin, Lazarevska , & Srbinoski, 2024). Similarly, some EU member 
+states have taken legislative steps that indirectly regulate the use of AI in the judiciary. For example, 
+in 2019, France enacted a provision in its Code of Justice (Article 33) that prohibits the use of AI 
+to identify individual judges or statistically evaluate their performance based on their rulings. This 
+regulation aims to protect judicial independence by preventing the scoring or ranking of judges 
+
+through decision analytics. While countries like the United Kingdom and Germany have not yet 
+introduced AI judges, they have launched pilot programs for online court platforms and automated 
+mediation systems. 
+
+Another important dimension of North Macedonia’s legal framework relates to regulatory gaps and 
+institutional capacity. Currently, the country lacks a specific authority tasked with overseeing the 
+use  of  artificial  intelligence  across  different  sectors  (Nuredin,  2023b),  including  the  judiciary. 
+(Korbayram & Delev, 2023). While the Ministry of Information Society and Administration and 
+the  Fund for  Innovation  and  Technology  Development  appear to  be responsible for  the  general 
+coordination of AI policies, there is currently no independent regulatory or ethical body specifically 
+designated  to  oversee  the  use  of  AI  in  the  judiciary.  This  institutional  gap  poses  challenges, 
+particularly when it comes to establishing technical standards and addressing complaints that may 
+arise  from  the  use  of  AI  in  court  proceedings.  Experts  emphasize  the  urgent  need  to  develop 
+protective legislation to ensure that citizens are not subjected to rights violations stemming from 
+the application of AI technologies. (Law Gratis Reports., 2025). This includes essential safeguards 
+such as the right of citizens to appeal and seek review of automated decisions, the obligation to 
+explain  algorithmic  outcomes,  and  the  certification  and  oversight  of  AI  systems.  As  North 
+Macedonia moves toward full EU membership, it will need to strengthen its legal framework in 
+these areas. 
+
+In conclusion, given the absence of clear legal foundations for the use of AI in the judiciary, the 
+implementation  of  AI  judges  currently  exists  in  a  legal  grey  area.  To  address  this  gap,  the 
+completion of the National AI Strategy must be prioritized, followed by the adoption of dedicated 
+legislation or amendments to existing judicial laws - defining the scope and limits of AI use in the 
+justice system. This would provide legal clarity on key issues such as the types of cases suitable 
+for AI involvement, the legal status of AI-generated outcomes, the allocation of responsibility, and 
+the mechanisms for oversight and accountability. 
+
+6. Discussion and Conclusions 
+
+Within the framework of the findings presented in the previous sections of this study, it is evident 
+that  the  integration  of  artificial  intelligence  (Nuredin,  2023a)  into  judicial  processes  offers 
+significant  opportunities  in  terms  of  efficiency,  speed,  and  accessibility.  However,  this 
+transformation also brings with it serious ethical concerns and legal uncertainties. 
+
+In the context of North Macedonia, this assessment highlights three core dimensions in evaluating 
+the applicability of AI-assisted judicial systems: ethical principles, technological infrastructure, and 
+legal regulation. From an ethical standpoint, in order to establish public legitimacy, it is essential 
+to build trust that AI systems are impartial and fair. In this regard, it is recommended that local 
+ethical guidelines be developed in alignment with the Council of Europe’s key principles namely, 
+respect  for  human  rights  (Nuredin,  2022a),  non-discrimination,  security,  transparency,  and  user 
+control. 
+
+Before being implemented in courts, AI systems should undergo bias testing, and both algorithmic 
+transparency and decision explainability must be integral to the process. As a starting point, pilot 
+programs  could  be  introduced  in  limited  areas  such  as  small  claims  disputes  through  a  judge-
+assistant model, allowing gradual and controlled integration. 
+
+From  a  technological  standpoint,  accelerating  digital  transformation  in  North  Macedonia  is 
+essential. The digitization of court records, development of integrated case management systems, 
+facilitation of inter-institutional data sharing, and investment in cybersecurity form the foundation 
+of  this  process.  Citizen-oriented  platforms  such  as  an  e-Court  portal  would  not  only  enhance 
+transparency but also help meet the data demands of AI systems. In this regard, EU funding and 
+regional  cooperation  initiatives  can  provide  valuable  support.  In  terms  of  human  resources,  the 
+recruitment of IT specialists in the public sector and the provision of continuous training should be 
+prioritized. 
+
+On the legal front, North Macedonia must first develop a National Artificial Intelligence Strategy, 
+followed by the adoption of a dedicated AI Law or amendments to existing legislation. The legal 
+status of AI-assisted decisions should be clearly defined, requiring final approval by a human judge 
+and ensuring that individuals retain access to legal remedies. Alignment with the EU's AI Act and 
+the adaptation of best practices from countries such as Estonia, France, and the Netherlands will be 
+critical in guiding this transition. 
+
+In conclusion, the implementation of AI judges in North Macedonia will require the strengthening 
+of  both  technical  and  normative  infrastructures.  However,  if  this  transformation  is  managed 
+properly with full respect for the right to a fair trial and the principle of judicial independence it 
+can  lay  the  foundation  for  a  human-centered,  technology-assisted  justice  system.  The  proposed 
+roadmap involves starting with limited pilot projects and continuously refining the system through 
+ongoing monitoring and evaluation. In this way, AI can serve as the “assistant angel” to the human 
+judge;  but  the  scales  of  justice  must  always  remain  under  the  guidance  of  human  intellect  and 
+conscience. 
+
+References 
+Ali, I. (2024). АНАЛИЗА НА ГОЛЕМИ КОЛИЧЕСТВА ПОДАТОЦИ ВО 
+
+ОБРАЗОВАНИЕТО. Bitola: УНИВЕРЗИТЕТ „СВ. КЛИМЕНТ ОХРИДСКИ“ - 
+БИТОЛА ФАКУЛТЕТ ЗА ИНФОРМАТИЧКИ И КОМУНИКАЦИСКИ 
+ТЕХНОЛОГИИ - БИТОЛА. 
+
+Ali, I., & Skender, F. (2020). PLATFORMS AND LIVE SYSTEM MIGRATION. 
+
+HIKMET - INTERNATIONAL PEER-REVIEWED JOURNAL OF SCIENTIFIC 
+RESEARCH, 33, 104-112. 
+
+Ali, I., Ristevski, B., & Jolevski, I. (2022). Pair Programming In Primary Education - A 
+Macedonian Case Study. 12th International conference on Applied Internet and 
+Information Technologies (AIIT2022), October 14th 2022, Zrenjanin, SerbiaAt: 
+Zrenjanin, Serbia. Zrenjanin. 
+
+Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias: There’s software 
+used across the country to predict future criminals. And it’s biased against blacks. 
+Propublica. Retrieved from https://www.propublica.org/article/machine-bias-risk-
+assessments-in-criminal-sentencing 
+
+Council of Europe, .. (2018). Adoption of a European Ethical Charter on the Use of 
+
+artificial intelligence in judicial systems and their Environment at the 31st 
+Plenary Meeting of the CEPEJ in Strasbourg on 3 and 4 December 2018. 
+Retrieved from Adoption of a European Ethical Charter on the Use of artificial 
+intelligence in judicial systems and their Environment at the 31st Plenary Meeting 
+of the CEPEJ in Strasbourg on 3 and 4 December 2018: 
+https://www.uihj.com/2018/12/04/adoption-of-a-european-ethical-charter-on-the-
+use-of-artificial-intelligence-in-judicial-systems-and-their-environment-at-the-
+31st-plenary-meeting-of-the-cepej-in-strasbourg-on-3-and-4-december-
+2018/#:~:text=draft%20charter 
+
+Council of Europe, .. (2018). European Ethical Charter on the Use of Artificial 
+Intelligence in Judicial Systems and their Environment. Retrieved from 
+https://rm.coe.int/ethical-charter-en-for-publication-4-december-2018/16808f699c 
+
+Dönmez, Z. (2025). Legal Development of Artificial Intelligence ond EU Artificial 
+
+Intelligence Act. Adalet Dergisi, 74(1), .947-975. 
+
+Estonia. (2019). Can AI Be a Fair Judge in Court? Estonia Thinks So. Retrieved from 
+
+WIRED: https://www.wired.com/story/can-ai-be-fair-judge-court-estonia-thinks-
+so/#:~:text=The%20flip%20side%20is%20that,criticized%20as%20biased%20ag
+ainst%20blacks 
+
+EU AI Act. (2025). Annex III - High-Risk AI Systems Referred to in Article 6(2). 
+
+Retrieved from 
+https://www.euaiact.com/annex/3#:~:text=Administration%20of%20justice%20a
+nd%20democratic,processes 
+
+Europe, C. o. (2025, May 23). Western Balkan judicial institutions aim for efficient 
+
+judicial systems through digital transformation. Retrieved from Joint Programme: 
+https://pjp-eu.coe.int/sr-RS/web/horizontal-facility/home/-
+/asset_publisher/RGaJpmQVF5yF/content/western-balkan-judicial-institutions-
+aim-for-efficient-judicial-systems-through-digital-
+transformation#:~:text=This%20regional%20platform%20aims%20to,in%20lin 
+
+European Commission, .. (2024). Proposal for a Regulation of the European Parliament 
+and of the Council laying down harmonised rules on artificial intelligence 
+(Artificial Intelligence Act). COM(2021) 206 final.  
+
+Gjorgjioska, E., Gorgieva D., D., & Stoileva., Z. (2020). Comparative process solutions 
+to deal with the Covid – 19 pandemic with special focus on the situation in civil 
+proceedings in North Macedonia. Iustinianus Primus Law Review Volume, 11(2). 
+
+Janevski, А., & Zoroska Kamilovska, T. (2009). Civil Procedural Law - Contested Law. 
+
+Skopje. 
+
+Korbajram, A., & Hoca, E. (2021). HUMAN RIGHTS PROTECTION FROM THE 
+PERSPECTIVE OF THE 1991 CONSTITUTION OF MACEDONIA. 
+International Scientific Journal Vision, 6(2), 43-53. 
+doi:https://doi.org/10.55843/ivisum2126043h 
+
+Korbayram, A. (2024). KUZEY MAKEDONYA CUMHURİYETİ ANAYASA HUKUKU. 
+
+Gostivar: International Vision University. Retrieved from 
+https://www.vision.edu.mk/21749312/controller/pdf_gallery/kuzey-makedonya-
+cumhuriyeti-anayasa-
+hukuku/KUZEY%20MAKEDONYA%20CUMHUR%C4%B0YET%C4%B0%2
+0ANAYASA%20HUKUKU.pdf 
+
+Korbayram, A., & Delev, J. (2023). Lawmaking and Procedures in the National 
+Assembly of the Republic of North Macedonia. Sui Generis, 2(1), 29-44. 
+doi:https://doi.org/10.55843/SG2321029k 
+
+Korbayram, A., & Angeleska, A. (2023). APPLICATION OF ARTIFICIAL 
+
+INTELLIGENCE IN THE JUDICIARY AND ITS APPLICABILITY IN 
+NORTH MACEDONIA. Sui Generis, 2(2), 61-68. 
+doi:https://doi.org/10.55843/SG2322061k 
+
+Law Gratis Reports. (2025, 5 5). Artificial Intelligence law at North Macedonia. 
+
+Retrieved from Law Gratis: https://www.lawgratis.com/blog-detail/artificial-
+intelligence-law-at-north-
+macedonia#:~:text=Initiatives%20for%20AI%20Strategy%3A%20In,%28Global
+%20Practice%20Guides 
+
+McGregor, L. (2021). Technological Due Process: AI, Law and the Problem of 
+Accountability. Oxford Journal of Legal Studies, 41(4), 645-669. 
+
+Ministry of Justice. (2020). Strategic plan of the Ministry of Justice 2020-2022 ,. 
+
+Retrieved from 
+https://www.pravda.gov.mk/Upload/Documents/STRATESKI%20PLAN%20202
+02022 
+
+National Convention on the EU in the RN Macedonia. (Acc. 2025). Digitalization and 
+
+reorganization in judiciary will contribute towards more qualitative judiciary and 
+efficient court procedures. Retrieved from National Convention on the EU in the 
+RN Macedonia,: https://nkeu.mk/en/2024/11/07/digitalization-and-reorganization-
+in-judiciary-will-contribute-towards-more-qualitative-judiciary-and-efficient-
+court-
+procedures/#:~:text=technical%20resources%20for%20digitalization%20should,e
+fficient%20solving%20of%20court% 
+
+Niiler, E. (2019). Can AI Be a Fair Judge in Court? Estonia Thinks So. Wired. Retrieved 
+
+from https://www.wired.com/story/can-ai-be-fair-judge-court-estonia-thinks-so/ 
+
+Nuredin., A. (2022). AN EVALUATION OF THE LEGAL LIABILITY OF 
+
+ARTIFICIAL INTELLIGENCE AND ROBOTICS IN BALKAN STATES 
+(SLOVENIA, SERBIA AND NORTH MACEDONIA). Vision International 
+Scientific Journal, 7(1), 9-20. doi:https://doi.org/10.55843/ivisum2271009n 
+
+Radonjanin, A., Lazarevska , A., & Srbinoski, F. (2024). North Macedonia: Trends and 
+
+Developments (AI 2024). Retrieved from 
+https://www.schoenherr.eu/media/0s3n4xde/schoenherr_chambers_north_macedo
+nia.pdf#:~:text=Education%20and%20Science%20One%20of,the%20Macedonia
+n%20government 
+
+Selimi, A., Saracevic, M., & Useini, A. (2020). Impact of Using Digital Tools in High 
+School Mathematics: A Case Study in North Macedonia. Universal Journal of 
+Educational Research, 8(8), 3615-3624. doi:10.13189/ujer.2020.080838 
+
+Surden, H. (2014). Machine Learning and Law. Washington Law Review, 89(1), 87–115. 
+
+Susskind, R. (2019). Online Courts and the Future of Justice. Oxford University Press. 
+
+Turan, T., Kemaloğlu, N., & Küçüksille, E. U. (2020). Hukuk’ta Yapay Zeka: Çalışmalar 
+
+ve Gelecek Öngörüleri. The Journal of Graduate School of Natural and Applied 
+Sciences of Mehmet Akif Ersoy University, 11(2), 246-255. 
+doi:https://doi.org/10.29048/makufebed.748843 
+
+Vasdani, T. (2020). Robot Justice: China's Use of Internet Courts. Canada: LexisNexis 
+
+Canada. 
+
+Zouridis, S., van Eck, M. L.,, M., & Bovens, M. (2019). Automated Decision-Making in 
+
+Public Administration and the Rule of Law. The Hague Journal on the Rule of 
+Law, 11(1), 3-26.

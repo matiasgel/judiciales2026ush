@@ -1,0 +1,614 @@
+# Fuente
+- archivo: PDF_Innovacion_y_gestion_judicial_tecnologica.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\PDF_Innovacion_y_gestion_judicial_tecnologica.pdf
+- extraido: 2026-04-24T11:34:11
+
+# Contenido
+
+Innovación y  
+gestión judicial 
+tecnológica 
+
+La realidad actual está marcada por tiempos de tecnologías que se desarrollan 
+
+exponencialmente  y  una  hiperconectividad  sin  precedentes.  En  este  contexto, 
+
+las/los  líderes  públicos  deben  ser  capaces  de  reinventar  y  mantener  vigente la 
+
+propuesta  de  valor  de  sus servicios y procesos, como condición necesaria para 
+
+liderar administraciones eficientes y ágiles. 
+
+La innovación es el camino para lograr resultados distintos, si seguimos haciendo 
+
+lo  mismo,  
+
+los  resultados  seguirán  siendo  los  mismos.  La  tríada  de  personas, 
+
+tecnologías y procesos de gestión son el corazón de la innovación. En ello radica 
+
+la importancia de la innovación en la administración de justicia.  
+
+El  curso  está  orientado  a  brindar  una  mirada  general  en  torno  a  los  valores, 
+
+competencias,  y  habilidades  necesarias  para 
+
+lograr  una  transformación 
+
+disruptiva en el funcionamiento de la administración de justicia, y así brindar una 
+
+prestación  del  servicio  que  satisfaga  las  expectativas  ciudadanas.  Se  intentará 
+
+abordar  herramientas  y  conocimiento  sobre  las  tecnologías  emergentes  que 
+
+afectan de manera directa el ejercicio práctico de la gestión judicial.  
+
+ 
+            
+ 
+            
+ 
+          
+ 
+ 
+ 
+ 
+ 
+Es  decir,  acompañar  la  transformación  de  un  ecosistema  judicial  analógico  a 
+
+uno digital e Inteligente, cuyas características son la agilidad de los procesos, la 
+
+transparencia, 
+
+la  trazabilidad, 
+
+la  eficiencia, 
+
+la  automatización  de  tareas 
+
+repetitivas,  la  inmediatez,  la  seguridad  y  protección  de  la  información,  la 
+
+ubicuidad,  el  acceso  a  justicia,  y  fundamentalmente la incorporación continua 
+
+de soluciones novedosas a través del uso de las tecnologías emergentes. 
+
+DOCENTES:  Romina  Pousa,  María  Celina  Abaurre,  Sebastián  Chumbita,  Mario 
+
+Adaro y Marisa Repetto 
+
+OBJETIVOS 
+
+Que los cursantes: 
+
+●  Promuevan  la  innovación  permanente  para  crear  valor,  impacto  y 
+
+cambio  positivo  en  el  servicio  de  justicia,  mediante  el  uso  de  la 
+
+experimentación y la colaboración.   
+
+●  Conozcan  y  aborden  el ecosistema digital, sus factores, herramientas e 
+
+instrumentos  desde  una  mirada  legal-  jurídica  y  técnica,  aplicada  a  la 
+
+gestión judicial tecnológica. 
+
+●  Generen 
+
+ideas 
+
+innovadoras  y  disruptivas,  que  se  transformen  en 
+
+proyectos que impacten en un cambio en el sistema actual de justicia.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMPETENCIAS 
+
+Saberes  
+
+Saberes  
+
+Saberes  
+
+conceptuales 
+
+procedimentales 
+
+actitudinales 
+
+Conocer los 
+alcances y 
+beneficios de la 
+reorganización 
+institucional en el 
+marco de la 
+innovación y 
+transformación 
+judicial. 
+
+Conocer los 
+alcances del 
+Derecho Procesal 
+electrónico. 
+
+Conocer la 
+utilización de 
+modelos de 
+lenguaje en el 
+prompteo legal. 
+
+Conocer las 
+bondades del uso 
+de plataformas 
+digitales de 
+
+Aplicar eficazmente 
+los dispositivos y las 
+herramientas 
+digitales 
+optimizando su uso 
+a efectos de 
+consolidar la 
+transformación 
+judicial. 
+
+Utilizar de forma 
+adecuada las 
+herramientas y 
+gestionar los 
+aplicativos 
+tecnológicos para 
+mejorar el servicio 
+de justicia. 
+
+Aplicar eficazmente 
+herramientas de 
+inteligencia artificial en 
+el ecosistema judicial 
+
+Utilizar eficazmente las 
+plataformas digitales 
+
+Valorar la importancia 
+de conocer los 
+alcances y 
+aplicaciones de las 
+herramientas digitales, 
+y de su utilización 
+eficaz y eficiente para 
+agilizar la Gestión 
+Judicial. 
+
+Valorar la importancia 
+de la utilización de las 
+competencias digitales 
+para promover 
+cambios en el Modelo 
+de Gestión sin 
+implementarlas para 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tramitación y 
+comunicación. 
+
+de tramitación y 
+comunicación 
+
+replicar procedimientos 
+ya agotados. 
+
+Incorporar y aplicar 
+al servicio de justicia 
+las herramientas 
+digitales. 
+
+Alentar la promoción y 
+aplicación de la 
+cultura Mindset ágil en 
+el Poder Judicial de la 
+Nación. 
+
+Conocer los 
+diferentes aspectos 
+de la inteligencia 
+artificial y la 
+inclusión de 
+tecnologías 
+disruptivas en la 
+gestión judicial. 
+
+Conocer las 
+bondades de la 
+agilidad judicial. 
+
+Incorporar la cultura 
+ágil en el ámbito de 
+la justicia. 
+
+Conocer el impacto 
+de las emociones 
+en la toma de 
+decisiones 
+judiciales. 
+
+Aplicar y gestionar 
+eficazmente las 
+emociones en la 
+toma de decisiones 
+judiciales. 
+
+CONTENIDOS 
+
+●  Unidad 1 – Innovación en la gestión judicial 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Innovación  en  el  ámbito  público.  Concepto,  mitos,  tipos.  Paradigma 
+
+VICA-BUCA.  Procesos  centrados  en  la  persona  humana.  Hexágono  de 
+
+Innovación Pública. Modelo HIP aplicado a la justicia.  
+
+Reorganización 
+
+institucional  en  el  marco  de 
+
+la 
+
+transformación  e 
+
+innovación  judicial.  Organización  de  las  áreas  de  trabajo.  Método  ágil. 
+
+Legal Project Management.  
+
+●  Unidad 2 –  Prompt Legal 
+
+Introducción  al  prompting.  Desde 
+
+inputs  básicos  hasta  instrucciones 
+
+optimizadas. Modelos multipropósito vs. multitarea. 
+
+Evolución  de  los  modelos  de  IA:  de  los  modelos  generativos básicos a los 
+
+sistemas  de  razonamiento  avanzado.  El  paso  de  los  modelos  pasivos  a 
+
+sistemas con mayor autonomía. 
+
+Aplicaciones  de  IA  generativa  en  justicia.  Influencia  del  prompting  en  la 
+
+calidad  de  las  respuestas legales. Casos prácticos de uso en documentos 
+
+jurídicos,  análisis  de  normativa  y  redacción  de  escritos.  Construcción  de 
+
+prompts efectivos para distintas tareas jurídicas. 
+
+●  Unidad 3 - Liderazgo y equipos ágiles 
+
+Agilidad Judicial. Una nueva cultura. Mindset Ágil. El líder Ágil.  
+
+El rol de las emociones en la toma de decisiones. Su impacto en la decisión 
+
+judicial.  
+
+ 
+ 
+Habilidades  que  debe  desarrollar  un  líder.  Manejo  de  estrés.  Manejo  del 
+
+tiempo.  
+
+●  Unidad 4 - Liderazgo y equipos ágiles 
+
+Colaboración  y  autonomía  de  equipos  ágiles.  Motivación.  Feedback. 
+
+Conversaciones difíciles. Resolución de problemas. Seguridad psicológica. 
+
+●  Unidad 5: Modelo de Innovación - Desarrollo del trabajo final 
+
+Modelo  de  Innovación  y  el  modelo  hexagonal  de  los  seis  vectores  para 
+
+innovar. 
+
+Trabajaremos en los ámbitos o espacios posibles de innovación. 
+
+Continuaremos con el recorrido en las etapas del método para innovar. 
+
+Durante  todo  el  encuentro  realizaremos  dinámicas  para  realizar  la 
+
+actividad del Campus y avanzar en el desarrollo del trabajo final 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIBLIOGRAFÍA 
+
+●  Unidad 1- Innovación en la gestión judicial 
+
+●  Bibliografía  obligatoria  ǀ  Adaro.  La  innovación  tecnológica,  el  gran 
+
+desafío de la justicia. 
+
+●  Bibliografía  obligatoria  ǀ  Carta  Iberoamericana  de  Innovación  en  la 
+
+Gestión Pública. 
+
+●  Bibliografía  complementaria 
+
+ǀ  Bonina.  Aplicación  del  diseño  al 
+
+Derecho. Suplemento Innovación. 
+
+●  Bibliografía complementaria ǀ CEPAL. Innovación para el desarrollo. 
+
+●  Bibliografía  complementaria  ǀ NovaGob. Misiones de la Administración 
+
+Pública. 
+
+●  Bibliografía complementaria ǀ Panel: Innovación en la Justicia. Semana 
+
+de la Innovación. Innovación Ciudadana. 
+
+●  Bibliografía  complementaria  ǀDeclaración  de  Lisboa  sobre  Innovación 
+
+Pública. 
+
+Unidad 2 - Prompt Legal 
+
+Bibliografía obligatoria 
+
+●  Corvalán, Juan Gustavo, “La primera inteligencia artificial predictiva al servicio de 
+
+la justicia: Prometea”, Diario La Ley, 2017.  
+
+●  https://ialab.com.ar/wp-content/uploads/2019/05/Art%C3%ADculo-Juan-La-Ley.p
+
+df (Descarga gratuita) 
+
+ 
+ 
+ 
+ 
+ 
+●  Actividad  Procesal  Automatizada  (Investigación);  Laboratorio  de  Innovación  e 
+
+Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires 
+
+https://ialab.com.ar/wp-content/uploads/2020/11/Actividad-procesal-automatiz
+
+ada.-Informepdf.pdf (Descarga gratuita). 
+
+●  Chumbita,  Sebastián  C.  “Un  cambio  de  paradigma  en  la  administración  de 
+
+justicia latinoamericana: los núcleos de justicia 4.0 de la República Federativa de 
+
+Brasil”, RC D 242/2021. 
+
+●  https://ialab.com.ar/webia/wp-content/uploads/2023/11/Guia-de-directrices-uso
+
+s-de-ChatGPT-e-IA-generativa-en-la-justicia.pdf  
+
+Bibliografía complementaria 
+
+●  Corvalán,  Juan  G  (Dir.),   Tratado  de  Inteligencia  Artificial,  La  Ley,  Buenos  Aires, 
+
+2021, T. I, II, III.  
+
+●  Nieva Fenoll, Jordi, Inteligencia Artificial y Proceso Judicial, Editorial Marcial Pons. 
+
+● 
+
+Inteligencia  Artificial  y  Trabajo;  Cevasco,  Luis;  Corvalán,  Juan  Gustavo;  Le Fevre 
+
+Cervini, Enzo Maria; Editorial Astrea (Descarga gratuita). 
+
+●  Corvalán  Juan  Gustavo,  Prometea, 
+
+Inteligencia  Artificial  para  transformar 
+
+organizaciones públicas, editorial Astrea, año 2019 
+
+●  Chumbita,  Sebastián  C.  “Inteligencia  Artificial  y Proceso de Revisión”, Revista de 
+
+Derecho Procesal, Rubinzal Culzoni, págs. 621/636. 
+
+●  Corvalán, Juan G., Inteligencia Artificial, GPT-3, PretorIA y oráculos algorítmicos en 
+
+el Derecho. 
+
+●  Bueno  de  Mata,  Federico,  “Macrodatos,  Inteligencia  Artificial  y  proceso: luces y 
+
+sombras”, Revista General de Derecho Procesal, 2020. 
+
+●  Seis  Niveles  de  Automatización  (Investigación);  Laboratorio  de  Innovación  e 
+
+Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires 
+
+ 
+https://ialab.com.ar/wp-content/uploads/2021/04/Infografia.-Seis-niveles-de-auto
+
+matizacion.pdf (Descarga gratuita). 
+
+●  Unidad 3 - Liderazgo y equipos ágiles 
+
+●  Bibliografía  obligatoria.  Melina  Jajamovich  ǀ  Agilidad  101  y  por  qué  es 
+
+clave para navegar tiempos de cambio. 
+
+●  Bibliografía  obligatoria.   Forbes  ǀ  What´s  Missing  in  the  Agile  Manifiesto: 
+
+Mindset 
+
+●  Bibliografía obligatoria. 
+
+https://www.linkedin.com/posts/nanokigel_mindset-habilidades-talento-ac
+
+tivity-7143274595603709952-SnHn?utm_source=share&utm_medium=memb
+
+er_desktop  
+
+●  Bibliografía  complementaria.  Jajamovich  ǀ  Mindset  ágil.  Toma  I:  ley  del 
+
+cliente. 
+
+●  Bibliografía complementaria. Melina Jajamovich ǀ Mindset ágil. Toma 2: Ley 
+
+del equipo pequeño. 
+
+●  Bibliografía complementaria. Melina Jajamovich ǀ Toma III: Ley de la red. 
+
+●  Bibliografía  complemetnaria.  ajamovich 
+
+ǀ 
+
+Toma 
+
+IV:  Ley  de 
+
+la 
+
+experimentación. 
+
+●  Bibliografía complementaria. Melina Jajamovich ǀ Context is King. 
+
+●  Bibliografía complementaria. Cascio ǀ Facing the Age of Caos. 
+
+●  Unidad 4 - Liderazgo y equipos ágiles 
+
+ 
+ 
+ 
+ 
+●  Bibliografía 
+
+obligatoria. 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7171135400948838400
+
+/  
+
+●  Bibliografía obligatoria. Agilidad en el Poder Judicial 
+
+●  Bibliografía obligatoria. Definiciones de Agilidad 
+
+●  Bibliografía obligatoria. ¡¿Ágil o no ágil?! 
+
+●  Bibliografía  complementaria.  Fuck-up  edición  (i)limitada:  o  el  reto  de 
+
+aprender de la pandemiaURL 
+
+●  Bibliografía  complementaria.  PUEDE  FALLAR.  O  CUANDO  EL  PODER 
+
+JUDICIAL SE AMIGA CON EL FRACASO 
+
+●  Bibliografía 
+
+complementaria 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7171126436068483072
+
+/  
+
+●  Bibliografía 
+
+complementaria 
+
+https://www.linkedin.com/posts/nanokigel_liderazgoadaptativo-adaptivel
+
+eadership-liderazgo-activity-7153377951122632705-jQIK?utm_source=share
+
+&utm_medium=member_desktop  
+
+●  Bibliografía complementaria. The Art of Stress-Free Productivity: David Allen 
+
+at TEDxClaremontColleges  
+
+●  Unidad 5 - Modelo de innovación-Desarrollo del trabajo final 
+
+●  Bibliografía  obligatoria 
+
+ǀ  Oliván  Cortés.  Modelo  de  Hexágono  de 
+
+Innovación Pública. 
+
+●  Bibliografía obligatoria. 
+
+ 
+ 
+https://www.linkedin.com/posts/nanokigel_innovaciaejn-procesos-stakehol
+
+ders-activity-7168601581934764032-kWby?utm_source=share&utm_medium
+
+=member_desktop  
+
+●  Bibliografía obligatoria. 
+
+https://www.linkedin.com/posts/nanokigel_godaddy-designthinking-experi
+
+enciadeusuario-activity-7166075592960851968-2WEB?utm_source=share&ut
+
+m_medium=member_desktop  
+
+●  Bibliografía  complementaria  ǀ  Oliván  Cortés.  Instituciones  que  aprenden 
+
+HIP-resumen-ejecutivo. 
+
+●  Bibliografía complementaria ǀ Repetto, Cortés, Califa. Explorando Futuros. 
+
+●  Bibliografía complementaria.  
+
+https://www.linkedin.com/pulse/el-legal-project-management-enamorami
+
+ento-del-proceso-anna-marra-zvcbf/?trackingId=J0LgZsRDQxSpdJDwtD3yP
+
+g%3D%3D  
+
+●  Elevator pitch. Tienes 20 segundos - eduCaixa

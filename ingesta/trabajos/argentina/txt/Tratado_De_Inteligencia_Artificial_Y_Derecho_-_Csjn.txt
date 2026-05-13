@@ -1,0 +1,414 @@
+# Fuente
+- archivo: Tratado_De_Inteligencia_Artificial_Y_Derecho_-_Csjn.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\Tratado_De_Inteligencia_Artificial_Y_Derecho_-_Csjn.pdf
+- extraido: 2026-04-24T11:34:13
+
+# Contenido
+
+JUAN  G. CORVALÁN 
+Director 
+
+~us'r1i~e;,f 
+r¡·',-,r- ~ ,  
+,Jit-.....,-;:;-..,... 
+. c,,;I  "\' •LV 1 <:1;,-. 
+,,,. t 
+5:  .., Gf.,J-rRAL  §;; J 
+~~) 
+~~ 
+
+l 
+
+' 
+
+'1 
+
+-.::. 
+
+·t 
+
+1  \ 
+
+'" 
+
+TRATADO  DE 
+INTELIGENCIA 
+ARTIFICIAL Y 
+DERECHO 
+
+2.ª edición' actualizada, ampliada y aumentada 
+
+TOMO  111 
+
+· Qq9º 
+
+CORTE SUPF~EMA 
+r:•·g¡  10-rr..:cA 
+r.1!  _,  _, 
+-
+~,""Y-""'r:J•''"l-•f' 
+.,k,  • t,,  OGRAr: ,.A 
+
+• 1 ._ 
+· ;  
+1N\J€N 
+
+¡ 
+1 
+-
+,  16iz~4  ; 
+
+.,., .... 
+, Ah,O 
+
+J 
+
+ÁLVAREZ  SÁEZ  - BALANCINI  - BRAUN  PELLEGRINI  - CARREIRA  - CARRO 
+CHUMBITA - CORVALÁN - DECIMA - DÍAZ DÁVILA - ESTEBAN - ETCHEBERRY 
+GRANERO  - GUILERA  - HELEG  - LE  FEVRE  CERVINI  - LIPERA  - MARSIGLIA 
+MEROI  ,.  MONTENEGRO  - ORELLANA  - PALACIOS  - PALUMBO  - PAPINI 
+PASTOR  - PITRAU  - PUIG  - QUARTESAN  - RABAN  - RENNELLA  - ROSSI 
+SÁNCHEZ CAPARRÓS-SCHAPIRA- SMANIA- SOARES VALENTINI - STRINGHINI 
+VIGLIANCO 
+
+THOMSON REUTERS 
+
+LALEY 
+
+Corvalán, Juan G. 
+
+Tratado de inteligencia artificial y derecho, tomo III / Juan 
+Gustavo Corvalán ...  [et al.]; dirigido por Juan Gustavo Cor 
+valán - 2a ed. - Ciudad Autónoma de Buenos Aires: La Ley, 
+2023. 
+
+v. 3,720 p.; 24x 17 cm. 
+
+ISBN 978-987-03-4643-2 
+
+l. Inteligencia ~ficia¡. ~- Derech(?, I.'eorvalán, Juan 
+Gustavo, dir. 
+
+~ 
+
+~ 
+
+CDD340.02 
+
+\ 
+
+u 
+t 
+
+./' 
+
+...-;;,. 
+
+© Juan G. Corvalán, 2023 
+© de esta edición, Thomson Reuters, 2023 
+Tucumán 1471  (C1050AAC) Buenos Aires 
+Queda hecho el depósito gu1t previen~ la)ey 11. 723, 
+
+Impreso en la Argentina 
+
+Todos los derechos reservados 
+Ninguna parte de esta obra puede ser reproducida 
+o transmitida en cualquier forma o por cualquier medio 
+electrónico o mecánico, incluyendo fotocopiado, grabación 
+o cualquier otro sistema de archivo y recuperación 
+de información, sin el previo permiso por escrito del Editor y el.autor. 
+
+P .  d.  A 
+
+~ 
+nnte  m  rgentina¡ 
+
+· 
+
+l 
+
+All rights reserved 
+No part_ofthis work may be reproduced 
+or transmitted in any form or by any means, 
+electronic or mechanical, including photocopying and recording 
+or by any information storage or retrieval system, 
+without permission in writing from the Publisher anil the author.' 
+
+Public!ldo por Thomsoq Reuters. 
+La Ley - Abeledo Perrot • Buenos Aires, Argentina. 
+Legal Publishing Chile •  Santiago, Clñle. 
+Dofiscal Editores • Ciudad de México. 
+
+' 
+
+. 
+
+. 
+
+Tiradá 500 ejemplares 
+ISBN 978-987-03-4643-2 (Tomo III) 
+
+ISBN 978-987-03-4636-4 (Obra completa) 
+
+SAP 43247481 
+
+ÍNDICE 
+
+TOMO 111 
+
+Presentación de los autores.................................................................. 
+
+)01 
+
+PRIMERA PARTE 
+
+IA EN  LA JUSTICIA.,AUTOMATIZACIÓN Y SISTEMAS 
+PREDICTIVOS 
+
+CAPÍTULOl 
+
+CUESTIONES CONCEPTUALES Y DIRECTRICES 
+DE USO DE  IA GENERATIVA 
+
+Interludio. Mark Twain, Homero Simpson, Steve JÓbs_y "el Juego 
+de la Fortuna''.  Cinco  postulados para transformar la justicia 
+COil,.11\ ..• ,.1 ........ , •.....•................ .,. ..................................................... ~ .. 
+JUAN G.  CORVALÁN, 
+
+Breve  historia  ent~e  saberes jurídicos y  nó  jurídicos y  de  cómo 
+facilitar la mitigación de las barreras gnoseológicas en tiempos 
+deIA ................................................................................................. . 
+HUGO ÁLVAREZ SÁEZ 
+
+5 
+
+13 
+
+Inteligencia apj_ficial y Poder Judicial. Hacia otra idea de justicia .... 
+
+55 
+
+DANIEL R.  PASTOR 
+
+Las opiniones personales vertidas en los capítulos de esta obra son privativas de quienes las emiten. 
+
+MidiHii 
+
+.  1 
+
+Actividad procesal automatizada ........................................................ . 
+
+71 
+
+SEBASTIAN é. CHUMBITA 
+
+TRATADO DE INTELIGENCIA ARTIFICIAL Y DERECHO 
+·-------------------------------------------------------
+Ejecu~ión procesal e inteligencia artificial.......................................... 
+
+ANDREAA. MEROI 
+
+Guía de directrices para el uso de ChatGPT e IA generativa de texto 
+en la justicia...................................................................................... 
+JUAN  G.  CORVALÁN,  MARIANA  SÁNCHEZ  CAPARRÓS,  MELISA 
+
+RABAN,  GISELLE  HELEG,  CARINA  M.  PAPINI,  ANTONELLA 
+STRINGHINI, MARCO RossI y  FRANCO ÜRELLANA 
+
+91 
+
+151 
+
+Infograffa sobre directrices de uso de la IA generativa de texto y 
+ChatGPT en la Justicia ........ ............................................................. 
+
+179 
+
+CAPÍTULO 2 
+
+USO DE IA EN  LOS SISTEMAS JUDICIALES. 
+DIAGNÓSTICOS, PRUEBAS PILOTO, PRUEBAS 
+DE CONCEPTO Y CASOS DE USO 
+
+Interludio. Una era de oráculos artificiales y generativos. Apuntes 
+
+para entender las predicciones de 1A en la Justicia.......................  183 
+JUAN G. CoRVALÁN 
+
+Infografía sobre el estudio de la Comisión Europea sobre el uso de 
+tecnologías innovadoras en el campo de la justicia ...................... 
+
+Infografía sobre el estudio del uso de inteligencia ·artificial en la 
+Justicia de América Latina............................................................... 
+
+195 
+
+197 
+
+Aclaraciones previas sobre PretorlA .................................................... 
+
+199 
+
+JUAN G. CORVALÁN,  CARINA M. PAPINI Y GISEL~ HELEG 
+
+Infograffa sobre PretorIA en la Corte Constitucional de Colombia. 
+El primer sistema de 1A predictivo en aplicación en un máximo 
+tribunal judicial de Latinoamérica. D,etección y clasificación 
+de acciones de µ¡tela  en materia de salud. Sistema ganador 
+del premio como mejor herramienta de modernización de la 
+Justicfa ...................... .........................................................................  207 
+
+Instructivo  de  g9bernanza  de  datos  para  sistemas  predictivos. 
+Basado· en el  sistema  PretorlA,  desarrollado  por' UBA  IALAB 
+para la Corte Constitucional de Colombia.....................................  209 
+JUAN  G.  CORVALÁN,  CARINA  M.  PAPINI,  MAruELA  PALACIOS, 
+
+. 
+
+. 
+
+ÍNDICE 
+--------------------------------------------------------------------------------------------
+Protocolo  sobre  gobernanza  algorítmica  (basado  en  el  sistema 
+PretorIA). Trazabilidad, explicabilidad, interpretabilidad y fia-
+bilidad. Diseño, desarrollo y despliegue ......... ...............................  233 
+JUAN  G.  CORVALÁN,  ANA  P.  MONTENEGRO,  CARINA  M.  PAPINI, 
+
+MATÍAS  Pum,  ÜSVALDO  PITRAU,  VERÓNICA  QUARTESAN  y 
+
+ANTONELLA STRINGHINI 
+
+Infografía  de  trazabilidad y  auditabilidad  del  desarrollo  de  Pre-
+torIA ... :. ...... ....... ..... ...... ..... ..... ...... ...... .............. ..... ..... ...... ..... ...... ....... 
+
+277 
+
+Automatización  e  inteligencia  artificial  para  optimizar  procesos 
+judiciales en Perú. Prueba de concepto en los módulos de vio-
+lent:ia familiar .......................................... ,........................................ 
+JUAN G. CORVALÁN,  GISELLE HELEG Y CARINA M. PAPINI 
+
+279 
+
+La transformación digital en la justicia cordobesa: desafíos y expe 
+
+riencias en el Fuero de Ejecuciones Fiscales.................................  301 
+CLAUDIA  SMANIA,  VERÓNICA  VIGLIANCO,  CLAUDIA  ESTEBAN  Y 
+
+MAURO l. DECIMA 
+
+SEGUNDA PARTE 
+
+MERCADO DE TRABAJO, LEGALTECH, FORMACIÓN 
+DE TALENTO Y EDUCACIÓN 
+
+CAPÍTULO 1 
+
+RECONVERSIÓN  DEL MERCADO DE TRABAJO.  REINGENIERÍA 
+DE PROCESOS BASADA EN  DISEÑO INTELIGENTE 
+
+Interludio. Amor con escalas laborales: acelerar la reconversión y 
+proteger a los más vµInerables........................................................ 
+JUAN G. CORVALÁN 
+
+361 
+
+El impacto de la inteligencia artificial en el mundo del trabajo ........  373 
+
+MILAGROS ETCHEBERRY 
+
+Industria 4.0 y gestión laboral por inteligencia artificial. Las plata 
+
+formas de trabajo y los nuevos desafíos del derecho laboral........  459 
+RÓMULO SOARES VALENTINI  (BRASIL) 
+
+JULIÁN PALUMBO,  ÜSVALDO PITRAU Y VERÓNICA QUARTESAN 
+
+X 
+
+XI 
+
+TRATADO DE INTELIGENCIA ARTIFICIAL Y DERECHO 
+·-------------------------------------------------------
+Evaluación del impacto de la inteligencia artificial generativa en 
+el empleo y las organizaciones. Identificación de nuevas habili-
+dades laborales. Guía metodológica...............................................  475 
+JUAN  G.  CORVALÁN,  ENZO  M.  LB  FBVRB  CBRVINI  (ITALIA), 
+SOLEDAD  GUILERA,  BELÉN  CARRBIRA,  MELISA  RABAN, 
+
+MARIANA  SÁNCHEZ  CAPARRÓS,  CARINA M.  PAPINI,  GISELLE 
+
+HELEG Y MARÍA VICTORIA CARRO 
+
+Inteligente por diseño. Reingeniería holística de procesos para el 
+
+Club de Amigos ................................................................................  497 
+JUAN G. CORVALÁN Y CARINA M. PAPINI 
+
+Inteligente  por  diseño:  reingeniería  de  procesos  vinculados  al 
+
+transporte. Hipótesis de automatización y predicción .................  509 
+JUAN G. CORVALÁN Y CARINA M. PAPINI 
+
+CAPÍTULO 2 
+LEGALTECH: TRANSFORMACIÓN 
+DE ESTUDIOS JURÍDICOS 
+Y DEPARTAMENTOS LEGALES 
+
+De los sistemas inteligentes de medición del caos al ChatGPT-3 y la 
+
+asistencia a los abogados de la "Última milla"...............................  525 
+HORACIO R.  GRANERO 
+
+Del  valor  de  los  datos  a  la  adaptación  de  soluciones:  algunos 
+
+aprendizajes del pionero de legaltech en Argentina......................  557 
+PABLO  BALANCINI Y JUAN LIPERA 
+
+Brevity. Más tiempo para los abogados del futuro.............................. 
+
+571 
+
+EZEQUIEL BRAUN PELLEGRINI 
+
+Inteligencia profesional: un diferencial frente a la IA..... ................. ... 
+
+585 
+
+GABRIELA MARSIGLIA Y MARfA PAULA RENNELLA 
+
+CAPÍTULO 3 
+INÍELIGENCIA ARTIFICIAL Y EDUCACIÓN 
+
+Inteligencia artificial: un nuevo desafío para la educación ...............  607 
+
+XII  ; 
+
+DÉBORA SCHAPIRA 
+
+----
+Inteligencia artificial para mejorar el éxito estudiantil con enfoque 
+
+ÍNDICE 
+--- --------------------------------------------------------------------
+
+en la prevención de la deserción universitaria ... ...... ...... ..... ..........  627 
+DIRECCIÓN:  DÉBORA  SCHAPIRA  Y  JUAN  G.  CORVALÁN.  COAU-
+TORES  Y  EQUIPO  DE  INVESTIGACIÓN  UBA  IALAB:  DÉBORA 
+
+SCHAPIRA,  JUAN  G.  CORVALÁN,  LAURA DfAZ DÁVILA,  MELISA 
+
+RABAN Y MARÍA VICTORIA CARRO 
+
+El impacto de ChatGPT en la enseñanza del derecho: resultados de 
+pruebas piloto................................................................................... 
+JUAN G. CORVALÁN Y DÉBORA SCHAPIRA 
+
+673 
+
+Infografía  sobre  ChatGPT  en  la  educación:  recomendaciones, 
+usos, oportunidades y desafíos....................................................... 
+
+681 
+
+XIII

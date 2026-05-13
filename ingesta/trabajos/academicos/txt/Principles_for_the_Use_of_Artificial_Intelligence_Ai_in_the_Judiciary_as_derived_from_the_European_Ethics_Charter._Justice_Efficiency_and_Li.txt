@@ -1,0 +1,511 @@
+# Fuente
+- archivo: Principles_for_the_Use_of_Artificial_Intelligence_Ai_in_the_Judiciary_as_derived_from_the_European_Ethics_Charter._Justice_Efficiency_and_Li.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Principles_for_the_Use_of_Artificial_Intelligence_Ai_in_the_Judiciary_as_derived_from_the_European_Ethics_Charter._Justice_Efficiency_and_Li.pdf
+- extraido: 2026-04-24T11:34:06
+
+# Contenido
+
+Bulletin of the Transilvania University of Braşov  
+Series VII: Social Sciences • Law • Vol. 16(65) Special Issue – 2023 
+https://doi.org/10.31926/but.ssl.2023.16.65.3.5 
+
+PRINCIPLES FOR THE USE OF ARTIFICIAL 
+INTELLIGENCE (AI) IN THE JUDICIARY AS DERIVED 
+
+FROM THE EUROPEAN ETHICS CHARTER.                     
+JUSTICE EFFICIENCY AND LIMITATIONS 
+
+Simona FRANGULOIU 1 
+
+Abstract: The European Ethical Charter on the use of AI in judicial systems 
+approaches in a holistic way the integration of judicial policies by including 
+precise  provisions  in  national  legislations,  and  for  judicial  bodies  and  legal 
+professionals  - the thinking and testing of the tools used, because AI is not 
+confused with digitization. The use of AI must respect the principles included 
+in the Charter, the fundamental rights and freedoms laid down in the CFREU, 
+in  order  to  ensure  the  feasibility  of  the  data  legal  framework  for  the 
+application of AI, in accordance with the standards imposed by the Council, 
+democracy and the rule of law. The aim is to increase the efficiency of justice 
+and set limits to the use of AI. 
+
+Key words: AI, efficiency of justice, limitations. 
+
+1. Introduction 
+
+It is a well-known fact that with the unprecedented development of science since the 
+industrial  revolution  and  especially  after  the  Second  World  War,  society  has  become 
+technologized, and digitization and artificial intelligence have become an important part 
+of  all  fields  of  activity,  the  benefits  of  which  are  part  of  everyday  life,  including  in  the 
+field of justice. In addition, during the SARSCOV-2 pandemic, especially during periods of 
+lockdown,  a  variety  of  applications  have  been  used  and  developed  to  speed  up 
+investigation,  improve  crime  investigation  and  judicial  cooperation,  especially  to 
+guarantee respect for human rights. On the other hand, the development of technology 
+and  in  particular  artificial  intelligence,  with  particular  reference  to  ChatGPT  4,  raises 
+concerns among civil society and the public, so states have an obligation to ensure that 
+the  use  of  these  technologies  is  carried  out  in  compliance  with  the  rule  of  law,  the 
+protection of personal data and the fight against cybercrime, as regulated by the Council 
+of  Europe  (https://www.consilium.europa.eu/en/policies/rule-of-law/)  and  by  the 
+Recommendation  on  the  Ethics  of  Artificial  Intelligence  adopted  by  UNESCO  on  23 
+(https://www.cnr-unesco.ro/uploads/media/f1077_recomandari-
+November 
+
+2021 
+
+1 Ph.D. lecturer, Contributor Transilvania University Brasov, trainer at National Institute of Magistracy 
+simona.franguloiu@unitbv.ro; simonafranguloiu@yahoo.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+40 
+
+Bulletin of the Transilvania University of Braşov • Series VII • Vol. 16(65) Special Issue - 2023 
+
+unesco-ai-site.pdf).  Although  we  can  assert  that  in  this  particular  field  digitization  is 
+more  than  desirable  and  extremely  useful  (Stănilă,  2020),  artificial  intelligence  and  its 
+involvement in various sectors of activity requires analysis by the best specialists. Above 
+all, in our opinion, various studies should be carried out to establish the advantages and 
+disadvantages of its use in the judicial process and, above all, to ascertain the extent to 
+which  the  fundamental  principles  of  the  proceedings,  either  civil  or  criminal,  in  the 
+broadest sense, can be respected, with special reference to the principle of humanism 
+which  is  the  corollary  of  all  in  criminal proceedings. It is crystal clear to  everyone that 
+when  using  artificial  intelligence  in  the  judicial  process,  malicious  people,  particularly 
+those who have access to the dark web – the surface  internet occupies only 4% (such as 
+Google,  Bing,  Firefox,  Wikipedia),  the  deep  web  occupies  90%  (e.g.  access  to  public 
+documents, medical records, etc.), and the dark web occupies 6% (contains information 
+about arms trafficking, drugs, people, money laundering, terrorism), (Tal, 2023) - will try 
+to  "attack"  the  systems  in  order  to  obtain  advantages  or  even  favorable  rulings.  In 
+regard  to  the  threats  and  risks  involved  in  the  use  of  artificial  intelligence  in  all  fields, 
+including the judicial sector, specialists have tried and succeeded in outlining a number 
+of  ethical  principles  to  regulate  artificial  intelligence  in  accordance  with  European 
+standards on human rights, the state of law and the rule of law.  
+
+2. Digitization and AI 
+
+The  future  seems  to  belong,  to  a  significant  extent,  to  digitization  and  artificial 
+intelligence, although these systems should be used to generate a variety of economic, 
+social  and  environmental  services  and  benefits,  especially  in  high-impact  areas  of 
+activity. However, it is absolutely necessary to note that the use of artificial intelligence 
+has the potential to fragilise areas such as human rights, sectors of the economy and the 
+business  environment.  Therefore,  all  stakeholders  and  decision-makers  agreed  that  a 
+well-balanced approach is needed, in the sense that the benefits offered also generate 
+risks  or  potential  negative  consequences  for  people  and/or  society.  In  the  legal  and 
+judicial system (and beyond) there is a need for a clear distinction between digitization 
+and  the  use  of  artificial  intelligence.  Thus,  a  clear,  simple  and  very  close  to  reality 
+definition of  digitization is given: “a process by which analogue  processes and physical 
+objects  are  converted  into  digital  form”  (https://ro.economy-pedia.com/11041145-
+digitization). This involves a change of format, usually by means of applications such as, 
+for  example,  electronic  file  and  TDS  (through  the  electronic  file  and  document 
+transmission in electronic format -TDS- application, the parties and lawyers have access 
+to  all  the  documents  filed  which  they  can  view  without  having  to  go  to  the  court  or 
+prosecution unit), ECRIS (through the ECRIS application, files are registered at the court 
+and the information is constantly updated centrally through the portal.just.ro database; 
+in the interface  dedicated to  the  public, court hearings, parties, unique case  numbers, 
+time  limits  granted,  decisions  rendered  are  accessible  in  the  application),  as  well  as 
+legislative  databases  that  are  extremely  useful  for  practitioners  (such  as,  for  example, 
+lex-expert, lege5, Legis, N-lex or those centralized at the level of the Ministry of Justice 
+or  the  Superior  Council  of  Magistracy,  which  contain  not  only  legislation  but  also  the 
+most  recent  decisions  rendered  by  the  High  Court  of  Cassation  and  Justice,  the 
+Constitutional  Court  or  the  European  Court  of  Human  Rights)  or  online  scientific 
+
+ 
+ 
+ 
+ 
+S. FRANGULOIU: Principles for the Use of Artificial Intelligence (AI) in the Judiciary as Derived…  41 
+
+intelligence 
+
+publications. All these systems are, in fact, “search” systems, searching for information 
+in various databases  (the  list  is only illustrative, as space  does not allow an exhaustive 
+enumeration, and it is random) and are designed to facilitate and simplify the work of a 
+practitioner, and for years have proved not only useful but also effective. Conceptually, 
+artificial  intelligence  has  been  defined  as  “software  (and  possibly  hardware)  systems 
+designed by humans that, given a complex goal, act in the physical or digital dimension 
+by  perceiving  the  environment  through  the  acquisition  of  data,  interpreting  collected 
+data,  structured  or  unstructured,  reasoning  based  on  knowledge  or  processing 
+information based on algorithms, reasoning and knowledge representation derived from 
+this  data,  and  deciding  the  best  action  to  be  taken  to  achieve  the  given  goal.  Artificial 
+intelligence  systems  can  either  use  symbolic rules  or  learn  a  numerical  model,  and  can 
+also adapt their behavior by analyzing how the environment is affected by their previous 
+actions”  (Muller,  2020  https://allai.nl/wp-content/uploads/2020/06/The-Impact-of-AI-
+on-Human-Rights-Democracy-and-the-Rule-of-Law-draft.pdf).  Artificial 
+in 
+the  justice  system  is  like  turning  a  ChatGPT  into  a  judge.  This  is  the  case  in  Estonia, 
+which in 2019 put into operation the handling of disputes worth up to €6,400 by the so-
+called “Judge-robot”, the name was later changed to “payment order system”. The claim 
+is uploaded on the dedicated website (www.e-toimik.ee). It should be noted that in this 
+country every person has a verified electronic identity. The Estonian Ministry of Justice, 
+through  a  state  secretary  at  the  time  (Kai  Harmand,  interview  taken  from  juridice.ro, 
+https://www.juridice.ro/643353/estonia-procesele-civile-cu-miza-de-sub-6-400-euro-
+sunt-rezolvate-de-robot.html)  stated  that  the  system  “is  not  defined  as  a  judge-robot, 
+but an automated system, for two reasons: it is not a judge, to be a judge means to do 
+justice  and  you  consider  several  possibilities,  you  listen  to  both  sides,  you  consider 
+evidence.  But  this  automated  system doesn’t do that: it is very well established by law 
+what kind of disputes can be settled, we call it a payment order system.” Although this 
+system  is  still  called  the  “algorithm  for  payment  proceedings”,  there  are  rumours  that 
+the  system  will  also  work  for  larger  sums  or  divorce  cases.  We  believe  it  will  be 
+interesting  to  see  how  the  AI  system  will  assess  certain  personal  grounds  for  divorce, 
+such  as  excessive  jealousy,  adultery,  verbal  violence  or  other  reasons  that  are  purely 
+subjective, such  as the care that  should be taken by the spouses for each other or for 
+other family members - children, parents. An interesting example worth mentioning in 
+highlighting the effectiveness of using  these systems is that of a lawyer in the US who 
+invented a civil lawsuit which he brought to court and even invoked court precedents in 
+support of it by using ChatGPT4.0. The defendant in the case submitted a brief in which 
+he  claimed  that  he  had  checked  the  decisions  relied  on  as  judicial  precedent  (it  being 
+known  that  in  the  common  law  system  judicial  precedent  is  the  fountainhead  of  law) 
+and that these  did  not  exist. The  judge requested the files on which these precedents 
+were  based  and  because  they  did  not  exist,  the  lawyer  admitted  that  his  partner  had 
+used  ChatGPT4.0  to  invoke  precedents.  In  front  of  the  judge,  ChatGPT4.0,  when 
+questioned, claimed to have found these cases in the archives, although they never existed. 
+The  research  failed  to  establish  whether it  was  a  “hallucination” of  the  system  or  of  the 
+program  and  the  lawyer  invoked  these  precedents  in  good  faith  or  simply  the  lawyer 
+wanted  to  demonstrate  that  the  artificial  intelligence  system  could  not  be  used  in  the 
+justice system (Dobrea, 2023). The author of the paper noted (as a cyber security specialist 
+at the Xeduco Institute) that these systems are susceptible to “hallucinations” and that “the 
+
+42 
+
+Bulletin of the Transilvania University of Braşov • Series VII • Vol. 16(65) Special Issue - 2023 
+
+system does not admit it is wrong because it knows it has more information than a human”.   
+It was also pointed out by the author of the paper that specialists in the field have drawn 
+attention to the fact that different answers have been given to the same questions asked of 
+the system in succession and that “their use puts human rights at risk”. This was also the 
+conclusion of specialists in the USA, so that the use of ChatGPT is banned, from 2023, in this 
+state, including in schools, but also in emerging technologies and in other states, because of 
+the risks that could be generated for people. 
+
+3. General Framework of Principles for the Use of AI according to the Ethical Charter 
+
+for the Use of Artificial Intelligence in Justice Systems and their Environment 
+
+on 
+
+The 
+
+2018. 
+
+ad-hoc 
+
+Artificial 
+
+Committee 
+
+The  Ethics  Charter  was  adopted  at  the  31st  Plenary  Meeting  of  the  CEPEJ,  3-4 
+December 
+Intelligence 
+(https://www.coe.int/en/web/artificial-intelligence/cahai) has developed several studies 
+based on the Council of Europe standard in the fields of human rights, democracy and 
+the  rule  of  law,  working  with  several  stakeholders  in  the  field,  including  scientists, 
+observers  or  legal  experts,  but  also  specialized  bodies  of  the  Union  and  UNESCO.  The 
+specialists  of  this  committee  have  concluded  that  it  is  imperative  to  respect  a  set  of 
+rules  regarding  the  use  of  artificial  intelligence  and  to  draw  up  an  ethical  guide  to 
+constitute  the  legal  framework,  in  particular  for  the  protection  of  these  values.  The 
+Committee mapped the ethical principles on artificial intelligence developed by private, 
+scientific  and  civil  organizations,  in  order  to  identify  those  which  could  lead  to  the 
+establishment  of  the  much  needed  legal  framework  in  the  light  of  the  standards 
+imposed by the Council. The guidelines adopted by the Committee stressed the need to 
+develop a global legal mechanism to address the challenges posed by the use of artificial 
+intelligence  and  were  guided  by  the  European  Ethical  Charter  on  the  Use  of  Artificial 
+Intelligence  in  Legal  Systems  and  their  Environment,  adopted  at  the  31st  Plenary 
+Meeting  of  the  CEPEJ,  as  a  basis  for  the  use  and  regulation  of  digital  technology  at  a 
+global level. Obviously,  this  document is closely in line with other Council activities on 
+artificial  intelligence,  such  as  the  White  Paper  on  AI  (https://eur-lex.europa.eu/legal-
+content/RO/TXT/HTML/?uri=CELEX:52020DC0065)  adopted  on  19.02.2020,  OECD 
+(Organization  for  Economic  Cooperation  and  Development)  reports,  UNESCO,  so  as  to 
+ensure coherence of sectoral policies on the subject at global level, the main aim being 
+to fully ensure human rights, the rule of law and the supremacy of law. All this, based on 
+the proven fact  that “financial markets have reacted  and demonstrated the manner in 
+which  systemic  risks  arise  under  the  assumption  that  different  artificial  intelligence 
+systems  interact  at  very  high  speeds  and  has  led  to  the  proliferation  of  the  number  of 
+financial collapses” (Wellman & Rajan 2017, 609-624).  The author of the study pointed 
+out  that  when  “critical  energy  infrastructures,  transportation,  hospitals,  progressively 
+depend  on  automated  decisions  of  artificial  systems,  new  vulnerabilities  are  created  in 
+the form of a single point of failure that produces large-scale effects”. The same author 
+also  noted  that  since  these  “critical  infrastructure  systems  are  introduced,  they  will  be 
+difficult to replace in the event of failure”. Therefore, it is clear that these systems should 
+be  used  with  extreme  caution  and  only  after  configuration,  testing  and  verification  of 
+their feasibility. 
+
+ 
+ 
+ 
+ 
+S. FRANGULOIU: Principles for the Use of Artificial Intelligence (AI) in the Judiciary as Derived…  43 
+
+4. Principles laid down in the European Ethical Charter 
+4.1. Principle of respect for fundamental rights 
+
+Assuming that the cornerstone of respect for the rights and freedoms of the individual in 
+any proceedings (civil or criminal, in the broadest sense) and that any judicial decision is 
+based  on  respect  for  all  the  rights  laid  down  in  the  European  Convention  on  Human 
+Rights and Fundamental Freedoms, the principle also establishes that in the event of the 
+use of any artificial intelligence system in the settlement of a case these principles will 
+be respected. This is mainly to ensure that the use of such systems will not compromise 
+or undermine respect for the fundamental principles of the trial, with reference to the 
+right of access to a judge, the right to a fair trial as a whole, respect for the principle of 
+equality of arms, and the independence of the judge, in addition to the other principles 
+governing  the  trial (civil or  criminal). From this perspective, the solution  proposed and 
+implemented in Estonia of using the “payment order system” or “robot judge” is at least 
+questionable,  since  in  our  opinion,  an  artificial  intelligence  system,  independent  of 
+access  to  a  huge  amount  of  information  and  algorithms  for  processing,  analyzing  and 
+deciding, will not be able to replace or at least respect equality of arms, besides raising 
+the question of how the system could directly or indirectly violate fundamental values.  
+Following this line of reasoning, we would observe that this and other points, as we shall 
+show below, demonstrate the fragility of the solution adopted by the Estonian system. 
+
+4.2. Principle of non-discrimination 
+
+Although it is obvious that intelligence systems have the ability to detect and process 
+discrimination,  through  the  use  of  criteria  for  classifying  data  and  information  about 
+groups, individuals or data, specialists have considered that it is imperative to obtain all 
+guarantees  that  the  methods  used  do  not  reproduce  or  aggravate  discrimination  and 
+that they “do not lead to analysis or uses of a deterministic nature” under international 
+law  (even  through  the  indirect  use  of  sensitive  information,  emphasized  by  the  CEPEJ 
+when  adopting  the  Ethics  Charter  which  is  the  subject  of  this  scientific  approach  and 
+also highlighted by UNESCO in the Recommendation on the use of artificial intelligence 
+adopted  on  23  November  2021).  In  the  light  of  this  principle,  we  believe  that  it  is 
+necessary  to  reduce  and  eliminate  digital  gaps  between  actors  (state  institutions 
+between  themselves,  between  them  and  individuals  and,  last  but  not  least,  between 
+states,  s.n.),  so  that  all  institutions,  organizations,  agencies,  individuals  (private 
+individuals or legal entities) have access to these systems. For this reason, the UNESCO 
+Recommendation on the use of artificial intelligence, mentioned above, stipulated that 
+the more technologically advanced states should be in solidarity with the less advanced 
+ones  in  order  to  ensure  that  the  benefits  of  these  technologies  are  also  available  to 
+states and individuals with a lower level of technological development. Otherwise, there 
+would  be  clear  discrimination  between  those  who  have  access  to  such  a  system  and 
+limited  access.  The  stated  aim  of  adopting  this 
+those  who  do  not  or  have 
+Recommendation  is  that,  ultimately,  artificial  intelligence  “contributes  to  a  more 
+equitable  world  order  in  terms  of  information,  communication,  culture,  education, 
+research and socio-economic and political stability”. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+
+Bulletin of the Transilvania University of Braşov • Series VII • Vol. 16(65) Special Issue - 2023 
+
+4.3. Quality and security principle 
+
+  This principle concerns the way in which information, data, is processed and used in a 
+trial,  in  a  secure  technological  environment  and  through  a  multidisciplinary  approach 
+(emphasis  CAHAI  working  group,  cited  above).  The  principle  recommends  that  in  the 
+design  of  machine  learning  systems  their  developers  should  be  supported  by  legal 
+specialists to  enable  a  holistic  approach and continuous improvement of technological 
+systems  in  line  with  the  changing  needs  of  the  justice  system.  It  is  essential  in 
+implementing  this  principle  that  all  information  and  data,  including  and  especially 
+judicial decisions, are from certified sources and that the entire process is traceable. In 
+addition, everything must be executed in an absolutely secure environment, so that the 
+systems are intangible and beyond malicious attack.  
+
+4.4. Principle of transparency, fairness and impartiality 
+
+The need for the methods and means of processing information and data to be accessible 
+to users, easy to understand, and to accept verification, such as external audits, is stressed. 
+The principle requires achieving and maintaining a balance between intellectual property 
+rights  of  means  of  processing  and  impartiality,  transparency,  fairness  and  intellectual 
+integrity,  as  well  as  prioritizing  the  interests  of  justice  (Council  of  Europe  MSI-NET  study 
+“Algorithms  and  Human  Rights”,  https://rm.coe.int  /algorithms-and-human-rights-en-
+rev/16807956b5). Any gaps or failures in the functioning and operation of these systems can 
+have negative and long-term consequences on people's lives and should be avoided. In this 
+regard,  experts  have  established  that  the  granting  of  certification  and  verification  of  the 
+means and methods used must be periodically reviewed and revised, precisely in order to 
+produce any negative consequences on people’s lives (Report of the Committee on Artificial 
+Intelligence presented in the House of Lords in Session 2017-19 “AI in the U.K.: ready, willing 
+and able?”, https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/ 100.pdf). 
+
+4.5. Under user control principle 
+
+By the nature of the provision, the CAHAI working group specialists commented that the 
+principle  “excludes  a  constraining  framework”  (legal  and  technical)  and  it  is  necessary 
+that  all  users  of  the  systems  are  very  well  informed  about  the  possibilities  offered  by 
+them,  so that they  have  permanent  control over the systems, from the perspective of 
+increasing  user  autonomy.  From  this  perspective,  it  is  desirable  that  specialists  in  the 
+judicial  system  should  be  able  to  check  and  review  the  data,  information  or  decisions 
+entered into the system and not be bound by the specific features of a particular case. It 
+is true that the allegation is more concerned with common-law systems where judicial 
+precedent is the fountainhead of law, but it can also be applied in continental systems 
+by  referring  to  the  need  to  unify  judicial  practice  in  a  particular  area  where  the 
+applicable  legal  provisions  are  susceptible  to  several  interpretations.  This  concerns 
+situations  where  the  law  does  not  meet  the  requirements  of  clarity  (in  terms  of  the 
+methodology  for  drafting  legislation),  foreseeability  and  predictability.  For  this  reason, 
+the  experts  of  the  working  group  stated  that  the  user  must  be  informed  of  the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. FRANGULOIU: Principles for the Use of Artificial Intelligence (AI) in the Judiciary as Derived…  45 
+
+hypotheses  in  which  “the  solutions  offered  by  artificial  intelligence  systems  are  or  are 
+not  mandatory,  whether  there  are  other  possible  options,  including  the  fact  that  he  or 
+she has a right to a court and to legal advice”. 
+
+5. Conclusions 
+
+  From the analysis of all the possibilities offered by technology that can be successfully 
+used  in  the  judicial  system,  we  may  observe,  without  claiming  to  be  exhaustive,  that 
+digitization and its solutions have already proven their effectiveness. It is true that these 
+applications have also sometimes been the target of attacks by people who have tried to 
+use  them  fraudulently  or  by  organized  and/or  cybercrime  groups.  These  have  caused 
+serious  concern  about  the  integrity  of  artificial  intelligence  systems,  as  they  open  up 
+new avenues and possibilities not only for real and fair users, but also for those whose 
+intentions  are  malicious.  Experts  have  argued  that  the  impact  of  the  use  of  these 
+systems presents emerging risks that should be mitigated to extinction (Ivan, 2023). At 
+present,  as  a  result  of  these  emerging  risks,  several  countries  have  banned  the  use  of 
+artificial  intelligence  systems,  such  as  the  USA,  Italy  which  has  since  reversed  its 
+decision,  Germany,  France  and  Ireland  have  been  petitioned  yet  no  decision  has  been 
+made.  On  the  other  hand,  it  should  be  noted  that  when  used  by  specialists,  artificial 
+intelligence  systems  can  be  very  useful  in  the  investigative  work  during  criminal 
+prosecutions,  as  they  can  speed  up  the  investigation,  particularly  with  regard  to 
+ransomware,  phishing  and  deep  phishing,  terrorist  propaganda  and  malicious 
+misinformation  on  social  networks  and  many  other  such  crimes,  and  have  a  beneficial 
+effect both in terms of much faster identification of persons who have committed or are 
+preparing to commit crimes and in the process of proving them. It remains the task and 
+obligation  of  decision-makers  to  ensure  the  security  and  integrity  of  these  systems, 
+although, in our opinion, it will never be possible to replace judges and prosecutors with 
+these systems on the grounds that the principle of humanism, along with others, would 
+remain meaningless and merely demagogic.  
+
+References 
+
+Dobrea,  G.  (2023).  “Artificial  intelligence  for  forensic  investigations:  the  good,  the  bad 
+and  the  unknown”,  paper  presented  and  submitted  for  publication,  International 
+Conference  on  Forensic  Science  on  “Forensic  Science  -  the  main  pillar  of  forensic 
+evidence in criminal and civil proceedings”, 11th edition, Bucharest, October 
+
+Ivan, L. (2023). “The impact of ChatGPT in cybercrime and the work of law enforcement 
+structures”, paper presented and submitted for publication, International Conference 
+on Forensic Sciences entitled “Forensic science - the main pillar of forensic evidence in 
+criminal and civil proceedings”, 11th edition, Bucharest, October 2023. 
+
+Muller, C. (2020). “The Impact of AI on Human Rights, Democracy and the Rule of Law”, 
+from  https://allai.nl/wp-content/uploads/2020/06/The-Impact-of-AI-on-
+
+Retrieved 
+Human-Rights-Democracy-and-the-Rule-of-Law-draft.pdf 
+
+  
+ 
+ 
+ 
+ 
+46 
+
+Bulletin of the Transilvania University of Braşov • Series VII • Vol. 16(65) Special Issue - 2023 
+
+Stănilă, L.M. (2020). “Artificial intelligence, criminal law and the criminal justice system. 
+
+Memories about the future”. Bucharest: Universul Juridic Publishing House. 
+
+Tal,  P.  (2023).  “Artificial 
+
+intelligence  and  cyber-crime  -  challenges,  threats  and 
+mitigation”,  presented  and  submitted  for  publication,  International  Conference  on 
+Forensic  Science  entitled  “Forensic  Science  -  the  main  pillar  of  judicial  evidence  in 
+criminal and civil proceedings”, 11th edition, Bucharest, October. 
+
+Wellman,  M.  P.,  &  Rajan,  U.  (2017).  “Ethical  Issues  for  Autonomous  Trading  Agents 
+
+Minds and Machines”, 27(4), 609-624. 
+
+Comisia Europeană. (2020). CARTE ALBĂ. Inteligența artificială - O abordare europeană 
+from  https://eur-
+
+axată  pe  excelență 
+lex.europa.eu/legal-content/RO/TXT/HTML/?uri=CELEX:52020DC0065 
+
+încredere.  Bruxelles.  Retrieved 
+
+și 
+
+Council  of  Europe  MSI-NET  study  “Algorithms  and  human  rights”,  Retrieved  from 
+
+https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5 
+
+Council of Europe. (2018). ALGORITHMS AND HUMAN RIGHTS Study on the human rights 
+dimensions  of  automated  data  processing  techniques  and  possible  regulatory 
+implications.  English  edition.  Published  by  the  Council  of  Europe  F-67075  Strasbourg 
+Cedex,  Council  of  Europe,  Retrieved  from  https://rm.coe.int/algorithms-and-human-
+rights-en-rev/16807956b5 
+
+Council  of  Europe.  (2018).  EUROPEAN  COMMISSION  FOR  THE  EFFICIENCY  OF  JUSTICE 
+(CEPEJ) European Ethical Charter on the Use of Artificial Intelligence in Judicial Systems 
+and their environment. Adopted at the 31st plenary meeting of the CEPEJ (Strasbourg, 
+from  https://rm.coe.int/ethical-charter-en-for-
+3-4  December  2018)  Retrieved 
+publication-4-december-2018/16808f699c  
+
+Council of Europe. (2021). CAHAI - Ad hoc Committee on Artificial Intelligence. Retrieved 
+
+from https://www.coe.int/en/web/artificial-intelligence/cahai 
+law. 
+
+Europe. 
+
+(2023). 
+
+Rule 
+
+Council 
+
+of 
+
+of 
+
+Retrieved 
+
+from 
+
+https://www.consilium.europa.eu/en/policies/rule-of-law/ 
+
+Juridice.ro. (2019). Estonia. Procesele civile cu miza de sub 6.400 euro sunt rezolvate de 
+robot.  Retrieved  from  https://www.juridice.ro/643353/estonia-procesele-civile-cu-
+miza-de-sub-6-400-euro-sunt-rezolvate-de-robot.html 
+
+Juridice.ro. (2019). Estonia. Procesele civile cu miza de sub 6.400 euro sunt rezolvate de 
+robot.  Retrieved  from  https://www.juridice.ro/643353/estonia-procesele-civile-cu-
+miza-de-sub-6-400-euro-sunt-rezolvate-de-robot.html 
+
+Report of the Committee on Artificial Intelligence to the House of Lords Session 2017-19 
+from 
+
+“AI 
+ready,  willing 
+https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/100.pdf   
+
+Retrieved 
+
+able?”, 
+
+U.K.: 
+
+and 
+
+the 
+
+in 
+
+UNESCO.  Comisia  Naţională  a  României  pentru  UNESCO.  (2021).  RECOMANDARE 
+PRIVIND  ETICA  INTELIGENŢEI  ARTIFICIALE  Adoptată  la  23  noiembrie  2021.  Traducere 
+realizată  la  iniţiativa  Comisiei  Naţionale  a  României  pentru  UNESCO.  Conferinţa 
+Generală a Organizaţiei Naţiunilor Unite pentru Educaţie, Știinţă și Cultură (UNESCO), 
+reunită în Paris în perioada 9-24 noiembrie 2021, la cea de-a 41-a sesiune. Retrieved 
+from 
+https://www.cnr-unesco.ro/uploads/media/f1077_recomandari-unesco-ai-
+site.pdf

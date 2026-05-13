@@ -1,0 +1,334 @@
+# Fuente
+- archivo: Digitalisation_of_Judiciary_in_Malaysia_Application_of_Artificial_Intelligence_in_the_Sentencing_Process.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Digitalisation_of_Judiciary_in_Malaysia_Application_of_Artificial_Intelligence_in_the_Sentencing_Process.pdf
+- extraido: 2026-04-24T11:34:00
+
+# Contenido
+
+Digitalisation of Judiciary in Malaysia:
+Application of Artiﬁcial Intelligence
+in the Sentencing Process
+
+Hiral Sanghvi, Jovine See Wey Ling, Eng Siang Tay(B), and Chee Ying Kuek
+
+Faculty of Law, Multimedia University, Melaka, Malaysia
+estay@mmu.edu.my
+
+Abstract. A large aspect of treating people fairly is ensuring the fairness or the
+measure of sentences passed. In Malaysia, judges have started to use, even before
+the Covid-19 pandemic, artiﬁcial intelligence (AI) to aid in passing sentences for
+certain offences such as physical and sexual assault, theft, drug possession, trafﬁc
+offences and others. While many welcome this incorporation of technology into
+the Malaysian judicial system, others worry it may lead to more injustice if human
+factors are removed from the sentencing process. This research attempts to discuss
+how AI is changing the legal landscape in the country, and where the line should
+be drawn when it comes to the involvement of AI in the judiciary. The method
+adopted in this research is the doctrinal legal research, which is mainly referred
+to as the “black-letter” methodology.
+
+Keywords: Artiﬁcial intelligence · criminal justice · judges · sentencing
+
+1 Introduction
+
+Technology has changed the way we live, transforming everyday tasks that were once
+difﬁcult and time-consuming, into something as simple as a click of a button. Things that
+once needed human hands to operate are now being done by machines with less than half
+of the time and energy it took a human to complete, for instance, airport facial recognition
+features, or spotlight search functions on computers. But how much do we even know
+about the machines that surround us? What are the implications of the ever-increasing
+usage of these machines in our everyday lives?
+
+Artiﬁcial intelligence (“AI”) refers to machines which are able to make decisions
+with human-like intelligence and tackle tasks that are arduous to do manually. Law ﬁrms
+globally are apprehensive about what lies ahead for the industry with the rise of AI but
+changes are already in motion and there is no escape [1]. This paper explores the potential
+and risks of artiﬁcial intelligence in Malaysian courts, its advantages and disadvantages,
+challenges and limitations and reforms for a more seamless incorporation of technology
+into our legal justice system.
+
+© The Author(s) 2022
+Y. C. Adam and A. W. Abdull Manaf (Eds.): ICLD 2022, ASSEHR 707, pp. 91–97, 2022.
+https://doi.org/10.2991/978-2-494069-59-6_9
+
+92
+
+H. Sanghvi et al.
+
+2 The Use of AI in the Sentencing Process
+
+Due to the rising number of Covid-19 cases in Malaysia and with the strict implementa-
+tion of the Movement Control Order (“MCO”) by the Malaysian Government, physical
+court hearings were replaced with online trials, taking place through video conferencing.
+As time goes on, a more systematic framework has been set out in settling cases online
+and in dealing with the exchange of the documentation between the parties through
+video conferencing, email, and the existing e-Review system1 [2]. Many have viewed
+this unprecedented pandemic as a good opportunity for AI to be used as a judicial tool
+alongside the existing sentencing process. However, world over, the use of AI in the
+criminal justice system especially in the sentencing area is still very much a grey area
+[3].
+
+In the Malaysian context, there have been considerable responses to the introduction
+and use of AI in the court systems. Among others, Malaysian lawyers have ﬁrst shown
+their reluctance towards such an “unconstitutional” move to adopt AI technology to help
+judges in the sentencing process on the basis that, unlike human judges, a robot judge
+does not appreciate and consider the facts of each unique case, as well as the mitigating
+factors involved and this may eventually lead to a denial of justice [4].
+
+Despite the voices raised, AI had in fact come into play much earlier before the
+pandemic in the Sabah and Sarawak Courts since February 2020 where these courts had
+already launched a pilot AI tool as a guide to help judges with sentencing decisions
+mostly in criminal cases involving possession of drugs and sexual offences because
+currently, those offences have the richest dataset for AI to operate [4]. In a recent case
+of Public Prosecutor v Dennis P. Modili [5]. The Magistrate’s Court decided the case
+with the aid of the application of AI, but it did not follow the recommendation. This
+was the very ﬁrst case in which AI was used in the sentencing process in Malaysia.
+Although the sentence was subsequently reduced upon appeal, no reason was given by
+the High Court [6]. The Right Honourable Tan Sri Dato’ Abang Iskandar bin Abang
+Hashim, Chief Judge of Sabah and Sarawak had expressed his positive view towards
+the implementation of AI in the courtrooms mainly on the ground that it solves the
+major problem that “judges give different sentences for similar offences” [7] which
+in other words means AI-based judicial systems would produce more consistent and
+fair sentences to minimise the prejudice that might be caused to the potential accused
+persons.
+
+Whereas in Peninsular Malaysia, several efforts have also been made to “activate” the
+AI technology in the lower courts for certain states. On 22nd July 2021, the Ofﬁce of Chief
+Registrar of the Federal Court of Malaysia had issued a press statement releasing the
+sentencing guidelines for AI to be implemented in the Sessions Court and Magistrate’s
+Court in Peninsular Malaysia. Pursuant to the guidelines, the implementation will be
+done in three stages starting from July 2021. The ﬁrst phase with the use of AI will begin
+by involving 20 different offences in the Sessions and Magistrate Courts, which include
+8 offences under the Penal Code (Act 574), 8 offences under the Road Transport Act
+1987 and 4 offences under the Dangerous Drugs Act 1952. Whereas phase 2 will begin
+
+1 The e-Review system is a mechanism that allows judges and judicial ofﬁcers to conduct case
+
+management proceedings through an online messaging platform with lawyers.
+
+Digitalisation of Judiciary in Malaysia
+
+93
+
+in August by having another 30 offences from several other provisions of law. Lastly,
+the third stage will start between January to April 2022 involving the offences which
+are recorded in the e-Judiciary System [8]. Therefore, the AI system had been put on a
+“try” since 23rd July 2021 in the lower courts in Peninsular Malaysia.
+
+2.1 How Does It Work?
+
+With the use of AI, both prosecutors and defence lawyers alike are entitled to submit and
+present their case before the court by convincing the courts based on the precedents and
+the particular facts in the case in question which can be taken into consideration during
+sentencing. After the parties’ submissions, the AI system will provide recommendations
+on sentencing to the judges [7].
+
+These recommendations were provided based on the Court’s internal database which
+was adopted to compile the relevant and critical data and information such as the prece-
+dent of cases or past-court decisions. These shall be referred as the “parameters” for
+the AI to base their recommendations on the possible extent of sentences that shall be
+passed. For instance, for imposing good behaviour bonds on the accused persons under
+Sect. 173A and Sect. 294 of the Criminal Procedure Code, it requires the considerations
+with regards to the age, background as well as the nature of the offences. All these critical
+pieces of information will be entered accordingly, and the AI will then make its own
+recommendations in the form of a percentage based on the information given. In addition
+to these critical pieces of information, the AI will also take into account ﬁve parameters
+which are so-called “mitigating and aggravating factors”: the status of employment; age;
+marital status; nationality; gender; and past acquittals. The whole process only takes a
+few minutes [9].
+
+Nevertheless, these recommendations have no binding effect on the judges but purely
+serve as guidelines to assist the presiding judges in ensuring that the proper sentencing
+standards and principles to be taken into account as established by the judicial precedents.
+Therefore, even with the implementation of the AI, the discretion of the judges has never
+been usurped or undermined [7].
+
+2.2 Issues and Risks
+
+Even though the AI system has started to come into play in the Malaysian judiciary
+system, it is undeniable to say that the operation of AI in courts is still in the experimental
+stage and its ﬁndings have never been conclusive when it comes to decision-making.
+It goes without saying that the implementation of the AI system in the criminal justice
+system would be followed by the emerging issues and risks. Even the Malaysian Bar
+Council had raised concerns towards the implementation of AI in the lower courts since
+human factors in the sentencing process are still paramount considerations to properly
+determine the merits of each case [9].
+
+The most concerning issue perhaps, is the constitutional issue surrounding the use of
+AI technology in the ﬁeld of criminal offences. As mentioned, many legal practitioners
+have strongly objected to the use of AI mainly on the ground that our Criminal Procedure
+Code, the governing statute for criminal procedures, does not provide a legal framework
+for the use of AI [4]. In Sabah and Sarawak, when the AI system was introduced, there
+
+94
+
+H. Sanghvi et al.
+
+had been regular stakeholders’ consultations with the legal practitioners as well as the
+legal association representatives [10]. However, in Peninsular Malaysia, based on the AI
+sentencing guidelines as issued by the Ofﬁce of Chief Registrar of the Federal Court of
+Malaysia on 22nd July 2021, nothing suggests that proper consultations have been made
+with the stakeholders with regards to any suggested opinions and the improvements to
+the AI system before it was introduced into our criminal justice system.
+
+Our system is lacking a comprehensive legal framework to enable AI technology to
+fully take over our sentencing process. It may operate as a “guide” or “parameter”, but
+probably not as the judge itself. This is also due to the fact that there are many emerging
+problems and risks in this area that have not been properly addressed. For instance,
+certain subjective matters are incapable of being quantiﬁed based on mathematical terms.
+To illustrate, one of the variables in the AI tool is whether the victim in a rape case
+has “suffered psychological distress”, and to this, there might be varying degrees of
+psychological distress. However, the algorithm only recognises the binary inputs of “yes”
+or “no”. Another major unaddressed issue relates to the issue of negligence committed
+by AI. Who is held liable when a machine makes a mistake? If the AI system makes
+an unforeseen error in its calculations, how would the wrongly sentenced accused be
+compensated and who should such actions be brought against? [8].
+
+Certainly, AI can be used as a tool to speed up the disposal of cases and to elevate
+access to justice – cheaper, faster, and more effectively than ever before. Nonetheless,
+there are long-debated risks and several issues that remain unsolved [11].
+
+3 Recommendation
+
+The global use of AI in the criminal justice system is growing quickly, from the DoNotPay
+chatbot lawyer mobile app to robot judges in Estonia adjudicating small claims, to robot
+mediators in Canada and AI judges in Chinese courts [11]. Malaysia is following this
+trend by introducing AI into the judicial system and although AI has its pros, it does
+come with its fair share of drawbacks which needs to be addressed before Malaysia can
+embark on a more AI-dependent judgement system.
+
+3.1 Specialised Local Guidelines
+
+One of the plausible institutional reforms would be to create specialised guidelines and
+a local framework which lawmakers, judges and lawyers alike can refer to when dealing
+with AI. The Bar Council’s criminal law committee co-chair Muhammad Raﬁque Rashid
+Ali raised concerns over the fact that lawyers were not provided with any guidelines
+prior to the implementation of the said system [12]. Hence, Malaysia should follow in
+the footsteps of Europe, where lawmakers have produced the European Ethical Charter
+on the Use of Artiﬁcial Intelligence in Judicial Systems and their environment [13],
+which clearly outlines 5 cores principles to be adhered to when using AI in the judicial
+system and other frequently asked matters. The said 5 principles are the principles of
+respect for fundamental rights, non-discrimination, quality and security, transparency,
+impartiality and fairness, as well as the principle of “under user control”. With clearer
+guidelines and step-by-step explanations on the working mechanism of AI as a tool for
+
+Digitalisation of Judiciary in Malaysia
+
+95
+
+sentencing, perhaps Malaysian lawyers would be more inclined to accept it as a tool to
+facilitate justice.
+
+3.2 Tighter Security Measures
+
+Another area of reform would be in terms of the political reforms surrounding efforts
+to prevent data leaks from AI software and systems. The role of ethics in the conduct
+of electronic interactions between people and businesses raises challenges around the
+moral implications or unintended consequences that result from the coming together
+of technology and humans. Using AI in courtrooms would expose data from cases,
+including parties’ personal information, ﬁnancial statements, criminal track records and
+other sensitive information which, in the wrong hands, could lead to nefarious means
+[14]. In this regard, Malaysia has to ensure that its AI information systems are highly
+protected and less prone to cyber-attacks. Cybersecurity expert Professor Dr Selvaku-
+mar Manickam from Universiti Sains Malaysia said the country should produce more
+cybersecurity engineers and invest in acquiring the latest technology while constantly
+evaluating all public portals and websites in preparation to gear itself towards cyber
+resilience as the threat of a global cybersecurity breach continues to pose a major risk
+[15].
+
+4 Closing Remarks
+
+Technology, whether it is used for case management, web forms, or more complicated AI-
+based tasks, should only be introduced into the judicial process if proper accountability
+mechanisms are in place [16]. Malaysia is deﬁnitely going in the right direction by
+introducing AI systems into courts, but their level of involvement in the sentencing
+process should be limited, and should not completely take over the role of a human
+judge, unless and until it can be proven there is no bias in its decision-making.
+
+Acknowledgments. The authors would like to extend their gratitude to the Multimedia Univer-
+sity’s Siti Hasmah Digital Library for the accessibility of the extensive online databases.
+
+The authors do not receive any funding from any party for the research and publication of this
+
+paper.
+
+Authors’ Contributions. All four authors have discussed and identiﬁed the area of law for this
+paper, authors 1 and 2 have completed the initial draft, with further input, review and editing from
+authors 3 and 4.
+
+References
+
+1. Kuek Ser Kwang Zhe, ‘Legal Tech: AI Set To Change The Face Of Legal Industry’
+(The Edge Markets, 2020) <https://www.theedgemarkets.com/article/legal-tech-ai-set-cha
+nge-face-legal-industry> accessed 3 May 2022.
+
+96
+
+H. Sanghvi et al.
+
+2. Ali, J. Z. (n.d.). United Nations Ofﬁce on Drugs and Crime . Retrieved from The Malaysian
+Court’s Accessibility to Justice in the Time of COVID-19: https://www.unodc.org/dohade
+claration/en/news/2020/10/malaysian-courts-accessibility-to-justice-in-the-time-of-covid19.
+html.
+
+3. Chandran, R. (2022, April 22). The Edge Markets. Retrieved from As Malaysia tests AI court
+sentencing, some lawyers fear for justice: https://www.theedgemarkets.com/article/malaysia-
+tests-ai-court-sentencing-some-lawyers-fear-justice.
+
+4. Chandran, R. ‘As Malaysia Tests AI Court Sentencing, Some Lawyers Fear For Justice’ (The
+Star, 2022) <https://www.thestar.com.my/tech/tech-news/2022/04/12/as-malaysia-tests-ai-
+court-sentencing-some-lawyers-fear-for-justice> accessed 3 May 2022.
+
+5. [2020] 2 SMC 381.
+6. Denis P Modili v PP, Case no. BKI-41H-3/2-2020.
+7. En, L. M. (2021, November 24). Govinsider. Retrieved from How courts in Sabah and Sarawak
+are sentencing with the help of AI: https://govinsider.asia/digital-economy/how-courts-in-
+sabah-and-sarawak-are-sentencing-with-the-help-of-ai-abang-iskandar-malaysia/.
+
+8. Daud, M. (2022). Artiﬁcial Intelligence in the Malaysian Legal System: Issues: Challenges
+
+and Way Forward. INSAF, 39(1), 1-24.
+
+9. Anbalagan, V. (2021, July 24). Free Malaysia Today. Retrieved from Malaysian Bar troubled
+over judges using AI for sentencing: https://www.freemalaysiatoday.com/category/nation/
+2021/07/24/malaysian-bar-troubled-over-judges-using-ai-for-sentencing/.
+
+10. Richard, G., & Claire, L. (2020). Artiﬁcial Intelligence in the Courts: AI sentencing in Sabah
+
+and Sarawak. Khazanah Research Institute, 193–194.
+
+11. Singh, JKS. (2021) An AI Ethical Framework for Malaysia: A Much-Needed Governance
+Tool for Reducing Risks and Liabilities Arising from AI System. Malayan Law Journal, 3,
+cdxiv-cdxxxvii.
+
+12. Judges Using AI For Sentencing’ (Malaysiakini, 2022) <https://www.freemalaysiatoday.
+com/category/nation/2021/07/24/malaysian-bar-troubled-over-judges-using-ai-for-senten
+cing/> accessed 3 May 2022.
+
+13. ‘European Ethical Charter On The Use Of Artiﬁcial Intelligence In Judicial Systems And Their
+Environment’ (Rm.coe.int, 2018) <https://rm.coe.int/ethical-charter-en-for-publication-4-
+december-2018/16808f699c> accessed 3 May 2022.
+
+14. The Law Society UK, ‘Artiﬁcial Intelligence And The Legal Profession’ (2018).
+15. Dhesegaan Bala Krishnan, ‘Cybersecurity Threats: ‘Malaysia Must Bolster Systems, Web-
+sites” (New Straits Times, 2022) <https://www.nst.com.my/news/nation/2021/06/697745/
+cybersecurity-threats-malaysia-must-bolster-systems-websites> accessed 3 May 2022.
+16. Francesco Contini, ‘Artiﬁcial Intelligence: A New Trojan Horse For Undue Inﬂuence On Judi-
+ciaries?’ (Unodc.org, 2022) <https://www.unodc.org/dohadeclaration/en/news/2019/06/art
+iﬁcial-intelligence_-a-new-trojan-horse-for-undue-influence-on-judiciaries.html> accessed
+3 May 2022.
+
+Digitalisation of Judiciary in Malaysia
+
+97
+
+Open Access This chapter is licensed under the terms of the Creative Commons Attribution-
+NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/),
+which permits any noncommercial use, sharing, adaptation, distribution and reproduction in any
+medium or format, as long as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons license and indicate if changes were made.
+
+The images or other third party material in this chapter are included in the chapter’s Creative
+Commons license, unless indicated otherwise in a credit line to the material. If material is not
+included in the chapter’s Creative Commons license and your intended use is not permitted by
+statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder.

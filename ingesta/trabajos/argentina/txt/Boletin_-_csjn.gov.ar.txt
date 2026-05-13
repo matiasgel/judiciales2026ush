@@ -1,0 +1,2281 @@
+# Fuente
+- archivo: Boletin_-_csjn.gov.ar.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\Boletin_-_csjn.gov.ar.pdf
+- extraido: 2026-04-24T11:34:08
+
+# Contenido
+
+Boletín 
+
+Dirección de Comunicación y Gobierno Abierto  
+Secretaría de Desarrollo Institucional
+
+El debate que viene
+
+La llegada de la inteligencia artificial al 
+escenario  jurídico  entró  en  una  etapa  de 
+ebullición. Las primeras herramientas con-
+cretas  para  su  implementación  son  acom-
+pañadas por papers, artículos de doctrina, 
+seminarios  y  conferencias  que  dan  cuenta 
+del fenómeno.
+
+Días  atrás  fue  un  encuentro  sobre  “La 
+inteligencia artificial y la actividad judicial” 
+a  instancias  del  Instituto  Tecnológico  de 
+Aragón, una agencia del gobierno aragonés. 
+En paralelo, la convocatoria de la Unesco a 
+un  seminario  virtual  sobre  IA  y  justicia,  a 
+realizarse en 2021; el 24 de noviembre, un 
+artículo en el diario La Ley, luego el lanza-
+miento  de  un  suplemento  específico  sobre 
+innovación y derecho.
+
+En  Aragón  se  presentó  el  trabajo  de 
+dos  jueces  españoles  que  hicieron  un  ver-
+dadero mapa del instrumental existente en 
+el  expansivo  universo  de  la  IA  jurídica.  La 
+
+necesidad  de  ese  documento  y  el  perfil  de 
+sus autores son, ya, sintomáticos de lo que 
+viene.  En  su  clasificación  se  incluyen  he-
+rramientas  para  la  práctica  administrativa 
+automatizada,  para  la  codificación  predic-
+tiva,  la  revisión  documental  y  contractual; 
+herramientas  de  IA  para  due  diligence  y 
+propiedad intelectual; otras para ensambla-
+je  contractual  y  documental;  chatbots  con 
+inteligencia  artificial;  justicia  predictiva 
+(búsqueda legal, jurisprudencial y analítica 
+jurídica predictiva), y resolución de asuntos 
+judiciales.
+
+Alfonso  Peralta  Gutiérrez,  titular  del 
+Juzgado de Primera Instancia e Instrucción 
+Nº 1 de Roquetas de Mar, fue quien presen-
+tó el trabajo “Herramientas de inteligencia 
+artificial en el ámbito jurídico comparado”, 
+que  realizó  junto  con  Leopoldo  Salvador 
+Torres López, juez del Juzgado de Primera 
+Instancia  e  Instrucción  N°  2  de  Ronda.  Su 
+
+Diciembre 2020 | Vol. 37
+
+LA JUSTICIA VA A LA 
+ESCUELA 2020
+· 3 ·
+
+ACUERDOS
+· 4 ·
+
+Semblanza 
+FEDERICO IBARGUREN
+· 8 ·
+
+MUNDO JUDICIAL
+· 10 ·
+
+DICEN DE MÍ 
+· 12 ·
+
+SEMILLERO DE 
+LA CORTE
+· 14 ·
+
+DERECHO A LA SALUD
+· 14 ·
+
+ACTUALIDAD JUDICIAL
+· 15 ·
+
+Arquitectura judicial 
+ALEMANIA
+· 16 ·
+
+Efeméride
+OTRA OPORTUNIDAD
+· 18 ·
+
+Este Boletín es una herramienta de comunicación interna de la Corte Suprema de Justicia de la Nación. Por comentarios y sugerencias, por favor, escriba a comunicacion@csjn.gov.ar.  
+
+Lea las ediciones anteriores haciendo clic aquí.
+
+ 
+investigación, a diferencia de otras so-
+bre  el  mismo  tema,  abordó  los  gran-
+des desafíos que encierran estas nue-
+vas tecnologías.
+
+En  lo  que  refiere  a  instrumental 
+predictivo, materias novedosas en las 
+que no existan precedentes o su canti-
+dad no sea suficiente o se dé un cam-
+bio de jurisprudencia, quedarán fuera 
+del radar tecnológico, explicó. A eso se 
+suma que, hasta ahora, las herramien-
+tas imaginadas y conocidas utilizaban 
+los  precedentes 
+jurisprudenciales 
+para  vaticinar  las  futuras  decisiones 
+de un juez. Pero ya hay las que cruzan 
+esa  información  con  noticias  sobre 
+el  magistrado  interviniente,  su  com-
+portamiento  en  las  redes  sociales  e 
+información  personal  y  familiar  a  la 
+que tengan libre acceso, en un avance 
+sobre la privacidad.
+
+Otra  “novedad”,  presentada  en  el 
+trabajo de estos jueces, está dada por 
+las plataformas que facilitan lo que se-
+ría  algo  así  como  las  “sentencias  con 
+referato”.  Esto  es:  sin  que  medie  re-
+
+curso judicial alguno, pares de los ma-
+gistrados  intervinientes  (de  alzada  o 
+no) analizan las sentencias y les hacen 
+sus  propios  aportes  y  comentarios. 
+Es  el  modelo  de  Ravel,  herramienta 
+recientemente  adquirida  por  Lexis-
+Nexis, que ya está en funcionamiento 
+y promete generar no pocas polémicas 
+y replanteos para la actividad jurisdic-
+cional.
+
+“Dilemas éticos y morales, ‘tiranía 
+del algoritmo’ (black box), amenaza a 
+la independencia judicial, congelación 
+jurídica, sesgos, sobrevaloración, falta 
+de motivación, excesiva mecanización 
+y patronaje ideológico (intimidad per-
+sonal  y  familiar)”  son  algunos  de  los 
+riesgos  que,  señalan  los  magistrados, 
+encierran estos nuevos desarrollos.
+
+Con  miras  a  capacitar  sobre  estos 
+y otros aspectos, la Unesco lanzó una 
+encuesta  para  operadores 
+judicia-
+les  en  relación  con  la  IA  y  el  Estado 
+de Derecho. Su objetivo es definir las 
+pautas  del  programa  de  capacitación 
+que  dictarán  sobre  el  tema  en  2021. 
+
+La explicación gráfica del machine learning y del deep learning, del artículo de N. Bonina.
+
+2 
+
+“El  uso  de  la  inteligencia  artificial  en 
+los sistemas judiciales está siendo es-
+tudiado  por  el  Poder  Judicial,  las  fis-
+calías  o  ministerios  públicos  y  otros 
+órganos judiciales focalizados en ám-
+bitos  específicos  en  todo  el  mundo. 
+Por  ejemplo,  en  el  ámbito  de  la  jus-
+ticia  criminal,  el  uso  de  sistemas  IA 
+para la prestación de asistencia en las 
+investigaciones y la automatización de 
+los procesos de toma de decisiones ya 
+se encuentra en vigor en muchos sis-
+temas  judiciales  de  diferentes  conti-
+nentes”, contextualizan.
+
+El  curso  “facilitará  el  intercambio 
+de  conocimientos  y  de  experiencias 
+entre  los  operadores  judiciales  sobre 
+la  inteligencia  artificial,  las  normas  y 
+estándares existentes (derecho duro y 
+blando,  o  hard  y  soft  law)  en  la  ma-
+teria, y sus repercusiones en los dere-
+chos humanos, destacando el estudio 
+de  casos  y  las  prácticas  adecuadas 
+para  traducir  los  principios  éticos  en 
+la práctica”.
+
+Geográficamente  más  cerca,  a  po-
+cos metros del Palacio, desde las pági-
+nas de La Ley Nicolás Bonina se plan-
+tea  si  las  máquinas  van  a  reemplazar 
+a los abogados, a la luz de la interco-
+nexión entre derecho e IA. Su artículo 
+recorre la historia de la IA, sus alcan-
+ces,  los  enfoques  técnico-académicos 
+y prácticos, el aprendizaje de las má-
+quinas y el deep learning. 
+
+La  nota  incluye  multiplicidad  de 
+gráficos como el que ilustran esta pá-
+gina,  poco  habituales  en  la  historia 
+más conocida de la literatura jurídica.
+“En  líneas  generales,  y  hasta  aho-
+ra,  los  sistemas  de  inteligencia  arti-
+ficial  aplicados  al  derecho  se  utilizan 
+como  complemento  de  la  práctica 
+profesional.  Sin  embargo,  el  estado 
+del arte de los sistemas de IA, sumado 
+a  los  desafíos  que  enfrenta  el  sector 
+legal  -potenciados  por  la  pandemia 
+de  COVID-19-,  nos  llevan  a  afirmar 
+que nos dirigimos hacia una etapa de 
+transformación  de  los  modelos  ope-
+rativos  y  organizacionales  de  las  or-
+ganizaciones  legales  y  al  nacimiento 
+de  nuevos  modelos  de  negocios  en  el 
+
+Diciembre 2020 | Vol . 373 
+
+ámbito legal”, señala Bonina.
+
+Es  la  hora  del  legal  operations  y 
+del legal management, dice, y pronos-
+tica:  “la  tecnología  y,  en  especial,  los 
+sistemas  de  inteligencia  artificial  nos 
+permitirán  dar  este  salto  cuantitativo 
+y cualitativo para implementar nuevos 
+modelos  operativos,  organizacionales 
+y modelos de negocios con el fin de op-
+timizar  nuestros  procesos,  volvernos 
+más eficientes y más eficaces”.
+
+La  Ley  también  acaba  de  lanzar 
+un  suplemento  periódico  de  Innova-
+ción y Derecho. Su director, Demetrio 
+Alejandro  Chamatropulos,  es  relator 
+de la Corte Suprema de Justicia de la 
+Provincia de Tucumán. 
+
+“Términos disruptivos (y de lo más 
+disímiles)  como  inteligencia  artificial, 
+machine 
+learning,  blockchain,  big 
+data, algoritmos, data privacy, econo-
+mía  colaborativa,  uberización,  smart 
+cities,  contratos  inteligentes,  visual 
+contracts,  legal  design,  criptomone-
+das,  fintech,  crowdfunding,  servicios 
+cloud,  ciberseguridad,  robótica,  star-
+tups,  etc.,  son  manifestaciones  pal-
+pables  del  nuevo  presente  con  el  que 
+el  derecho  tiene  que  acostumbrarse  a 
+convivir”,  enmarca  Chamatropulos  en 
+la presentación de la publicación.
+
+En  su  página  8,  Débora  Schapira 
+desarrolla la temática de la inteligencia 
+artificial  como  un  reto  para  la  educa-
+ción. “No deben excluirse las habilida-
+des  interpersonales,  la  comunicación, 
+intercambio con el entorno, liderazgo y 
+
+trabajo colaborativo en equipo”, señala 
+respecto de las competencias profesio-
+nales para el futuro cercano.
+
+Y eso, como se dijo, viene acompa-
+ñado por desafíos que conviene empe-
+zar a pensar y a abordar.
+
+La Justicia va a la Escuela 2020
+
+“¡Me  gustó  mucho  la  experiencia!”,  “¡Muy  bueno! 
+Aprendí  mucho”,  “¡Muy  linda  experiencia!  Excelente 
+organización de los encuentros. Gracias por invitarnos”, 
+“Muy buenos y entretenidos los dos talleres. Los volunta-
+rios muy atentos en todo”.
+
+Con esas -y otras similares- respuestas de los partici-
+pantes, culminó la edición 2020 del programa “La Justi-
+cia va a la Escuela”, este año en formato virtual.
+
+“La Justicia…” es un programa que hace más de 20 
+años implementa la Asociación de Magistrados y Funcio-
+narios de la Justicia Nacional (AMFJN) junto a la Asocia-
+ción Conciencia en alianza con la Embajada de los Esta-
+dos Unidos en Argentina. 
+
+Este año, a raíz de la pandemia, se reconvirtió la me-
+
+todología de trabajo a la virtualidad, abordando sus conte-
+nidos en dos talleres lúdicos y participativos: “Hoy somos 
+jueces” y “La Justicia como valor a poner en práctica”. 
+
+En total, en 2020 se dictaron 19 talleres virtuales en 
+la Ciudad de Buenos Aires, San Rafael (Mendoza) y Rosa-
+rio (Santa Fe). De ellos participaron 220 estudiantes del 
+anteúltimo  año  de  10  instituciones  educativas  de  nivel 
+secundario del país, guiados por jueces, fiscales y defen-
+sores miembros de la AMFJN, y voluntarios y voluntarias 
+de la Asociación Conciencia.
+
+“Creo que la experiencia fue muy valiosa”, sintetizó 
+uno de los participantes, y agregó: “El hecho de compren-
+der mejor el funcionamiento de nuestro sistema judicial 
+nos forma, creo yo, mejor como ciudadanos”.
+
+Diciembre 2020 | Vol . 374 
+
+Acuerdos
+
+De las 768 causas resueltas en los 
+acuerdos de ministros realizados en la 
+segunda  quincena  de  noviembre,  re-
+señamos:
+
+Intereses  compensatorios  para 
+créditos laborales en la quiebra
+
+La  Corte  debió  analizar  una  sen-
+tencia  de  la  Sala  D  de  la  Cámara  Co-
+mercial que, en el marco de una quie-
+bra, consideró inaplicable lo dispuesto 
+por  el  artículo  129  de  la  Ley  de  Con-
+cursos  y  Quiebras  y  le  negó  a  un  tra-
+bajador  los  intereses  compensatorios 
+que allí se establecen expresamente. 
+
+El  a  quo  supuso  que  el  legisla-
+dor,  al  establecer  el  reconocimiento 
+de  intereses  compensatorios  para  los 
+créditos  laborales,  había  obrado  de 
+manera  inconsecuente  y  con  falta  de 
+previsión. 
+
+La  mayoría  de  la  Corte  no  solo 
+amonestó  esa  técnica  de  interpreta-
+ción para apartarse de la literalidad del 
+texto, sino que remarcó que, al hacer-
+lo, la Sala vació de contenido la refor-
+
+ma que la ley 26.684 introdujo a dicho 
+artículo, quitándole eficacia al preten-
+dido reconocimiento de intereses a los 
+acreedores laborales. Sostuvo que, así 
+como  la  Ley  de  Contrato  de  Trabajo 
+busca compensar al trabajador por la 
+falta  de  cumplimiento  en  término  de 
+las obligaciones dinerarias de carácter 
+alimentario a cargo del empleador, el 
+artículo 129 de la ley concursal, según 
+la  redacción  de  la  26.684,  mantiene 
+esa  protección  incluso  frente  a  la  si-
+tuación de insolvencia del empleador. 
+De ese modo, los intereses que hacen 
+posible el mantenimiento del valor del 
+crédito laboral ante la insolvencia son 
+compensatorios  en  sentido  amplio  y, 
+con  ese  sentido,  fueron  reconocidos 
+por el legislador. 
+
+La sentencia ratificó que el traba-
+jador es un sujeto de preferente tutela 
+y  que  esa  preferencia  es  reconocida 
+por  la  ley  concursal  ante  la  insolven-
+cia. Dicho punto le llevó a recordar el 
+precedente  “Clínica  Marini”  (Fallos 
+336:908),  destacando  que  no  debe 
+
+considerarse desde la misma perspec-
+tiva  a  un  trabajador  y  a  un  acreedor 
+financiero  o  comercial,  aunque  inte-
+gren  la  misma  masa  pasiva,  porque 
+el  origen  de  cada  crédito  es  distinto 
+y  tienen  una  disparidad  de  recursos 
+para seguir el proceso falencial. 
+
+En  concreto,  decretó  la  arbitra-
+riedad  de  la  sentencia  apelada  (COM 
+49430/2000  “Club  Ferrocarril  Oeste 
+s/quiebra/incidente  de  levantamien-
+to/incidente de apelación”). 
+
+Capacidad  contributiva  y  tasas 
+de servicios
+
+La  Corte  descalificó  una  senten-
+cia  del  Superior  Tribunal  chaqueño 
+que  validó  un  decreto  que  había  mo-
+dificado la forma de calcular una tasa 
+por el uso de una vía navegable. 
+
+La Corte sostuvo la arbitrariedad 
+porque  el  a  quo  omitió  analizar  fun-
+dadamente,  conforme  los  principios 
+de  igualdad  y  capacidad  contributi-
+va  consagrados  en  el  artículo  59  de 
+la  Constitución  de  la  Provincia  del 
+
+Diciembre 2020 | Vol . 37Chaco, el agravio relativo a la incons-
+titucionalidad  de  los  coeficientes  es-
+tablecidos para su liquidación, que al 
+aplicarse de igual manera a todo aquel 
+que usara la vía, no ponderó que para 
+determinadas embarcaciones -por sus 
+actividades  y  capacidad  contributiva- 
+resultaba sumamente gravosa. 
+
+En las actuaciones, la prueba pe-
+ricial exhibía que los nuevos coeficien-
+tes habrían implicado para los buques 
+areneros un incremento del 1709% en 
+el  costo  de  la  tasa,  en  tanto  que  para 
+las  petroleras  sería  del  365,69%.  En 
+esa  pericia  también  se  señaló  que  la 
+incidencia  de  la  gabela  en  los  com-
+bustibles es del orden del 0,1818%, en 
+cambio para las areneras del 4,0447% 
+(CSJ  4417/2015  Cooperativa  Minera 
+de Productores de Arena y Piedra del 
+Noreste Ltda. s/acción de inconstitu-
+cionalidad). 
+
+Otras arbitrariedades
+
+Rosa Argentina Martínez se acci-
+dentó  en  2008  y  la  Sala  III  de  la  Cá-
+mara  Nacional  de  Apelaciones  en  lo 
+Civil y Comercial Federal hizo lugar a 
+la acción que entabló para obtener la 
+reparación  integral  de  los  daños  que 
+padece. Había sufrido una caída en la 
+calle  cuando  iba  caminando  hacia  su 
+trabajo en un día lluvioso. Para la Sala 
+se  trató  de  un  accidente  in  itinere, 
+pero la condena no la fundó en la Ley 
+de Riesgos de Trabajo, sino en el artí-
+culo 1113 del Código Civil, y tampoco 
+demostró  la  relación  de  causalidad 
+adecuada  entre  el  daño  alegado  y  su 
+conducta,  presupuesto  indispensable 
+para la atribución de responsabilidad 
+civil (artículos 901, 904 y 905 del Có-
+digo Civil y 1726 y 1727 del Código Ci-
+vil y Comercial de la Nación). 
+
+Sobre este último aspecto, la Cor-
+te  recordó  que  dicho  requisito  no  se 
+verifica  con  la  sola  circunstancia  de 
+que la víctima posea un vínculo labo-
+ral con el demandado. La Corte obser-
+vó  así  que  la  sentencia  resultó  arbi-
+traria  (CCF  432/2011  Martínez,  Rosa 
+Argentina c/La Segunda Aseguradora 
+de  Riesgos  del  Trabajo  S.A.  y  otro  s/ 
+
+5 
+
+accidente de trabajo/enferm. prof. ac-
+ción civil).
+
+Contra la sentencia de la Sala VII 
+de la Cámara Nacional de Apelaciones 
+del  Trabajo  que  condenó  a  Alastuey 
+(empleador)  y  a  la  aseguradora  QBE 
+Argentina ART S.A. a indemnizar a un 
+chofer  del  taxi  apuñalado  durante  su 
+jornada de trabajo, ambos plantearon 
+recursos extraordinarios. 
+
+La mayoría rechazó el de Alastuey 
+y aceptó el de la aseguradora, en tan-
+to  consideró  arbitrario  que  a  ella  se 
+le  extendiese  la  responsabilidad  civil 
+con  la  cual  se  condenó  al  empleador, 
+en el marco de una reposición que este 
+presentó al efecto. Ello porque ningu-
+na  consideración  formuló  Alastuey 
+tendiente a descalificar los fundamen-
+tos con que el magistrado de primera 
+instancia  rechazó  la  responsabilidad 
+civil de la aseguradora. 
+
+En disidencia parcial, un voto ad-
+hirió a las consideraciones relativas al 
+recurso  de  la  aseguradora,  pero  tam-
+bién  consideró  arbitraria  la  condena 
+civil  a  Alastuey.  En  este  aspecto,  y  a 
+diferencia  de  la  Cámara,  el  voto  no 
+consideró que el servicio se haya pres-
+
+tado sin la protección adecuada y sin 
+las medidas de seguridad que corres-
+ponden.  Para  obtener  una  condena 
+mayor que el daño ya indemnizado en 
+los  términos  de  la  ley  24.577,  funda-
+mentada  en  el  derecho  civil,  corres-
+pondía  al  accionante  acreditar  que  el 
+infortunio guarda relación de causali-
+dad adecuada con un factor subjetivo 
+u objetivo de imputabilidad atribuible 
+a su empleador. Para este voto, en au-
+tos no se probó que haya existido una 
+violación de un deber de seguridad ni 
+existe  prueba  alguna  sobre  cómo  la 
+actividad  de  transporte  de  pasajeros 
+en coche de alquiler en general se vin-
+cula con accidentes de este tipo. Tam-
+poco que se hubiera alegado, y menos 
+probado,  que  la  zona,  el  recorrido,  la 
+época  del  año  o  el  horario  impuestos 
+por  el  empleador  a  su  dependiente 
+fueran  particularmente  peligrosos  o 
+riesgosos.  En  definitiva,  y  tratándose 
+de  un  hecho  delictivo perpetrado por 
+un tercero en la vía pública, conside-
+ró que las afirmaciones de la Cámara 
+respecto  al  riesgo  de  la  actividad  re-
+sultaban  meramente  dogmáticas  (NT  
+27504/2013/1/RH1,  Cruz,  Martín 
+
+Diciembre 2020 | Vol . 37Ernesto c/Alastuey, Roberto Walter y 
+otro s/accidente - acción civil).
+
+En  otro  caso,  la  Corte  consideró 
+arbitraria  una  sentencia  laboral  que 
+dispuso  las  costas  por  su  orden  ante 
+el allanamiento efectivo de la ART de-
+mandada. 
+
+Observó que aun cuando se admi-
+tiera  que  Prevención  ART  no  recibió 
+la  denuncia  inmediata  del  acciden-
+te  fatal,  fue  citada  al  procedimiento 
+de  conciliación  establecido  por  la  ley 
+24.635 que tuvo inicio el 30 de no-
+viembre de 2016 y culminó el 23 
+de diciembre de ese año, misma 
+fecha  en  que  fue  interpuesta 
+la  demanda.  De  este  modo, 
+al  tiempo  del  allanamien-
+to,  el  plazo  legal  para  que 
+procediera  al  pago  que  le 
+correspondía  estaba  ven-
+cido  (CNT  109835/2016 
+Antonio, Marta Myriam c/
+Prevención  ART  S.A.  s/ac-
+cidente). 
+
+Otra  arbitrariedad  en 
+
+materia  de  costas  se  dictó  res-
+pecto de una sentencia de la Cá-
+mara Federal de Rosario que, al re-
+chazar una apelación, dispuso que las 
+costas de ambas instancias debían ser 
+afrontadas por la vencida. Ello perju-
+dicó a ésta, que fue la única que había 
+apelado el fallo de primera instancia, 
+que en materia de costas, las estable-
+ció por su orden. 
+
+Para  la  Corte,  la  decisión  del  a 
+quo frustró el derecho de defensa del 
+apelante al colocarlo en una situación 
+más gravosa, sin que hubiese existido 
+debate previo ni recurso de la contra-
+ria (Fallos: 310:867). 
+
+Señaló además que la Cámara se 
+apartó del texto legal que solo autori-
+za la adecuación oficiosa de las costas 
+en  la  hipótesis  de  revocación  o  mo-
+dificación  del  fallo  (artículo  279  del 
+Código  Procesal  Civil  y  Comercial  de 
+la Nación), a la vez que excedió los lí-
+mites de su competencia, toda vez que 
+el  Código  mencionado  solo  atribuye 
+al tribunal de segunda instancia la ju-
+risdicción que resulta de los recursos 
+
+6 
+
+deducidos  por  ante  ella,  limitación 
+ésta que tiene jerarquía constitucional 
+(FRO  12087871/2012  Melvin,  Pablo 
+Andrés c/INSSJP s/reclamos varios).
+
+por  daño  moral  que  la  actora  no  ha-
+bía  reclamado  en  la  demanda  (CNT 
+17197/2011/1/RH1  Smith,  Elizabeth 
+c/Valot S.A. s/despido).
+
+Desistimiento de la queja
+
+Competencia originaria
+
+El  Tribunal  ha  resuelto  en  reite-
+radas  oportunidades  que  el  pago  de 
+las  sumas  determinadas  en  la  sen-
+
+tencia  con  posterioridad  a  la  inter-
+posición  de  la  queja  y  sin  reserva  de 
+continuar con su tramitación, importa 
+renuncia o desistimiento tácito del re-
+curso  por  incompatibilidad  manifies-
+ta  entre  ambos  actos  procesales.  Tal 
+doctrina se construyó en tanto supone 
+que  el  pago  ha  sido  voluntario  y  no 
+como  consecuencia  de  una  ejecución 
+forzada de la sentencia. 
+
+En el caso del recurso interpuesto 
+por  la  empleadora  Valot  S.A.,  la  ma-
+yoría consideró que el pago sin reser-
+va  de  la  condena  con  posterioridad  a 
+la  liquidación  y  a  la  intimación  bajo 
+apercibimiento  de  ejecución,  justifi-
+caba aplicar dicha doctrina. 
+
+El  voto  minoritario  sostuvo  el 
+criterio  contrario  y  propuso  declarar 
+arbitraria la sentencia del a quo que, 
+invocando  el principio  iura  novit cu-
+indemnización 
+ria,  reconoció  una 
+
+La  provincia  de  Santa  Cruz  peti-
+cionó se declare la incompetencia del 
+fuero federal civil y comercial con ju-
+risdicción en la Ciudad de Buenos Ai-
+res  para  entender  en  un  reclamo  por 
+el cobro de una provisiones que la 
+Dirección  General  de  Fabrica-
+ciones  Militares  alega  impa-
+
+gas. 
+
+Tanto  el  juez  civil  y 
+comercial como la Corte 
+le dieron la razón.  
+
+Si  bien  la  deman-
+dada  fue  la  policía  de 
+Santa  Cruz,  dicho  or-
+ganismo  integra  la  ad-
+ministración central de 
+la provincia que contes-
+tó  la  demanda  y  solicitó 
+la  excepción  de  incompe-
+
+tencia. 
+
+Por  otra  parte,  fabrica-
+ciones  militares,  la  actora,  es 
+una sociedad de estado con el 100% 
+de  su  capital  de  propiedad  estatal  y 
+órganos directivos elegidos por el Es-
+tado Nacional. 
+
+La  Corte  entendió  así  que  el  de-
+recho al fuero federal de la actora y a 
+la jurisdicción originaria de la deman-
+dada  hacen  que  la  única  manera  de 
+conciliar  ambas  prerrogativas  juris-
+diccionales sea sustanciar la demanda 
+en  instancia  originaria  ante  la  Corte, 
+cualquiera  sea  la  materia  del  pleito 
+(CCF 305/2013 Dirección General de 
+Fabricaciones Militares c/Santa Cruz, 
+Provincia de s/cobro de sumas de di-
+nero).
+
+Extradición e interrupción de la 
+prescripción
+
+Conforme  lo  dispuesto  por  el 
+artículo  6.1.  del  tratado  con  la  Repú-
+blica  del  Paraguay  (aprobado  por  ley 
+25.302): “No se concederá la extradi-
+ción: ... c) cuando de acuerdo a la ley 
+
+Diciembre 2020 | Vol . 37de alguna de las Partes se hubiera ex-
+tinguido la pena o la acción penal co-
+rrespondiente  al  delito  por  el  cual  se 
+solicita la extradición”. 
+
+El  juez  de  primera  instancia  or-
+denó  la  extradición  solicitada  por 
+el  Paraguay  respecto  de  Javier  Luis 
+Endler y su apelación llegó a la Corte 
+que, además del paso del tiempo, de-
+bió evaluar los hitos que interrupen la 
+prescripción. 
+
+Sobre  esto,  la  Corte  recordó  que 
+ya  ha  señalado  que  la  “resolución  ju-
+dicial”  extranjera  que  dispone  el  li-
+bramiento  del  pedido  de  extradición 
+constituye  la  máxima  expresión  del 
+interés de la autoridad judicial extran-
+
+jera con competencia penal en el caso 
+para lograr el sometimiento a su juris-
+dicción  de  una  persona  hallada  en  el 
+extranjero, y que en el caso, ese reque-
+rimiento se realizó en plazo. Por ende, 
+la consideró interrumpida y confirmó 
+la extradición, aclarando que circuns-
+cribir la aplicación de la regla de pres-
+cripción bajo examen lisa y llanamen-
+te a las causales de “interrupción” de 
+la  acción  penal  contempladas  en  el 
+artículo 67, párrafo cuarto, del Código 
+Penal  argentino  -tal  como  se  preten-
+dió en la apelación- conduciría a igno-
+rar la significación propia que tiene en 
+el ámbito de la cooperación penal in-
+ternacional el “pedido de extradición” 
+en tanto fundamento de la consecuen-
+te  decisión  del  país  requerido  de  dar 
+curso a esa petición, como cabal refle-
+
+jo del interés estatal de este último de 
+cooperar con aquel para hacer efecti-
+vo  el  interés  en  la  persecución  (FRE 
+9449/2018/CS1  “Endler,  Javier  Luis 
+s/extraordinario”).
+
+Fuero Federal para la Obra 
+Social del Poder Judicial 
+
+La Obra Social del Poder Judicial 
+de  la  Nación  fue  demandada  en  los 
+tribunales  civiles  y  comerciales  or-
+dinarios  de  la  provincia  del  Chaco  y 
+condenada a solventar el 100% de una 
+internación  que  el  paciente  decidió 
+hacer en el ciudad de La Plata, a 1200 
+km  del  Chaco.  Antes  de  ello,  planteó 
+la  incompetencia,  que  se  le  denegó. 
+Recurrió ante la justicia provincial sin 
+éxito hasta llegar a la Corte. 
+
+Ésta,  remitiéndose  al  dictamen 
+del  Procurador,  recordó  que  la  Obra 
+Social  demandada  es  un  órgano  del 
+Poder Judicial nacional con represen-
+tación en cada localidad que sea sede 
+de tribunales federales y que funciona 
+bajo la dependencia directa de la Cor-
+te Nacional -la que, entre otras facul-
+tades, designa y reemplaza al directo-
+rio, fiscaliza su gestión y es titular de 
+su  patrimonio-  y  que  ha  invocado  en 
+todas las instancias el privilegio fede-
+ral que le corresponde. Añadió que la 
+disputa  planteada  exige  interpretar 
+el  alcance  de  una  norma  federal  -v. 
+la  Acordada  de  la  Corte  Suprema  Nº  
+27/11  y  Fallos:  339:245,  “A.,  F.J.”-  y 
+la resolución de la Obra Social dictada 
+en su consecuencia, cuyo conocimien-
+to  está  reservado  a  la  justicia  de  ex-
+cepción y excluido de la aptitud de los 
+tribunales locales. Ello, además y pri-
+ma facie, conlleva la interpretación de 
+preceptos concernientes a la estructu-
+ra  del  sistema  de  salud  implementa-
+do  por  el  Estado  Nacional.  En  suma, 
+se señaló que el juez federal es quien 
+debe  conocer  en  el  pleito  pues  se  en-
+cuentra  demandado  el  Estado  Nacio-
+nal, que así lo ha pedido, y la materia 
+debatida atañe a esa jurisdicción, im-
+prorrogable por su propia naturaleza, 
+privativa y excluyente de los tribuna-
+les  provinciales  (CSJ  000805/2019/
+
+7 
+
+RH001  “M.,  M.A.  c/Obra  Social  del 
+Poder  Judicial  de  la  Nación  s/acción 
+de amparo”). 
+
+Remuneración de Jueces y 
+Secretarios de Chaco
+
+El  Superior  Tribunal  de  Justicia 
+de  la  Provincia  del  Chaco  hizo  lugar 
+a la acción de amparo interpuesta por 
+un grupo de jueces de esa jurisdicción 
+y,  en  consecuencia,  ordenó  al  Estado 
+provincial  recomponer  los  salarios  y 
+evitar  que  en  el  futuro  se  genere  un 
+desfase con el fuero federal. 
+
+Lo hizo remitiendo a las conside-
+raciones  formuladas  en  la  sentencia 
+dictada  por  ese  mismo  tribunal  en  la 
+causa “Alonso de Martina”. 
+
+El Fiscal de Estado y la Cámara de 
+Diputados de la provincia interpusie-
+ron  los  recursos  extraordinarios  que 
+la Corte, por mayoría, rechazó casi en 
+su totalidad. 
+
+El  Máximo  Tribunal  rechazó  los 
+agravios  que  remiten  al  tratamiento 
+de  cuestiones  de  hecho  y  de  derecho 
+público  local  y  procesal,  e  hizo  lugar 
+a  la  objeción  de  que  el  Superior  Tri-
+bunal  de  Justicia  chaqueño  fijase  el 
+monto  de  los  haberes  que  habrán  de 
+percibir  los  actores  en  la  actualidad 
+y  para  el  futuro,  en  desconocimiento 
+al principio de separación de poderes 
+(artículos  5°  y  123  de  la  Constitución 
+Nacional). Dio respuesta en base a las 
+consideraciones  que  ya  había  formu-
+lado  la  Corte  en  la  causa  “Alonso  de 
+Martina” (Fallos: 342:1938), dejando-
+sin efecto ese aspecto de la sentencia 
+apelada (CSJ 734/2016/CS1 “Fernán-
+dez de Vecchietti, Nora M. O. y otros 
+s/acción de amparo”, CSJ 1971/2017/
+CS1 “Filipchuk, Mónica Marisel y otros 
+s/acción de amparo” y CSJ 668/2017/
+CS1  “Rodríguez,  Martha  Cristina  y 
+otros s/ acción de amparo”). 
+
+Este resumen es a título informativo. 
+El  texto  oficial  de  las  sentencias,  así 
+como la totalidad de las sentencias de 
+los  acuerdos,  pueden  consultarse  en 
+la  página  de  la  Secretaría  de  Juris-
+prudencia de la Corte. 
+
+Diciembre 2020 | Vol . 37Semblanza
+
+Federico Ibarguren
+
+8 
+
+En 1884, al momento de su designación en la 
+Corte  Suprema,  Federico  Ibarguren  se  desempe-
+ñaba como vocal de la Cámara de Apelaciones en 
+lo Civil de la Capital Federal y, antes de eso, había 
+ocupado el cargo de juez de Sección de Salta. 
+
+  Ibarguren  nació  el  21  de  enero  de  1832  en 
+“Puerta  de  Seclantás”,  la  finca  que  sus  padres 
+tenían en los Valles Calchaquíes, en  aquella pro-
+vincia.  Estudió  en  el  Colegio  de  Concepción  del 
+Uruguay, famoso en la época por la calidad de su 
+enseñanza  -donde  Ibarguren  fue  un  alumno  bri-
+llante-  y  ya  en  1855  recibió  un  premio  por  una 
+composición sobre derecho civil. Ese galardón era 
+instituido  por  el  pre-
+sidente  Justo  José  de 
+Urquiza  y  consistía  en 
+una medalla de oro con 
+las  armas  de  la  Confe-
+deración  y  la  leyenda: 
+“El  Gobierno  Nacional 
+al  talento  y  aplicación”. 
+Siendo  alumno  de  los 
+lo 
+últimos  cursos,  se 
+designó  profesor  de  los 
+primeros  y  tuvo  entre 
+sus  estudiantes  a  dos 
+futuros  presidentes  de 
+la Nación: Julio A. Roca 
+
+y Victorino de la Plaza.  
+
+Ibarguren  actuó  como  secretario  de  la  Con-
+vención  Constituyente  que,  reunida  en  Concep-
+ción  del  Uruguay,  sancionó  el  15  de  febrero  de 
+1860  la  Constitución  de  la  Provincia  de  Entre 
+Ríos.  Poco  después  ingresó  a  la  Universidad  de 
+la  República  en  Montevideo,  donde  le  confirma-
+ron  el  título  de  bachiller  simultáneamente  al  de 
+doctor,  por  haber  acreditado  sus  estudios  de  Ju-
+risprudencia en el Colegio Nacional del Uruguay, 
+recibiendo  su  título  de  doctor  el  26  de  agosto  de 
+1860 en la facultad montevideana. Tras ello, prac-
+ticó en el estudio de Vicente Fidel López, por en-
+tonces emigrado en esa ciudad.
+
+  Permaneció  en  la  Banda  Oriental  mientras 
+subsistió la división entre Buenos Aires y la Con-
+federación  y,  al  regresar,  fue  nombrado  en  1865 
+presidente  de  la  Cámara  de  Justicia  de  Santa  Fe 
+por  el  gobernador  Nicasio  Oroño.  Fue,  además, 
+uno  de  los  fundadores  del  Colegio  Nacional  de 
+Salta, ministro de Gobierno del gobernador de su 
+
+provincia Benjamín Zorrilla, y redactor del Código 
+de Procedimientos Judiciales de Salta. Al momen-
+to de aceptar reemplazar a José E. Uriburu como 
+juez de Sección de la provincia, ocupaba el cargo 
+de senador nacional. 
+
+A la par de su actuación como juez, Ibarguren 
+ejerció la intervención federal en Jujuy, que había 
+sido decretada debido a un conflicto institucional 
+entre  el  gobernador  jujeño  Cástulo  Aparicio  y  la 
+mayoría  de  los  legisladores  locales.  Tras  cumplir 
+el cometido, el presidente Nicolás Avellaneda ma-
+nifestó: “Es la primera vez que una provincia que-
+da  tranquila  tras  los  pasos  de  una  intervención. 
+Apruebo plenamente su conducta y lo felicito por 
+el éxito de su misión”.  
+
+Ibarguren  continuó  su  carrera  judicial  en  la 
+Capital  Federal.  La  ley  1.144,  del  6  de  diciembre 
+de 1881, organizó la administración de justicia en 
+el distrito y creó tribunales en lo civil, comercial, 
+criminal y correccional y dos cámaras de apelacio-
+nes:  una  en  lo  civil  y  otra  en  lo  criminal,  correc-
+cional y comercial. El presidente Roca propuso a 
+Ibarguren para ejercer la presidencia de la prime-
+ra.  Allí  se  encontraba  cuando  nuevamente  Roca 
+lo eligió para incorporarlo a la Corte Suprema, en 
+reemplazo de Manuel Pizarro.  
+
+Su nombramiento en el Máximo Tribunal se 
+produjo el 28 de agosto de 1884. Compartió el tri-
+bunal hasta 1886 con José Domínguez, Calixto S. 
+de la Torre, Uladislao Frías y José Benjamín Go-
+rostiaga,  en  tanto  que  desde  1887  serían  sus  co-
+legas Salustiano J. Zavalía y Benjamín Victorica.  
+La  primera  sentencia  que  lleva  la  firma  de 
+Ibarguren  es  del  6  de  septiembre  de  1884,  en  la 
+causa “Oyuela de Zorraquin, Isaura c/Galvez, Ma-
+nuel” (Fallos: 27:146). Allí se resolvió que el juez 
+de  Sección  de  Santa  Fe  no  era  competente  para 
+conocer  en  la  causa  dado  que  las  partes  no  eran 
+de  distinta  nacionalidad  sino  de  diversa  vecin-
+dad, pero ninguna de ellas de la provincia en que 
+se suscitó el pleito. Ibarguren junto a Gorostiaga, 
+Domínguez y Frías dijeron que “para que la distin-
+ta vecindad surta el fuero federal, es necesario que 
+sea parte en la causa un vecino de la provincia en 
+que se suscite el pleito y un vecino de otra”. 
+
+En esta etapa, la Corte a través de su jurispru-
+dencia fue marcando el deslinde de las competen-
+cias propias de los distintos órganos de gobierno 
+y estableciendo el alcance de sus facultades y pre-
+
+Diciembre 2020 | Vol . 37rrogativas. En ese sentido, en “Aceve-
+do”  (Fallos  28:406)  el  tribunal,  con 
+la  firma  de  Ibarguren,  determinó  el 
+alcance de la facultad de las Cámaras 
+del  Congreso  de  imponer  sanciones 
+por desacato.  
+
+Otro  caso  relevante  en  el  que  le 
+tocó  intervenir  (en  disidencia)  fue 
+“Sojo” (Fallos 32:120), donde la Corte 
+resolvió  que  no  tiene  jurisdicción  ori-
+ginaria para conocer en los recursos de 
+hábeas  corpus  interpuestos  por  parti-
+culares y, por ello, desestimó la decla-
+ración  de  inconstitucionalidad  del  ar-
+tículo 20 de la ley 27 de Jurisdicción y 
+Competencia, dado que interpretó que 
+aquel no ampliaba su competencia ori-
+ginaria más allá de los supuestos con-
+sagrados en la Constitución.  
+
+En su disidencia, Ibarguren ana-
+lizó  si  el  recurso  de  hábeas  corpus, 
+creado  por  el  artículo  20  de  la  Ley 
+de  1863,  es  un  caso  de  jurisdicción 
+originaria  o  de  jurisdicción  apelada. 
+Indicó  que,  según  la  jurisprudencia 
+norteamericana, aquel recurso es, por 
+su naturaleza, de jurisdicción apelada, 
+desde que se interpone contra un auto 
+de prisión expedido por los jueces in-
+feriores, en cuyo caso cabe preguntar 
+si cambia de naturaleza el recurso se-
+gún  sea  la  clase  de  autoridad  de  que 
+emana  la  resolución  que  lo  motiva. 
+Y  concluyó  que  ese  distingo  no  tenía 
+importancia  pues,  sea  que  la  orden 
+proceda de un juez o de una rama del 
+Congreso, en ambos casos quien debe 
+resolver en definitiva es la Corte.
+
+Ibarguren  falleció  el  19  de  no-
+viembre  de  1890,  siendo  aún  inte-
+grante  de  la  Corte.  Benjamín  Vic-
+torica,  por  entonces  presidente  del 
+tribunal, pronunció un discurso en el 
+que  se  refirió  a  su  excolega  como  un 
+“ciudadano honorabilísimo, juez ilus-
+trado y  recto”. Su muerte prematura, 
+agregó,  “es  una  gran  pérdida  para  la 
+Patria,  para  la  magistratura  y  para  el 
+foro,  donde  sus  opiniones  eran  escu-
+chadas  como  la  manifestación  de  un 
+conocimiento que ilustraba la ciencia, 
+unida  a  la  rectitud  acrisolada  de  un 
+espíritu superior”.
+
+9 
+
+Artículo por artículo
+
+EMERGENCIA PÚBLICA 
+OCUPACIONAL 
+
+PRESTACIONES 
+PREVISIONALES
+
+Por  Decreto  961/20  se  amplió 
+hasta  el  25  de  enero  de  2021  la 
+emergencia pública en materia ocu-
+pacional. En consecuencia, durante 
+su vigencia, en caso de despido sin 
+justa  causa,  el  afectado  tendrá  de-
+recho a percibir doble de la indem-
+nización.
+
+FISCALIZACIÓN DE  
+ASOCIACIONES CIVILES
+
+Por Resolución General 47/20 
+de  la  Inspección  General  de  Justi-
+
+Por Decreto 899/20 se dispuso 
+que todas las prestaciones previsio-
+nales a cargo de la ANSES tendrán 
+un  incremento  equivalente  al  5% 
+sobre  el  haber  devengado  corres-
+pondiente al mensual de noviembre 
+de 2020.
+
+DIRECTORES SUPLENTES
+
+La  Resolución  General  45/20  
+de  la  Inspección  General  de  Justi-
+cia estableció que en las reuniones 
+de  los  órganos  colegiados  de  ad-
+
+cia  se  estableció  la  necesidad  para 
+las  asociaciones  civiles  de  contar 
+con un órgano de fiscalización.
+
+FONDO DE GARANTÍA  
+DE SUSTENTABILIDAD 
+
+Por  Ley  27.574  se  estableció 
+que  la  ANSES,  por  intermedio  del 
+Fondo de Garantía de Sustentabili-
+dad del Sistema Integrado Previsio-
+nal Argentino (FGS), deberá priori-
+zar aquellas inversiones que tengan 
+impacto  directo  en  la  economía 
+real, promoviendo la sostenibilidad 
+del sistema previsional y de la eco-
+nomía argentina en general.
+
+ministración  de  las  sociedades,  no 
+resulta  necesario  para  habilitar  la 
+actuación del o los directores o ad-
+ministradores suplentes una previa 
+reunión  donde  se  ponga  a  estos 
+en  posesión  de  la  efectiva  titulari-
+dad  de  su  cargo.  El  directorio  o  la 
+gerencia  colegiada,  en  el  caso  de 
+las  sociedades  de  responsabilidad 
+limitada,  podrá  integrarse  auto-
+máticamente  cuando  el  respectivo 
+órgano  de  administración,  previa 
+notificación  válida  y  fehaciente  de 
+convocatoria a los directores titula-
+res, no alcance el quórum necesario 
+para sesionar.
+
+Diciembre 2020 | Vol . 37Mundo judicial
+
+Estos son algunos de los temas que se están debatiendo en los tribunales extranjeros.
+
+10 
+
+ESTADOS UNIDOS
+A  última  hora  de  la  noche  del 
+miércoles  25  de  noviembre,  la  Cor-
+te  Suprema  accedió  a  las  solicitudes 
+de  la  Diócesis  Católica  Romana  de 
+Brooklyn  y  dos  sinagogas  judías  or-
+todoxas  para  bloquear  la  aplicación 
+de  una  orden  ejecutiva  del  Estado  de 
+Nueva York que restringe la asistencia 
+a los lugares de culto. 
+
+Tanto la diócesis como las sinago-
+gas  afirmaron  que  la  orden  ejecutiva 
+violaba el derecho al libre ejercicio de 
+la religión garantizado por la Primera 
+Enmienda, particularmente cuando se 
+permite que los negocios seculares en 
+el área permanezcan abiertos. 
+
+El  gobernador  de  Nueva  York, 
+Andrew  Cuomo,  emitió  en  octubre 
+último la orden ejecutiva en el 
+centro  de  ambas  disputas.  En 
+ella, se identifican “grupos” de 
+casos de COVID-19 y se toman 
+medidas  para  evitar  que  el  vi-
+rus  se  propague.  Un  área  in-
+mediatamente  contigua  a  uno 
+de esos grupos se conoce como 
+zona  “roja”  y  allí  la  asistencia 
+a  los  servicios  de  culto  se  li-
+mita  a  10  personas;  alrededor 
+de  ella  se  encuentra  una  zona 
+“naranja”, con asistencia máxi-
+ma  de  25  personas.  Las  zonas 
+“amarillas”  rodean  las  zonas 
+“naranjas”  y  allí  la  asistencia 
+se  permite  hasta  el  50%  de  la 
+capacidad máxima del edificio.
+En  una  opinión  per  cu-
+riam  -modalidad  en  que  la 
+decisión  es  breve,  general-
+mente  sin  audiencia  previa  y 
+sin  firma-,  la  Corte  Suprema 
+impidió que el estado hiciera cumplir 
+los  límites  de  asistencia  mientras  los 
+impugnadores  continúan  litigando  el 
+asunto  en  la  Corte  de  Apelaciones  de 
+los  Estados  Unidos  para  el  Segundo 
+Circuito y, si es necesario, regrese a la 
+
+Corte Suprema para una decisión final 
+sobre el fondo. 
+
+El  tribunal  explicó  que  la  orden 
+de  Cuomo  no  parece  ser  neutral  sino 
+que  “singulariza  los  lugares  de  culto 
+para  recibir  un  trato  especialmente 
+duro”.  Por  ejemplo,  aunque  una  si-
+nagoga o una iglesia en una zona roja 
+está limitada a 10 personas por sesión, 
+no hay límites sobre cuántas personas 
+puede  admitir  un  negocio  “esencial” 
+cercano,  categoría  que  puede  incluir 
+servicio  de  acupuntura  o  un  campa-
+mento.
+
+Debido a que la orden de Cuomo 
+no  es  neutral,  continuó  el  tribunal, 
+está sujeta a la prueba constitucional 
+del  escrutinio  estricto.  No  pasa  esa 
+prueba,  afirmó  la  mayoría,  porque  la 
+
+tamaño  de  la  instalación.  Y  si  se  ha-
+cen  cumplir  las  restricciones,  agregó 
+la  Corte,  resultarán  en  daños  perma-
+nentes  a  las  personas  que  no  pueden 
+asistir y para quienes una transmisión 
+en vivo de servicios no es un sustituto 
+adecuado.
+
+Si  bien  la  decisión  no  está  fir-
+mada,  sí  lo  están  las  opiniones  con-
+currentes  y  disidentes  y  ello  permite 
+identificar  mayorías  y  minorías  con 
+nombre  y  apellido,  lo  cual  pareciera 
+desnaturalizar  la  idea  misma  de  de-
+cisión  per  curiam.  Entre  los  disiden-
+tes,  el  presidente  Roberts  reconoció 
+que  las  restricciones  en  estos  casos 
+“bien  podrían”  violar  la  cláusula  de 
+libre  ejercicio,  pero  dio  cuenta  de  la 
+afirmación del gobernador Cuomo en 
+el sentido de que las restriccio-
+nes  de  asistencia  no  se  aplican 
+a las iglesias y sinagogas recla-
+mantes ya que se encuentran en 
+áreas que ahora están designa-
+das  como  zonas  amarillas.  Por 
+ello,  afirmó  que  el  tribunal  no 
+necesitaba  decidir  “esta  grave 
+y difícil pregunta ahora porque 
+los límites de asistencia ya no se 
+aplican a los actores”.
+
+Kavanaugh,  en  su  opinión 
+concurrente,  respondió  a  ese 
+argumento  afirmando  que  “no 
+hay  una  buena  razón”  para  no 
+actuar  ahora.  Si  las  casas  de 
+culto que impugnan las restric-
+ciones  no  regresan  a  las  zonas 
+roja o naranja, observó, enton-
+ces  las  sentencias  de  la  Corte 
+“no  impondrán  ningún  daño 
+al  Estado  y  no  tendrán  ningún 
+efecto en la respuesta del Esta-
+
+orden  es  demasiado  amplia.  No  hay 
+evidencia  de  que  estas  sinagogas  e 
+iglesias hayan contribuido a los brotes 
+y, en su lugar, podría haberse emplea-
+do  otras  reglas  menos  restrictivas, 
+como basar la asistencia máxima en el 
+
+do al COVID-19”. 
+
+Pero si terminan de nuevo en zo-
+nas  rojas  o  naranjas,  las  sentencias 
+garantizarán que no estén sujetas a un 
+tratamiento inconstitucional.
+
+Breyer presentó su propia opinión 
+
+Diciembre 2020 | Vol . 37disidente, a la que se unieron Sotoma-
+yor  y  Kagan.  Estuvieron  de  acuerdo 
+con Roberts en que no es necesario que 
+el  tribunal  actúe  ahora.  Pero  en  cual-
+quier caso, agregó Breyer, debido a lo 
+que  sabemos  sobre  cómo  se  transmi-
+te el virus, particularmente cuando se 
+trata del mayor riesgo de transmisión 
+en actividades interiores en las que las 
+personas  están  en  contacto  cercano 
+entre sí durante períodos prolongados 
+de tiempo, la cuestión de si los límites 
+de  asistencia  violan  la  Constitución 
+está “lejos de ser clara”.
+
+REINO UNIDO
+El  27  de  noviembre  la  Corte  Su-
+prema  resolvió  el  caso  Halliburton 
+Company v Chubb Bermuda Insuran-
+ce Ltd, donde se discutían las circuns-
+tancias en las que un árbitro en un ar-
+bitraje  internacional  puede  aparecer 
+como sesgado. 
+
+Halliburton  Company  (HC)  pro-
+porcionó  servicios  de  cementación 
+y  monitoreo  de  pozos  a  British  Pe-
+troleum  (BP)  en  el  Golfo  de  México. 
+Transocean  Ltd  también  brindó  ser-
+vicios  a  BP,  incluidos  algunos  super-
+puestos  a  los  prestados  por  HC.  HC 
+suscribió  una  póliza  de  responsabili-
+dad  con  Chubb  Bermuda  Insurance 
+Ltd, compañía que también aseguraba 
+a Transocean Ltd.
+
+En  2010  hubo  una  explosión  e 
+incendio en una plataforma petrolera 
+en el Golfo de México, incidente cono-
+cido como el derrame Deepwater Ho-
+rizon. Como resultado, se presentaron 
+miles de demandas civiles contra BP, 
+HC  y  Transocean.  BP  también  recla-
+mó contra HC y Transocean.
+
+Después de un juicio en los Esta-
+dos Unidos en el que se dictó sentencia 
+en la que se repartieron las culpas en-
+tre las partes, HC concluyó un acuerdo 
+para  acordar  el  monto  de  los  daños. 
+HC intentó que parte de este acuerdo 
+fuera  cubierto  por  su  aseguradora, 
+quien  se  negó.  Se  inició  el  arbitraje 
+previsto en el contrato y ambas partes 
+seleccionaron a su propio árbitro, pero 
+no  pudieron  ponerse  de  acuerdo  so-
+
+bre el presidente del tribunal. Esto dio 
+lugar  a  una  solicitud  ante  el  Tribunal 
+Superior. El resultado fue que se selec-
+cionó a Rokison, candidato de primera 
+elección de la aseguradora. 
+
+Halliburton,  al  descubrir  en 
+2016  que,  después  del  nombramien-
+to  de  Rokison  y  sin  su  conocimiento, 
+este  había  aceptado  el  nombramien-
+to  como  árbitro  en  otras  dos  contro-
+versias  surgidas  ambas  del  mismo 
+incidente  de  Deepwater  Horizon,  se 
+presentó  ante  la  corte  bajo  la  sección 
+24  de  la  Ley  de  Arbitraje  de 
+1996 para destituir a Rokison 
+como  árbitro.  Su  petición  fue 
+rechazada y su apelación llegó 
+hasta  la  Corte  Suprema,  que 
+desestimó  por  unanimidad  la 
+apelación  al  sostener  que  a 
+la  fecha  de  la  audiencia  para 
+destituir a Rokison, un obser-
+vador  imparcial  e  informado 
+no  concluiría  que  existen  cir-
+cunstancias  que  den  lugar  a 
+dudas  justificables  sobre  su 
+imparcialidad.
+
+La Corte Suprema afirmó 
+que  puede  haber  circunstan-
+cias  en  las  que  la  aceptación 
+de  múltiples  nombramientos 
+que  involucren  a  una  parte 
+común  y  la  misma  materia  o 
+la superposición de un tema da lugar 
+a  una  apariencia  de  parcialidad.  Ello 
+dependerá de los hechos del caso y, en 
+particular,  de  las  costumbres  y  prác-
+ticas en el ámbito pertinente de arbi-
+traje. Cuando, como en el contexto de 
+un arbitraje del Formulario Bermuda, 
+las circunstancias podrían razonable-
+mente dar lugar a la conclusión de que 
+existía  una  posibilidad  real  de  sesgo, 
+el árbitro se encuentra bajo un deber 
+de  divulgar  dichos  nombramientos  a 
+menos que las partes del arbitraje ha-
+yan acordado lo contrario.
+
+Aplicando  esas  conclusiones  a 
+los  hechos,  el  señor  Rokison  tenía  la 
+obligación legal de revelar su nombra-
+miento  en  las  controversias  posterio-
+res que involucraran a Chubb y Tran-
+socean.  Al  no  hacer  esa  revelación, 
+
+11 
+
+violó su deber de divulgación.
+
+Sin  embargo,  habida  cuenta  de 
+las circunstancias conocidas a la fecha 
+de  la  audiencia  en  primera  instancia, 
+no  se  puede  decir  que  el  observador 
+imparcial  e  informado  inferiría  del 
+hecho  de  que  Rokison  no  divulgara 
+ese  dato  que  existía  una  posibilidad 
+real  de  sesgo.  En  ese  momento,  no 
+estaba claro que existiera un deber de 
+divulgación.
+
+En  segundo  lugar,  los  arbitrajes 
+transoceánicos  habían  comenzado 
+
+varios meses después del arbitraje de 
+Halliburton. 
+
+En tercer lugar, la respuesta me-
+surada de Rokison a la queja de Halli-
+burton indica que era probable que las 
+controversias  posteriores  se  resolvie-
+ran mediante una cuestión preliminar 
+(como  de  hecho  lo  fueron)  y  que,  de 
+no  ser  así,  consideraría  renunciar  al 
+arbitraje de Trasocean. 
+
+No parecía, pues, haber probabi-
+lidad  de  que  Chubb  obtenga  ninguna 
+ventaja debido a las controversias su-
+perpuestas. 
+
+Cuarto,  no  había  prueba  de  que 
+Rokison  hubiera  recibido  ningún  be-
+neficio económico secreto y, en quinto 
+lugar,  no  había  ninguna  base  por  in-
+ferir cualquier mala voluntad incons-
+ciente de su parte. 
+
+Diciembre 2020 | Vol . 37Dicen de mí... (I)
+
+Estas son, en pocas palabras, algunas de las repercusiones que tuvieron las sentencias de la 
+Corte en los medios técnicos especializados.
+
+Extinción del contrato de trabajo por mutuo acuerdo
+
+12 
+
+Dos  artículos  analizan  el  fallo  en 
+el  caso  “Ocampo,  Alessio  Matías  Yai 
+c/BGH S.A s/despido” (*). Allí se de-
+claró arbitraria la sentencia de la Sala 
+VII de la Cámara Nacional del Traba-
+jo,  que  había  confirmado  una  resolu-
+ción de primera instancia que declara-
+ba sin ningún valor un acuerdo con el 
+cual  trabajador  y  empleador,  mutua-
+mente, pusieron fin a la relación labo-
+ral en los términos del artículo 241 de 
+la Ley de Contrato de Trabajo (LCT).
+
+Si bien dicho acuerdo fue pasado 
+a escritura pública y no se habían pro-
+bado los vicios de la voluntad denun-
+ciados por el actor, el a quo restó valor 
+al  acuerdo  porque  no  había  contado 
+con intervención de autoridad judicial 
+o  administrativa,  ni  mediado  una  re-
+solución  fundada  que  demostrara  la 
+“justa  composición  de  los  derechos  e 
+intereses  de  las  partes”  que  exige  el 
+artículo 15 de la LCT. 
+
+La Corte consideró que no consti-
+tuye derivación razonada del derecho 
+vigente  exigir  la  homologación  admi-
+
+nistrativa  o  judicial  de  lo  convenido 
+y  pasado  ante  escritura  pública,  toda 
+vez que ese requisito no se encuentra 
+contemplado en la norma.
+
+Para Alfredo Rafael Porras la sen-
+tencia  comentada  “no  sorprende,  ya 
+que  insiste  en  que  los  términos  gra-
+maticales  son  definitorios  al  momen-
+to de interpretar una norma”. El caso, 
+agrega, “no ha merecido a criterio del 
+Máximo  Tribunal  ningún  esfuerzo  in-
+terpretativo, las tres opciones que pro-
+ponía  el  art.  241  de  la  LCT  en  el  caso 
+-formalizarse por escritura pública- no 
+admitía  mayores  disquisiciones  y  me-
+nos aún traer el art. 15 de la LCT como 
+lo procuraba el tribunal apelado”. 
+
+Concluye que la decisión “no me-
+rece reproche en cuanto a la solución 
+propuesta de revocar lo decidido” por 
+el a quo. “Luce arbitraria la exigencia 
+de homologación administrativa o ju-
+dicial de lo convenido toda vez que el 
+requisito no se encuentra contempla-
+do en el art. 241 de la LCT”.
+
+señala que la Corte rescata los requi-
+sitos de validez de la extinción de co-
+mún acuerdo. “El fallo reafirma que el 
+mentado art. 241, LCT, establece que 
+las partes, por mutuo acuerdo, podrán 
+extinguir el contrato de trabajo y que 
+el  acto  deberá  formalizarse  mediante 
+escritura  pública  o  ante  la  autoridad 
+judicial  o  administrativa  del  trabajo. 
+Agrega  que  será  nulo  y  sin  valor  el 
+acto  que  se  celebre  sin  la  presencia 
+personal  del  trabajador  y  los  requi-
+sitos  consignados  en  cuanto  a  la  for-
+ma de instrumentación. En el caso se 
+cumplió con los requisitos legales y no 
+se  probó  que  hubiere  habido  alguno 
+de los vicios de la voluntad”, destaca.
+
+De  Diego,  Julián.  La  Corte  Suprema  res-
+
+cata  los  requisitos  de  validez  de  la  extin-
+
+ción de común acuerdo.
+
+Porras, Alfredo Rafael. La interpretación 
+
+gramatical de los términos de la ley
+
+Ambos  en  La  Ley,  18  de  noviembre  de 
+
+2020.
+
+Por  su  parte,  Julián  de  Diego 
+
+(*)  ver Boletín 35
+
+Diciembre 2020 | Vol . 37Dicen de mí... (II)
+
+Restitución internacional de niños
+
+13 
+
+diciones  para  resolver  las  cuestiones 
+vinculadas con la niña.
+
+Las autoras destacan que “expre-
+samente revocó la decisión que orde-
+naba el regreso de la niña a la ciudad 
+francesa de Burdeos y fijó pautas con-
+cretas para determinar o descartar la 
+configuración de una residencia habi-
+tual”.
+
+En  esto  último,  señalan,  se  en-
+cuentra  la  máxima  relevancia  del  fa-
+llo, que “aporta elementos específicos 
+que deben tenerse en cuenta a la hora 
+de determinar la existencia de una re-
+sidencia  habitual,  lo  cual  se  aprecia 
+como  necesario,  debido  a  que  se  tra-
+
+tenerla por configurada a partir de un 
+concepto  de  “simple  residencia”.  Sos-
+tuvo  que  debe  tener  necesariamente 
+un grado suficiente de continuidad que 
+permita  otorgarle  el  exigido  carácter 
+de  “habitual”,  esto  es,  que  habilite  a 
+concluir que en dicho lugar el niño de-
+sarrollaba su vida con naturalidad.
+
+La Corte entendió que el mes y los 
+pocos  días  que  pasaron  en  Burdeos, 
+sumado a que la niña contaba con tan 
+solo cinco meses de edad cuando via-
+jó  a  Europa,  resulta  insuficiente  para 
+atribuirle  la  estabilidad  y  permanen-
+
+María  Soledad  Pennise  Iantorno 
+y Marcela V. Panatti se refieren al fa-
+llo en el caso “V., M. c. S. Y., C. R. s/ 
+restitución internacional de niños”. 
+
+La ciudad de Buenos Aires fue el 
+escenario  donde  una  joven  chilena, 
+residente,  y  un  joven  visitante  fran-
+cés comenzaron en abril de 2017 una 
+historia de amor que pronto derivó en 
+un  embarazo  y  luego  en  matrimonio. 
+En abril de 2018 nació su hija, sumán-
+dose  a  la  casa  de  la  abuela  materna, 
+donde todos convivían. En septiembre 
+de ese año los tres viajaron a Europa. 
+Luego  de  pasar  poco  más  de  un  mes 
+en Burdeos, la familia proyectó que la 
+madre y la pequeña volverían en ene-
+ro a la Argentina, pasarían por Chile y 
+en marzo de 2019 se reunirían nueva-
+mente en Francia para continuar con 
+un viaje a Vietnam. Además, la madre 
+había recibido una visa de un año que 
+la  habilitaba  a  permanecer  y  trabajar 
+en Francia; el padre había conseguido 
+trabajo en ese país, y habían solicitado 
+una asistencia social francesa. 
+
+Diecisiete  días  después  de  la  fe-
+cha de reunificación acordada, madre 
+e hija continuaban en Argentina, el jo-
+ven solicitó el divorcio (en Francia) y 
+realizó, respecto de la niña, un pedido 
+de restitución internacional.
+
+A la Corte llegó el recurso que en-
+tabló la madre contra la sentencia de 
+la  Cámara  Civil,  que  había  ordenado 
+la restitución. 
+
+El  Máximo  Tribunal  reiteró  que 
+la  expresión  residencia  habitual  que 
+utiliza  el  Convenio  de  25  de  octubre 
+de  1980  sobre  los  Aspectos  Civiles  de 
+la Sustracción Internacional de Meno-
+res  (CH  1980)  hace  referencia  a  “una 
+situación  de  hecho  que  presupone  es-
+tabilidad  y  permanencia,  y  alude  al 
+centro de gravedad de la vida del me-
+nor, con exclusión de toda referencia al 
+domicilio dependiente de los menores” 
+(conf. Fallos: 318:1269) y que no cabe 
+
+cia  requeridas.  Tampoco  consideró 
+acreditado un consenso familiar para 
+residir en Francia, que pueda adquirir 
+la  concreción  propia  de  una  decisión 
+jurídicamente  relevante.  Sostuvo,  fi-
+nalmente,  que  desde  sus  inicios  el 
+desarrollo de la vida de pareja y fami-
+liar  se  fue  consolidando  en  la  ciudad 
+de  Buenos  Aires,  donde  el  actor  y  la 
+demandada  convivieron,  se  casaron, 
+trabajaron y estudiaron, y donde tam-
+bién nació la hija de ambos quien per-
+maneció 
+ininterrumpidamente  cin-
+co  meses  hasta  el  viaje  a  Europa.  En 
+esas  circunstancias,  consideró  que  al 
+tiempo de los hechos, era Argentina el 
+lugar de residencia habitual y que, en 
+consecuencia, son nuestros tribunales 
+los que se encuentran en mejores con-
+
+ta  de  un  concepto  convencional  cuyo 
+contenido está indeterminado”. 
+
+Destacan,  por  último,  que  el 
+“máximo  tribunal  federal  -siempre 
+a  la  vanguardia  entre  los  países  lati-
+noamericanos-  haya  fijado  criterios 
+interpretativos  y  pautas  claras  para 
+la determinación de la residencia ha-
+bitual de un niño, punto de conexión 
+central  a  la  hora  de  resolver  un  caso 
+de sustracción internacional”.
+
+Pennise Iantorno, María Soledad y Pana-
+
+tti, Marcela V. “Residencia habitual”. Pre-
+
+supuestos para su determinación a la luz 
+
+de un precedente de la Corte en un caso de 
+
+sustracción  internacional  de  niños.    ¿En-
+
+foque predeterminado o flexibilidad?
+
+La Ley, 26 de noviembre de 2020.
+
+Diciembre 2020 | Vol . 37Semillero de la Corte
+
+¿Qué tuvieron en común los jue-
+ces de la Corte José Benjamín Goros-
+tiaga, Marcelino Ugarte, Saturnino M. 
+Laspiur  y  Benjamín  Victorica?  Todos 
+ellos  dieron  sus  primeros  pasos  en  el 
+ejercicio de la profesión en el estudio 
+jurídico  de  Baldomero  García,  por 
+donde  también  pasaron  Bernardo  de 
+Irigoyen y Miguel Navarro Viola.
+
+García  había  nacido  en  Buenos 
+
+da que fueran llegando, los jueces de-
+signados  se  integraran  a  una  Cámara 
+de  Justicia  que  funcionaría  mientras 
+la  Corte  no  se  instalara  completa-
+mente.  Finalmente,  un  año  y  medio 
+después de su nombramiento, el 13 de 
+enero de 1856, García llegó a Paraná y 
+se sumó a aquel tribunal.
+
+Sin haber logrado que esa prime-
+ra  Corte  entrara  en  funcionamiento, 
+
+Aires  el  27  de  febrero 
+de  1799.  Era  hijo  de 
+José  Manuel  García  y 
+de Catalina Alconchel. 
+Huérfano  desde  muy 
+joven,  se  recibió  de 
+abogado en su ciudad 
+natal en 1822. 
+García 
+
+fue  un 
+destacado  miembro 
+del  partido 
+federal 
+porteño,  amigo  de 
+Manuel 
+Dorrego, 
+Pedro  Feliciano  Ca-
+via  y  José  Francisco 
+Ugarteche.  A  pedido 
+del  gobernador  san-
+Estanislao 
+tafesino 
+López,  editó  en  Santa 
+Fe  el  periódico  oficial 
+El  Federal.  Más  tarde 
+fue  oficial  del  ministerio  de  gobierno 
+de la época de Juan Manuel de Rosas, 
+y juez civil y criminal. 
+
+El 6 de agosto de 1854, Justo José 
+de  Urquiza  designó  a  los  primeros 
+nueve integrantes de la Suprema Cor-
+te  de Justicia, según los alcances de la 
+Constitución  Nacional  de  1853.  Ade-
+más de García se encontraban Gabriel 
+Ocampo, José Roque Funes, Francis-
+co  Delgado,  Martín  Zapata,  Facundo 
+Zuviría,  Bernabé  López,  José  Benito 
+Graña y Nicanor Molinas. El tribunal 
+debía entrar en funcionamiento el 27 
+de octubre de 1854 en la ciudad de Pa-
+raná,  pero  para  entonces,  casi  todos 
+los  nombrados  estaban  retenidos  en 
+Buenos Aires.
+
+El gobierno dispuso que, a medi-
+
+la reforma constitucional de 1860 mo-
+dificó  el  artículo  91  de  la  Carta  Mag-
+na  poniendo  en  manos  del  Congreso 
+la  fijación  del  número  de  jueces  del 
+Máximo  Tribunal.  Tras  ello,  el  30  de 
+octubre de 1860 Santiago Derqui dejó 
+sin  efecto  las  primeras  designaciones 
+de  1854,  difiriendo  el  nombramiento 
+de  las  personas  que  habrían  de  ocu-
+par  aquellos  cargos  hasta  que  la  ley 
+determinara el número de jueces que 
+debían componer la Corte.
+
+La llegada al poder de Bartolomé 
+Mitre  significó  el  final  de  la  carrera 
+política  de  García,  quien  incluso  fue 
+acusado de traición a su provincia. En 
+sus últimos años se dedicó de pleno a 
+su  estudio  jurídico,  falleciendo  el  27 
+de febrero de 1870.
+
+14 
+
+Derecho a 
+la Salud
+
+La  Secretaría  de  Juris-
+prudencia  de  la  Corte  Supre-
+ma  publicó  un  nuevo  libro  en 
+formato  digital  “Derecho  a  la 
+Salud -Edición 2020-”, con hi-
+pervínculos  a  la  base  de  juris-
+prudencia.
+
+A lo largo de 100 páginas, 
+se  aborda  una  extensa  lista 
+de  cuestiones  relativas  a  la 
+temática.  Entre  ellos:  el  con-
+cepto  de  derecho  a  la  salud  y 
+el  fundamento  constitucional, 
+los  compromisos  derivados  de 
+tratados  internacionales  y  las 
+obligaciones  de  la  autoridad 
+pública en la materia.
+
+También  se  trabaja  sobre 
+la  cobertura  de  las  prestacio-
+nes  (el  programa  médico  obli-
+gatorio,  coberturas  y  presta-
+ciones  pactadas  o  legalmente 
+establecidas  y  falta  de  funda-
+mentación suficiente).
+
+Asimismo,  se  abordan  las 
+prestaciones  a  personas  con 
+discapacidad,  tratamientos  de 
+fertilidad asistida y prácticas y 
+tratamientos en etapa de expe-
+rimentación.
+
+Afiliación,  derecho  a 
+la 
+información  y  publicidad,  va-
+cunación  y  salud  pública,  plan 
+de salud sexual, salud psíquica, 
+transplantes y HIV son algunos 
+de los otros temas abordados.
+
+El  libro  trata  también  so-
+bre  el  control  de  la  comercia-
+lización  de  productos  medici-
+nales  y  cuestiones  procesales 
+(procedencia del amparo, com-
+petencia,  acciones  colectivas  y 
+medidas cautelares, entre mu-
+chas otras).
+
+“Derecho  a  la  Salud  -Edi-
+ción  2020-”,  puede  consultar-
+se haciendo clic aquí. 
+
+Diciembre 2020 | Vol . 37Actualidad judicial
+
+15 
+
+N° 1 de la Capital Federal,
+
+•  María  Virginia  Jalil  Colome,  de-
+fensora  pública  oficial  ante  el 
+Juzgado  Federal  de  Primera  Ins-
+tancia  de  Villa  Mercedes,  San 
+Luis, 
+
+•  Mercedes  Robba,  defensora  pú-
+blica  curadora  de  la  Defensoría 
+General de la Nación, Defensoría 
+Pública Curaduría N° 1.
+
+NUEVOS CONSEJEROS
+
+El 30 de noviembre, el presidente 
+de la Corte Suprema de Justicia de la 
+Nación, Carlos Rosenkrantz, tomó ju-
+ramento de ley a los nuevos integran-
+tes del Consejo de la Magistratura de 
+la  Nación,  Carlos  Matterson  y  Diego 
+Sebastián  Marías,  en  representación 
+de los abogados de la matrícula fede-
+ral del interior del país y de la Capital 
+Federal, respectivamente.
+
+La jura se realizó en el Salón An-
+tonio Bermejo del Palacio de Tribuna-
+les,  siguiendo  las  pautas  sanitarias  y 
+de distanciamiento social en el marco 
+de la pandemia de Covid-19.
+
+mera Instancia N° 2 de Catamarca, 
+•  María  Belén  López  Mace,  jueza 
+del  Juzgado  Federal  de  Primera 
+Instancia N° 2 de Formosa, 
+•  Gabriel  Hernán  Di  Giulio,  juez 
+del  Juzgado  Federal  de  Primera 
+Instancia Nº 1 de Azul, provincia 
+de Buenos Aires, 
+Federico  Ángel  Claudio  Martín, 
+juez  del  Juzgado  Federal  de  Pri-
+mera Instancia de Victoria, Entre 
+Ríos.
+También se nombró a 
+Celia  Guadalupe  delgado,  defen-
+sora pública oficial ante el Tribu-
+nal Oral en lo Criminal Federal de 
+General Roca, Río Negro, 
+
+• 
+
+• 
+
+• 
+
+•  Mariano  Gabriel  Galletta,  defen-
+sor  público  oficial  ante  el  Tribu-
+nal Oral en lo Criminal Federal de 
+Tucumán, 
+Carlos  Nicolás  Escandar,  defen-
+sor público de víctima con asiento 
+en la provincia de Salta, 
+Juan  Bernardo  Candia,  defensor 
+público  de  menores  e  incapaces 
+en lo civil, comercial y del trabajo 
+
+• 
+
+NOMBRAMIENTOS 
+
+En sendos decretos, se nombró a:
+•  Raúl Daniel Bejas, vocal de la Cá-
+
+• 
+
+• 
+
+mara Nacional Electoral, 
+Adriana Claudia Cammarata, vo-
+cal de la Cámara Federal de la Se-
+guridad Social, Sala I,  
+Sebastián  Eduardo  Russo,  vocal 
+de la Cámara Federal de la Segu-
+ridad Social, Sala III, 
+
+•  Héctor Osvaldo Chomer, vocal de 
+la  Cámara  Nacional  de  Apelacio-
+nes en lo Comercial de la Capital 
+Federal, Sala A, 
+
+• 
+
+•  Guillermo  Adolfo  Quadrini,  juez 
+de  Cámara  del  Tribunal  Oral  en 
+lo Criminal Federal de Tierra del 
+Fuego,  Antártida  e  Islas  del  At-
+lántico Sur, 
+Alejandra Quinteiro, jueza de Cá-
+mara del Tribunal Oral de Meno-
+res Nº 2 de la Capital Federal. 
+Asimismo, se designaron a los si-
+guientes jueces de los juzgados nacio-
+nales de primera instancia del Trabajo 
+de la Capital Federal:
+Lucas Adolfo Malm Green (N° 6),
+• 
+Laura Matilde D’Arruda (N° 8),
+• 
+Andrea Urretavizcaya (N° 12),
+• 
+Santiago Docampo Miño (N° 18),
+• 
+• 
+Viviana Mariel Dobarro (N° 21),
+•  Héctor Horacio Karpiuk (N° 22),
+• 
+Ana Clara Alfie (N° 37),
+•  María Luján Garay (N° 41), 
+•  María  Eugenia  Elizabeth  Plaza 
+
+• 
+• 
+• 
+
+• 
+
+(N° 44),
+Fabiana Silvia Rodríguez (N° 50), 
+Carlos Javier Nagata (N° 59),
+Alejandro Carlos Musa (N° 78).
+Además, se nombró a:
+Claudio  Marcelo  Vázquez,  juez 
+del  Juzgado  Federal  de  Primera 
+Instancia  de  Río  Gallegos,  Santa 
+Cruz, 
+
+•  Ricardo  Alcides  Mianovich,  juez 
+del  Juzgado  Federal  de  Primera 
+Instancia  N°  2  de  Resistencia, 
+Chaco, 
+
+•  Guillermo Andrés Díaz Martínez, 
+juez  del  Juzgado  Federal  de  Pri-
+
+Matterson y Marías juraron como integrantes del Consejo de la Magistratura.
+
+Diciembre 2020 | Vol . 37Arquitectura judicial
+
+Corte Federal Contencioso - 
+Administrativa (Alemania)
+
+Un recorrido visual y conceptual por las sedes de distintos tribunales.
+
+16 
+
+llas de aquella institución a través de 
+una selección de imágenes, documen-
+tos  y  objetos  que  resumen  sus  oríge-
+nes y sus principales hitos a través del 
+tiempo. 
+
+Entre las partes del complejo que 
+son  de  acceso  abierto,  se  destaca  la 
+sala  de  la  cúpula,  de  33  x  23  metros, 
+punto neurálgico que interconecta to-
+das las áreas públicas. Sus puertas de 
+hierro forjadas a mano, su disposición 
+que se asemeja a una cruz romana y su 
+interior diseñado al estilo de una basí-
+lica no pasan inadvertidos. 
+
+La  piedra  angular 
+
+incrustada 
+en  el  piso  evoca  la  inauguración  del 
+sitio,  el  26  de  octubre  de  1895.  Hay, 
+además, un busto del jurista y político 
+prusiano  Rudolf  von  Gneist,  y  cuatro 
+grandes ventanales de vidrio semicir-
+culares que brindan luz natural, sim-
+bolizando las regiones del antiguo im-
+perio  que  alguna  vez  estuvieron  bajo 
+la jurisdicción de la Corte.
+
+Contigua  a  la  cúpula,  una  escul-
+tura  de  bronce  representa  la  verdad. 
+Águilas con las alas extendidas se po-
+san  en  las  cuatro  esquinas  de  la  base 
+de la cúpula. Sobre ellas, figuras feme-
+ninas con una antorcha y un libro en 
+cada  mano  constituyen  una  metáfora 
+de  la  importancia  que  los  fallos  del 
+alto  tribunal  tienen  en  todos  los  rin-
+cones del país.
+
+Entre  los  ambientes  más  impre-
+sionantes,  la  gran  sala  de  audiencias 
+(de 23 x 12 metros) merece un párrafo 
+aparte. Preservada en sus condiciones 
+originales  (salvo  por  los  asientos  de 
+los magistrados, todo luce como hace 
+más de un siglo), su diseño enfatiza su 
+pretensión  de  administrar  justicia  a 
+todo el territorio. Los paneles de ma-
+dera  de  roble  de  las  paredes  y  techos 
+
+Bundesverwaltungsgericht.  Así 
+se denomina, en su idioma original, a 
+la  Corte  Federal  Contencioso-Admi-
+nistrativa  de  Alemania.  Se  trata  del 
+tribunal  supremo  en  lo  concerniente 
+a  derecho  administrativo,  instancia 
+de casación en la que se juzga la apli-
+cación  e  interpretación  del  derecho 
+federal.  Con  sede  en  Leipzig,  desde 
+2002  funciona  en  el  antiguo  edificio 
+del  Reichsgericht,  la  Corte  Imperial 
+que  supo  ser  el  máximo  órgano  judi-
+
+cial  del  imperio  alemán  en  material 
+civil y penal entre 1879 y 1945. 
+
+El  lugar  puede  visitarse  presen-
+cialmente  o  a  distancia,  mediante 
+tours  virtuales  que  condensan  pasa-
+do  y  presente  del  sistema  de  justicia 
+germano  en  un  entorno  imponente  y 
+atractivo. 
+
+Para  empezar  con  un  pantallazo 
+histórico,  el  museo  de  la  vieja  Corte 
+Imperial  es  una  parada  obligada  del 
+recorrido: permite indagar en las hue-
+
+Diciembre 2020 | Vol . 3717 
+
+do  todavía  un  profesional  inexperto. 
+Años más tarde, Hoffmann se conver-
+tiría  en  artífice  del  desarrollo  urbano 
+
+de  su  ciudad  natal,  Berlín,  en  los  al-
+bores  del  siglo  XX.  Pero  esa  es  otra 
+historia. 
+
+exhiben  estandartes  de  los  estados 
+miembros del imperio. Se ven retratos 
+de  los  monarcas  Guillermo  I  y  Fede-
+rico III. Además de usarse en juicios, 
+suele  albergar  conciertos  de  música 
+clásica debido a su excelente acústica. 
+La  visita  no  puede  estar  comple-
+ta  sin  un  recorrido  por  la  estructura 
+exterior, renovada durante la extensa 
+restauración que se llevó a cabo entre 
+1998  y  2002,  que  devolvió  al  edificio 
+el  esplendor  de  sus  inicios.  El  portal 
+principal  cuenta  con  un  pórtico  de 
+seis pilares con una representación de 
+Iustitia,  la  diosa  romana  de  la  justi-
+cia,  junto  a  diversas  imágenes  alegó-
+ricas.  Las  fachadas  norte,  oeste  y  sur 
+presentan  una  serie  de  esculturas  y 
+figuras  talladas  con  diferentes  signi-
+ficados. 
+
+La galería principal es pródiga en 
+adornos, relieves y metáforas visuales 
+que  dan  cuenta  de  los  deberes  y  res-
+ponsabilidades de la función judicial. 
+En sus vitrinas pueden apreciarse ex-
+posiciones  temporales  de  piezas  his-
+tóricas de la biblioteca. 
+
+Al subir por la escalera principal 
+que  conduce  a  la  galería,  asoma  una 
+de las obras más emblemáticas del pa-
+lacio:  en  uno  de  los  muros  se  repre-
+senta la condena del delincuente y del 
+lado opuesto, a un acusado absuelto. 
+
+Como  muchas  de  las  esculturas 
+del  predio,  su  autoría  se  atribuye  al 
+célebre artista Otto Lessing. Mientras 
+que  el  proyecto  arquitectónico  llevó 
+la  firma  de  Ludwig  Hoffmann,  quien 
+sorprendió al ganar el concurso sien-
+
+Diciembre 2020 | Vol . 37Efeméride
+
+Otra oportunidad
+
+18 
+
+“Grave  agravio  es  para  la  buena 
+organización  de  la  sociedad  obligarla 
+a  contener  en  su  seno  células  de  re-
+sentimiento  y  fracaso,  sentimientos 
+negativos  que  además  de  malograr 
+a  los  individuos  que  conforman  el 
+núcleo  conyugal,  se  extienden  como 
+consecuencia  inevitable  a  sus  hijos. 
+Se conjugarían así una desdicha indi-
+vidual  con  otra  de  innegable  alcance 
+social.”  El  27  de  noviembre  de  1986, 
+hace  34  años,  Fayt  incluía  esa  re-
+flexión  en  una  icónica  sentencia  con 
+la cual la Corte resolvió -por ajustada 
+mayoría-  una  de  las  últimas  preten-
+siones  del  matrimonio  Sejean  -  Katz 
+
+(Fallos: 308:2268). 
+
+Ya  divorciados,  la  ley  vigente 
+les  impedía  contraer  matrimonio  en 
+segundas  nupcias.  Ello  era  especial-
+mente gravoso para el juez de instruc-
+ción  Juan  Bautista  Sejean,  que  había 
+vuelto  a  conformar  una  familia  con 
+otra  mujer,  con  la  cual  tuvo  una  hija 
+en 1984. Para el derecho por entonces 
+vigente,  su  segundo  intento  matri-
+monial  estaba  prohibido,  por  lo  cual 
+inició una acción para que esa prohi-
+bición sea declarada inconstitucional. 
+Su  primera  mujer  adhirió  a  la 
+pretensión  para  recuperar  la  habili-
+dad  nupcial,  y  ambos  la  emprendie-
+
+ron contra el ministerio público y las 
+primeras  dos  instancias  civiles,  que 
+rechazaron la acción. 
+
+Fayt, Petracchi y Baqué, votando 
+cada uno por su lado, reconocieron la 
+posibilidad  de  fracasar  e  intentar  de 
+nuevo.  Los  tres  observaron  la  irrazo-
+nabilidad de una reglamentación que 
+prohíbe  las  segundas  nupcias  salvo 
+para  las  personas  viudas,  limitando 
+indebidamente,  sin  sentido,  el  dere-
+cho  a  la  dignidad  humana,  que  per-
+mite  que  los  hombres  satisfagan  sus 
+necesidades  con  decoro,  eligiendo 
+su  proyecto  de  vida  con  libertad.  La 
+prohibición,  indicaron  cada  uno  con 
+
+Diciembre 2020 | Vol . 3719 
+
+impregnaba la solución legislativa vi-
+gente. Y también cuidó de que el fallo 
+pudiera  malinterpretarse  como  una 
+igualación del matrimonio con el con-
+cubinato. 
+
+Esta  última  intención,  de  no  de-
+bilitar  la  institución  del  matrimonio, 
+la  hicieron  destacando  los  incentivos 
+sociales  que  nacen  tanto  de  la  prohi-
+bición  como  de  la  permisión  y  con-
+cluyendo  en  la  necesidad  de  que  la 
+ley  matrimonial,  con  su  pretensión 
+de  convertirse  en  el  cauce  regular  de 
+los  impulsos  humanos,  no  obligue  a 
+muchos  a  tener  que  desarrollarlos  al 
+margen de ella.
+
+En una sentencia que no escatima 
+las miradas sobre las condiciones óp-
+timas  de  la  arquitectura  social  en  un 
+estado constitucional de derecho inte-
+resado por los derechos esenciales de 
+sus  habitantes,  los  votos  incluyeron 
+
+explicaciones  introspectivas  sobre  un 
+derecho al “cambio”, no sólo respecto 
+de  quienes  transitaron  una  primera 
+experiencia  familiar  frustrada,  sino 
+también para quienes deben legislar y 
+sentenciar. 
+
+Así, se sostuvo que es natural que 
+haya  transformaciones  en  la  sensibi-
+lidad  y  en  la  organización  de  una  so-
+ciedad  que  modifiquen  normas  que 
+llevan  años  en  vigencia  y  una  arrai-
+gada  jurisprudencia  en  las  instancias 
+inferiores, para que lo que alguna vez 
+estuvo  permitido  o  prohibido,  pase 
+a  estar  prohibido  o  protegido  por  la 
+Constitución. 
+
+Con ese fallo, el Poder Legislativo 
+y el Poder Judicial también encontra-
+ron  una  segunda  oportunidad  para 
+resolver  las  diferencias  entre  lo  que 
+estaba  efectivamente  normado  y  una  
+cambiante realidad social.    
+
+sus  palabras,  vulnera  el  derecho  a  la 
+libertad  (artículo  19  de  la  Constitu-
+ción  Nacional),  se  traduce  como  una 
+limitación  irrazonable  que  reduce  a 
+una única oportunidad el ejercicio del 
+derecho  a  contraer  matrimonio  (artí-
+culo  20) y, consecuentemente, afecta 
+la protección integral de la familia (ar-
+tículo 14 bis) y el derecho a la igualdad 
+(artículo  16  CN)  de  aquellas  familias 
+que  son  producto  de  una  segunda 
+oportunidad.
+
+Para  Petracchi,  la  sentencia  sen-
+tó un criterio que permitirá reducir el 
+divorcio entre la realidad y la legisla-
+ción, realizando un llamado para que 
+sea el legislador quien realice los ajus-
+tes necesarios a gran escala. 
+
+La  mayoría  se  constituyó  elu-
+diendo  las  críticas  normativas  desde 
+un  plano  confesional  que,  para  algu-
+no  de  los  votos  que  la  constituyeron, 
+
+¿Sabías qué...?
+
+Tras  la  conformación  original  de  la  Corte  Suprema 
+durante  el  gobierno  de  Bartolomé  Mitre  (“busqué  a  los 
+hombres que fueran un contralor imparcial e insospecha-
+do  de  las  demasías  de  los  otros  poderes”,  afirmó  en  su 
+momento), los tres presidentes posteriores designaron a 
+tres jueces cada uno para integrar el tribunal. 
+
+Domingo  Faustino  Sarmiento  nombró  a  Benito  Ca-
+
+rrasco 
+(reemplazante 
+de  Gorostiaga  en  su 
+primer  alejamiento  de 
+la  Corte),  a  Marcelino 
+Ugarte  (sustituyó  al  fa-
+llecido Francisco de las 
+Carreras  en  1870)  y  a 
+José  Domínguez  en  lu-
+gar  del  propio  Ugarte, 
+quien murió en 1872. 
+
+Nicolás  Avellane-
+da  seleccionó  a  Saur-
+nino  Laspiur  (ocupó  la 
+vacante  de  Francisco 
+Delgado),  a  Onésimo 
+Leguizamón 
+(cuando 
+se jubiló Del Carril) y a 
+
+Uladislao Frías (por José Barros Pazos). Además, tuvo la 
+oportunidad  de  nombrar  a  dos  procuradores  generales: 
+Carlos Tejedor y su sucesor Eduardo Costa.
+
+Los 
+
+En  su  primer  mandato,  Julio  Argentino  Roca  tam-
+bién designó a tres ministros del máximo tribunal: fue-
+ron Manuel Pizarro (reemplazó a Leguizamón), Federico 
+Ibarguren  (ingresó  al  renunciar  Pizarro)  y  Calixto  de  la 
+Torre (luego del falle-
+cimiento de Laspiur). 
+siguientes 
+tres  presidentes,  en 
+cambio,  nombrarían 
+a  cuatro  jueces  cada 
+uno:  Juárez  Celman 
+a  Victorica,  Zavalía, 
+Bazán  y  Varela;  Pe-
+llegrini a Sáenz Peña, 
+Paz, Torrent y Bunge; 
+y  Roca,  en  su  segun-
+do  período  al  frente 
+del  Poder  Ejecutivo, 
+a  Enrique  Martínez, 
+González  del  Solar, 
+Daract y Bermejo. 
+
+Los retratos utilizados en este boletín pertenecen a los organismos públicos reflejados en los respectivos artículos o a la propia Corte Suprema. Las imágenes conceptuales, figurativas o 
+
+abstractas, provienen de fuentes y bancos de imágenes gratuitas. En esta edición utilizamos imágenes de unsplash.com. 
+
+Diciembre 2020 | Vol . 37

@@ -1,0 +1,2144 @@
+# Fuente
+- archivo: Beyond_Reasonable_Doubt_Challenges_that_Public_Defenders_Face_in_Scrutinizing_AI_in_Court.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Beyond_Reasonable_Doubt_Challenges_that_Public_Defenders_Face_in_Scrutinizing_AI_in_Court.pdf
+- extraido: 2026-04-24T11:34:00
+
+# Contenido
+
+4
+2
+0
+2
+
+r
+a
+
+M
+3
+1
+
+]
+
+Y
+C
+.
+s
+c
+[
+
+1
+v
+4
+0
+0
+3
+1
+.
+3
+0
+4
+2
+:
+v
+i
+X
+r
+a
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in
+Scrutinizing AI in Court
+
+ANGELA JIN, University of California, Berkeley, U.S.A.
+NILOUFAR SALEHI, University of California, Berkeley, U.S.A.
+
+Accountable use of AI systems in high-stakes settings relies on making systems contestable. In this paper we study efforts to contest
+
+AI systems in practice by studying how public defenders scrutinize AI in court. We present findings from interviews with 17 people in
+
+the U.S. public defense community to understand their perceptions of and experiences scrutinizing computational forensic software
+
+(CFS) — automated decision systems that the government uses to convict and incarcerate, such as facial recognition, gunshot detection,
+
+and probabilistic genotyping tools. We find that our participants faced challenges assessing and contesting CFS reliability due to
+
+difficulties (a) navigating how CFS is developed and used, (b) overcoming judges and jurors’ non-critical perceptions of CFS, and (c)
+
+gathering CFS expertise. To conclude, we provide recommendations that center the technical, social, and institutional context to better
+
+position interventions such as performance evaluations to support contestability in practice.
+
+CCS Concepts: • Human-centered computing → Empirical studies in HCI.
+
+Additional Key Words and Phrases: criminal justice, algorithmic decision systems, artificial intelligence, contestability, performance
+
+evaluations
+
+ACM Reference Format:
+Angela Jin and Niloufar Salehi. 2024. (Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court.
+In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA. ACM, New
+York, NY, USA, 29 pages. https://doi.org/10.1145/3613904.3641902
+
+1 INTRODUCTION
+
+Making systems contestable — i.e., open to scrutiny and disagreement — presents a promising approach to ensuring
+
+responsible and accountable use of automated decision systems in domains such as criminal law, healthcare, and
+
+social work [8, 50, 53, 83, 86]. This is particularly important for stochastic systems that have variable accuracy, such as
+
+those using machine learning [11]. Performance evaluations of these systems play an important role in supporting
+
+contestability, as evaluation study procedures and results can provide crucial insights into system reliability for those
+
+seeking to scrutinize and challenge algorithmically-driven decisions. Yet, recent work has revealed numerous ways in
+
+which real-world practices in evaluation design, documentation, and reporting fall short of these ideals. For example,
+
+test datasets may fail to accurately represent real-world uses [53, 72, 82], performance metrics may misalign with
+
+users’ or other downstream stakeholders’ perceptions of success [47, 53, 66], and published documents describing
+
+evaluations may omit important details about procedures and results [17, 63, 90]. These practices present challenges for
+
+multiple downstream stakeholders (e.g., users, decision subjects, regulators) and can be especially restricting for decision
+
+subjects who may be harmed by incorrect, uncontested system outputs. In this paper, we focus on the experiences of
+
+Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not
+made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party
+components of this work must be honored. For all other uses, contact the owner/author(s).
+
+© 2024 Copyright held by the owner/author(s).
+Manuscript submitted to ACM
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+the advocates representing decision subjects. We ask: What challenges do public defenders face when scrutinizing the
+1
+government’s
+
+use of automated decision systems in the U.S. criminal legal system?
+
+We specifically focus on the U.S. criminal legal system’s increasing reliance on computational forensic software (CFS)
+— one common type of automated decision system that the government uses to convict and incarcerate, such as facial
+
+recognition, gunshot detection, and probabilistic genotyping tools. We investigate how public defenders assess and
+
+contest the reliability of CFS and the government’s use of CFS. Amidst growing calls for laws and policies that shape
+
+performance evaluations in the U.S. criminal legal system [17, 24, 33, 35, 67], our work seeks to contribute insights that
+center the needs and experiences of public defenders [85]2.
+
+We conducted 17 semi-structured interviews with individuals from the U.S. public defense community, focusing
+
+on public defenders and those who work with public defenders on the technology-related aspects of cases (e.g., other
+
+lawyers with expertise in CFS, individuals with science or technology expertise working in public defense offices). In
+
+our interviews, we sought to learn about participants’ past encounters with CFS in casework, how they attempted to
+
+assess and contest reliability, and challenges they faced in doing so.
+
+Our findings reveal a wide range of technical, social, and institutional challenges that public defenders face in
+
+assessing and contesting CFS reliability. We organize our presentation of these findings in three categories representing
+
+challenges that public defenders face in (1) navigating CFS developers and users’ practices and policies, (2) overcoming
+
+judges and jurors’ non-critical perceptions of CFS, and (3) gathering CFS expertise. First, our participants often felt
+
+that software developers and users’ practices and policies for developing, testing, using, and sharing information
+
+about CFS severely constrained their efforts to assess and contest CFS reliability. For example, several participants
+
+expressed frustration at prosecutors and software companies withdrawing CFS evidence when judges granted defenders
+
+opportunities to rigorously scrutinize the CFS tool in the case at hand. Second, our participants highlighted how judges
+
+and jurors’ non-critical perceptions of CFS could additionally constrain public defenders’ efforts to assess and contest
+
+reliability. To grapple with these challenges, the defenders we spoke to relied heavily on expert witnesses and colleagues
+
+with relevant CFS expertise. These collaborations helped public defenders identify important information to request
+
+during discovery, identify potential flaws in CFS outputs, craft their arguments, and explain the implications of their
+
+findings to judges and jurors. However, when seeking outside experts, public defenders faced difficulties finding people
+
+with relevant expertise who were available and willing to work with them, and insufficient funding continues to limit
+
+defense offices’ ability to hire and build in-office expertise.
+
+Based on these findings, we identify opportunities for future work in human-AI interaction to engage with work in
+
+public policy and responsible AI, towards ensuring that performance evaluations are effective for advocates seeking
+
+to assess and contest automated decision systems when used to make individual decisions. First, we highlight the
+
+importance of factors outside the design and communication of performance evaluations, and we discuss the role
+
+that HCI can play in overcoming barriers to leveraging performance evaluations as a tool for contesting automated
+
+decision systems. Second, engaging public defenders in the design of CFS performance evaluations can provide valuable
+
+insights into the reliability of CFS, but addressing barriers to engaging them in evaluation design, and building tools
+
+to support their existing needs for collaboration and skill-sharing are crucial. Lastly, we argue that work exploring
+
+how decision-makers perceive performance information should explore opportunities to incorporate processes of
+
+1We use “government” to refer to the prosecution, who represents the government in criminal cases.
+2As emphasized in recent work surveying existing approaches to participatory design of AI systems, while public defenders represent impacted
+communities subject to decisions made using CFS, their perspectives should not be interpreted as proxies for those of indigent defendants [26]. We
+highlight that our exploration of public defenders’ needs can additionally serve as an initial step towards this latter goal of understanding decision
+subjects’ needs, which we highlight as an area for future work.
+
+2
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+deliberation, presentation of performance information, and prior beliefs and knowledge of technology and technology
+
+users into their study designs.
+
+Taken together, these findings provide insight into advocates’ experiences assessing and contesting the reliability of
+
+algorithmic systems used to make decisions about the individuals they represent, and contribute implications towards
+
+ensuring that performance evaluations effectively support contestability in practice.
+
+2 BACKGROUND
+
+2.1 Public defense in the U.S.
+The U.S. Constitution guarantees criminal defendants the right to have an attorney assist in their defense3. For indigent
+defendants who cannot afford to pay for their own lawyer, this right is protected through several different indigent
+
+defense services: public defender offices, individually assigned private attorneys, and contract-attorney organizations
+
+in state courts; and federal public defender organizations, community defense organizations, and appointed private
+attorneys in federal courts [78]. In this work, we focus on full-time public defenders who represent a vast number4 of
+individuals who come into contact with the U.S. criminal legal system through both federal and state courts.
+
+Despite the critical role that public defenders play in protecting the lives and liberties of indigent defendants, public
+
+defense offices in the U.S. are often underfunded, and, as a result, lawyers working in these offices are overburdened. For
+
+example, one nation-wide study surveying public defender services in the U.S. found that almost 75% of county-based
+
+public defender offices exceeded the maximum recommended limit of cases (400 misdemeanors or 150 felonies per
+
+attorney per year) received per attorney [30]. A 2019 report detailed that until recently in New Orleans, individual
+
+defenders had been forced to handle upward of 19,000 misdemeanor cases in a year, translating into seven minutes per
+
+client [32].
+
+2.2 Computational forensic software in the U.S. criminal legal system
+
+In our work, we focus on computational forensic software (CFS) — automated decision systems that the government
+increasingly relies on to convict and incarcerate5. Here, we interpret CFS to include facial recognition systems that
+police use to compare stills from video footage to databases of faces [35, 40], gunshot detection systems that police use
+to detect and locate gunshot sounds [16], probabilistic genotyping software that forensic laboratories use to interpret
+DNA mixtures [48], automated license plate readers [1], automated fingerprint identification systems [65], and toolmark
+analysis systems that aim to recognize and compare patterns in marks made by tools and firearms [68]. In the remainder
+of this section, we illustrate government use of CFS through facial recognition and probabilistic genotyping software
+
+(PGS), which we use as case studies to ground our discussions with public defenders and in this paper. We focus on
+
+these two types of CFS for three primary reasons. First, facial recognition and PGS systems have been used in the U.S.
+
+for over a decade, and both their adoption by government agencies and use in criminal cases continues to grow. Second,
+
+a growing body of work in academia, civil society, and government have raised concerns over the reliability of these
+
+systems. Lastly, simultaneously considering facial recognition and PGS allows us to explore how their similarities (e.g.,
+
+3The Sixth Amendment states that all defendants accused of crimes in the U.S. federal court system have a right to effective assistance by defense counsel.
+This right was not guaranteed in state courts until Gideon v. Wainwright, 372 U.S. 335 (1963), the landmark U.S. Supreme Court case that extended the
+Sixth Amendment right to counsel to criminal defendants in state courts.
+4One study found that most defendants charged with felonies — i.e., violent or serious crimes — rely on publicly funded attorneys [38]. Other work has
+estimated that roughly 5.6 million Americans rely on public defenders [59].
+5The Justice in Forensic Algorithms Act of 2021 defines computational forensic software as “software that relies on an automated or semiautomated
+computational process, including one derived from machine learning, statistics, or other data processing or artificial intelligence techniques, to process,
+analyze, or interpret evidence” [24].
+
+3
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+stochastic systems with varying performance across settings) and differences (e.g., primary use to produce investigative
+
+leads vs. trial evidence) impact public defenders’ experiences and practices.
+
+Facial recognition. Police departments rely on facial recognition systems to help identify individuals captured
+2.2.1
+in an image by comparing the image against a database of images of faces with known identities. At a high-level,
+
+a police officer chooses a probe photo — a photograph of the unknown subject of interest (e.g., a video still from a
+
+surveillance camera). The officer then chooses a database to run the probe photo against, and inputs the photo into the
+
+facial recognition software, sometimes editing the probe photo beforehand. After running the search, officer views the
+
+list of possible matches output by the software and manually compares the original probe photo and output candidate
+
+photos to determine whether or not the system has produced a possible match. Many police departments in the U.S.
+
+consider (i.e., document in formal guidance) possible matches produced by facial recognition systems to be investigative
+
+leads and not evidence of probable cause to arrest [35].
+
+Garvie [34] reported that one Florida sheriff’s office began implementing facial recognition in 2001, and by 2016, at
+
+least a quarter of the 15,000 state and local law enforcement agencies in the country had access to facial recognition
+
+technology. Facial recognition systems have been — and continue to be — the subject of immense scrutiny by civil
+
+society and academic research in HCI and responsible AI (e.g., [4, 9, 15]).
+
+2.2.2 Probabilistic genotyping software (PGS). Forensic laboratories use PGS in forensic DNA analysis to compare the
+genetic profile of a person of interest against a DNA sample obtained from the crime scene, typically relying on PGS
+
+when the DNA evidence is deemed too complex for manual inspection (e.g., crime scene samples that contain small
+
+amounts of degraded DNA from many individuals). PGS systems perform this comparison and compute a likelihood
+
+ratio that compares the likelihood of observing the DNA evidence under two competing hypotheses (e.g., the defendant
+
+and two unknown others contributed to the DNA mixture vs. three unknown individuals who are not the defendant
+
+contributed to the DNA mixture) [23]. At its core, PGS rely on stochastic methods and implement a likelihood ratio test
+
+— fundamental components of many statistical decision-making systems.
+
+In practice, a lab analyst begins their analysis of a forensic DNA sample by preparing the crime scene sample and a
+
+comparison profile (typically from the defendant), and input both profiles into the PGS system. The analyst will then
+
+specify additional input parameters (e.g., the analyst’s inference for the number of contributors to the mixture, the
+
+two hypotheses to use for calculating the likelihood ratio) and run the software to produce a likelihood ratio for the
+
+defendant. These steps will then result in a report that the prosecution may seek to introduce at trial as incriminatory
+
+evidence.
+
+In a recently published comprehensive review of PGS, Butler et al. [17] reported uses of PGS in forensic casework in
+
+the U.S. starting as early as 2011. According to the developers of one PGS system, 80% of certified U.S. labs are currently
+
+using the system in casework, are in the process of validating the software for use in casework, or have purchased the
+
+software but have not yet started the validation process [3]. Yet, the reliability of PGS systems on the complex DNA
+
+samples they are often used to analyze is the subject of much debate [17, 61, 62, 67].
+
+3 RELATED WORK
+
+We draw on prior work studying the technology-related needs and challenges that public defenders face in criminal
+
+cases [36, 85, 88]. This work has examined how government use of body-worn cameras [36], surveillance data [85], and
+
+digital evidence more broadly [88] impact public defense practice. Building on this work, we focus on computational
+
+decision-making systems and U.S. public defenders’ experiences assessing and contesting the reliability of their outputs.
+
+4
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Our investigation of defenders’ experiences assessing and contesting CFS reliability also builds on prior work on (1)
+
+contesting automated decision systems and (2) designing and communicating performance evaluations.
+
+3.1 Contesting automated decision systems
+
+Prior work at the intersection of law, technology, and HCI highlights the importance of ensuring that automated
+
+decision systems are contestable (e.g., [41, 63, 94]). Theoretical arguments have illustrated how contestability can help
+
+promote fairness and accountability in decision-making [39, 41, 45], protect individual rights [10, 39, 45], and preserve
+
+human dignity and autonomy [50]. Recent work has also empirically demonstrated that contestability shapes peoples’
+perceptions of fairness [94], and has shown how the design of appeals processes can impact peoples’ perceptions of
+fairness [60, 84].
+
+Building on these justifications, a growing body of work in HCI seeks to articulate what contestability requires [10, 41,
+
+74, 83]. This body of literature proposes information (e.g., performance evaluation results, documents describing system
+
+development and use) and practices (e.g., human intervention, deep engagement, agonistic debate, dialectical exchange)
+
+that support contestation. In doing so, this literature collectively characterizes different types of contestation that vary
+along multiple dimensions such as who contests (e.g., developers, users, decision subjects, third parties representing
+decision subjects), what’s being contested (e.g., individual algorithm outputs, individual decisions made using algorithm
+output, the system as a whole), and when contestation occurs (e.g., throughout development, during decision-making,
+after a decision has been put into force) [8]. In turn, each type of contestation implicates specific information needs and
+
+processes depending on the stakeholders, system components, and stages involved [79]. For example, the confidence
+
+level associated with an algorithm’s output may be useful for system users [41], and decision subjects and third parties
+
+representing decision subjects [8]. Meanwhile, technical, organizational, and social accounts of how a decision was
+
+made may primarily be useful for decision subjects and their advocates [8].
+
+However, implementing these practices and ensuring their effectiveness in practice can be challenging due to
+
+real-world needs and constraints. In a study using speculative design and semi-structured interviews with civil servants
+
+who work with a publicly-deployed AI system in Amsterdam, Alfrink et al. [7] find that implementing contestability in
+
+public AI in practice can be challenging for numerous reasons such as citizen capacity (e.g., it can be hard for citizens to
+
+understand metrics used for evaluating model performance). Studying treatment of liability and redress cases in U.S.
+
+civil courts, Metcalf et al. [63] reveal how plaintiffs may face challenges contesting algorithmic harms in practice, due to
+
+lack of available documentation, difficulties in convincing courts to hear their case, and lack of recognized expertise. We
+
+seek to expand these efforts to empirically ground contestation in real-world settings [7, 63] by studying contestation of
+
+individual decisions by advocates representing decision subjects (specifically public defenders) within the U.S. criminal
+
+legal system. Within this context, we specifically focus on performance evaluations, as several groups have pointed to
+
+measures of uncertainty about the system’s output (e.g., confidence in output, performance, probability of alternative
+
+outcomes) and documentation of system performance as concrete artifacts that can support contestation [7, 8, 41, 50, 70].
+
+We discuss the details of designing and communicating performance evaluations for real-world contexts in the next
+
+subsection.
+
+3.2 Designing and communicating performance evaluations
+
+A growing body of work at the intersection of algorithmic accountability, human-AI collaboration, and explainable
+
+AI explores approaches to designing and communicating performance evaluations such that they are are useful for
+
+downstream users and other stakeholders.
+
+5
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+3.2.1 Designing performance evaluations. Prior work has identified how algorithmic systems’ performance on static
+benchmark datasets may fall short of end-users’ needs. For instance, test inputs may not be sufficiently representative
+
+of real-world settings [53, 72], and performance metrics may not align with users’ preferences and perceptions of
+
+ideal model performance [47, 53, 66]. To address this gap, a growing body of work in HCI aims to design performance
+
+evaluations grounded in downstream deployment contexts and the needs and goals of downstream stakeholders
+
+(e.g., [18, 57, 80, 81]). This typically involves exploring users’ domain-specific information needs [19, 46], directly
+
+working with downstream stakeholders to collaboratively design evaluation datasets and metrics [80], and designing
+
+tools that allow users to specify their own test datasets and performance metrics [18, 27, 28, 55, 81]. This “participatory
+
+turn” [26] in the design of performance evaluations highlights the importance and strength of centering the experiential
+
+and domain expertise of stakeholders in downstream deployment contexts.
+
+In the healthcare context, Cai et al. [19] reveal that pathologists desire not only the AI assistant’s overall performance,
+
+but also its performance under specific conditions such as well-known edge cases and its “medical point-of-view” (e.g.,
+
+the extent to which the AI system tends to be more liberal or conservative in its diagnoses). Similarly, in their study of
+
+child welfare workers’ use of algorithmic risk prediction models, Kawakami et al. [46] find that workers engaged in
+
+“everyday algorithm auditing” [28] to understand model behaviors and limitations, sometimes running counterfactual
+
+scenarios through the model to understand how changing a factor impacted the algorithm’s output. We build on this
+
+work by focusing on the evaluation needs and goals of public defenders who represent criminal defendants subject to
+
+CFS outputs.
+
+3.2.2 Communicating performance evaluations. Beyond contextualizing the design of performance evaluations, prior
+work has also leveraged HCI techniques to explore approaches to communicating evaluation results to various stake-
+
+holders to help them determine whether and when to trust system outputs. This body of work typically seeks
+
+to understand how users perceive, understand, and utilize performance information such as accuracy and uncer-
+
+tainty [11, 54, 71, 91, 93, 95].
+
+Through a large-scale laboratory experiment studying the impact of stated and observed accuracy on laypeople’s trust
+
+in the model, Yin et al. [93] find that both stated and observed accuracy affected participants’ trust, and that observed
+
+accuracy mediated people’s understanding of stated accuracy. Prabhudesai et al. [71] complement this work through a
+
+user study presenting uncertainty information to lay decision-makers and find that communicating uncertainty about
+
+ML predictions forced users to more critically engage with the system’s output. Directly, relevant to our focus on
+
+CFS in the U.S. criminal legal system, Garrett et al. [33] investigate how jurors perceive error rates associated with
+
+forensic evidence. Collectively, this body of work suggests a need to understand what specific performance information
+
+downstream stakeholders find useful, along with how they understand and make use of it.
+
+4 METHODOLOGY
+
+4.1 Data collection
+
+4.1.1 Participant recruitment. We adopted a mix of convenience and purposive sampling to recruit individuals from the
+U.S. public defense community. We initially recruited participants through the National Association of Criminal Defense
+
+Lawyers (NACDL) mailing list for public defenders and leveraged contacts from past and ongoing collaborations with
+
+researchers and practitioners working in criminal defense. Based on these initial contacts, we purposefully sampled
+
+for range and diversity asking for introductions to people who ranged in terms of region. In total, we recruited 17
+
+6
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Participant ID Role
+
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P10
+P11
+P12
+P13
+P14
+P15
+P16*
+P17*
+
+Technologist who built software for public defenders
+Scientist helping lawyers with forensics issues in a public defense office
+Public defender for over 10 years
+Public defender for over 10 years
+Public defender for over 20 years
+Public defender for over 10 years
+Public defender for 2 years
+Public defender for over 10 years
+Public defender for 9 years
+Public defender for a year
+Public defender for over 10 years
+Public defender for over 20 years
+Public defender for over 10 years
+Public defender for over 10 years
+Technology law expert helping public defenders on CFS-related issues
+Public defender for 5 years
+Technologist helping lawyers with digital evidence in a public defense office
+
+Table 1. Description of each participant. *P16 and P17 were interviewed jointly.
+
+participants. According to the four regions defined by the US Census Bureau6, 9 of our participants work or have
+worked on cases tried in the Northeast, 5 in the South, 1 in the Midwest, and 5 in the West7. Table 1 summarizes
+participants’ roles.
+
+Interview protocol. We conducted interviews from December 2022 to August 2023. 15 interviews were conducted
+4.1.2
+over video call (primarily over Zoom, but sometimes over Google Meet or Microsoft Teams, depending on the partici-
+
+pant’s preferences), and 1 interview was conducted over phone. Most interviews lasted approximately 1 hour, with just
+
+one lasting 20 minutes given the participant’s time constraints. We offered every participant a $25 e-gift card of their
+
+choice. We recorded the interview as per the participants’ approval, transcribed the recording, and anonymized the
+
+transcription.
+
+Our primary goal in this research was to understand the challenges that public defenders face assessing and contesting
+
+reliability of CFS and the government’s use of CFS in criminal trials. To this end, we were also interested in understanding
+
+participants’ general perceptions of CFS and perceptions of potential approaches to evaluating the reliability of CFS.
+
+We explored these research questions through semi-structured interviews in which we guide the conversation in three
+
+parts.
+
+In part 1, to understand participants’ background, general familiarity with CFS, and general perceptions of CFS, we
+
+asked questions about their current role, the types of CFS they know of or have encountered in past cases, and their
+
+feelings about the use of CFS in the U.S. criminal legal system. We then focused our discussions in parts 2 and 3 on
+
+1-3 specific CFS systems that the participant was most familiar with (i.e., had experience litigating against the CFS, or
+
+had learned about the CFS through other means), prioritizing facial recognition and probabilistic genotyping when
+
+participants were familiar with either or both. In part 2, to understand the challenges participants faced in assessing
+
+6https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
+7These counts sum up to greater than 17 because some of our participants have worked on cases tried by courts in multiple U.S. regions.
+
+7
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+and contesting CFS reliability, we asked participants to talk about their experiences when the government used CFS in
+
+specific cases, with a particular emphasis on the challenges they experienced when gathering information to assess
+
+CFS reliability and when contesting reliability. However, due to confidentiality and case sensitivity, public defenders
+
+sometimes preferred to talk about their past case experiences more generally. Lastly, in part 3, to understand how
+
+participants felt about potential approaches to assessing CFS reliability, we introduced storyboards depicting evaluation
+
+approaches inspired by those proposed in recent literature and policies (e.g., [6, 24]) (see Appendix A). One storyboard
+
+depicted steps that a public defender might take in designing a performance evaluation of a PGS system: adversarially
+
+choosing input data, measuring CFS performance on the chosen inputs, and communicating results to courts and jurors
+
+(e.g., [6]). Another depicted steps inspired by Model Cards [64]. We then asked follow-up questions such as “How
+
+would you present the results of this test to a judge?”, and “What challenges, if any, would you anticipate facing if you
+
+presented this information to jurors?” In interviews where participants had past experience litigating against CFS but
+
+did not feel comfortable sharing specific case details in the interview, we used these storyboards to discuss hypothetical
+
+scenarios in a way that was more grounded and would not have been possible without the use of the storyboards.
+
+Sometimes participants were comfortable talking about specific cases without mentioning client details, but had not
+
+yet litigated against CFS or had not used the specific approaches presented in the storyboards. In these situations, the
+
+storyboards helped connect public defenders’ existing knowledge of CFS, legal processes, and legal actors with potential
+
+futures proposed in recent literature and policies. Not all interviews involved storyboards, as we sometimes chose to
+
+prioritize other points discussed in the interview.
+
+4.1.3 Limitations and opportunities. Our semi-structured interview approach helps us elicit illustrative experiences
+and perspectives, towards our goal of developing an in-depth view of the challenges that public defenders face in
+
+scrutinizing CFS in the U.S. criminal legal system. While we strive to gather as diverse of range of a perspective as
+
+possible through our recruitment approaches, we caution against assuming that these experiences and perspectives
+
+speak for public defenders throughout the country, as technology uses, office norms, and defender perspectives may
+
+vary across jurisdictions, public defense offices, and individual public defenders.
+
+We intentionally center public defenders given existing power imbalances in the U.S. criminal legal system and how
+
+the system disproportionately impacts low-income and marginalized communities. However, providing a complete
+
+picture of the experiences of impacted individuals requires engagement with criminal defendants, along with the
+
+broader low-income and marginalized communities that these public defenders serve. In speaking with people who
+
+are part of the public defense community, we also omit perspectives of other stakeholders, such as judges, jurors,
+
+prosecutors, law enforcement, forensic labs, and CFS developers.
+
+4.2 Data analysis
+
+Our interviews yielded 15.3 hours of audio recording, which we analyzed using inductive qualitative analysis, drawing on
+
+elements of grounded theory methodology [21]. After anonymizing and fixing transcription errors in each transcript, we
+
+conducted line-by-line open coding. We then identified relationships between codes and grouped codes into increasingly
+
+abstract themes through an iterative, bottom-up affinity diagramming process [13]. In total, this process yielded three
+
+levels of themes: 20 first-level themes, 11 second-level themes, and 3 third-level themes. Examples of first-level themes
+
+include “CSI effect of DNA”, “judge siding with prosecution”, and “lab communicating with prosecution”.
+
+8
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+4.3 Positionality
+
+Both authors are researchers trained in the United States in fields of Human-Computer Interaction and Artificial
+
+Intelligence. The questions we ask and our research approach are shaped by our prior and ongoing collaborations with
+
+those who work within the U.S. criminal legal system, but neither of us has professional or personal experience in the
+
+U.S. criminal legal system.
+
+We acknowledge that HCI research framed as participatory can take up participants’ time and energy while providing
+
+no tangible benefits for participants [69]. This is especially of concern for us since public defenders must work within a
+
+system that disproportionately targets and systemically disadvantages their clients. As a result, public defenders are
+
+often overburdened with extreme caseloads while having limited resources to tackle them. With all of this in mind,
+
+we plan to share summarized insights with our participants and translate our research findings to policy insights and
+
+proposals. We intend to continue our collaboration with public defenders and those who work with them.
+
+5 RESULTS
+
+We found that public defenders face three primary challenges when scrutinizing the government’s use of CFS. First,
+
+public defenders often felt that software users and developers’ actions constrained their ability to assess and contest the
+
+reliability of the CFS outputs. For instance, decisions that forensic labs and CFS developers made when testing these
+
+tools could constrain the extent to which defenders were able to assess reliability. Similarly, prosecutors could withdraw
+
+evidence or offer plea deals to prevent defenders from scrutinizing and contesting CFS outputs.
+
+Second, public defenders additionally needed to convince judges and jurors that the software output was unreliable
+
+to ensure that these decision-makers took appropriate actions (e.g., that judges declare the CFS output inadmissible, or
+
+that jurors determine that the CFS output does not contribute to their ‘beyond reasonable doubt’ determination). Yet
+
+our participants often grappled with judges and jurors’ non-critical perceptions of technology and CFS users.
+
+Third, to overcome these challenges, our participants relied heavily on expert witnesses to help assess CFS reliability,
+
+craft arguments, and testify in court on their behalf. However, our participants experienced difficulties in locating
+
+experts available and willing to work with them. Building up in-house expertise helped alleviate these challenges, but
+
+doing so remains a costly endeavor that most public defense offices are unable to achieve due to insufficient funding. In
+
+this section, we explore each in turn.
+
+5.1 Navigating policies and practices of CFS users and developers
+
+Many of our participants described how the policies and practices of CFS users (e.g., prosecutors, forensic labs, police
+
+departments) and developers (e.g., private companies) could limit the extent to which public defenders were able to
+
+gather information to assess software reliability. Even if defenders gathered sufficient information to raise concerns
+
+with CFS reliability, prosecutors and companies could withdraw evidence or settle the case via a plea deal, consequently
+
+precluding defense from contesting software reliability in the case at hand. Our participants reported feeling frustrated
+
+by the difficulties obtaining information and opportunities to assess and contest reliability, as it could severely hinder
+
+the representation they were able to provide to their current and future clients.
+
+5.1.1 Not knowing about CFS use. In our study and in past work, public defenders commonly felt the need to scrutinize
+every piece of information used to incriminate their clients [85]. For instance, if police officers relied on facial recognition
+
+9
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+systems to arrest their client8, defenders would want to assess the reliability of the facial recognition system used and
+the process through which the officer used the CFS. However, we find that practices and policies of police departments
+
+and forensic labs sometimes prevented public defenders from knowing that a CFS tool was used to arrest or incriminate
+
+their client. Without knowing this information, public defenders could not scrutinize or contest the software output that
+
+might play a crucial role in their client’s case. Our participants illustrated two situations in which this challenge could
+
+arise in individual cases: when the government proactively chose to not disclose CFS use, and when the government
+
+did not explicitly mention CFS use and public defenders lacked specific CFS knowledge to identify important keywords
+
+in the reports they received. We additionally find that these challenges in individual cases were exacerbated by broader
+
+difficulties public defenders faced in keeping up to date with government adoption and use of new CFS.
+
+Several participants felt that police departments were proactively hiding their use of facial recognition [P5, P13, P15,
+P16, P17]. As P13 illustrated, “[the police] just hid the fact that they used [facial recognition] completely and created these
+sort of parallel constructions where you wouldn’t understand how they got from no suspect to suspect.” In the words of P15,
+the police was only “gonna tell you that there’s an eyewitness identification.” This proactive nondisclosure discussed
+aligns with findings from an empirical investigation by Garvie [35], which found evidence that at least one police
+
+department intentionally hid the use of facial recognition from judicial proceedings. Related work has also found that
+
+software companies may create these challenges by forbidding police from disclosing new software [43, 87], or by
+
+introducing new, undisclosed technologies within existing known technologies (e.g., body camera providers introducing
+
+facial recognition systems within the tools they already provide) [85].
+
+Another reason why CFS use might go undetected was when the public defender lacked the knowledge to identify
+
+language in the reports that might have suggested CFS use. Our participants illustrated how these situations may arise
+
+in government uses of PGS. Reflecting on their earliest experiences helping out with cases involving PGS, P15 explained:
+
+“[Public defenders] would know DNA was available in their case because they would get a lab report that would say ‘DNA
+
+samples tested’, but the public defenders didn’t know enough about [PGS] to identify, even when they had it — like it was in
+
+front of them, it wasn’t really being hidden. [T]hey didn’t know how to translate the words on that report to realize this
+
+is a different type of DNA testing than run of the mill gold standard DNA. [. . . ][T]here was some disclosure, but [. . . ] the
+
+prosecutor didn’t say, ‘Dear public defender, I’m just letting you know there was software in your case.’ And public defenders
+
+didn’t know what keywords to be looking out for. So they didn’t know, oh, this is a case where I have [PGS] and maybe I
+want to challenge that as a software problem.” P5’s own experiences complemented this finding: “our [jurisdiction’s]
+laboratory has just gotten and validated [PGS]. That doesn’t seem to be showing up in the reports. It’s not saying, ‘On the
+
+[PGS] machine we got this kind of a result.”’
+
+We further illustrate the difficulty of differentiating between statistics output by PGS and traditional DNA analysis
+
+with the following example. Traditional DNA analysis may produce results such as “The probability that a person
+
+other than the defendant, randomly selected from the population, will have this profile is 1 in 5 billion,” whereas PGS
+
+produces results such as “The probability of observing this evidence if the DNA comes from three unknown, unrelated
+
+contributors is 5 billion times more likely than the probability of observing this evidence if the DNA comes from the
+defendant and two unknown, unrelated contributors.”9 If a public defender unfamiliar with the differences between
+these statistics receives a report with the latter statement, but with no explicit mention of the words “probabilistic
+
+8Garvie [35] finds that, while police department policies and guidance dictates that a facial recognition identification is insufficient to demonstrate
+probable cause to make an arrest, there have been several instances where police relied heavily, if not exclusively, on facial recognition results to make
+arrests.
+9The former statistic is the random match probability (RMP), while the latter is a likelihood ratio. Both are statistical approaches to analyzing forensic
+DNA evidence [17].
+
+10
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+genotyping software,” and doesn’t know to associate the latter with PGS, they would not be able to identify that the
+
+government used PGS.
+
+Additional difficulties our participants faced in keeping up to date with government adoption of new technologies
+
+could further exacerbate these challenges. Several participants explained that the government rarely notified them
+
+about adoption of new technologies and described how they often found out about new technologies by word-of-mouth
+
+and in individual cases. For instance, when describing how they found out about the local forensic lab’s adoption of PGS,
+P5 felt that, “nobody notifie[d] [them] that they’re using something new,” and that they specifically found out through “an
+expert that [P5] use[s] for DNA cases,” who told P5 that “she had heard that they were validating some kind of probabilistic
+genotyping equipment.” When P5 directly asked the lab about their PGS use, P5 “was told that that they were beyond the
+validation stage, and they were using [PGS].” In addition to learning about new technologies through word of mouth,
+P5 additionally described that they typically learned about new technologies “via arrest affidavits.” Other participants
+expressed similar experiences finding out about new technologies through individual cases [P3, P8].
+
+Important information does not exist. Even when participants knew about government use of CFS, they often
+5.1.2
+encountered difficulties assessing software reliability when information they needed about the software or software use
+
+did not exist. Our findings reveal three specific examples of this challenge: a lack of documentation about software
+
+development and use, a lack of independent empirical tests under settings representative of how the software is used,
+
+and a lack of case-specific software outputs conditioned on different theories of the case.
+
+Insufficient documentation practices in software development and use hindered several participants’ efforts to assess
+
+software reliability [P13, P15]. For instance, P15 described a past case in which they asked for bug reports from the
+
+software company, only to find out that they did not exist. Similarly, reflecting on their past efforts to learn details
+about how police officers used facial recognition, P13 explained: “they don’t have proper procedures in place for what
+they’re really supposed to do when they’re using [facial recognition]. They’re kind of lax about the procedures and what
+
+needs to be logged, what an officer needs to keep down, what they need to maintain after they’ve used the software, like they
+
+only have to keep a screenshot of the first eight results. Whereas there’s like 200 results that the system actually brings up.
+
+So even when we can get discovery about it, it’s pretty limited and not actually tracking all the important information.”
+
+Participants also highlighted that insufficient information about software performance under settings representative
+
+of their use in casework could limit the utility of existing evaluation results in assessing CFS reliability in their case at
+
+hand [P4, P9]. For example, P4 described that they had not seen any studies of a widely used gunshot detection software
+
+that test the software in big cities with large buildings and loud traffic sounds that might impact the software’s ability to
+
+locate sounds inferred to be gunshots. P9 raised similar concerns with PGS validation studies, describing how they felt
+
+that developers were not testing PGS with DNA mixtures of similar complexity to those often used in casework. Both of
+
+these findings echo prior work highlighting gaps between CFS test settings and casework settings [17, 35, 52]. Several
+
+participants additionally expressed concerns about the lack of performance evaluations conducted by independent
+
+groups, as many of the validation studies they had seen for probabilistic genotyping and gunshot detection software
+
+had been conducted by groups with financial or professional interests in promoting the use of these CFS [P13, P14].
+
+Finally, participants sometimes wanted to know how the PGS output would change when run with different
+
+parameters, but could not make this assessment when labs only ran these software systems under one set of hypotheses
+
+— typically the one proposed by the prosecution [P12, P15]. Since our participants often lacked access to the software,
+
+training, and materials required to re-run the software themselves (see Section 5.1.3), the set of possible outputs
+
+discussed in the case was often constrained by the lab’s initial assessments. While defense could, and sometimes did,
+
+11
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+ask labs to re-run the software with different parameters, this could be infeasible if the lab was unable or unwilling to
+
+do so — a difficulty we introduce in Section 5.1.3.
+
+5.1.3 Challenges getting access to existing information. Even when information did exist, actions by police departments,
+prosecutors, and forensic labs could still limit the extent to which defenders were able to assess reliability. Our
+
+participants expressed frustration at trade secret claims, restrictive nondisclosure agreements and slow responses to
+
+information requests, and police and forensic labs’ ties to prosecutors.
+
+Sometimes, our participant faced barriers that prevented them from getting any access to existing information. Many
+
+participants expressed their frustrations at CFS companies and users claiming that information such as descriptions
+
+of how the software works, software source code, and software executables were trade secrets and therefore could
+
+not be disclosed to the defense [P2, P4, P6, P7, P13]. Our participants’ experiences echoed challenges documented and
+
+discussed in prior work on use of trade secret claims in the U.S. criminal legal system [77, 87].
+
+Even when participants’ efforts to access information were not entirely blocked by trade secret claims, participants
+
+found that the utility of the information they had access to could be constrained by restrictive nondisclosure agreements
+
+and delays in receiving information. When reflecting on one company’s past practices, P15 remarked that the nondis-
+closure agreements the company used to make experts sign “were truly bonkers” as they “implied that under a strict
+reading of contractual terms, an expert could look at something, discover something was wrong, and the [NDA] prohibited
+them from telling the court that something was wrong without the company agreeing.” Delays in accessing information
+posed particular challenges in cases where defendants were in jail while they awaited the government’s response to
+
+their requests for information [P7, P11, P15]. Delays were sometimes due to prosecutors incorrectly interpreting the
+
+defender’s request [P15]. Other times, requests were interpreted without issue, but defenders still did not receive the
+
+information until right before trial [P7]. These delays not only extended the amount of time their clients awaited trial
+
+in jail, but also limited public defenders’ ability to rigorously scrutinize the information presented to them.
+
+Lastly, software users’ (e.g., forensic labs and police departments) ties with prosecutors created additional roadblocks
+
+in public defenders’ attempts to gather information. For example, P12 described how forensic labs ran PGS systems
+
+according to hypotheses presented to them by the prosecution and didn’t test alternative hypotheses that might be
+favorable to the defense10. P12 expressed their frustration, saying: “[The forensic lab] shouldn’t be trying to prove the
+prosecutor’s hypothesis. They should be trying to see what makes the most sense scientifically.” P15 felt similar concerns
+in a past case and, as a result, had asked for records of conversations between the prosecutor and the lab as a way to
+
+assess the extent to which conversations with prosecutors influenced the lab’s decisions.
+
+To address these challenges, public defenders sometimes sought to consult with analysts at the lab and ask that they
+
+conduct additional tests with different hypotheses. However, doing so could undermine the defense, because it could
+
+reveal their strategy to the prosecution. While some participants described that they never had difficulties consulting
+
+with their local forensic labs [P16, P17], several participants felt that the forensic labs they encountered in past cases
+
+were not neutral and sided with prosecutors [P2, P3, P12, P15]. For example, P12 described how forensic labs would
+
+often notify prosecutors of defenders’ requests to re-run the software and seek permission (from the prosecution) before
+
+doing so. Labs sharing this information with the prosecution can create difficulties for public defenders, since defense
+
+may want to keep their strategy a secret from the prosecution. Several participants highlighted the importance of this
+
+10As we described in Section 2, PGS takes two competing hypotheses as input and estimates the likelihood of observing the DNA evidence conditioned
+on each hypothesis. An example of P12’s concern is a case in which the prosecution has the lab test a hypothesis that the defendant and two unknown,
+unrelated others contributed to the mixture, while the defense might want to test a hypothesis that the defendant, their sibling, and one unknown other
+contributed to the mixture.
+
+12
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+secrecy [P3, P4, P6, P12], which P3 succinctly illustrated: “If you’re telling people kind of early on, [that] I found a problem
+with the DNA, the prosecutor is going to try to fix [the problem]”. P12 similarly raised a similar concern when describing
+a path forward: “[T]he defense has no obligation to give the laboratory its hypothesis and they shouldn’t be required to, but
+the laboratory on its own should consider setting up different hypotheses and running it in different ways.”
+
+5.1.4 Lack of legal avenues to contest reliability. In addition to limiting the information public defenders were able to
+get, we find that decisions by law enforcement and prosecutors in how they formally described their use of CFS in
+
+court could leave defenders with no legal avenues to contest CFS reliability. We illustrate this challenge by focusing
+
+specifically on our participants’ descriptions of their experiences in past cases that involved law enforcement use of
+
+facial recognition.
+
+Several participants described past cases in which they felt that law enforcement had relied heavily on facial
+recognition to arrest their client while claiming they “only used [facial recognition] for investigative purposes” [P7]
+(i.e., as an investigative lead) [P4, P7, P8, P10, P13]. Because law enforcement described uses of facial recognition as
+
+“investigative” and therefore not as trial evidence, public defenders could not file motions for admissibility hearings
+
+that would let them challenge the reliability of the software use and output, as admissibility hearings only apply to
+information to be introduced as evidence at trial11. Consequently, while public defenders felt that the software output
+played a significant role in identifying their client for arrest, they lacked the legal avenues to contest its reliability. P4
+
+describes this challenge in more detail, while illustrating how police use facial recognition:
+
+[Police] will get a [ranked] list of possible candidates based on the system’s algorithm. [. . . ] Then an officer
+
+[. . . ] will look at this candidate list, make his own decision on which one he thinks is the most likely to be the
+
+person, [and] will then provide that to the case detective saying, ‘[T]his is a lead, a possible match. Not enough
+
+to make an arrest, but it’s a lead. Go investigate this person.’ [O]ften what they’ll do next is put that photo in
+
+[. . . ] a photo array where they show six different people’s photos to a witness and say, ‘Do you recognize any
+
+of these people?’ If the witness says ‘Yes, I recognize that person, it’s the person who committed the crime
+
+against me (or I watched commit a crime),’ that would be considered an identification assuming it’s the same
+
+person [that] the facial recognition came up with and then they will arrest the person based on that. [. . . ] The
+
+way the courts look at it, it doesn’t really matter what came before that put that person in the photo array, as
+
+long as the witness — as long as the procedure of the photo array itself was not unduly prejudicial.
+
+P15 elaborated on the specific legal challenges that P4 alluded to:
+
+There are certain types of motions that you only get to file if, for example, evidence is gonna be introduced
+
+in a case. And [. . . ] the facial recognition results aren’t going to be introduced. What’s gonna be introduced
+
+is the eyewitness identification of somebody picking your client out of a photo array. [. . . ] You don’t get to
+
+challenge that earlier stage [where facial recognition was used], is how law enforcement and prosecutors tend
+
+to frame it.
+
+In response to this challenge, P4 described trying to convince the judge to extend admissibility hearings to investigative
+uses of facial recognition. However, when asked how courts have reacted to their arguments, P4 responded, “most courts
+have [. . . ] not agreed with that argument. But the reality is, most trial court judges are terrible to begin with. They’re very
+
+11A motion is “a formal request made by any party for a desired ruling, order, or judgment” [5]. An admissibility hearing is a pre-trial hearing in which
+the prosecution and defense argue over whether a piece of evidence is admissible — i.e., evidence that may be presented before the trier of fact (e.g., the
+jury) for them to consider in deciding the case [2]. A defense attorney who wants to contest the reliability of the prosecution’s CFS evidence may bring a
+motion to the judge to grant an admissibility hearing for the CFS evidence. If the judge rules that the evidence is inadmissible, the CFS evidence will not
+be introduced at trial, meaning the jury will not see the evidence. However, admissibility hearings only apply to information introduced as evidence.
+
+13
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+pro-prosecution.” P4’s response suggests that judges’ interpretations of the rules for admissibility hearings, and any
+pre-existing beliefs that shape their interpretation of the rules, further exacerbate these challenges introduced by CFS
+
+users. We further discuss challenges introduced by judges in Section 5.2.
+
+5.1.5 Withdrawn evidence and hard-to-reject plea deals. In addition to dealing with investigative uses of software that
+preclude opportunities to challenge their reliability, our participants also often found themselves without opportunities
+
+to rigorously scrutinize and challenge software evidence when the prosecutor or software company removed CFS
+
+evidence from a case. This could happen when either the prosecutor or the company chose to withdraw CFS evidence,
+
+or when prosecutors offered a plea deal that the public defender felt they could not reject [P3, P7, P10, P12, P13].
+
+Our participants often felt that when they got close to mounting a significant threat to the prosecution’s software
+
+evidence (e.g., by being granted access to important information or being granted an opportunity to contest the software
+
+reliability in court), one of two things would happen: (1) the prosecution or software company would withdraw the
+
+software evidence, or (2) the prosecution would offer a plea deal that was better for the defendant. These participants’
+
+experiences with withdrawn evidence align with similar situations that have been documented in journalism [31, 44].
+
+Since their duty to seek the best outcome for their client led them to accept and sometimes even strive for such outcomes,
+
+several participants admitted they had mixed feelings about prosecutors and software companies’ decisions to withdraw
+
+evidence and prosecutors’ provision of plea deals in these situations [P3, P4, P7, P10, P12, P13]. While these actions
+
+helped the defendant in the case at hand, participants highlighted how withdrawn evidence and plea deals could prevent
+
+them from gaining insights about software reliability that would have helped them contest software reliability in future
+
+clients’ cases [P3, P4, P7], or also, in cases settled via plea deals, insights about software reliability that could have led
+
+to better outcomes for the defendant in the case at hand (e.g., revealing the software’s unreliability to the jury results in
+
+acquittal).
+
+5.2 Overcoming judges and jurors’ non-critical perceptions of CFS
+
+In addition to navigating barriers posed by policies and practices of CFS users and developers, public defenders had
+
+to convince judges and jurors — who were tasked with making decisions in the case — that the software output was
+
+unreliable. However, participants highlighted how judges and jurors often held non-critical perceptions of CFS, making
+
+this a difficult task. Participants felt that these non-critical perceptions of CFS were primarily driven by judges and
+
+jurors’ (1) prior beliefs about (and trust in) technology, (2) perceptions of other stakeholders (i.e., law enforcement and
+
+forensic scientists), and (3) difficulties understanding technology and statistics.
+
+5.2.1 Prior beliefs about technology. In describing their past interactions with judges and jurors, several participants felt
+that judges and jurors’ prior beliefs about software tools and forensic methods prevented these groups from critically
+
+examining their reliability. For example, P13 felt that many judges and jurors perceived machines as objective and
+therefore reliable, explaining that “if you say to somebody that like, ‘Oh, a machine did this’, they’re like, ‘A machine
+did it. A machine doesn’t have feelings. A machine makes a very reliable decision about something.’ And so they’re like,
+not really willing to question it more.” P7 saw a similar lack of skepticism, describing their perception that judges and
+jurors “believe that [technology] is magic,” i.e., accepting what the technology says without questioning its accuracy or
+understanding how it arrived at this decision.
+
+The impact of prior beliefs on perceptions of CFS is especially prevalent in how participants viewed judges’ perceptions
+
+of the reliability of PGS. Several participants described how judges declared PGS evidence to be admissible (i.e., sufficiently
+
+reliable for the jury to see it) because they equated the reliability of PGS evidence with that of traditional DNA evidence.
+
+14
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+In doing so, they directly applied their beliefs about traditional DNA to reason about the reliability PGS evidence
+[P3, P11] despite significant differences between the reliability of traditional DNA evidence and PGS evidence12.
+Consequently, participants felt that judges had failed to scrutinize the reliability of PGS evidence. Participants faced
+
+similar issues with jurors’ perceptions of DNA evidence. Many participants felt that jurors were less willing to question
+the evidence due to what P2 described as the “CSI effect” of DNA [P2, P7, P11, P12]. For example, in the words of P7,
+“the jury will say ‘DNA, it’s DNA. What do you want? CSI taught me that DNA is the answer to all problems.”’
+
+5.2.2 Perceptions of other stakeholders. In addition to a lack of skepticism driven by prior beliefs about technology,
+many participants felt that judges were overly deferential to prosecutors and police officers who, along with forensic
+
+practitioners, are the predominant users of CFS [P2, P4, P6, P7, P9]. Participants reasoned that, as a result, this deference
+led judges to not critically examine the reliability of the CFS evidence. For example, P13 describes that “there’s not many
+judges with the spine to push back against [these software]” because of police departments’ ability to influence judicial
+appointments: “When you’re talking about tools used by law enforcement, if a judge here were to suddenly turn around and
+actually say, ‘Wait, there’s something really wrong here. You can’t use this, you shouldn’t be using it’, that means they’re
+
+pitting themselves up against the entire [police department] and it’s a political position. They are appointed judges — they
+
+just might not get appointed again if they decide that this tool that law enforcement has claimed is necessary for them to
+do their job — if they make it impossible for them to use it.” This deference may also arise for other reasons (e.g., from
+judges who are former prosecutors [P9]).
+
+5.2.3 Difficulties understanding technology and statistics. Finally, even with prior beliefs of technology and perceptions
+of stakeholders put aside, several participants highlighted how judges and jurors’ inability to understand important
+
+technical details about CFS could lead to non-critical views of software reliability. For example, when reflecting on
+
+a newer, more complex PGS tool being more difficult to challenge than an older PGS tool, P14 highlighted how the
+increased complexity “[made] it harder to get a judge to recognize [reliability] issue[s]”. In reflecting on a colleague’s past
+case, P3 explained how jurors faced difficulties understanding the public defender’s arguments about the DNA evidence
+
+in the case.
+
+Similar difficulties in understanding technology arose in our discussions with participants about judges and jurors’
+
+misunderstanding statistics such as likelihood ratios output by PGS systems and error rates. For example, when discussing
+
+jurors’ understanding of likelihood ratios, participants highlighted how jurors have a hard time understanding the
+“technical nuance” [P15] of these statistics and, as a result, are easily swayed by large likelihood ratios that they
+mistakenly associate with certainty [P9, P15]. As P15 explained, “what they’re gonna say is like, ‘But the likelihood ratio is
+800 octillion [. . . ] and that’s a really big number and I have no idea what that number is, but it’s a big number. And so what
+that sounds like is certainty.”’ P15 additionally explained their perception that jurors like binaries and consequently may
+have a harder time understanding likelihood ratios and error rates: “We like probabilistic things, they’re more accurate
+but they also are harder for juries to understand because juries like binaries. They like ‘match, not a match.’ They don’t like,
+[. . . ] ‘I don’t know with certainty, but it is more likely than not that it’s a match.”’ Participants also raised concerns about
+judges and jurors’ interpretations of very small numbers, referring to currently discussed error rates that were typically
+
+on the order of 0.01% or smaller. Defenders specifically worried that judges and jurors would fail to understand the
+implications of small error rates like 0.001% and not “give [it] any import” [P11, P15].
+
+12Many agree upon the reliability of traditional methods of DNA analysis for high-quality, single-source DNA samples (e.g., a large amount of minimally-
+degraded DNA from a single individual), but the reliability of PGS for complex DNA mixtures remains the subject of much debate [17, 61, 62, 67].
+
+15
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+Our participants sometimes expressed skepticism at how these existing error rates were being calculated, pointing to
+
+details they felt that CFS developers and users were omitting. For example, P9 recounted one case in which they felt
+
+that error rates for one forensic method should have accounted for inconclusive results. P15 additionally described, in
+
+the context of facial recognition, how false positives and false negatives could be defined in numerous ways, and how
+such definitions would be subject to debate: “The first thing you have to do is come up with a definition for what qualifies
+as a false positive or a false negative. And there’s a lot of disagreement. [For] example, in the false negative, [. . . ] there’s a
+
+lot of debate when you’re calculating what those numbers are [. . . ]. Is it a false negative if the person who should have been
+
+identified is in the top ten results? Do you wind up with nine false positives? [Or] is that not a false positive problem, because
+in our top ten, the right person was there? [In] defining what counts, there’s gonna be a lot of debate.” However, P15 revealed
+how this desire to discuss the nuances of these calculations and calculate more detailed, rigorous measurements of
+performance could be hampered by judges and jurors having difficulty understanding statistics: “[Clear definitions and
+justifications for them] could be really, really helpful. But judges [and jurors] are not statisticians and so they get a little lost
+
+in [technical debates such as] what is the difference between a false positive and false negative? And why would we be more
+
+concerned about one than the other?”
+
+5.3 Gathering CFS expertise from scientists, technologists, and other lawyers
+
+Reflecting on the challenges they face in convincing judges and jurors to critically examine CFS reliability, all of
+
+the public defenders we spoke to emphasized that having an expert witnesses who could explain these concepts to
+
+judges and jurors was crucial to their success. Many public defenders also highlighted the importance of working with
+
+outside experts when gathering information and developing their arguments, and several participants additionally
+
+described how their offices were building in-house expertise through in-house technologists and attorneys specializing
+
+in forensics. However, our participants faced various barriers to acquiring these different forms of expertise, ranging
+
+from not knowing to work with an expert, to challenges in finding and funding expertise.
+
+5.3.1 Not seeking experts. Our interviews revealed that public defenders may forgo working with experts related to
+a CFS tool that was used in a case. On the one hand, public defenders may not seek such an expert because they do
+
+not know that a CFS is being used in the case at hand, an issue we described in Section 5.1.1. On the other hand, they
+
+may know about the CFS tool used but may not reach out to an expert [P2, P3, P7]. P3 described how this may happen
+
+due to the attorney believing that they do not need an expert. P2 and P7 described how this may also happen when a
+
+defense attorney sees DNA, thinks the prosecution has a strong case against their client (the “CSI effect of DNA” that
+
+we described in Section 5.2.1), and then decides to accept a plea deal or forgo scrutinize the PGS tool.
+
+5.3.2 Limited expert availability and willingness to work with defense. Even in instances when public defenders sought
+outside expertise, they sometimes faced difficulties finding independent experts who both had deep working knowledge
+
+relevant to the specific issues at hand and were willing to work with the defense.
+
+Several participants described difficulties in finding independent experts since many people with the necessary
+
+expertise work for CFS companies or government, who both present conflicts of interest [P4, P10, P12]. CFS employees’
+
+financial interests are in securing partnerships with buyers, i.e., law enforcement and forensic labs, and in convincing
+
+others that their software is reliable. P10 expressed their concerns with government actors such as analysts from forensic
+labs: “And, you know, the worry with somebody who works for the government is that they’re paid by the government, [. . . ]
+and the government is also trying to prosecute the client. And so there’s a little bit of an inherent conflict of interest there,
+
+where they might be afraid to lose their jobs, for agreeing with you that the algorithm is biased or whatever.”
+
+16
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+In addition to concerns about the independence of experts, payment timelines and expert availability posed additional
+challenges to finding experts. For example, in P6’s jurisdiction, defenders “don’t have any ability to pay experts up front,
+so they have to find people who are willing to work and wait. . . for the [court] to ultimately pay them at the end of the
+process.” P6 expressed frustration, saying: “that’s tough, just because [. . . ] people don’t want to work on spec.” Several
+participants detailed the challenges they or their colleagues faced in finding experts with time to work with them [P6,
+P8, P12, P14]. As P14 described, it is “challenging finding experts who have really deep working knowledge and the few
+that do are so piled on by the rest of the country [are] so overworked.”
+
+While our findings do not represent experiences in all jurisdictions, participants revealed how courts — which often
+
+provide public defenders with funding for experts — can further complicate the process of obtaining outside expertise.
+
+P6 described how state-level changes in court procedures made it easier for public defenders to get funds for experts
+
+“by passing a law that says that [defenders] can ask for those funds ex-parte which means outside of the presence of the
+
+other party. [So we can make] a showing to the court that we need to have a hearing without the prosecutors there. And
+
+then we can tell the judge why we need expert funds, which keeps us from having to tell the prosecutors you know stuff
+about our case that we shouldn’t have to tell them or stuff about our preparation.” Jurisdictions without these guarantees
+may face additional difficulties obtaining funding for experts through courts.
+
+5.3.3 Difficulties building institutional knowledge via in-house experts, attorney-analyst liaisons, learning from other
+public defenders. Participants also highlighted three other approaches to gathering CFS expertise for criminal cases,
+beyond working with outside experts: hiring in-house technologists and analysts, creating roles for public defenders in
+
+the office who specialize in acting as liaisons between other public defenders and either outside or in-house experts,
+
+and sourcing strategies from public defenders working in other offices and jurisdictions [P4, P5, P8].
+
+When asked about how they perceived the difference between not having in-house experts and having them, P8
+emphasized that “it’s night and day”, since having in-house experts streamlined public defenders’ tasks such as getting
+“almost instant feedback” [P8] from experts on potential courtroom strategies and helping the expert prepare for
+trial testimony and cross-examination. However, despite these perceived benefits of having in-house experts, these
+
+participants were often referring to situations in which they perceived the public defender office in question to be
+
+relatively well-funded. In most other situations, insufficient funding continues to hinder public defense offices’ ability
+
+to fund these additional positions.
+
+Some participants additionally highlighted the importance of another source of CFS expertise: public defenders who
+
+act as liaisons between other attorneys and experts (both in-house and outside). P4 explained the importance of these
+attorney-analyst liaisons, or “tech-savvy attorneys” [P4] through illustrating a disconnect P4 had observed between
+analysts and attorneys: “They both seemed to be talking different languages and not understanding each other [. . . ] the
+analysts [. . . ] understood the technology, and how it worked, but didn’t necessarily understand — to the extent that was
+
+needed — exactly how it’s used in court, [. . . ] and what legal issues may arise from different things that they were doing.
+
+[. . . ] The attorneys on the other hand [. . . ] — very few were anywhere near the level of the analysts’ tech savviness. And
+so there was a lot of not understanding what the analysts are saying and how it can be used in our case.” Summarizing
+these challenges, P4 concluded that “The attorney is talking legal talk and the analyst is talking tech talk, and kind of
+talking over each other without really finding how those two things meet and how it would be useful and helpful for clients.”
+The attorney-analyst liaison, as P4 argued, helped bridge this disconnect. Several of our participants described similar
+
+responsibilities as being part of their current roles [P5, P8, P9, P10, P13, P14]. However, not all of these participants
+carried out these responsibilities as paid positions. For instance, P5 described “[coordinating] a lot of the forensics in
+17
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+the office” as “not part of [their] job,”, and that they were “trying to create that position”. P5’s situation, contrasted with
+other participants’ descriptions of their liaison-work as being a formal part of their job as attorneys, suggests that
+
+insufficient funding and extreme caseloads may additionally pose difficulties in building internal CFS expertise through
+
+analyst-attorney liaisons.
+
+Lastly, many of our participants also often referred to their experiences learning from public defenders in other
+offices and other jurisdictions. P3 explained that they had “talked to people around the country who have done [PGS]
+cases” to learn about different strategies other attorneys have adopted, and how courts and jurors reacted to those
+arguments. But P3 highlighted that sourcing strategies from defenders working in other states faced limitations, as
+
+legal mechanisms, judges, and demographics of jury pools of the specific jurisdiction could all impact the success of a
+given strategy. In the words of P3, “Until you stand up and go to court and operate under our [state’s] law, [. . . ] what’s
+going to happen [in practice] is the big unknown.”
+
+6 DISCUSSION
+
+In this study, we found that public defenders faced a variety of challenges assessing CFS reliability and contesting CFS
+
+outputs in court. In this section, we summarize the main findings, document how each relates to prior research, and
+
+discuss implications for efforts to make performance evaluations effective for public defenders seeking to assess and
+
+contest CFS reliability in the U.S. criminal legal system.
+
+6.1 Critically examine how factors outside the design and communication of performance evaluations can
+
+constrain opportunities to scrutinize and contest reliability.
+
+We find that factors beyond the design and communication of the performance evaluation could prevent
+public defenders from raising concerns about CFS reliability in the first place (Sections 5.1.1, 5.1.4, 5.1.5). These
+findings align with discussions in recent work in human-AI interaction and responsible AI revealing how laws and
+
+policies, organizational pressures, and limited knowledge and expertise can preclude impacted communities, frontline
+
+workers, and advocates from scrutinizing and contesting algorithm reliability (e.g., [7, 46, 53]).
+
+Efforts to make performance evaluations effective for downstream stakeholders should not only aim to understand
+
+how to design and communicate evaluations so they address these individuals’ needs and goals, but also understand
+
+how the contexts in which these individuals operate might preclude them from making use of this information. To
+
+guide this future work, we build on the aforementioned prior work and discuss how (i) narrow definitions of in-scope
+
+technology use, (ii) conflicting goals, and (iii) limited information about other aspects of AI design, development, and
+
+use can preclude opportunities to scrutinize and contest algorithm reliability.
+
+6.1.1 Understand how definitions of in-scope technology uses, and interpretations of these definitions, can constrain
+opportunities to assess and contest algorithmically-driven decisions. We find that the scope of technology uses
+considered in laws and policies, and decision-makers’ interpretations of these laws and policies, can constrain
+efforts to assess and contest CFS reliability. Specifically, we see legal rules, and judges’ interpretations of them, treat
+investigative uses of CFS as unimportant and uncontestable compared to evidentiary uses of CFS (Sections 5.1.4, 5.2),
+
+despite the significant influence that investigative uses of facial recognition can have in law enforcement decisions
+
+about who to arrest [35]. Prior work has similarly discussed the impacts of how laws and policies define in-scope
+
+technologies and uses of technology [51, 56, 73, 89], and how various stakeholders interpret these definitions [51, 63].
+
+For instance, Krafft et al. [51] find that policymakers tend to define “AI” by comparing systems to human thinking and
+
+18
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+behavior, while AI researchers tend towards definitions that emphasize technical functionality. The authors highlight
+
+that, as a result, policies may overemphasize concerns about future technologies at the expense of urgent issues with
+
+existing technologies [51]. Within the context of CFS in the U.S. criminal legal system, we recommend that policies
+
+defining in-scope technologies based on their relation to “evidence” (e.g., [24]) carefully consider technologies whose
+
+outputs may strongly influence case outcomes but are not formally introduced as evidence. More broadly, future
+
+research at the intersection of policy design and human-AI interaction design should carefully examine definitions
+
+of in-scope technologies and technology uses, various stakeholders’ interpretations of these definitions, how these
+
+definitions may occlude important concerns from decision-making, and the impact of such omissions on downstream
+
+efforts to scrutinize and contest automated decision systems.
+
+6.1.2 Understand how advocates’ and frontline workers’ desires to assess and contest reliability may conflict with their
+other goals. We find that a public defender’s duty and desire to do what is best for their clients could, at times,
+come into conflict with their desire to scrutinize the reliability of CFS systems used against their clients.
+For instance, some participants felt mixed feelings when CFS users and developers removed CFS evidence from a
+
+case: accepting a plea deal or continuing the case without the incriminatory evidence might have been best for their
+
+client in the case at hand, but doing so also prevented defenders from gaining insights about CFS reliability that might
+
+have helped them contest CFS reliability in future cases (Section 5.1.5). This tension between doing what is best for
+
+their current client and creating opportunities to raise reliability concerns in future clients’ cases echoes trade-offs
+
+documented in recent HCI work studying the experiences of frontline workers in child welfare and housing contexts.
+
+Collectively, these studies find that frontline workers’ efforts to question or contest the reliability of algorithmic outputs
+
+may come at the cost of less time spent on other cases [53], and accusations by administrators of disagreeing with
+
+the AI system too often [46, 75]. In the context of public defenders’ scrutiny of CFS in the U.S. criminal legal system,
+
+we argue that the current lack of independent validation of CFS [17, 20] places the burden of assessing CFS reliability
+
+on the shoulders of public defenders and is a key contributor to the tensions our participants felt. Consequently, we
+echo prior work in calling for policies that require rigorous, independent evaluations of CFS, before they are used
+in criminal casework. More broadly, our findings and insights from prior work illustrate how the needs and goals
+
+of frontline workers may sometimes come into conflict with their desires to scrutinize algorithm reliability. In light
+
+of these challenges, we recommend that future work seeking to design systems that support contestation by those
+
+advocating on behalf of decision subjects balance these tensions in ways that enable advocates to contest decisions
+
+in ways that neither undermine the case at hand, nor limit their ability to scrutinize these systems to inform future
+
+contestation efforts.
+
+6.1.3 Understand how policies for documenting information about the development, evaluation, and use of automated
+decision systems can constrain advocates’ contestation efforts. While our participants experienced a variety of challenges
+in getting access to existing information about CFS systems and outputs (Section 5.1.3), we additionally find that
+
+public defenders and those who work with them sometimes sought out information — such as bug reports,
+
+system performance under settings similar to those in the case at hand, and build information — only to
+find that the information did not exist (Section 5.1.2). These insights empirically ground ongoing discussions at the
+intersection of AI accountability and public policy arguing for better documentation of AI uses and harms [7, 25, 63].
+
+Future work designing human-AI interactions can support these calls for policy interventions by providing further
+
+insights into the information needs of downstream stakeholders and how documentation practices might fall short of
+
+these needs in practice. For example, recent work studying human-AI collaboration in the child welfare system found
+
+19
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+that social workers desired information beyond the outputs of the automated decision systems they work with — such
+
+as factors the algorithm considered in producing its output — when deciding whether to trust a given output [46, 47].
+
+These findings, along with the methods the authors used to understand workers’ needs, provide a starting point that
+
+we believe can support further understanding of overcoming these information barriers.
+
+Even when participants did obtain opportunities to assess and contest reliability, the challenges they encountered or
+
+anticipated in using performance information and communicating their concerns to judges and jurors reveal important
+
+considerations for designing and communicating performance evaluations of CFS and automated decision systems to
+
+support contestation, which we discuss in the Sections 6.2 and 6.3, respectively.
+
+6.2 Contextualize design of performance evaluations in real world applications
+
+In exploring our participants’ experiences scrutinizing CFS, we find that public defenders perceived crucial gaps
+between test inputs and the real-world use cases they encountered in their day-to-day work. For instance,
+participants highlighted that tests for gunshot detection software and PGS should take into account the local geography
+
+and population demographics, respectively, of their specific jurisdictions (Section 5.1.2). For CFS systems that produced
+
+a likelihood ratio dependent on input hypotheses, participants recalled how they wanted to run the system with
+alternative hypotheses that they felt would better capture the details of the case (Sections 5.1.2, 5.1.3). Participants
+also expressed desires for CFS evaluations to use a broader range of metrics beyond accuracy and false
+positive error rates to assess system limitations. Example metrics that participants proposed included error rates
+for determinations that a piece of evidence was inconclusive and ranges for the possible values that false positive
+
+software outputs could take on (Section 5.2.3). Together, these findings echo gaps between evaluation design and
+
+real-world use contexts highlighted in prior work (e.g., [42, 72, 81, 92]), and, importantly, demonstrate the valuable
+
+insights that public defenders develop through their everyday encounters with CFS in the U.S. criminal legal system,
+
+further motivating growing efforts in HCI to engage downstream stakeholders in designing performance evaluations of
+
+AI systems (e.g., [28, 55, 76, 81]).
+
+In this section, we build on this prior literature by discussing two categories of implications for future work that
+
+seeks to support public defender engagement in the design of CFS performance evaluations: (i) uncover and address
+
+barriers to engaging frontline workers in evaluation design and (ii) supporting skill-sharing and cross-disciplinary
+
+collaboration. Whenever relevant, we additionally draw on and contribute to recent work discussing approaches and
+
+challenges to participatory design of AI systems (e.g., [14, 26]).
+
+6.2.1 Uncover and address barriers to engaging frontline workers in evaluation design. Recent work in user-engaged
+auditing and contextualized evaluation highlights the crucial insights that groups with experiential and domain
+
+knowledge (e.g., everyday users and domain experts) can bring to the design of performance evaluations [27, 81]. While
+
+public defenders possess crucial experiential expertise that can ensure more rigorous testing of CFS reliability, our
+
+participants illustrated how insufficient documentation and disclosure practices may result in public defenders seeing
+
+only a subset of instances, or a subset of details about instances, in which the government uses CFS (Sections 5.1.1, 5.1.2).
+In other words, our work highlights how automated decision systems may still be used in contexts outside
+the purview of stakeholders with experiential expertise, consequently limiting opportunities for their full
+engagement in participatory design of performance evaluations. Future work should seek to understand when
+
+20
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+and how policies and practices in using automated decision systems may obscure certain uses of these systems, as this
+
+opacity may constrain frontline workers’ ability to fully engage in evaluation design.
+
+Support cross-disciplinary collaboration and skill-sharing. In addition to illustrating barriers that could hinder
+6.2.2
+public defense participation in the design of contextualized evaluations, our work also highlights a key aspect of
+public defenders’ needs and practices that future work should take into account when designing evaluations
+
+with and evaluation tools for public defenders: the collaboration and skill-sharing practices they leverage in
+scrutinizing and contesting CFS. Recent work introducing tools and frameworks for user-driven evaluations offers
+promising directions for future work seeking to support public defenders in conducting their own evaluations of CFS
+
+according to their own definitions of important test cases and software performance [6, 81]. We build on this work by
+
+distinguishing between two types of collaboration and skill-sharing our participants partake in.
+
+Some of this collaboration and skill-sharing occurs among defense attorneys (Section 5.3.3), who likely share
+
+similar skillsets and legal training (e.g., public defenders sharing strategies and insights with other defenders) and is
+
+consequently similar to those documented in Kawakami et al. [46], where authors found that social workers in the
+
+child welfare system collaborated with each other to understand the inner workings of the risk assessment algorithm
+they used. However, we also find that public defenders heavily rely on cross-disciplinary collaboration with
+CFS experts who are familiar with technology but may be less familiar with law (Section 5.3.3). These findings
+highlight a need to better understand how tools and frameworks for user-driven evaluations can support collaboration
+
+and skill-sharing amongst stakeholders with different disciplinary backgrounds and different types of expertise. For
+
+future work exploring these topics, we additionally highlight an important parallel between the skill-sharing and cross-
+
+disciplinary collaboration discussed here and an aim of participatory methods to spread knowledge of technical experts
+
+and of communities with experiential expertise [14]. We suggest that future work closely engages with these discussions
+
+of methods for facilitating and empowering such knowledge transfer while necessarily grappling with participants’
+
+incentives and the various costs (e.g., time, energy) associated with deep, sustained participatory engagement.
+
+6.3 Understand real-world factors that shape interpretation of performance results
+
+We find that public defenders additionally faced challenges when communicating their concerns with CFS reliability to
+
+judges and jurors. These challenges reveal three research areas that we recommend future work explores when seeking
+
+to design and communicate performance evaluations such that they are effective for downstream stakeholders who aim
+
+to scrutinize and contest the reliability of automated decision systems.
+
+6.3.1 Understand how deliberation of performance information influences perceptions of reliability. Prior work in HCI
+has studied how laypeople understand performance information and has shown that providing people with information
+
+about model accuracy and uncertainty can help lay decision-makers appropriately calibrate trust. However, this prior
+
+work typically investigates perceptions of reliability by presenting information (e.g., the accuracy rate or some measure
+
+of uncertainty) to an individual software user, who then decides whether to trust the algorithm’s output (e.g., [71, 91, 93]).
+We find that deliberation and contestation of such performance outputs may play a crucial role in mediating
+real-world perceptions of algorithmic performance.
+
+For example, participants highlighted how defense and prosecution would inevitably argue over what the appropriate
+
+definition of an error rate should be (Section 5.2.3). In these scenarios where the two sides disagree over how to define
+
+the error rate, judges and jurors would hear not just one error rate, but contrasting proposals for what the appropriate
+
+error rate should be. Consequently, the jury’s perception of the reliability of the given output is not mediated by a
+
+21
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+single error rate, but instead, by multiple proposals for what an appropriate error rate should be. For instance, recalling
+
+P15’s comments on this scenario in the context of facial recognition, the jury may hear that one side argue that a false
+
+positive occurs when a non-matching individual is included in the top n results, while the other side argues that a false
+
+positive occurs only when a non-matching individual is the top result returned from the facial recognition system.
+
+These two definitions and the jury’s observation of the process of deliberation between the arguing parties would,
+
+together, shape the jury’s perception of the software output’s reliability.
+
+Our findings complement two key motivations behind contextualized evaluations: the performance of an AI system
+
+cannot be captured in a single metric [12], and different stakeholders carry different notions of what acceptable model
+
+performance looks like [81]. This insight suggests that deliberating choices behind performance evaluations extend
+
+beyond the U.S. criminal legal system. Consequently, we recommend that future work studying CFS and other automated
+
+decision systems further explores this multi-faceted communication process and its effects on people’s perceptions of
+
+performance. Initial steps that may help align this work with real-world contexts are empirical studies that explore how
+
+people currently present and discuss error rates in different downstream contexts.
+
+6.3.2 Understand how presentation of performance information influences perceptions of reliability. In addition to finding
+that decision-makers receive multiple interpretations of algorithm performance, we find that even the presentation
+of a single perspective may complicate how people perceive reliability. We specifically find that the complexity
+of performance metrics may shape people’s perceptions of reliability. Public defenders expressed a desire to
+communicate the nuances of evaluation choices and performance information to contest the reliability of CFS outputs in
+
+their cases, but also felt the need to simplify concepts for judges and jurors (Section 5.2.3). Future work should explore
+
+how the presentation of performance information, and decision-makers’ perceptions of its complexity, can shape their
+
+perceptions of reliability.
+
+Our study also highlights how other information presented to the decision-maker may also influence their
+perceptions of reliability. In the context of CFS, we found that, in addition to error rates, likelihood ratios may
+sway or influence decision-makers’ perceptions of output reliability. As Garrett et al. [33] highlight in their study of
+
+jurors’ perceptions of forensic method reliability, likelihood ratios will often be presented alongside error rates. This
+
+presentation of other information may also arise in response to findings in recent human-AI collaboration literature
+
+revealing that human decision-makers seek additional information beyond accuracy when assessing the reliability of
+
+algorithmic outputs [19]. Consequently, it is crucial to understand how this additional information influences how
+
+people interpret performance information. Assessing the impacts of other information is especially important when
+
+decision-makers may incorrectly use this other information to understand reliability. When discussing PGS used to
+
+analyze DNA evidence, our participants highlighted how jurors perceived likelihood ratios output by PGS as measures
+
+of certainty, despite prior work highlighting that the magnitude of a likelihood ratio itself does not communicate
+
+certainty [58].
+
+6.3.3 Understanding how prior beliefs and knowledge influences perceptions of reliability. Beyond processes of delibera-
+tion and individual presentations of performance information, our participants believed that decision-makers’
+prior beliefs of technology and technology users also mediated perceptions of performance. For example, our
+participants described how judges and jurors’ beliefs of technology as magic and the strength of forensic techniques,
+
+combined with difficulties these decision-makers faced in understanding technical concepts and statistical nuances, may
+
+have led these decision-makers to adopt non-critical perceptions of the reliability of these software outputs (Section 5.2).
+
+Prior work has empirically studied how these prior beliefs about the technology at hand, familiarity with AI, and
+
+22
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+knowledge about the task domain impact people’s perceptions of system reliability (e.g., [29, 33, 37, 95]). For instance,
+
+experimental studies have looked at how participant identities such as their familiarity with technology or ML shapes
+
+their ability to appropriately calibrate trust [95].
+
+However, building on this existing literature, we find that additional priors, specifically existing perceptions of
+technology users and related disciplines such as forensic practitioners and forensic methods may influence
+perceptions of reliability. To further illustrate this point, we compare our findings with findings from prior work
+documenting how judges do not use data analytics or risk assessment tools [22]. While judges’ non-critical perceptions
+
+of CFS may seem to conflict with these observations of judges’ aversion to data-driven algorithms, we explain how
+
+these findings in [22] further support our findings. In discussing judges’ aversion to risk assessment tools, Christin
+
+[22] describe a general resistance to innovation in criminal justice, along with legal professionals’ aversion to using
+
+tools “built by a company they know nothing about.” CFS, while introducing new computational methods to forensic
+
+analysis, benefits from judges and attorneys’ existing perceptions of forensics as a tried and true discipline in the U.S.
+
+criminal legal system (Section 5.2). These findings, taken together, highlight opportunities to further investigate how
+
+these additional dimensions of individuals’ prior beliefs and knowledge influence their perceptions of the reliability of
+
+algorithmic outputs, both in the case of CFS in the U.S. criminal legal system and in other domains.
+
+7 CONCLUSION
+
+In this paper, we have focused on the real-world experiences of public defenders contesting automated decision systems
+
+in one high-stakes setting — the U.S. criminal legal system — on behalf of those accused of crimes. We specifically
+
+study the challenges public defenders face when assessing and contesting the reliability of computational forensic
+
+software that the government increasingly relies on to convict and incarcerate. Our findings suggest that efforts to
+
+leverage performance evaluations to contest algorithmic decisions may be constrained by a wide range of technical,
+
+social, and institutional barriers. Future work should center the technical, social, and institutional contexts in which
+
+contestation occurs, to better position performance evaluations to support contestability in practice — an aim that
+
+becomes increasingly urgent and crucial as automated decision systems are increasingly deployed in high-stakes
+
+settings.
+
+ACKNOWLEDGMENTS
+
+We would like to thank our interview participants for their time and valuable input that shaped this research. We also
+
+thank our anonymous reviewers for their dedication and thorough feedback that substantially improved this paper. This
+
+material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program
+
+under Grant No. DGE 2146752, by NSF award IIS-2129008, and by the UC Berkeley AI Policy Hub, an academic initiative
+
+advancing interdisciplinary research to anticipate and address AI policy opportunities. Any opinions, findings, and
+
+conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the
+
+views of the National Science Foundation.
+
+REFERENCES
+[1] 2017. Automated License Plate Readers (ALPRs). https://www.eff.org/pages/automated-license-plate-readers-alpr. Accessed: 2022-09-13.
+[2] 2021. Admissible evidence. Wex, by the Legal Information Institute at Cornell University. Accessed September 13, 2023. "https://www.law.cornell.
+
+edu/wex/admissible_evidence)."
+
+[3] 2022. STRmix Use in Certified U.S. Forensic Labs Continues to Grow. https://www.strmix.com/news/strmix-use-in-certified-u-s-forensic-labs-
+
+continues-to-grow/. Accessed: 2023-09-13.
+
+23
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+[4] 2023. After Third Wrongful Arrest, ACLU Slams Detroit Police Department for Continuing to Use Faulty Facial Recognition Technol-
+ogy. https://www.aclu.org/press-releases/after-third-wrongful-arrest-aclu-slams-detroit-police-department-for-continuing-to-use-faulty-facial-
+recognition-technology. Accessed: 2022-09-13.
+
+[5] 2023. Motion. Wex, by the Legal Information Institute at Cornell University. Accessed September 13, 2023. "https://www.law.cornell.edu/wex/motion"
+[6] Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, and Rebecca Wexler. 2022. Adversarial scrutiny of evidentiary statistical
+
+software. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency. 1733–1746.
+
+[7] Kars Alfrink, Ianus Keller, Neelke Doorn, and Gerd Kortuem. 2023. Contestable Camera Cars: A Speculative Design Exploration of Public AI That Is
+
+Open and Responsive to Dispute. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 1–16.
+
+[8] Kars Alfrink, Ianus Keller, Gerd Kortuem, and Neelke Doorn. 2022. Contestable AI by Design: Towards a Framework. Minds and Machines (2022),
+
+1–27.
+
+[9] Ali Alkhatib. 2021. To live in their utopia: Why algorithmic systems create absurd outcomes. In Proceedings of the 2021 CHI conference on human
+
+factors in computing systems. 1–9.
+
+[10] Marco Almada. 2019. Human intervention in automated decision-making: Toward the construction of contestable systems. In Proceedings of the
+
+Seventeenth International Conference on Artificial Intelligence and Law. 2–11.
+
+[11] Gagan Bansal, Besmira Nushi, Ece Kamar, Walter S Lasecki, Daniel S Weld, and Eric Horvitz. 2019. Beyond accuracy: The role of mental models in
+
+human-AI team performance. In Proceedings of the AAAI conference on human computation and crowdsourcing, Vol. 7. 2–11.
+
+[12] Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W Duncan Wadsworth, and Hanna
+Wallach. 2021. Designing disaggregated evaluations of ai systems: Choices, considerations, and tradeoffs. In Proceedings of the 2021 AAAI/ACM
+Conference on AI, Ethics, and Society. 368–378.
+
+[13] Hugh Beyer and Karen Holtzblatt. 1999. Contextual design. interactions 6, 1 (1999), 32–42.
+[14] Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Diaz, Madeleine Clare Elish, Iason Gabriel, and Shakir Mohamed. 2022. Power to the
+
+people? opportunities and challenges for participatory AI. Equity and Access in Algorithms, Mechanisms, and Optimization (2022), 1–8.
+
+[15] Joy Buolamwini and Timnit Gebru. 2018. Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on
+
+fairness, accountability and transparency. PMLR, 77–91.
+
+[16] Garance Burke, Martha Mendoza, Juliet Linderman, and Michael Tarm. 2022. How AI-powered tech landed man in jail with scant evidence.
+https://apnews.com/article/artificial-intelligence-algorithm-technology-police-crime-7e3345485aa668c97606d4b54f9b6220. Accessed: 2022-09-13.
+[17] John M Butler, Hari Iyer, Rich Press, Melissa Taylor, Peter M Vallone, and Sheila Willis. 2021. DNA Mixture Interpretation: A NIST Scientific
+
+Foundation Review. National Institutes of Standards and Technology (2021).
+
+[18] Ángel Alexander Cabrera, Erica Fu, Donald Bertucci, Kenneth Holstein, Ameet Talwalkar, Jason I Hong, and Adam Perer. 2023. Zeno: An interactive
+framework for behavioral evaluation of machine learning. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 1–14.
+[19] Carrie J Cai, Samantha Winter, David Steiner, Lauren Wilcox, and Michael Terry. 2019. " Hello AI": uncovering the onboarding needs of medical
+practitioners for human-AI collaborative decision-making. Proceedings of the ACM on Human-computer Interaction 3, CSCW (2019), 1–24.
+
+[20] Marc Canellas. 2021. Defending IEEE Software Standards in Federal Criminal Court. Computer 54, 6 (2021), 14–23.
+[21] Kathy Charmaz. 2006. Constructing grounded theory: A practical guide through qualitative analysis. sage.
+[22] Angèle Christin. 2017. Algorithms in practice: Comparing web journalism and criminal justice. Big Data & Society 4, 2 (2017), 2053951717718855.
+[23] Michael D Coble and Jo-Anne Bright. 2019. Probabilistic genotyping software: an overview. Forensic Science International: Genetics 38 (2019),
+
+219–224.
+
+[24] Library of Congress Congress.gov. 2021. H.R.2438 - 117th Congress (2021-2022): Justice in Forensic Algorithms Act of 2021. Retrieved February 23,
+
+2023 from https://www.congress.gov/bill/117th-congress/house-bill/2438
+
+[25] Sasha Costanza-Chock, Inioluwa Deborah Raji, and Joy Buolamwini. 2022. Who Audits the Auditors? Recommendations from a field scan of the
+
+algorithmic auditing ecosystem. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency. 1571–1583.
+
+[26] Fernando Delgado, Stephen Yang, Michael Madaio, and Qian Yang. 2023. The Participatory Turn in AI Design: Theoretical Foundations and the
+Current State of Practice. In Proceedings of the 3rd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization. 1–23.
+[27] Wesley Hanwen Deng, Boyuan Guo, Alicia Devrio, Hong Shen, Motahhare Eslami, and Kenneth Holstein. 2023. Understanding Practices, Challenges,
+and Opportunities for User-Engaged Algorithm Auditing in Industry Practice. In Proceedings of the 2023 CHI Conference on Human Factors in
+Computing Systems. 1–18.
+
+[28] Alicia DeVos, Aditi Dhabalia, Hong Shen, Kenneth Holstein, and Motahhare Eslami. 2022. Toward User-Driven Algorithm Auditing: Investigating
+users’ strategies for uncovering harmful algorithmic behavior. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems.
+1–19.
+
+[29] Upol Ehsan, Samir Passi, Q Vera Liao, Larry Chan, I Lee, Michael Muller, Mark O Riedl, et al. 2021. The who in explainable ai: How ai background
+
+shapes perceptions of ai explanations. arXiv preprint arXiv:2107.13509 (2021).
+
+[30] Donald J Farole and Lynn Langton. 2010. County-based and local public defender offices, 2007. US Department of Justice, Office of Justice Programs,
+
+Bureau of Justice . . . .
+
+[31] Todd Feathers. 2021. Police are telling ShotSpotter to alter evidence from gunshot-detecting AI. Retrieved November 23 (2021), 2022.
+[32] Bryan Furst. 2019. A Fair Fight. Brennan Center for Justice, September 9 (2019).
+
+24
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+[33] Brandon L Garrett, William E Crozier, and Rebecca Grady. 2020. Error rates, likelihood ratios, and jury evaluation of forensic evidence. Journal of
+
+Forensic Sciences 65, 4 (2020), 1199–1209.
+
+[34] Clare Garvie. 2016. The perpetual line-up: Unregulated police face recognition in America. Georgetown Law, Center on Privacy & Technology.
+[35] Clare Garvie. 2022. A forensic without the science: face recognition in US criminal investigations. Center on Privacy & Technology at Georgetown
+
+Law 6 (2022).
+
+[36] Janne E Gaub, Carolyn Naoroz, and Aili Malm. 2019. Understanding the impact of police body-worn cameras on Virginia public defenders. Retrieved
+
+March 2 (2019), 2022.
+
+[37] Navita Goyal, Eleftheria Briakou, Amanda Liu, Connor Baumler, Claire Bonial, Jeffrey Micher, Clare R Voss, Marine Carpuat, and Hal Daumé III.
+2023. What Else Do I Need to Know? The Effect of Background Information on Users’ Reliance on AI Systems. arXiv preprint arXiv:2305.14331
+(2023).
+
+[38] Caroline Wolf Harlow. 2001. Defense counsel in criminal cases. US Department of Justice, Office of Justice Programs, Bureau of Justice . . . .
+[39] Mireille Hildebrandt. 2019. Privacy as protection of the incomputable self: From agnostic to agonistic machine learning. Theoretical Inquiries in Law
+
+20, 1 (2019), 83–121.
+
+[40] Kashmir Hill. 2020. Wrongfully Accused by an Algorithm. https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html.
+
+Accessed: 2022-09-13.
+
+[41] Tad Hirsch, Kritzia Merced, Shrikanth Narayanan, Zac E Imel, and David C Atkins. 2017. Designing contestability: Interaction design, machine
+
+learning, and mental health. In Proceedings of the 2017 Conference on Designing Interactive Systems. 95–99.
+
+[42] Ben Hutchinson, Christina Greer, Katherine Heller, Negar Rostamzadeh, and Vinodkumar Prabhakaran. 2022. Critical Evaluation Gaps in Machine
+
+Learning Practice. (2022).
+
+[43] Elizabeth E Joh. 2017. The undue influence of surveillance technology companies in policing. NYUL Rev. Online 92 (2017), 19.
+[44] J Jouvenal. 2021. A secret algorithm is transforming DNA evidence. This defendant could be the first to scrutinize it. Washington Post, July 13 (2021),
+
+2021.
+
+[45] Margot E Kaminski and Jennifer M Urban. 2021. The right to contest AI. Columbia Law Review 121, 7 (2021), 1957–2048.
+[46] Anna Kawakami, Venkatesh Sivaraman, Hao-Fei Cheng, Logan Stapleton, Yanghuidi Cheng, Diana Qing, Adam Perer, Zhiwei Steven Wu, Haiyi
+Zhu, and Kenneth Holstein. 2022. Improving human-AI partnerships in child welfare: understanding worker practices, challenges, and desires for
+algorithmic decision support. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems. 1–18.
+
+[47] Anna Kawakami, Venkatesh Sivaraman, Logan Stapleton, Hao-Fei Cheng, Adam Perer, Zhiwei Steven Wu, Haiyi Zhu, and Kenneth Holstein. 2022.
+“Why Do I Care What’s Similar?” Probing Challenges in AI-Assisted Child Welfare Decision-Making through Worker-AI Interface Design Concepts.
+In Designing Interactive Systems Conference. 454–470.
+
+[48] Lauren Kirchner. 2017. Thousands of Criminal Cases in New York Relied on Disputed DNA Testing Techniques. https://www.propublica.org/article/
+
+thousands-of-criminal-cases-in-new-york-relied-on-disputed-dna-testing-techniques. Accessed: 2022-09-13.
+
+[49] Lauren Kirchner. 2017. Thousands of Criminal Cases in New York Relied on Disputed DNA Testing Techniques. ProPublica (4 Sept. 2017) (2017).
+[50] Daniel N Kluttz, Nitin Kohli, and Deirdre K Mulligan. 2022. Shaping our tools: Contestability as a means to promote responsible algorithmic decision
+
+making in the professions. Ethics of Data and Analytics. Auerbach Publications (2022), 420–428.
+
+[51] PM Krafft, Meg Young, Michael Katell, Karen Huang, and Ghislain Bugingo. 2020. Defining AI in policy versus practice. In Proceedings of the
+
+AAAI/ACM Conference on AI, Ethics, and Society. 72–78.
+
+[52] Dan E Krane and M Katherine Philpott. 2022. Using Laboratory Validation to Identify and Establish Limits to the Reliability of Probabilistic
+
+Genotyping Systems. In Handbook of DNA Profiling. Springer, 297–319.
+
+[53] Tzu-Sheng Kuo, Hong Shen, Jisoo Geum, Nev Jones, Jason I Hong, Haiyi Zhu, and Kenneth Holstein. 2023. Understanding Frontline Workers’ and
+Unhoused Individuals’ Perspectives on AI Used in Homeless Services. In Proceedings of the 2023 CHI Conference on Human Factors in Computing
+Systems. 1–17.
+
+[54] Vivian Lai and Chenhao Tan. 2019. On human predictions with explanations and predictions of machine learning models: A case study on deception
+
+detection. In Proceedings of the conference on fairness, accountability, and transparency. 29–38.
+
+[55] Michelle S Lam, Mitchell L Gordon, Danaë Metaxa, Jeffrey T Hancock, James A Landay, and Michael S Bernstein. 2022. End-User Audits: A System
+Empowering Communities to Lead Large-Scale Investigations of Harmful Algorithmic Behavior. Proceedings of the ACM on Human-Computer
+Interaction 6, CSCW2 (2022), 1–34.
+
+[56] Christie Lawrence, Isaac Cui, and Daniel Ho. 2023. The bureaucratic challenge to AI governance: An empirical assessment of implementation at US
+
+federal agencies. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society. 606–652.
+
+[57] Q Vera Liao and Ziang Xiao. 2023. Rethinking Model Evaluation as Narrowing the Socio-Technical Gap. arXiv preprint arXiv:2306.03100 (2023).
+[58] Steven P Lund and Hari Iyer. 2017. Likelihood ratio as weight of forensic evidence: a closer look. Journal of Research of the National Institute of
+
+Standards and Technology 122 (2017), 1.
+
+[59] Katie Lynch. [n. d.]. Know the facts. http://www.beingatticusfinch.com/know-the-facts
+[60] Henrietta Lyons, Senuri Wijenayake, Tim Miller, and Eduardo Velloso. 2022. What’s the appeal? Perceptions of review processes for algorithmic
+
+decisions. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems. 1–15.
+
+[61] Jeanna Matthews, Marzieh Babaeianjelodar, Stephen Lorenz, Abigail Matthews, Mariama Njie, Nathaniel Adams, Dan Krane, Jessica Goldthwaite,
+and Clinton Hughes. 2019. The right to confront your accusers: Opening the black box of forensic DNA software. In Proceedings of the 2019
+
+25
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+AAAI/ACM Conference on AI, Ethics, and Society. 321–327.
+
+[62] Jeanna Neefe Matthews, Graham Northup, Isabella Grasso, Stephen Lorenz, Marzieh Babaeianjelodar, Hunter Bashaw, Sumona Mondal, Abigail
+Matthews, Mariama Njie, and Jessica Goldthwaite. 2020. When trusted black boxes don’t agree: Incentivizing iterative improvement and accountability
+in critical software systems. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society. 102–108.
+
+[63] Jacob Metcalf, Ranjit Singh, Emanuel Moss, Emnet Tafesse, and Elizabeth Anne Watkins. 2023. Taking Algorithms to Courts: A Relational Approach
+
+to Algorithmic Accountability. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency. 1450–1462.
+
+[64] Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and
+Timnit Gebru. 2019. Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency. 220–229.
+[65] Kenneth R Moses, P Higgins, M McCabe, S Prabhakar, and S Swann. 2011. Automated fingerprint identification system (AFIS). The fingerprint
+
+sourcebook 1 (2011), 6–1.
+
+[66] Desmond U Patton, William R Frey, Kyle A McGregor, Fei-Tzin Lee, Kathleen McKeown, and Emanuel Moss. 2020. Contextual analysis of social
+media: The promise and challenge of eliciting context in social media posts with natural language processing. In Proceedings of the AAAI/ACM
+Conference on AI, Ethics, and Society. 337–342.
+
+[67] PCAST (President’s Council of Advisors on Science and Technology). 2016. Forensic Science in Criminal Courts: Ensuring Scientific Validation of
+
+Feature-Comparison Methods. President’s Council of Advisors on Science and Technology (2016).
+
+[68] Nicholas DK Petraco, Helen Chan, P De Forest, D Crim, Peter Diaczuk, Carol Gambino, et al. 2012. Application of machine learning to toolmarks:
+
+statistically based methods for impression pattern comparisons. National Institute of Justice (2012).
+
+[69] Jennifer Pierre, Roderic Crooks, Morgan Currie, Britt Paris, and Irene Pasquetto. 2021. Getting Ourselves Together: Data-centered participatory
+
+design research & epistemic burden. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. 1–11.
+
+[70] Thomas Ploug and Søren Holm. 2020. The four dimensions of contestable AI diagnostics-A patient-centric approach to explainable AI. Artificial
+
+Intelligence in Medicine 107 (2020), 101901.
+
+[71] Snehal Prabhudesai, Leyao Yang, Sumit Asthana, Xun Huan, Q Vera Liao, and Nikola Banovic. 2023. Understanding Uncertainty: How Lay
+Decision-makers Perceive and Interpret Uncertainty in Human-AI Decision Making. In Proceedings of the 28th International Conference on Intelligent
+User Interfaces. 379–396.
+
+[72] Inioluwa Deborah Raji, Emily M Bender, Amandalynne Paullada, Emily Denton, and Alex Hanna. 2021. AI and the everything in the whole wide
+
+world benchmark. arXiv preprint arXiv:2111.15366 (2021).
+
+[73] Rashida Richardson. 2021. Defining and demystifying automated decision systems. Md. L. Rev. 81 (2021), 785.
+[74] Claudio Sarra. 2020. Put dialectics into the machine: protection against automatic-decision-making through a deeper understanding of contestability
+
+by design. Global Jurist 20, 3 (2020), 20200003.
+
+[75] Devansh Saxena, Karla Badillo-Urquiola, Pamela J Wisniewski, and Shion Guha. 2021. A framework of high-stakes algorithmic decision-making for
+the public sector developed through a case study of child-welfare. Proceedings of the ACM on Human-Computer Interaction 5, CSCW2 (2021), 1–41.
+[76] Hong Shen, Alicia DeVos, Motahhare Eslami, and Kenneth Holstein. 2021. Everyday algorithm auditing: Understanding the power of everyday users
+
+in surfacing harmful algorithmic behaviors. Proceedings of the ACM on Human-Computer Interaction 5, CSCW2 (2021), 1–29.
+
+[77] Eli Siems, Katherine J Strandburg, and Nicholas Vincent. 2022. Trade Secrecy and Innovation in Forensic Technology. Hastings LJ 73 (2022), 773.
+[78] Robert L Spangenberg and Marea L Beeman. 1995. Indigent defense systems in the United States. Law & Contemp. Probs. 58 (1995), 31.
+[79] Harini Suresh, Steven R Gomez, Kevin K Nam, and Arvind Satyanarayan. 2021. Beyond expertise and roles: A framework to characterize the
+stakeholders of interpretable machine learning and their needs. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.
+1–16.
+
+[80] Harini Suresh, Rajiv Movva, Amelia Lee Dogan, Rahul Bhargava, Isadora Cruxên, Ángeles Martinez Cuba, Guilia Taurino, Wonyoung So, and
+Catherine D’Ignazio. 2022. Towards intersectional feminist and participatory ML: A case study in supporting Feminicide Counterdata Collection. In
+Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency. 667–678.
+
+[81] Harini Suresh, Divya Shanmugam, Tiffany Chen, Annie G Bryan, Alexander D’Amour, John Guttag, and Arvind Satyanarayan. 2023. Kaleidoscope:
+Semantically-grounded, context-specific ML model evaluation. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.
+1–13.
+
+[82] Rohan Taori, Achal Dave, Vaishaal Shankar, Nicholas Carlini, Benjamin Recht, and Ludwig Schmidt. 2020. Measuring robustness to natural
+
+distribution shifts in image classification. Advances in Neural Information Processing Systems 33 (2020), 18583–18599.
+
+[83] Kristen Vaccaro, Karrie Karahalios, Deirdre K Mulligan, Daniel Kluttz, and Tad Hirsch. 2019. Contestability in algorithmic systems. In Conference
+
+companion publication of the 2019 on computer supported cooperative work and social computing. 523–527.
+
+[84] Kristen Vaccaro, Christian Sandvig, and Karrie Karahalios. 2020. " At the End of the Day Facebook Does What ItWants" How Users Experience
+
+Contesting Algorithmic Content Moderation. Proceedings of the ACM on human-computer interaction 4, CSCW2 (2020), 1–22.
+
+[85] Rachel B Warren and Niloufar Salehi. 2022. Trial by File Formats: Exploring Public Defenders’ Challenges Working with Novel Surveillance Data.
+
+Proceedings of the ACM on Human-Computer Interaction 6, CSCW1 (2022), 1–26.
+
+[86] Rebecca Wexler. 2017. When a computer program keeps you in jail: How computers are harming criminal justice. New York Times 13 (2017).
+[87] Rebecca Wexler. 2018. Life, liberty, and trade secrets: Intellectual property in the criminal justice system. Stan. L. Rev. 70 (2018), 1343.
+[88] Dana Wilson-Kovacs, Rebecca Helm, Beth Growns, and Lauren Redfern. 2023. Digital evidence in defence practice: Prevalence, challenges and
+
+expertise. The International Journal of Evidence & Proof (2023), 13657127231171620.
+
+26
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+[89] Lucas Wright, Roxana Mika Muenster, Briana Vecchione, Tianyao Qu, Senhuang (Pika) Cai, Alan Smith, Jacob Metcalf, and J. Nathan Matias. [n. d.].
+
+Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability. ([n. d.]). https://doi.org/10.17605/OSF.IO/UPFDK
+
+[90] Eric Wu, Kevin Wu, Roxana Daneshjou, David Ouyang, Daniel E Ho, and James Zou. 2021. How medical AI devices are evaluated: limitations and
+
+recommendations from an analysis of FDA approvals. Nature Medicine 27, 4 (2021), 582–584.
+
+[91] Fumeng Yang, Maryam Hedayati, and Matthew Kay. 2023. Subjective Probability Correction for Uncertainty Representations. In Proceedings of the
+
+2023 CHI Conference on Human Factors in Computing Systems. 1–17.
+
+[92] Qian Yang, Richmond Y Wong, Thomas Gilbert, Margaret D Hagan, Steven Jackson, Sabine Junginger, and John Zimmerman. 2023. Designing
+Technology and Policy Simultaneously: Towards A Research Agenda and New Practice. In Extended Abstracts of the 2023 CHI Conference on Human
+Factors in Computing Systems. 1–6.
+
+[93] Ming Yin, Jennifer Wortman Vaughan, and Hanna Wallach. 2019. Understanding the effect of accuracy on trust in machine learning models. In
+
+Proceedings of the 2019 chi conference on human factors in computing systems. 1–12.
+
+[94] Mireia Yurrita, Tim Draws, Agathe Balayn, Dave Murray-Rust, Nava Tintarev, and Alessandro Bozzon. 2023. Disentangling Fairness Perceptions
+in Algorithmic Decision-Making: the Effects of Explanations, Human Oversight, and Contestability. In Proceedings of the 2023 CHI Conference on
+Human Factors in Computing Systems. 1–21.
+
+[95] Yunfeng Zhang, Q Vera Liao, and Rachel KE Bellamy. 2020. Effect of confidence and explanation on accuracy and trust calibration in AI-assisted
+
+decision making. In Proceedings of the 2020 conference on fairness, accountability, and transparency. 295–305.
+
+27
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Jin and Salehi
+
+A INTERVIEW STORYBOARDS
+
+We include the storyboards we developed and used for the study in Figures 1, 2, 3, and 4.
+
+Fig. 1. We used this storyboard to establish a hypothetical scenario in which the prosecution uses evidence output by probabilistic
+genotyping software (PGS). We presented this scenario before presenting potential evaluation approaches depicted in Figures 2, 3,
+and 4. This scenario is modeled off of a real case publicly documented by Kirchner [49], and uses an image from the article created by
+Michael Hirshon for ProPublica.
+
+.
+
+Fig. 2. This storyboard depicts a potential evaluation approach based on Abebe et al. [6].
+
+28
+
+(Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
+
+CHI ’24, May 11–16, 2024, Honolulu, HI, USA
+
+Fig. 3. This storyboard depicts a potential evaluation approach based on the Justice in Forensic Algorithms Act of 2021, a bill
+introduced to Congress by Rep. Mark Takano [D-CA-41] [24].
+
+Fig. 4. This storyboard depicts a potential evaluation approach based on Mitchell et al. [64].
+
+29

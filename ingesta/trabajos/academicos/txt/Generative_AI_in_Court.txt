@@ -1,0 +1,1577 @@
+# Fuente
+- archivo: Generative_AI_in_Court.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Generative_AI_in_Court.pdf
+- extraido: 2026-04-24T11:34:03
+
+# Contenido
+
+Generative AI in court
+
+Frosio, G. (2024). Generative AI in court. In N. Koutras, & N. Selvadurai (Eds.), Recreating creativity, reinventing
+inventiveness: AI and intellectual property law Routledge. https://doi.org/10.4324/9781003260127-2
+
+Published in:
+Recreating creativity, reinventing inventiveness: AI and intellectual property law
+
+Document Version:
+Peer reviewed version
+
+Queen's University Belfast - Research Portal:
+Link to publication record in Queen's University Belfast Research Portal
+
+Publisher rights
+Copyright 2024 Routledge.
+This work is made available online in accordance with the publisher’s policies. Please refer to any applicable terms of use of the publisher.
+
+General rights
+Copyright for the publications made accessible via the Queen's University Belfast Research Portal is retained by the author(s) and / or other
+copyright owners and it is a condition of accessing these publications that users recognise and abide by the legal requirements associated
+with these rights.
+
+Take down policy
+The Research Portal is Queen's institutional repository that provides access to Queen's research output. Every effort has been made to
+ensure that content in the Research Portal does not infringe any person's rights, or applicable UK laws. If you discover content in the
+Research Portal that you believe breaches copyright or violates any law, please contact openaccess@qub.ac.uk.
+
+Open Access
+This research has been made openly available by Queen's academics and its Open Research team.  We would love to hear how access to
+this research benefits you. – Share your feedback with us: http://go.qub.ac.uk/oa-feedback
+
+Download date:24. Apr. 2026
+
+GENERATIVE AI IN COURT 
+Giancarlo Frosio 
+
+in Nikos Koutras and Niloufer Selvadurai (eds), Recreating Creativity, Reinventing Inventiveness 
+- International Perspectives on AI and IP Governance (Routledge, forthcoming 2023) 
+
+ABSTRACT 
+
+In  the  age  of  burgeoning  AI-driven  creativity,  the  song  "Heart  on  My  Sleeve"  stands  out, 
+attributing its sound to famed artists like Drake and The Weeknd without their participation. This 
+product  of  'Generative  AI'  is  a  testament  to  AI's  creative  capabilities.  However,  amidst  the 
+advancement  of  AI  in  the  creative  domain,  the  intersection  of  technology  and  copyright  law is 
+witnessing  unprecedented  challenges.  Legal  realms  are  ablaze  with  contentious  cases.  Getty 
+Images' legal battle with Stability AI, accused of unlawfully harnessing copyrighted images for 
+their AI art tool Stable Diffusion, underscores this tension. Parallelly, artists like Sarah Andersen, 
+Kelly  McKernan,  and  Karla  Ortiz  have  taken  on  AI  solution  providers,  alleging  misuse  of 
+copyrighted content. Sarah Silverman and fellow authors have similarly contested OpenAI and 
+Meta's practices. The justification at the heart of these case is two-fold: the rightsholders' intent 
+to  preserve  their  control  over  evolving  technology  that  repurposes  existing  content,  and  the 
+disruptive  potential  of  AI  in  reshaping  a  traditionally  human-centred  creative  landscape.  This 
+collision  spotlights  global  courts  grappling  with  AI's  challenges  to  conventional  copyright 
+concepts. As AI challenges conventional notions of authorship and copyright, critical questions 
+arise: Can AI infringe copyright through its learning process? Can AI be an author and own a 
+copyright? Can AI-generated outputs violate copyrights? This chapter delves into these pressing 
+issues  pending  before  multiple  courts,  contextualizing  them  within  the  global  landscape  of 
+Generative AI and its potential disruptions to the creative industry.  
+
+INTRODUCTION 
+
+The spring sensation, “Heart on My Sleeve,” has taken the world by storm. Though it bears the 
+unmistakable  hallmarks  of  superstars  Drake  and  The  Weeknd,  neither  artist  contributed  to  the 
+song's creation. Instead, the track emerged from the power of artificial intelligence, mimicking 
+their iconic voices with uncanny accuracy. Launched by an anonymous TikTok creator, its rapid 
+viral  ascent  has  resulted  in  millions  of streams,  yet  also  ignited significant  copyright concerns. 
+Universal Music Group, representing The Weeknd, has voiced strong opposition to such AI-driven 
+musical creations, challenging the ethics and legality of the technology.1 This is not an isolated 
+dispute but rather the forefront of an escalating debate over intellectual property rights in the AI 
+era.2 The surge in AI's capabilities in the realm of creativity is remarkable, underscored by the rise 
+
+ See 
+
+e.g.  Ben  Schreckinger, 
+
+ Professor, Chair in Intellectual Property and Technology Law, and Director of the Global Intellectual Property and 
+Technology  (G-IPTech)  Centre,  School  of  Law,  Queen’s  University  Belfast;  Non-Resident  Fellow,  Stanford  Law 
+School Center for Internet and Society; Associate Faculty, NEXA Center for Internet and Society.  
+1
+vs 
+
+24, 
+https://www.politico.com/newsletters/digital-future-daily/2023/04/24/ai-vs-the-culture-industry-00093550.  
+2 See “Master List of lawsuits v. AI, ChatGPT, OpenAI, Microsoft, Meta, Midjourney & other AI cos.”, (14 July 2023, 
+https://chatgptiseatingtheworld.com/2023/07/14/master-list-of-lawsuits-v-ai-chatgpt-openai-microsoft-meta-
+midjourney-other-ai-cos/?fbclid=IwAR3vMv9MIZRWvv1xRcponMYRjo0De7BmOJqiUc7dhn50RPBtI_0-
+2wqFT3I.  
+
+Industry”,  Politico,  April 
+
+culture 
+
+“AI 
+
+the 
+
+2023,  
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+of 'Generative AI'.3 Such systems have shown prowess in penning poems, stories, and news pieces; 
+crafting melodies; retouching photos; devising video games; and producing paintings and other 
+artistic visuals. The recent introduction of expansive text-to-image, text-to-music, and text-to-text 
+models,  including  the  likes  of  Dall-E,  Stable  Diffusion,  Midjourney,  Jasper,  Chat  GPT-3,  and 
+MusicLM, signifies a pivotal moment in AI's progress, underscoring the immense possibilities in 
+AI-fueled creativity. Chat GPT-3, an advanced linguistic generative model, generates responses 
+indistinguishable from human interaction based on textual cues. Dall-E, named in homage to both 
+WALL-E and Salvador Dalí, crafts visual artworks from succinct text prompts.4 Jasper operates 
+akin  to  an  adept  copywriter,  spinning  content  akin  to  seasoned  writers  from  mere  headlines.5 
+Innovation like Google's MusicLM, which orchestrates intricate music pieces from textual inputs, 
+and ventures like Meta's make-a-video and Google's Imagen video, are constantly evolving.6   
+
+In this context, both cultural and legal spheres are now witnessing clashes between artists, media 
+giants, AI developers, and the tech platforms that host them.  Recently, Getty Images has taken 
+legal action against Stability AI, the makers of the AI art tool Stable Diffusion, asserting that the 
+firm unlawfully utilized and processed countless copyrighted images to hone its software.7 In a 
+separate  landmark  lawsuit,  artists  such  as  Sarah  Andersen,  Kelly  McKernan,  and  Karla  Ortiz 
+initiated an unprecedented class action for copyright infringement against AI solution providers 
+including Stability AI Ltd., Midjourney Inc., and DeviantArt Inc. They contend these entities used 
+vast amounts of copyrighted images without acquiring permissions or providing payment to inform 
+their AI applications.8 Furthermore, Sarah Silverman, along with other writers, have filed a lawsuit 
+against OpenAI and Meta, asserting that AI training breached their copyrights, particularly when 
+enabling  users  to  produce  summaries  of  their  literary  works. 9 Meanwhile,  the  U.S.  copyright 
+
+3 See Proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on 
+artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts, COM(2021)0206 – C9-
+0146/2021 – 2021/0106(COD) (hereafter ‘AI Act’), art 28 b 4 (characterizing this as “foundation models powering 
+AI systems, designed to autonomously create content ranging from text and images to audio and video.”) 
+4  See  Casey  Newton,  “How  DALL-E  could  power  a  creative  revolution”,  The  Verge,  10  June  2022, 
+https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution;  OpenAI,  “DALL·E: 
+Creating Images from Text”, OpenAI Blog, 5 January 2021), https://openai.com/blog/dall-e. 
+5 See Tom Simonite, ‘The Future of the Web Is Marketing Copy Generated by Algorithms’ (WIRED, April 18 2022) 
+<https://www.wired.com/story/ai-generated-marketing-content. 
+6  See  Andrea  Agostinelli  et  al,  “MusicLM:  Generating  Music  From  Text@,  Google  Research  (2023) 
+https://research.google/pubs/pub52118; Alex Wilkins, “How will AIs that generate videos from text transform media 
+online?”,  NewScientist  November  15,  2022,  https://www.newscientist.com/article/2346939-how-will-ais-that-
+generate-videos-from-text-transform-media-online. 
+7 See James Vincent, “Getty Images is suing Stability AI, creators of popular AI art tool Stable Diffusion, over alleged 
+copyright violation”, The Verge, April 2, 2023, https://www.theverge.com. 
+8 See Andersen et al v. Stability AI Ltd. et al Andersen et al v. Stability AI Ltd. et al, Docket No. 3:23-cv-00201 (ND 
+Cal, 13 January 2023) (Complaint), https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd. See 
+also Karla Ortiz Testimony, Hearing of the U.S. Senate Committee on the Judiciary, Subcommittee on Intellectual 
+Property  (12  July  2023),  https://www.judiciary.senate.gov/imo/media/doc/2023-07-12_pm_-_testimony_-_ortiz.pdf 
+(written testimony), https://www.youtube.com/watch?v=uoCJun7gkbA (video of U.S. Senate subcommittee hearing). 
+9 See Sarah Silverman v. OpenAI, Inc., U.S. District Court for the Northern District of California, No. 3:23-cv-03223 
+(filed  7  July  2023)  (proposed  class  action)  <https://www.courtlistener.com/docket/67569254/silverman-v-openai-
+inc>.  See  also  Paul  Tremblay  and  Mona  Awad  v.  Open  AI,  Inc.,  U.S.  District  Court  for  the  Northern  District  of 
+California,  No.  […]  (filed  28  June  2023),  https://copyrightlately.com/pdfviewer/tremblay-v-openai-class-action-
+complaint/?auto_viewer=true#page=&zoom=auto&pagemode=none.  
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+office, the District Court of Columbia and other courts in multiple jurisdictions have been asked 
+to review the protectability of AI-generated works under the present copyright framework.10 
+
+The justification at the heart of these case is two-fold. On one hand, copyright holders seek to 
+maintain  their  influence  over  rapidly  advancing  technologies,  questioning  the  extent  of  their 
+control  over  new  tools  that  repurpose  existing  content.  In  addition,  given  AI's  transformative 
+potential that might impact the landscape of human labor and disrupt the human role in the creative 
+sector, 11 these stakeholders  desire safeguards to  preserve their market  share. Consequently, the 
+integration  of  traditional  copyright  systems  with  AI-driven  innovation  is  attracting  significant 
+judicial scrutiny globally.12 AI's capability to generate content challenges established principles of 
+copyright, authorship, and ownership, prompting pivotal debates over the legitimacy of protecting 
+AI-produced works. Beyond the dilemma of recognizing AI as an 'author', courts are grappling 
+also with two other intertwined issues: the potential of AI to violate copyright during its learning 
+phase, and its  capacity to  produce content that may infringe existing  copyrights.13 This  chapter 
+aims  to  thoroughly  explore  these  pressing  concerns,  which  are  currently—and  will  continue  to 
+be—presented before courts in multiple jurisdictions, emphasizing their global relevance in the era 
+of Generative AI and AI-generated creativity. 
+
+1. RATIONAL: HOLD-OUT POWERS AND MARKET DISRUPTION 
+
+As we embark on an exploration of the burgeoning legal landscape surrounding Generative AI, 
+two core justifications for the mounting lawsuits against Generative AI platforms become evident. 
+Firstly,  copyright  holders  are  striving  to  retain  their  foothold  in  an  environment  dominated  by 
+rapidly progressing technologies. Their primary concern centres around the extent to which they 
+can  exert  control  over  these  novel  tools,  particularly  when  these  tools  have  the  capability  to 
+repurpose  existing  content  in  unprecedented  ways.  Secondly,  the  undeniable  potential  of  AI  to 
+reshape  the  dynamics  of  human  labour  cannot  be  overlooked.  Human  creators  yearn  for 
+mechanisms  to  safeguard  their  market  positions  against  the  sweeping  tide  of  machine-driven 
+creativity. This part of the chapter sets the stage for understanding these motivations, which are 
+driving the wave of litigation against Generative AI platforms. 
+
+10 See infra fn. 113-120. 
+11 See e.g. Tyna Eloundou and others, “GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large 
+Language  Models”,    arXiv:2303.10130  [econ.GN]  (2023),  https://arxiv.org/abs/2303.10130  (finding  that  findings 
+reveal that around 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction 
+of LLMs, while approximately 19% of workers may see at least 50% of their tasks impacted). 
+12  See  Maria  Iglesias  Portela,  Sharon  Shamuilia  and  Amanda  Anderberg,  “Intellectual  Property  and  Artificial 
+Intelligence: A Literature Review”, Joint Research Centre, Publications Office of the European Union (2019). 
+13 Please note that his chapter reworks and develops content and conclusions discussed in earlier pieces. See Giancarlo 
+Frosio, “Should We Ban Generative AI, Incentivise it or Make it a Medium for Inclusive Creativity?”, in A Research 
+Agenda  for  EU  Copyright  Law,  eds.  Enrico  Bonadio  and  Caterina  Sganga  (Edward  Elgar,  forthcoming  2023); 
+Giancarlo Frosio, “The Artificial Creatives: the Rise of Combinatorial Creativity from Dall-E to GPT-3”, in Handbook 
+of  Artificial  Intelligence  at  Work:  Interconnections  and  Policy  Implications,  eds.  Martha  Garcia-Murillo,  Ian 
+MacInnes, and Andrea Renda (Edward Elgar, forthcoming 2023); Giancarlo Frosio, “Four Theories in Search of an 
+A(I)uthor” in Research Handbook on Intellectual Property and Artificial Intelligence, ed. Ryan Abbott (Edward Elgar 
+2022), 155-177. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+1.1. Hold Out Powers 
+
+In the wave of recent lawsuits against generative AI platforms, we observe a recurring theme: 
+copyright  law  wielded  as  a  strategic  instrument  to  secure  or  enhance  market  dominance. 
+Historically, the allure of potential hefty statutory damages, especially in the United States, has 
+often made litigation a more enticing route than forging business partnerships. This preference is 
+further bolstered by the inherent unpredictability of fair use decisions, which can deter newcomers, 
+sparking  battles  over  technological  innovations  and,  in  turn,  encouraging  monopolistic 
+tendencies.14 This raises important concerns about the historical struggle between copyright and 
+innovation. This tension has consistently played out in courts, shaping the landscape of creative 
+industries and determining the extent to which emerging technologies can thrive. 
+
+The annals of copyright law reveal a persistent tug-of-war between preservation and progress. 
+Throughout history, property owners, particularly within the realm of copyright, have leveraged 
+their hold-out power to obstruct progress.15 From early confrontations involving piano rolls,16  tape 
+recorders,17 radios,18 and VHS recorders,19 to more contemporary disputes over cable television,20 
+peer-to-peer  software, 21  mp3  music  format, 22 search  engines,  digital  thumbnails, 23  and  cloud 
+music-storage services, copyright holders have often resisted new technological frontiers. While 
+some services like MP3Tunes successfully defended their innovative models,24 others, like ReDigi 
+and  Tom  Kabinet, 25 found  themselves  quashed  under  legal  scrutiny,  illustrating  the  ongoing 
+friction  between  copyright  proprietors  and  innovators.  The  cases  recently  started  against 
+Generative Ai platforms continue illustrating this ongoing tension. 
+
+This historical stance isn't solely about defending rights; it underscores a tactical approach where 
+copyright protection is used to dictate the pace and direction of innovation. The murky waters of 
+fair use and fair dealing decisions, compounded by the varying interpretations of exceptions and 
+limitations, embolden copyright holders in their litigious pursuits. Such a posture can stymie the 
+
+14 See Brian Johnston, “Rethinking Copyright's Treatment Of New Technology: Strategic Obsolescence As A Catalyst 
+For  Interest  Group  Compromise”,  NYU  Ann  Surv  Am  L  64  (2008):  165,  fn136;  Robin Moore,  “Fair 
+Use and Innovation Policy” NYU L Rev 82 (2007): 944. 
+15 See Carol Rose, ‘The Comedy of the Commons: Custom, Commerce, and Inherently Public Property”, U Chi L. 
+Rev. 53 (1986): 711, 749-50, 752 (discussing how large public projects such as highways or railroads are vulnerable 
+to the hold-out power of single property owners). 
+16 See White-Smith Music Publishing Company v Apollo Company 209 US 1 (1908). 
+17 See Amstrad Consumer Electronics v The British Phonographic Industry [1988] UKHL 15. 
+18 See Twentieth Century Music Corp v Aiken, 422 US 151, 151 (1975). 
+19 See Sony Corp of Am v Universal Studios 464 US 417, 429 (1984).  
+20 See Fortnightly Corp v United Artists 392 US 390 (1968). 
+21 See Metro-Goldwyn-Mayer Studios v Grokster 545 US 913 (2005); A&M Records v Napster 239 F3d 1004 (9th Cir 
+2001). 
+22 See UMG Recordings v MP3com 92 F Supp 2d 349 (SDNY 2000). 
+23 See eg Perfect 10 v Amazon.com 508 F3d 1146 (9th Cir 2007); Vorschaubilder, I ZR 69/08 (Bundesgerichtshof, 29 
+April 2010) (ruling that Google Image Search does not Infringe copyright). 
+24 See Capitol Records v MP3Tunes 07 Civ 9931 (SDNY 2011). 
+25 See Capitol Records v ReDigi 934 F Supp 2d 640 (SDNY 2013); 910 F3d 649 (2d Cir 2018); Case C-263/18 NUV 
+v Tom Kabinet EU:C:2019:1111, para 72. See also Reto M Hilty, ‘Exhaustion in the digital age’ in Irene Calboli and 
+Edward Lee, Research Handbook on Intellectual Property Exhaustion and Parallel Imports (Edward Elgar 2016) 64, 
+72 ff. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+birth and growth of novel technologies and business blueprints, including generative AI. The risk? 
+A potential market gap where innovations that might enrich the value of copyrighted content are 
+stifled.26 Furthermore, it hints at an evolving narrative where copyright law transitions from merely 
+regulating copying to orchestrating technological design itself.27 
+
+Dominant  players  in  the  market  have  consistently  resisted  tech  evolution  to  safeguard  their 
+market share.28 In several episodes, these stakeholders wielded their influence to capture a slice of 
+the economic boons ushered in by technology, sometimes regardless of any economic loss that 
+traditional business models may have suffered as a consequence of innovation. The Google Books 
+case  serves  as  a  poignant  illustration.  Here,  a  project  that  could  have  been  a  win-win  for  all 
+parties—rightsholders, innovators, and the public—was mired in litigation as stakeholders vied 
+for  a  piece  of  the  revenue  pie.  Cases  like  these  underscore  the  potential  pitfalls  of  aggressive 
+copyright enforcement, which might thwart projects that can enrich culture, reward innovation, 
+and serve public interest. In a landmark decision, the US  Court of Appeals  for the 2nd Circuit 
+validated the legitimacy of the original relational database.29  Yet, despite the vast number of books 
+cataloged, only select excerpts are accessible. Moreover, this constrained fair use argument might 
+not withstand legal scrutiny in many European courts. For instance, a French case highlighted the 
+challenges facing projects centered on book digitization for text and data mining.30 A parallel can 
+be  drawn  with  the  Sony  case.  At  its  height,  Jack  Valenti,  the  MPAA  President  at  the  time, 
+dramatically told Congress, “the VCR is to the American film producer and the American public 
+as the Boston Strangler is to the woman home alone.” 31 However, history tells a different tale. The 
+video rental sector significantly bolstered the film industry's growth. In both scenarios, innovative 
+technologies, which held promise for copyright owners, faced opposition due to perceived threats 
+they posed to the copyrighted content market. 
+
+Reflecting on these historical precedents, it's evident that the struggle between copyright and 
+innovation  persists  in  the  realm  of  generative  AI.  As  in  the  past,  current  lawsuits  might  see 
+rightsholders leveraging their influence to stymie AI's transformative potential, including its ability 
+to engender fresh modes of expression. Yet, the unparalleled prowess of AI necessitates a renewed 
+focus on safeguarding human creativity. Navigating this balance between stimulating innovation 
+and incentivizing creativity remains a central challenge in copyright and innovation discourse, a 
+debate that spans over two centuries.  
+
+1.2. Creative Market Disruption 
+
+Legal challenges against AI-generated creativity are on the rise due to concerns about its potential 
+upheaval  of  the  creative  industry.  Pioneers  in  AI-generated  music,  like  Tencent  and  Google's 
+MusicLM, are prompting debates over AI potentially replacing human composers, especially in 
+
+26 See Fred von Lohmann, “Fair Use as Innovation Policy”, Berkeley Tech L J 23 (2008): 829 (noting that fair use for 
+private non-transformative uses should function as an ‘innovation policy’ by incentivizing innovators to develop new 
+technologies that enable such copying).  
+27 See e.g., Tarleton Gillespie, Wired Shut: Copyright and the Shape of Digital Technology (MIT Press, 2007). 
+28 See e.g., White-Smith, 1; Amstrad, 159; Aiken, 151; Sony, 417; Fortnightly, 390; Grokster, 913; Napster, 1004. 
+29 See The Authors Guild v Google 804 F3d 202 (2nd Cir 2015).  
+30 See Editions du Seuil et autres/Google Inc. et France (TGI Paris, 18 December 2009). 
+31 Home  Recording  of  Copyrighted  Works:  Hearings  Before  the  Subcomm  on  Courts,  Civil  Liberties,  and  the 
+Administration  of  Justice  of  the  Committee  on  the  Judiciary,  97th  Cong  97  (1982)  (testimony  of  Jack  Valenti), 
+http://cryptomeorg/hrcw-hearhtm. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+fields like video games and films.32 While there's some evidence of AI's role in ideation within 
+architecture  and  design, 33 substantial  proof  of  its  broad-scale  adoption  remains  elusive. 
+Additionally,  while  AI  demonstrates  potential  in  tasks  like  debugging  and  code-writing,  it's 
+uncertain whether tools like ChatGPT and AlphaCode will entirely eclipse human programmers.34 
+Presently,  AI  creativity  tools  often  necessitate  significant  human  involvement  in  prompt 
+engineering, data fine-tuning, and model integration.35 As of today, these tools mainly augment 
+rather  than  replace  creative  professionals,  acting  as  supplementary  aids  rather  than  direct 
+competitors. However, the discourse around AI in creativity reveals a bifurcation. Some view AI 
+as a tool to bolster artistic productivity,36 while others, termed neo-Luddites, resist its integration.37 
+The looming concern isn't that AI will entirely supplant human artistry but that it might provide 
+cost-effective  alternatives,  appealing  to  the  mass  market  and  satisfactory  for  a  majority  of 
+consumers.  Cases  in  point  include  Netflix's  use  of  AI  for  background  art  in  animations38 and 
+platforms  like  Soundraw  and  ShutterStock  offering  vast  AI-generated  music  libraries.39 Rachel 
+Hill, leader of the Association of Illustrators, acknowledges AI's appeal for budget-conscious art 
+directors. 40  Yet,  she  underscores  the  irreplaceable  value  of  human  illustrators,  especially  in 
+conceptual stages. This distinction, however, could wane as AI evolves, potentially reducing the 
+need for human involvement in creative processes.  
+
+Recently,  issues  have  been  raised  by  AI  apps  like  Dall-E,  Stable  Diffusion,  and  Stability  AI 
+generating  outputs  in  the  style  of  famous  artist.  For  example,  a  user  in  the  Stable  Diffusion 
+community, complaining about the scarcity of 2D illustration styles, utilized 32 illustrations from 
+Hollie Mengert’s portfolio, a well-known illustrator and character designer based in Los Angeles, 
+to train Stable Diffusion, replicating her unique style. The outcome was then shared under an open 
+license for public use, with her name being used to identify the generated art style; for instance, 
+
+32 See Abner Li, “Google’s MusicLM is rather good at creating music from text descriptions”, 9to5Google, January 
+28, 2023, https://9to5google.com/2023/01/28/google-musiclm. 
+33 See  e.g.  Ben  Dreith,  “How  AI  software  will  change  architecture  and  design”,  Dezeen,  November  16,  2022, 
+https://www.dezeen.com/2022/11/16/ai-design-architecture-product;  Kevin  Roose,  “A.I.-Generated  Art  Is  Already 
+Transforming  Creative  Work”,  NYTimes,  October  21,  2022,  https://www.nytimes.com/2022/10/21/technology/ai-
+generated-art-jobs-dall-e-2.html.  
+34 Davide Castelvecchi, “Are ChatGPT and AlphaCode going to replace programmers?”, Nature, December 8, 2022, 
+https://www.nature.com/articles/d41586-022-04383-z.  
+35 See Vasili Shynkarenka, “Don’t dismiss GPT-3/Stable Diffusion use cases if they don’t work right away”, Vasili 
+Shynkarenka Blog, December  2, 2022, https://vasilishynkarenka.com/dont-dismiss-ideas-for-gpt-3-stable-diffusion-
+use-cases-if-they-dont-work-right-away.  
+36  See  Will  Knight,  “When  AI  Makes  Art,  Humans  Supply  the  Creative  Spark”,  Wired,  July  13,  2022,  
+https://www.wired.com/story/when-ai-makes-art. 
+37 See  Rich  Johnston,  “Comic  Book  Creators  React  To  AI  Artificial  Intelligence  Art  Explosion”,  Bleeding  Cool, 
+December  6,  2022,  https://bleedingcool.com/comics/comic-book-creators-react-to-ai-artificial-intelligence-art-
+explosion; Matt Growcoot, “Midjourney Founder Admits to Using a ‘Hundred Million’ Images Without Consent”, 
+PetaPixel,  December  21,  2022,  https://petapixel.com/2022/12/21/midjourny-founder-admits-to-using-a-hundred-
+million-images-without-consent. 
+38 See  Benj  Edwards,  “Netflix  stirs  fears  by  using  AI-assisted  background  art  in  short  anime  film”,  ArsTechnica, 
+January  2,  2023,  https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-
+background-art-in-the-dog-and-the-boy.  
+39 See Soundraw, https://soundraw.io; ShutterStock, https://www.shutterstock.com/music/search?artist=amper-music.  
+40  “We  are  Training  AI  Twice  as  Fast  this  Year  as  Last.  IEEE  Spectrum”,  ENGTalks,  June  30,  2022, 
+https://www.enggtalks.com/news/217757/we-re-training-ai-twice-as-fast-this-year-as-last?c=2859.  
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+by prompting “illustration of a princess in the forest, holliemengert artstyle”.41 In Stable Diffusion 
+concept library available on the website Hugging Face alone, there are roughly a thousand models 
+like that trained on Mengert’s work. These range from styles inspired by classic and contemporary 
+Disney  animations  to  those  influenced  by  the  likes  of  Tron:  Legacy  and  Kurzgesagt  videos.42  
+Creating and sharing these models is  cost-effective and easily accessible. While Generative AI 
+platforms may introduce mechanisms to avoid replicating a specific artist or author's style,43 users 
+often discover workarounds to such restrictions. As we will delve into later, it remains a matter of 
+debate whether copyright law can address these uses. This is mainly because such uses could be 
+considered transformative at their core, and the existing idea-expression dichotomy might preclude 
+protection  of  style.  Regardless,  such  developments  are  bound  to  disrupt  the  creative  market, 
+potentially leading to legal grievances from disgruntled creatives.  
+
+In  summation,  Future  AI  advancements  might  elevate  the  standards  for  top-tier  creative  roles, 
+potentially sidelining many and consolidating the revenue stream from low-skilled creativity in 
+the hands of a select few. AI's potential to significantly reshape the creative sectors, particularly 
+in graphic design, music, and copywriting, cannot be overlooked. The rapid and potent evolution 
+of AI underscores that industry disruptions are imminent. The ability of AI algorithms to generate 
+high-quality creative outputs quickly and cost-effectively poses a challenge to human creatives. 
+One key factor that amplifies the potential impact of AI is its exponential growth, both in terms of 
+capabilities and the speed at which it learns. This ‘singular’ nature of AI development implies that 
+disruption in the creative job market is not a matter of if, but when. 
+
+2. CLAIMS: LEARNING, AUTHORING AND INFRINGING  
+
+As we venture further into the age of generative AI, the established paradigms of our Intellectual 
+Property (IP) systems, encompassing copyright, trade secrets, and patent law, face unprecedented 
+challenges. While our current IP frameworks can secure protections for the software underpinning 
+AI  technologies 44 or  computer-assisted  creativity—which  remains  copyrightable  provided  the 
+human involvement is original, 45 they grapple with the delineation of rights concerning the input 
+used by AI and outputs produced by such AI, where minimal “non-expressive” human interaction 
+prompts a machine to conjure its own unique expressions.46 To effectively unpack the evolving 
+legal  landscape  of  AI-driven  creativity,  courts  must  address  three  pivotal  concerns.  Beyond 
+identifying the AI as an author or “A(I)uthor”, we must tackle the issues surrounding the machine 
+as  both  a  “Learner”  and  a  potential  “(A)Infringer”.  These  concerns  delve  into  the  machine's 
+
+41 See Andy Baio, “Invasive Diffusion: How one unwilling illustrator found herself turned into an AI model”, Waxy, 
+November 1, 2022, https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-
+into-an-ai-model.  
+42 ibid.  
+43 See infra fn. 80. 
+44  See  Nathan  Calvin  and  Jade  Leung,  “Who  owns  artificial  intelligence?  A  preliminary  analysis  of  corporate 
+intellectual property strategies and why they matter”, University of Oxford’s Future of Humanity Institute (2020), 
+https://www.fhi.ox.ac.uk/wp-content/uploads/Patents_-FHI-Working-Paper-Final-.pdf. 
+45 See e.g., Robert Denicola, “Ex Machina: Copyright Protection for Computer-Generated Works”, Rutgers University 
+Law  Review  69  (2016):  269-270;  Robert  Clark  and  Shane  Smyth  (1997),  Intellectual  Property  Law  in  Ireland, 
+Butterworths, Dublin; Payer Components South Africa Ltd v Bovic Gaskins [1995] 33 IPR 407.  
+46 A related scenario emerges in the case of works co- or jointly authored, rather than assisted, by human and artificial 
+intelligence. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+capacity to  potentially infringe upon existing  copyrighted works during its learning  process, as 
+well as its ability to produce outputs that might infringe on copyrights. Both issues ultimately hinge 
+on the potential attribution of copyright infringement liabilities to entities that train AI for creative 
+generation or those employing AI tools to either assist their own creative process or to generate 
+creativity independently.  
+
+In this section, we shall embark on a comprehensive exploration of these pressing issues, dissecting 
+the intricate interplay between generative AI and the copyright frameworks, informed by various 
+judicial reviews and interpretations. 
+
+2.1. The Machine Learner  
+
+A fundamental aspect of Machine Learning (ML) and various other AI processes is the necessity 
+for input data that fuels AI learning and development.47 This reliance on data and extensive data 
+processing  is  intrinsic  to  the  essence  of  ML,48 giving  rise  to  significant  questions  concerning 
+ownership and legal protections. On one hand, the issue of data ownership emerges as a crucial 
+consideration. The development of AI and ML systems typically requires the utilization of large 
+datasets  to  enable the continuous refinement of the system's  decision-making  capabilities. This 
+leads to a pressing question: Who holds ownership over the datasets employed to train the system? 
+Furthermore,  should  Intellectual  Property  Rights  (IPR)  be  extended  to  the  intermediate  data 
+generated  by  AI/ML  during  the  training  process?  On  the  other  hand,  and  more  central  to  the 
+pending  lawsuits  concerning  Generative  AI,  a  vital  question  surfaces  regarding  the  potential 
+copyright infringement that could arise through machine learning. These lawsuits arise inter alia 
+from  a  growing  conflict  between  AI  firms  and  content  creators  over  the  use  of  human-created 
+images  as  training  data.  Many  AI  firms  argue  that  scraping  images  from  the  web  for  training 
+purposes is covered under laws like the US fair use doctrine, while rights holders contend that this 
+constitutes  a  copyright  violation.  Our  discussion  will  subsequently  focus  on  unpacking  this 
+complex issue, shedding light on the legal intricacies that surround it. 
+
+The legal framework concerning the intersection of machine learning, data mining, and intellectual 
+property  rights  presents  a  complicated  landscape.49 Specifically,  there's  a  tension  between  the 
+
+47 See e.g., Olivier Gerber, “Artificial Intelligence and Machine Learning - Background Paper”, 50th EPRA Meeting, 
+Athens, 
+https://www.epra.org/attachments/athens-plenary-2-artificial-intelligence-machine-learning-
+2019, 
+background-paper 
+48 See e.g., Andrea Ottolia, Big Data e Innovazione Computazionale (Giappichelli 2017), 163 ff. 
+49 See e.g., Rossana Ducato and Alain Strowel, “Limitations to Text and Data Mining and Consumer Empowerment: 
+Making the Case for a Right to ‘‘Machine Legibility’”, International Review of Intellectual Property and Competition 
+Law 50(3) (2019): 649-684; Christophe Geiger, Giancarlo Frosio and Oleksander Bulayenko, ‘Text and Data Mining: 
+Art.  3  and  4 of  the  Directive  790/2019/EU”  in Los  Derechos  de  autor  en  el  mercado unico  digital  Europeo,  eds. 
+Concepción Sáiz García and Raquel Evangelio Llorca (Tirant lo Banch 2019), 27 ff; Bernt Hugenholtz, “The New 
+Copyright  Directive:  Text  and  Data  Mining 
+(Articles  3  and  4)”,  Kluwer  Copyright  Blog,  2019, 
+http://copyrightblog.kluweriplaw.com/2019/07/24/the-new-copyright-directive-text-and-data-mining-articles-3-and-
+4; Eleonora Rosati, “Copyright as an Obstacle or an Enabler? A European Perspective on Text and Data Mining and 
+Its  Role  in  the  Development  of  AI  Creativity”,  Asia  Pacific  Law  Review,  27  (2019):  198-217;  Andrea  Toth, 
+“Algorithmic copyright enforcement and AI: Issues and potential solutions, through the lens of text and data mining”, 
+Masaryk University Journal of Law and Technology 13(2) (2019): 361-387; Christophe Geiger, Giancarlo Frosio and 
+Oleksander Bulayenko, “Text and Data Mining in the Proposed Copyright Reform: Making the EU Ready for an Age 
+of Big Data?” IIC 49(7) (2018): 814-844; Marco Caspers, and Lucie Guibault, Baseline report of policies and barriers 
+of TDM in Europe (FutureTDM, 2016), https://project.futuretdm.eu/wp-content/uploads/2017/05/FutureTDM_D3.3-
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+lawful utilization of Text-and-Data-Mining (TDM) techniques and intellectual property protection. 
+Machine  learning  techniques,  described  as  algorithms  trained  to  detect  patterns  for  achieving 
+specific goals,50 rely heavily on TDM. TDM, is a method to extract information from vast digital 
+data through automated software tools,51 involving stages like (1) identification of materials, (2) 
+copying  and  pre-processing, 52  (3)  data  extraction,  and  (4)  recombination  to  identify  final 
+patterns.53 The friction between IP protection and TDM arises from the fundamental principle that 
+copyright  protects  creative  form,  not  the  underlying  data  or  information. 54 Essentially,  TDM 
+shouldn't interfere with exclusive IPRs. However, certain activities in TDM may infringe on rights 
+provided by copyright and database protection.  
+
+2.1.1. Tension between Copyright Protection and Machine Learning 
+
+TDM typically necessitates some level of copying protected subject matter, a process that might 
+bring legal challenges, especially in certain jurisdictions such as the European Union, where even 
+the limited copying of an excerpt might be perceived as infringing upon the right of reproduction.55 
+However, a distinction exists when TDM tools are designed in such a way that they involve only 
+minimal  copying,  perhaps  just  a  few  words,  or  crawl  through  data  while  processing  each  item 
+individually.  Such  actions  are  more  defensible,  as  they  steer  clear  of  subject  matters  protected 
+either by copyright or sui generis rights, thereby reducing the risk of legal liability.56 Contrarily, 
+any act of reproduction within TDM activities that results in the creation of a copy of protected 
+work may instigate copyright infringement. Several stages within the TDM process can potentially 
+give rise to legal challenges: 
+
+(1) Pre-Processing Stage: Standardizing materials into machine-readable formats might provoke 
+an infringement on the right of reproduction.57 Further, the uploading of pre-processed material on 
+
+Jean-Paul  Triaille, 
+
+Baseline-Report-of-Policies-and-Barriers-of-TDM-in-Europe.pdf.; 
+Jérôme  De  Meeûs 
+D’argenteuil, and Amélie De Francquen, Study of the Legal Framework of Text and Data Mining (TDM) (European 
+Commission,  2014),  http://ec.europa.eu/internal_market/copyright/docs/studies/1403_study2_en.pdf.  An  essential 
+bibliography including literature treating this question can be found at Giancarlo Frosio, “L’(I)Autore inesistente: una 
+tesi tecno-giuridica contro la tutela dell’opera generata dall’intelligenza artificiale” AIDA 29 (2020): 52-91, 54, fn. 
+13. 
+50 European  Commission,  White  paper  on  Artificial  Intelligence  -  A  European  approach  to  excellence  and  trust, 
+COM(2020) 65, 16. 
+51 See  e.g.,  Jiawei  Han,  Micheline  Kamber,  Jian  Pei,  Data  Mining:  Concept  and  Techniques  (Morgan  Kaufmann, 
+2011). 
+52 In particular, copying encompasses (a) pre-processing materials by turning them into a machine-readable format 
+compatible with the technology to be deployed for the TDM so that structured data can be extracted and (b) possibly, 
+but  not  necessarily,  uploading  the  pre-processed  materials  on  a  platform,  depending  on  the  TDM  technique  to be 
+deployed. 
+53 See  Diane  McDonald  and  Ursulla  Kelly,  “The  Value  and  Benefit  of  Text  Mining  to  UK  Further  and  Higher 
+Education. Digital Infrastructure”, JISC (2012), http://bit.ly/jisc-textm; Triaille et al., Study of the Legal Framework 
+of Text and Data Mining (TDM), 28; Sholom Weiss, Nitin  Indurkhya, and Tong Zhang, Fundamentals of Predictive 
+Text Mining, Texts in Computer Sciences (Springer, 2010), 15. 
+54 See e.g., Bernt Hugenholtz, Auteursrecht op informatie (Kluwer, 1989). 
+55 See CJEU, C-5/08, Infopaq International A/S v. Danske Dagblades Forening, 16 July 2009, ECLI:EU:C:2009:465, 
+paras 54-55. 
+56 See Directive 2019/790/EU of the European Parliament and of the Council of 17 April 2019 on copyright and related 
+rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC, 2019 O.J. L 130, Recital 8 
+57 See Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of 
+certain aspects of copyright and related rights in the information society, 2000 O.J. L 167, Art. 2 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+a platform could  violate this right, although this might  be contingent  upon whether the chosen 
+TDM technique employs specific software for direct data analysis from the source.58 
+
+(2) Pre-Processing for Extraction: In more nuanced circumstances, TDM may also involve various 
+alterations  of  a  database  protected  by  copyright,  encompassing  reproduction,  translation, 
+adaptation, arrangement, and other changes affecting the original selection and arrangement of the 
+database's  content. 59 For  example,  pre-processing  for  extraction  might  necessitate  cleansing  a 
+database  of  irrelevant  portions  and  data  for  analysis,  which  could  violate  both  the  right  of 
+reproduction and the right to make adaptations and arrangements.60 
+
+(3) Mining Stage: This crucial part of the TDM process, where data is finally extracted, may also 
+infringe the right of reproduction, depending upon the character of the extraction and the mining 
+software deployed.61  
+
+(4)  Sui  Generis  Database  Rights:  TDM  might  further  infringe  upon  these  rights,  especially 
+regarding  the  extraction  (and,  to  a  lesser  degree,  the  re-utilization)  of  substantial  parts  of  a 
+database. Here, the violation could occur even without the reproduction of original materials, as 
+the extraction itself could infringe upon the exclusive rights bestowed upon the database owner.62 
+In emphasizing the legal intricacies involved, the Court of Justice of the European Union (CJEU) 
+has elucidated that the act of transferring data from one medium to another and its integration into 
+a  new  medium  is  deemed  an  act  of  extraction,  further  complicating  the  landscape  for  TDM 
+activities.63  
+
+2.1.2. The Legality of Machine Learning: Exceptions, Limitations, and Fair Uses 
+
+The legality TDM and its potential infringement on intellectual property laws hinge upon varied 
+national  approaches,  exceptions,  limitations,  and  interpretations  of  fair  use  in  copyright  law.64 
+Exceptions, limitations, and fair uses within copyright law permit the use of copyrighted works 
+without a license from the owner, recognizing that such usage may fulfill important public interests 
+and fundamental rights, such as freedom of expression.65 In the context of TDM, applying these 
+
+58 See Triaille et al., Study of the Legal Framework of Text and Data Mining (TDM), 28. 
+59 See Directive 1996/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection 
+of  databases,  1996  O.J.  L  77,  Art.  5(a-b).  See  also  See  also  Irini  Stamatoudi,  “Text  and  Data  Mining”,  in  New 
+Developments in EU and International Copyright Law, ed. Irini Stamatoudi (Kluwer Law International, 2016), 264-
+265 
+60 See Directive 1996/9/EC, Art. 5(a-b). See also Stamatoudi, “Text and Data Mining”, 262; Triaille et al., Study of 
+the Legal Framework of Text and Data Mining (TDM), 34. 
+61 See Triaille et al., Study of the Legal Framework of Text and Data Mining (TDM), 31. 
+62 Directive 1996/9/EC, Art. 7. 
+63 Directive 1996/9/EC, Arts. 2(a), 7(1), and 7(2)(b); CJEU, C-203/02, The British Horseracing Board Ltd and Others 
+v. William Hill Organization Ltd, 9 November 2004, ECLI:EU:C:2004:695; Stamatoudi, “Text and Data Mining”, 
+267. 
+64 See Sean Fiil-Flynn et al., “Legal reform to enhance global text and data mining research: Outdated copyright laws 
+951-953. 
+research”, 
+around 
+https://www.science.org/doi/10.1126/science.add6124.   
+65 See Christophe Geiger, “Copyright’s Fundamental Rights Dimension at EU Level”, in Research Handbook on the 
+Future of EU Copyright, ed.  Estelle Derclaye (Edward Elgar, 2009), 27. 
+
+378(6623) 
+
+Science, 
+
+(2022): 
+
+hinder 
+
+world 
+
+the 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+principles  can  be  seen  as  promoting  public  interests,  especially  in  the  domains  of  scientific 
+advancement and economic development.66 
+
+In  Europe,  several  exceptions  have  been  considered  to  shield  TDM  from  intellectual  property 
+infringement. Notable exceptions include temporary acts of reproduction, research, private use, 
+normal use of a database, and the extraction of insubstantial parts of a database.67 Despite these 
+exceptions,  legal  uncertainties  have  persisted,  leading  to  the  introduction  of  a  specific  TDM 
+exception in the Copyright in the Digital Single Market Directive of 2019.68 Unfortunately, this 
+exception presents limitations; it can be opted-out by right holders or utilized without restrictions 
+solely  by  public  research  institutions  for  research  purposes.69 This  arrangement  disadvantages 
+private  AI  industries,  restricting  their  ability  to  freely  employ  TDM  for  machine  learning,  a 
+restriction echoed across many civil law jurisdictions.70 
+
+Conversely, countries following common law traditions, such as the US, Canada, UK, Australia, 
+and New Zealand, have leveraged opening clauses or fair use models to legitimize TDM.71 In the 
+US, for example, TDM's application for training foundational models seems to be protected under 
+the fair use doctrine,72  albeit with some narrow limitations.73 Cases like Google Books and Perfect 
+10 have strengthened the understanding that using TDM to create search indices or generate data 
+insights  constitutes  transformative  fair  use,  thus  supporting  lawful  TDM  practices  under  US 
+copyright  law.74 Moreover,  landmark  rulings,  such  as  Baker  v.  Selden  and  subsequent  reverse 
+engineering cases,75  further cement the legal position that TDM is likely permissible. The decision 
+in Baker v. Selden emphasized that copyright protection is confined to specific expressions and 
+not underlying ideas. Thus, protected content can be utilized and copied if it "must necessarily be 
+used as an incident to" the use of unprotected materials.76 This ruling can be applied to TDM for 
+training Generative AI models, where the focus is on analysis and extraction from large datasets 
+without replicating the original copyrighted expression. Additionally, this legal precedent implies 
+that the lawful reproduction of protected materials may be possible when mining text and data to 
+train Generative AI models, which themselves remain unprotected. However, courts might also 
+consider  that  some  authors,  argue  that  fair  use  may  not  protect  expressive  machine  learning 
+
+66 See Joao Pedro Quintais, “Rethinking Normal Exploitation: Enabling Online Limitations in EU Copyright Law”, 
+AMI 6 (2017): 197-205. 
+67 Geiger, Frosio, and Bulayenko, ‘Text and Data Mining: Art. 3 and 4 of the Directive 790/2019/EU”,31-37 
+68 Directive 2019/790/EU, Art. 3 and 4. 
+69 ibid 
+70 See Fiil-Flynn et al., “Legal reform to enhance global text and data mining research”. 
+71 ibid. 
+72 See eg Mark Lemley and Bryan Casey, “Fair Learning”, Texas L Rev 99(4) (2021): 743, 743-785.  
+73 See Henderson et al, “Foundation  Models and Fair Use”, preprint 1 (2023), https://arxiv.org/pdf/2303.15715.pdf 
+(noting that ‘copyrighted content may be used to build foundation models without incurring liability due to the fair 
+use doctrine. However, there is a caveat: If the model produces output that is similar to copyrighted data, particularly 
+in scenarios that affect the market of that data, fair use may no longer apply to the output of the model’) (emphasis 
+added). 
+74  See  The  Authors  Guild,  202;  The  Authors  Guild  v.  HathiTrust,  755  F.3d  87  (2nd  Cir.  2014);  Perfect  10  v 
+Amazon.com, 1146; Perfect 10 v Google, 416 F. Supp. 2d 828 (C.D. Cal. 2006). 
+75 See e.g., Sega Enterprises Ltd v Accolade, Inc, 977 F. 2d 1510 (9th Cir. 1992); Sony Computer Entertainment v 
+Connectix Corp, 203 F. 3d 496 (9th Cir. 2000). 
+76 Baker v. Selden, 101 U.S. 99, 104 (1879). 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+applications.77 In  this  context,  I  would  propose  that  Sobel's  distinction  between  non-expressive 
+and expressive fair use doesn't compellingly align with the reality of Generative AI. The argument 
+here  pivots  on  the  way  expressions  are  deployed  as  input  data  for  training  machine  learning 
+models. When these expressions are processed for the purpose of extracting data, the foundational 
+models at play do not interact with the protected expressions in any creative or expressive manner. 
+Instead, the models utilize this content in a functionally analytic or non-expressive manner, serving 
+as building blocks to construct a new, inventive machine that possesses the capability to create an 
+endless array of original expressions. The apparent confusion in Sobel's argument likely originates 
+from an underlying assumption that the use of input materials in crafting an expressive machine 
+necessarily  imbues  that  usage  with  an  expressive  character.  Yet,  this  reasoning  overlooks  the 
+subtlety  that  the  utilization  remains  inherently  non-expressive,  corresponding  more  closely  to 
+precedents such as the Google Books case. In those instances, it's not the act of using the content 
+that is expressive, but rather the novel machine or tool itself that manifests expressiveness. This 
+distinction underscores the transformative nature of the process, wherein existing expressions are 
+not  simply  repurposed  but  fundamentally  reshaped,  contributing  to  the  creation  of  something 
+entirely new. The challenge for courts, then, is to accurately discern the nuances of this interaction. 
+
+2.1.3. Potential policy and judicial approaches to Machine Learning 
+
+In sum, the complex relationship between TDM techniques and copyright law and the legality of 
+data  scraping  for  training  Generative  AI  presents  a  multifaceted  and  jurisdiction-dependent 
+challenge for courts. First, courts are faced with the task of navigating an intricate legal terrain 
+where  they  must  balance  technological  advancements  with  the  protection  of  original  creations. 
+This task is further complicated by the rapid evolution of technology and the corresponding lag in 
+legal  adaptation.  Second,  the  regulatory  landscape's  diversity  in  governing  TDM  and  machine 
+learning creates an unequal playing field, particularly for private AI industries operating within 
+jurisdictions with more restrictive laws. While these restrictive approaches undoubtedly fortify the 
+rights  of  creators  and  shield  their  market  share  from  encroachment  by  AI  technologies,  they 
+simultaneously impose limitations on innovation. Third, this dichotomy is starkly evident in the 
+European context, where uncertainty surrounding the permissibility of TDM and AI training has 
+significantly impeded the competitive edge of European AI innovators. The risk of legal liabilities 
+within the EU, coupled with the ambiguity in interpreting and applying copyright laws to emerging 
+technologies,  has  created  a  stifling  environment.  This  state  of  inaction  inadvertently  tilts  the 
+balance in favor of jurisdictions like the US, where landmark cases and the application of the fair 
+use doctrine create a more favorable ecosystem for innovation.  
+
+In  addressing  these  challenges,  courts  must  be  guided  by  coherent  policy  considerations  that 
+recognize the multifaceted nature of the problem. Among these considerations are: encouraging 
+innovation with policymaking geared towards fostering an environment that stimulates creativity 
+and  innovation  without  eroding  essential  copyright  protections;  international  consistency  with 
+efforts made to create some semblance of international alignment to avoid jurisdictional disparities 
+that  may  hinder  global  technological  advancement;  and  ethical  considerations  concerning  the 
+impact of AI technologies on societal values, cultural heritage, and individual creativity must be 
+part of the judicial deliberation.78  
+
+77 See Benjamin Sobel, “Artificial intelligence’s fair use crisis”, Colum. JL & Arts 41 (2017): 45, 45 (emphasis added). 
+78 See Joao Pedro Quintais and Nick Diakopoulos, “A Primer and FAQ on Copyright Law and Generative AI for News 
+Media”,  Medium,  April  28,  2023,  https://generative-ai-newsroom.com/a-primer-and-faq-on-copyright-law-and-
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+As  courts  grapple  with  these  challenges,  certain  legal  precedents  and  emerging  technologies 
+provide  insight  into  how  these  issues  might  be  addressed.  The  Field  v.  Google  decision,  for 
+instance, highlights the importance of adherence to technical standards.79 In this case, the fact that 
+Field had not employed the “robots.txt” exclusion standard to prevent Google from web crawling 
+his site weighed against his copyright claim of infringement by copying his content. This suggests 
+that  generative  AI  system  developers  and  deployers  might  be  well-advised  to  adopt  technical 
+mitigation strategies to support their fair use claims. Such strategies could align with the broader 
+aim of fostering an environment  that stimulates  creativity and innovation without undermining 
+essential copyright protections.  
+
+Meanwhile,  innovative  self-help  solutions  are  emerging  as  a  means  of  shielding  artists  from 
+potential infringement by AI art generators. An example of this is Glaze, a technology developed 
+at the University of Chicago, crafted to protect images from AI art generators that might replicate 
+an artist's unique style.80 Artists can employ Glaze to attach 'style cloaks' to their works before 
+publishing them online. These almost imperceptible changes are intended to mislead generative 
+AI models that might attempt to mimic the artist's style, effectively causing the AI to associate the 
+artwork  with  something  unrelated.  To  assess  the  efficiency  and  applicability  of  the  'glazing' 
+process, the developers of Glaze have worked with more than 1,100 professional artists, testing it 
+on various  works.  Among them is  Karla Ortiz, one of the plaintiffs in  a  recent lawsuit against 
+Stability AI, Midjourney, and DeviantArt. This method, however, may face challenges from future 
+neural networks capable of recognizing and removing the 'glaze,' much like current technologies 
+can detect and erase watermarks. Courts might conclude that developing AI that circumvents self-
+help solutions might weigh in favour of a copyright infringement claim.  
+
+Finally, there are legislative initiatives aimed at increasing transparency in the use of copyrighted 
+material  within  Generative  AI  processes.  Specifically,  the  AI  Act  proposed  by  the  European 
+Commission  mandates  that  providers  of  Generative  AI  disclose  a  detailed  summary  of  how 
+copyrighted training data is utilized.81 It's important to note that this disclosure requirement does 
+not absolve the AI providers from potential legal liabilities. The proposed legislation explicitly 
+states that this obligation exists “without prejudice to Union or national or Union legislation on 
+copyright”.82 Nevertheless, courts may take into account whether this transparency obligation has 
+been fulfilled when determining the final outcome of potential infringement cases. Additionally, 
+such disclosure obligations could pave the way for creators to exercise an opt-out option, thereby 
+establishing a market for their works to be used in training generative AI models.83 Companies 
+like Stability AI have already started to incorporate opt-out provisions, allowing content creators 
+and artists to exclude their works from the next version of their product, Stable Diffusion.84 In a 
+
+generative-ai-for-news-media-f1349f514883  (listing  a  number  of  ethical  and  responsible  uses  that  should  be 
+nonetheless warranted even if generative AI models are permitted under copyright law). 
+79 See Field v. Google, Inc., 412 F. Supp. 2d 1106 (D. Nev. 2006). 
+80 See Shawn Shan et al, “Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models”, arXiv:2302.04222 
+[cs.CR] (2023), https://arxiv.org/abs/2302.04222. 
+81 See AI Act, art 28 b 4 c). 
+82 ibid. 
+83 See Quintais and Diakopoulos, “A Primer and FAQ on Copyright Law and Generative AI for News Media”. 
+84 See e.g., Benj Edwards, “Stability AI plans to let artists opt out of Stable Diffusion 3 image training”, ArsTechnica, 
+December 12, 2022, https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-
+of-stable-diffusion-3-image-training.  
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+recent public statement, the CEO of Stability AI asserted that the training datasets they use are 
+“ethically, morally, and legally sourced and used”, while acknowledging dissenting opinions by 
+adding, “[s]ome folks disagree so we are doing opt out and alternate datasets/models that are fully 
+cc”.85 Courts may consider these opt-out mechanisms in their legal reasoning, possibly introducing 
+the concept of implied licenses to adjudicate on infringement cases. As such, once these opt-out 
+mechanisms gain widespread acceptance, they could potentially set a legal standard that influences 
+judicial outcomes. 
+
+2.2. The A(I)uthor 
+
+The inquiry into the A(I)uthor, or the concept of a machine as an author, sets forth the pressing 
+question of whether AI-generated creativity can be sheltered under the existing fabric of copyright 
+law.  Delving  into  this  issue  necessitates  an  examination  of  two  central  prerequisites  for  the 
+copyright protection of creative works: authorship and originality.86 As mentioned earlier, current 
+intellectual property regimes, including copyright law, trade secrets, and patent law, already offer 
+protections to the foundational software underlying AI technology. However, a distinct challenge 
+emerges  when  considering  the  actual  creative  output  generated  by  AI,  for  the  legal  safeguards 
+afforded  to  the  software  do  not  readily  translate  to  this  innovative  domain.  A  report  from  the 
+European  Commission  candidly  illustrates  the  dilemma,  observing  that  the  'protection  of  AI-
+generated  works  [...]  seems  to  be  [...]  problematic'  within  the  existing  legal  framework.87 This 
+complexity arises, in part, from the 'humanist approach' ingrained in copyright law, leading to a 
+contentious debate over whether AI-created works truly merit copyright protection at all.88 In the 
+sections  that  follow,  we  will  delve  deeper  into  the  complex  interplay  between  the  notions  of 
+authorship and originality as they relate to creativity generated by artificial intelligence. We will 
+explore why these concepts, as currently understood, may pose obstacles to extending copyright 
+protections to AI-generated works.89 
+
+2.2.1. Authorship 
+
+The exploration into the copyright protectability of AI-generated creativity must first address a 
+fundamental  question:  does the concept  of an  author, according to  traditional copyright norms, 
+
+85
+
+ See 
+
+Emad 
+
+Mostaque 
+
+(@EMostaque), 
+
+Twitter, 
+
+January 
+
+15, 
+
+2023, 
+
+https://twitter.com/EMostaque/status/1614437223323111425.  
+86 Alongside the matters of authorship and originality, there exists a tangential but significant question concerning the 
+legal personality of machines generating work. This complex issue, though closely related, falls outside the scope of 
+our discussions in this chapter. See e.g., Frosio, “Four Theories”, 159-161. 
+87 Massimo Craglia et al., Artificial Intelligence: A European Perspective (Joint Research Centre, Publications Office 
+of the European Union, 2018), 67, https://publications.jrc.ec.europa.eu/repository/bitstream/JRC113826/ai-flagship-
+report-online.pdf. 
+88 ibid 68. 
+89 Actually, mindful of this legal framework, Dall-E and other Generative AI programs do not claim copyright of the 
+works generated by users via their platforms and grant users ‘full usage rights to commercialize the images they create 
+[with DALL·E], including the right to reprint, sell, and merchandise’ See e.g. ‘New OpenAI Art Program Does not 
+Claim Copyright for AI”, Mind Matters, July 22, 2022, https://mindmatters.ai/2022/07/new-openai-art-program-does-
+not-claim-copyright-for-ai;  Sarang  Sheth,  “Who  Owns  AI-Generated  Content?  Understanding  Ownership, 
+Copyrighting,  And  How  The  Law 
+Interprets  AI-Generated  Art”,  Yanko  Design,  May  27,  2023, 
+https://www.yankodesign.com/2023/05/27/who-owns-ai-generated-content-understanding-ownership-copyrighting-
+and-how-the-law-interprets-ai-generated-art 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+inherently necessitate a human creator? In other words, can an AI be recognized as an author within 
+the legal frameworks that govern copyright?  
+
+2.2.1.1. The International Perspective 
+
+While international treaties remain largely silent on providing a concrete definition of an author, 
+there are subtle cues within the text of the Berne Convention that may effectively bar AI from 
+being included within the traditional understanding of an author. A couple of key points elucidate 
+this contention. Firstly, the term of protection in copyright law, being intricately tied to the life of 
+the  author,  becomes  an  incompatible  concept  when  attempting  to  apply  it  to  machines.90 How 
+could  one  reconcile  the  finite  lifespan  of  a  human  with  the  indefinite  existence  of  a  machine? 
+Secondly, the references made to the nationality or residence of the author within legal documents 
+further imply a human-centric understanding.91 This framework seems inherently skewed towards 
+human agents, suggesting a deliberate exclusion of non-human entities from the legal definition of 
+authorship. Cumulatively, these elements give rise to a compelling argument. As has been stated, 
+the  “humanist  cast”  of  Berne,  coupled  with  its  underlying  deference  to  personality  theories, 
+robustly  supports  the  “human-centered  notion  of  authorship  presently  enshrined  in  the  Berne 
+Convention”.92 This interpretation, by its very essence, would exclude non-human authorship—
+including that of AI—from the scope of Berne's protections. 
+
+2.2.1.2. The EU Perspective 
+
+In exploring the concept of a machine as an author within the European Union, the EU's stance 
+seems to align with an anthropocentric view, where authorship is firmly rooted in human creation, 
+even when technical aids are employed.93 While EU statutory law doesn't provide a cross-cutting 
+definition  of  authorship,  significant  directives  and  legal  insights  underscore  the  human-centric 
+approach. Both Article 2(1) of the Software Directive and Article 4(1) of the Database Directive 
+define an author as a natural person, a group of persons, or a legal person, reinforcing the human 
+element in authorship.94 The preparatory works (travaux préparatoires) for these directives further 
+
+90 Berne Convention for the Protection of Literary and Artistic Works, Art. 7  
+91 ibid, Art. 3 
+92 See Jane Ginsburg, “People Not Machines: Authorship and What It Means in the Berne Convention”, Int’l Rev. of 
+Intell. Prop. and Comp. L. 49 (2018): 131, 134-135; Sam Ricketson, “People or machines? The Berne Convention 
+and the changing concept of authorship”, Columbia VLA Journal of Law & the Arts 16 (1992): 1, 34. See also Tanya 
+Aplin  and  Giulia  Pasqualetto,  “Artificial  Intelligence  and  Copyright  Protection”  in  Regulating  Industrial  Internet 
+Through IPR, Data Protection and Competition Law, eds. Rosa Maria Ballardini, Petri Kuoppamäki and Olli Pitkänen, 
+(Kluwer Law International, 2019), §5.04. 
+93 See e.g., Bernt Hugenholtz and Joao Pedro Quintais, “Copyright and Artificial Creation: Does EU Copyright Law 
+Protect AI-Assisted Output?” IIC - International Review of Intellectual Property and Competition Law 52 (2021): 
+1190 (mentioning that “although EU copyright law nowhere expressly states that copyright requires a human creator, 
+its ‘anthropocentric’ focus (on human authorship) is self- evident in many aspects of the law”). See also e.g., Frosio, 
+“Four Theories”, 162-163; Jean-Marc Deltorn and Franck Macrez, “Authorship in the Age of Machine Learning and 
+Artificial 
+22-23, 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261329;  Jean-Marc  Deltorn,  “Deep  Creations:  Intellectual 
+8, 
+in 
+Property 
+https://www.frontiersin.org/articles/10.3389/fdigh.2017.00003/full. 
+94 See Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on the legal protection 
+of computer programs, O.J. L111/16; Directive 96/9/EC. 
+
+Intelligence”, 
+
+Automata”, 
+
+Humanities 
+
+Frontiers 
+
+Research 
+
+2018-10 
+
+(2018): 
+
+(2017): 
+
+Digital 
+
+CEIPI 
+
+Paper 
+
+and 
+
+No 
+
+the 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+emphasize this human-centered notion, referring explicitly to “the human author who creates the 
+work” and affirming that the natural person retains the unalienable rights to claim paternity of their 
+work.95 The original proposal for the Software Directive stated that despite the decreasing human 
+input in machine-generated programs, a human “author” must always be present and possess the 
+right to claim “authorship”.96 This viewpoint was reiterated in the Court of Justice of the European 
+Union  (CJEU)  Painer  case,  where  Advocate  General  Trstenjak  stressed  that  protection  applies 
+solely to human creations, including those employing technical aids such as a camera. 97 
+
+National legislation within the EU further corroborates this perspective. For instance, Article 
+L.111-1  of  the  French  Intellectual  Property  Code  necessitates  that  a  copyrightable  work  be  a 
+"creation of the mind";98 Article 5 of the Spanish Copyright Act plainly defines the author as the 
+natural  person  who  creates  the  work; 99   and  Article  11  of  the  German  Copyright  Act  aligns 
+authorship with a personality approach, safeguarding “the author in his intellectual and personal 
+relationships  to  the  work”. 100 Moreover,  EU  law  and  several  national  legislations  bolster  the 
+human-centric perspective by instituting a presumption of authorship for the person named in the 
+work, barring evidence to the contrary. 101 
+
+In sum, the EU's legal framework and jurisprudence largely support an anthropocentric vision 
+of authorship, excluding non-human creations such as those generated by AI. This stance resonates 
+through various legal instruments and cases, illustrating a consistent approach across the EU that 
+appears  to  preclude  the  possibility  of  recognizing  a  machine  as  an  author  under  the  current 
+copyright regime. 
+
+2.2.1.3. The US Perspective 
+
+The United States legal framework provides scant accommodation for the notion of machine or 
+non-human authorship  in  the context of copyright law. While the U.S. Copyright Act  does not 
+explicitly define “author”, some legal analysts have suggested that the text of the law does not 
+necessarily  restrict  authorship  to  human  beings. 102    However,  both  supplementary  textual 
+
+95 See Ana Ramalho, “Will Robots Rule the (Artistic) World? A Proposed Model for the Legal Status of Creations by 
+Artificial Intelligence Systems”, 21 J. of Internet L. (2017): 12, 17-18. 
+96 See European Commission, “Explanatory Memorandum to the proposal for a Software Directive” COM (88) 816 
+final, 21. 
+97 CJEU, C-145/10, Eva-Maria Painer v. Standard VerlagsGmbH [2011] ECR I-12533, Opinion of the AG Trstenjak 
+2011, para 121 
+98  Loi 92-597 du 1er juillet 1992, Code de la propriété intellectuelle, L111-1 (France) (hereafter ‘French IP Code’). 
+99   Real  Decreto  Legislativo  (RDL)  1/1996,  de  12 de  abril, por  el que  se  aprueba  el  texto  refundido  de  la  Ley  de 
+Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la  materia, 
+BOE-A-1996-8930, art 5 (Spain) (hereafter ‘Spanish IP Law). 
+100  G. v. 09.09.1965, Gesetz über Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz – UrhG), art 7 and 
+11 (Germany). 
+101 Directive  2004/48/EC  of  the  European  Parliament  and  of the  Council  of  29  April  2004  on  the  enforcement  of 
+intellectual property rights, O.J. L195/16, Art. 5 
+102 See  Denicola,  “Ex  Machina”,  275-283;  Annemarie  Bridy,  “Coding  Creativity:  Copyright  and  the  Artificially 
+Intelligent Author”, Stanford Technology L Rev 5 (2012): 1, ¶49; Arthur Miller, “Copyright Protection for Computer 
+Programs,  Databases,  and  Computer-Generated  Works:  Is  Anything  New  Since  CONTU?”  Harvard  L.  Rev.  106 
+(1993):  977,  1042-1072;  Pamela  Samuelson,  “Allocating  Ownership  Rights  in  Computer-Generated  Works” 
+University of Pittsburgh L. Rev. 47(4) (1986): 1185, 1200-1205. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+references within the statute and a body of case law predominantly indicate that only humans can 
+be  authors  under  the  current  law.  Specifically,  Section  101  of  the  Copyright  Act  characterizes 
+anonymous  works  as  those  “where  no  natural  person  is  identified  as  an  author”, 103 implicitly 
+leaning towards a human-centric definition of authorship. This aligns with a longstanding legal 
+understanding, backed by U.S. courts, that copyright, as conceived constitutionally, pertains solely 
+to human authors.104  
+
+The  U.S.  Supreme  Court  has  consistently  reinforced  this  viewpoint  by  plainly  stating,  for 
+instance, that “[a]s a general rule, the author is […] the person who translates an idea into a fixed, 
+tangible  expression  entitled  to  copyright  protection”.105 In  Feist  v.  Rural,  the  court  extensively 
+examined the concepts of authorship and originality, linking them to intrinsically human qualities 
+like “creative spark” and “intellectual production”.106 Earlier judicial decisions have supported this 
+human-exclusive  approach  to  copyright  as  well,  emphasizing  that  it  protects  “the  fruits  of 
+intellectual labor” stemming from “the creative powers of the mind”,107 and that copyright law is 
+limited to “original intellectual conceptions of the author”.108  
+
+the case of Naruto v. Slater questioned whether a monkey could hold copyright over selfies it 
+had taken. The District  Court dismissed the case, stating  that nonhuman animals  lack statutory 
+standing under the Copyright Act. Even though the case was settled, the Court of Appeals upheld 
+the lower court's decision, arguing that the language used in the Copyright Act implies authorship 
+is a human prerogative. 
+
+Further solidifying this position, Naruto v. Slater served as a practical test of these principles. 
+In  this  case,  a  monkey  named  Naruto  took  selfies,  which  were  subsequently  published  by 
+photographer David Slater in a book by Blurb Inc., attributing copyright ownership to Slater and 
+Wildlife Personalities Ltd.. In 2015, People for the Ethical Treatment of Animals (PETA) filed a 
+lawsuit claiming copyright infringement on Naruto's behalf. This case presented an opportunity 
+for the court to examine if a non-human animal, in this case Naruto, could hold a copyright. The 
+District  Court  dismissed  the  case,  stating  that  non-human  animals  lack  the  statutory  standing 
+required under the Copyright Act.109   The court  further stated that  if people acting on  Naruto's 
+behalf wanted to argue for animal copyright, they should take the issue up with Congress, not the 
+federal  judiciary. 110 The  decision  was  later  appealed,  and  even  though  the  parties  reached  a 
+settlement, the Court of Appeals chose not to dismiss the case, instead upholding the lower court's 
+ruling. The Appeals Court reasoned that the language of the Copyright Act, specifically words like 
+
+103 17 U.S.C. § 101. 
+104 See Atilla Kasap, “Copyright and Creative Artificial Intelligence (AI) Systems: A Twenty-First Century Approach 
+to Authorship of AI-Generated Works in the United States”, Wake Forest Intell. Prop. L. J. 19(4) (2019): 335, 358; 
+Ralph Clifford,  “Intellectual Property in the Era of the Creative  Computer Program: Will the True Creator Please 
+Stand up”, Tulane L. Rev. 71 (1996): 1675, 1682-1686; Timothy Butler, “Can a computer be an author? Copyright 
+aspects of artificial intelligence”, (Comm/Ent), A J. of Communications and Entertainment L. 4(4) (1981): 707, 733-
+734; Karl Milde, “Can a Computer Be an “Author” or an “Inventor”?”, J. of the Patent Office Soc’y 51 (1969): 378, 
+391-392. 
+105 Community for Creative Non-Violence v. Reid (1989) 490 U.S. 730, 737. 
+106 Feist Publications v. Rural Telephone Service (1990) 499 U.S. 340, 345, 347. 
+107 Trade-Mark Cases (1879) 100 U.S. 82, 94. 
+108 Burrow-Giles Lithographic Co. v. Sarony (1884) 111 U.S. 53, 58. 
+109 Naruto v. David Slater 15-cv-04324-WHO (2016) 
+110 ibid.  
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+"children,"  "grandchildren,"  "legitimate,"  "widow,"  and  "widower,"  implies  that  copyright 
+protections do not extend to entities that neither marry nor have legally recognized heirs.111  
+
+ The implications of this ruling can logically be extended to include  any non-human and AI-
+generated creative works. In this regard, adding administrative weight to this judicial view, the 
+Third Edition of the Compendium of U.S. Copyright Office Practices has explicitly excluded non-
+human  authorship. 112  The  guidance,  though  non-binding,  states  that  copyright  registration  is 
+limited to works created by human beings, reaffirming previous court rulings. More specifically, 
+under  Section  306,  ‘The  Human  Authorship  Requirement’  limits  registration  to  ‘original 
+intellectual conceptions of the author’ created by a human being. Section 313.2 of the compendium 
+clarifies that works created by nature, animals, machines, or through mechanical processes without 
+human intervention are not subject to copyright protection. 
+
+In at  least  two instances already, the US  Copyright Office has  rejected registration of comic 
+books apparently generated via AI, as in the case of Zarya of the Dawn created by Kris Kashtanova 
+via Midjourney and Stephen Thaler’s AI-generated painting, “A Recent Entrance to Paradise”.113In 
+the  language  used  in  the  letter  regarding  “Zarya  of  the  Dawn”,  the  U.S.  Copyright  Office  has 
+clarified his position in more detail. The images were generated by the AI system Midjourney, 
+while the arrangement of images, selection, and accompanying text were created by Kashtanova. 
+The Copyright Office granted copyright protection for the text and the compilation, but not for the 
+AI-generated images. First, the Office emphasises human creativity, as seen in the references to 
+the  Urantia  court  case,  which  established  that  copyright  laws  are  intended  to  protect  creations 
+involving human creativity.114 The letter states that the images generated by Midjourney are not 
+original works of authorship protected by copyright, as they are produced by a machine without 
+any creative input or intervention from a human author.115 Second, the letter also highlights the 
+issue of control and the difference between AI-generated works and other computer-based tools 
+such as Adobe Photoshop, which artists control and guide to create their desired images. It argues 
+that users of Midjourney do not have comparable control over the initial image generated, or any 
+final image.116 Instead, “rather than a tool that Ms. Kashtanova controlled and guided to reach her 
+desired image, Midjourney generates images in an unpredictable way”.117 As a result, the letter 
+concludes that users of Midjourney are not considered “authors” for copyright purposes. Finally, 
+the analogy to a commissioned work of art in the letter further supports the Copyright Office's 
+
+111 Naruto v. David Slater, F.3d 418, 426 (9th Cir, 2018). 
+112 U.S.  Copyright  Office,  ‘Compendium  of  U.S.  Copyright  Office  Practices’  (3rd  edn,  U.S.  Copyright  Office), 
+https://www.copyright.gov/comp3/comp-index.html. 
+113 See U. S. Copyright Office, Letter to Mr. Van Lindberg re  Zarya of the Dawn (Registration # VAu001480196), 
+February  21,  2023,  https://drive.google.com/file/d/1EK7jKVqRz_GP0kJPzOZY_HqKW0n2ML6c/view;  U.S. 
+Copyright Office, Letter to Ryan Abbott Re “Second Request for Reconsideration for Refusal to Register a Recent 
+Entrance  to  Paradise”,  February  14,  2022,  https://www.copyright.gov/rulings-filings/review-board/docs/a-recent-
+entrance-to-paradise.pdf.  
+114 See  Urantia  Found.  v.  Kristen  Maaherra,  114  F.3d  955,  957–59  (9th  Cir.  1997)  (holding  that  “some  element 
+of human  creativity must  have  occurred  in order  for  the  Book  to  be  copyrightable”  because  “it  is  not creations of 
+divine beings that the copyright laws were intended to protect”) (emphasis added). 
+115 See U. S. Copyright Office, Letter to Mr. Van Lindberg,  
+116 ibid., 9. 
+117 ibid. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+position.118 It argues that if an individual commissioned a visual artist to create an image based on 
+certain  guidelines,  the  individual  would  not  be  considered  the  author  of  that  image,  unless  it 
+qualified  as  a  work  made  for  hire.  The  author  would  be  the  visual  artist  who  received  those 
+instructions  and determined how to  express  them. In  a new  “Copyright  Registration Guidance: 
+Works  Containing  Material  Generated  by  Artificial  Intelligence”,  the  U.S.  Copyright  Office 
+crystalizes further the position of the Kashtanova letter by clarifying the copyright status of human 
+arrangement and compilation of AI-generated creativity: 
+
+A human may select or arrange AI-generated material in a sufficiently creative way that “the 
+resulting  work  as  a  whole  constitutes  an  original  work  of  authorship.”  Or  an  artist  may 
+modify  material  originally  generated  by  AI  technology  to  such  a  degree  that  the 
+modifications meet the standard for copyright protection. In these cases, copyright will only 
+protect the human-authored aspects of the work, which are independent of and do not affect 
+the copyright status of the AI-generated material itself.119 
+
+On  August  18,  2023,  the  U.S.  District  Court  for  the  District  of  Columbia,  upheld  in  Thaler  v. 
+Perlmutter the U.S. Copyright Office's stance that works created entirely by AI are not eligible for 
+copyright  protection. 120  The  case  involved  AI  scientist  Stephen  Thaler,  who  had  repeatedly 
+attempted to register a visual art piece titled “A Recent Entrance to Paradise” produced by an AI 
+system  he  created,  known  as  the  “Creativity  Machine”.  Thaler  argued  that  he  should  own  the 
+copyright to the artwork under various legal theories, including the work-for-hire doctrine.121 He 
+also  challenged  the  Copyright  Office's  “human  authorship”  requirement,  advocating  for  AI 
+systems to be recognized as authors when traditional authorship criteria are met, with copyright 
+ownership  then  transferring  to  the  AI's  owner.122 However,  the  court  sided  with  the  Copyright 
+Office, stressing that “human authorship is a bedrock requirement of copyright”.123 The judgment 
+leaves open questions about the extent of human involvement required for copyright protection, 
+suggesting that future cases may further clarify this issue as AI technology and creative practices 
+continue to evolve. 
+
+2.2.1.4. The Chinese Perspective 
+
+China  stands  out  as  one  of  the  few  jurisdictions,  and  notably  the  first,  where  courts  have 
+specifically addressed the issue of copyright eligibility for AI-generated creativity. One notable 
+case is Beijing Feilin Law Firm v. Baidu Corporation, where the Beijing Internet Court ruled that 
+works  solely  created  by  machines  are  not  eligible  for  copyright  protection,  emphasizing  the 
+necessity of human involvement for such rights.124 The case revolved around a report disseminated 
+
+118 ibid., 10. 
+119 U.S.  Copyright  Office,  Copyright  Registration  Guidance:  Works  Containing  Material  Generated  by  Artificial 
+Intelligence, 88 FR 16190, 16192-93, March 16, 2023, https://www.federalregister.gov/documents/2023/03/16/2023-
+05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence,  
+120 See Stephen Thaler v. Shira Perlmutter, Register of Copyrights and Director of the United States Copyright Office, 
+et al., No. 22-cv-1564 (BAH) (D.D.C. 2023), https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2022cv1564-24. 
+121 ibid., 7, 14. 
+122 ibid., 3. 
+123 ibid., 8. 
+124 Beijing Feilin Law Firm v Baidu Corporation (26 April 2019) Beijing Internet Court, (2018) Beijing 0491 Minchu 
+No. 239; Kan He, “Feilin v. Baidu: Beijing Internet Court tackles protection of AI/software-generated work and holds 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+by  a  Beijing  law  firm  through  its  official  WeChat  account.  When  an  anonymous  internet  user 
+shared the report without authorization, the law firm filed a copyright infringement lawsuit. The 
+contested  report  was  created  using  Wolters  Kluwer  China  Law  &  Reference,  a  legal  research 
+software. While the law firm argued that the software merely assisted in the report's creation, the 
+defendants countered that the software generated the entire report autonomously. To resolve this, 
+a report auto-generated by the software—based on keywords provided by the plaintiff's lawyer—
+was compared to the report in question. The two reports were found to be substantially different, 
+indicating human input in the law firm's report, thus making it eligible for copyright protection 
+under Chinese law. Beyond this specific instance, the court also weighed in on the broader issue 
+of AI-generated works. It asserted that the concept of authorship, to be protected under copyright 
+law, requires a work to be originated by a human. The court did, however, express the belief that 
+users of creative software should receive some form of protection to encourage the purchase and 
+utilization of such software for generating and disseminating works.125 The judgment, however, 
+stopped short of providing any detailed guidance or recommendations on this particular aspect. 
+
+In  a  subsequent  case,  Shenzen  Tencent  v  Yinxun,  the  Nanshan  District  Court  in  Shenzhen 
+effectively affirmed the earlier Beijing ruling, emphasizing the necessity of human involvement 
+for copyright protection rather than recognizing solely machine-generated creativity.126 Tencent 
+Technology  had  developed  an  AI-based  writing  assistant  called  Dreamwriter.  In  August  2018, 
+Tencent posted an article on its website credited to Dreamwriter, making it clear that the article 
+was the product of their AI technology. The Defendant later republished this article online without 
+Tencent's authorization. In the ensuing copyright infringement lawsuit, Tencent contended that the 
+article was crafted under its oversight, asserting that the company was accountable for its creation 
+and any resultant liabilities. The court sided with Tencent, stating that the article qualified as an 
+original  literary  work.  This  was  because  the  content  emerged  from  the  data  inputs,  triggering 
+conditions, and the template and resource configurations chosen by Tencent's operational team. 
+Given that the article's expression was shaped by the deliberate choices and arrangements made 
+by Tencent’s human team, the court deemed the AI-generated article as a "work for hire" under 
+Article  11  of  the  Chinese  Copyright  Law.  The  defendant  was  thus  found  liable  for  copyright 
+infringement. Although the court could have interpreted the article as a collaborative intellectual 
+effort  between  human  input  and  Dreamwriter's  operations,  the  legal  protection  was  explicitly 
+anchored in the contributions made by the human team rather than the AI system. 
+
+2.2.2. Originality 
+
+Setting aside the human-centric understanding of authorship, the very notion of originality acts 
+as  an  obstacle  to  granting  copyright  protection  for  creativity  generated  by  AI.  Legal  texts  and 
+precedents generally define originality through an anthropocentric lens, focusing on attributes like 
+self-consciousness. Most legal jurisdictions adopt what is known as a "personality approach" to 
+originality,  viewing  an  original  work  as  an  extension  or  expression  of  the  author's  own 
+
+copyright  only  vests 
+
+in  works  by  human 
+
+that 
+IPKat,  November  9,  2019, 
+http://ipkitten.blogspot.com/2019/11/feilin-v-baidu-beijing-internet-court.html;  Ming  Chen,  “Beijing  Internet  Court 
+denies copyright to works created solely by artificial intelligence” JIPLP 14(8) (2019): 593.  
+125 Rather than the software developer who is already rewarded by a copyright over the software. ibid 
+126 See Shenzhen Tencent v. Yinxun, Nanshan District People's Court of Shenzhen, Guangdong Province [2019] No. 
+14010,  https://mp.weixin.qq.com/s/jjv7aYT5wDBIdTVWXV6rdQ.  See  also  Kan  He,  “Another  decision  on  AI-
+generated works in China: Is it a work of legal entities?”, The IPKat, January 29, 2020. 
+
+authors”,  The 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+personality.127 This  modern  understanding  has  largely  marginalized  older  views  that  supported 
+'sweat of the brow' doctrines, which awarded copyright based on the skill, labor, and effort invested 
+in creating a work, irrespective of whether it embodied the author's personality.128 Consequently, 
+the  notion  of  originality,  framed  as  an  expression  of  self-  consciousness  or  individuality,  is 
+theoretically inaccessible to machine-generated creations.129  
+
+In  the  European  Union,  the  concept  of  originality  has  been  harmonised  through  three  key 
+Directives: the Software, Term, and Database Directive. These directives state that a work qualifies 
+as original if it represents “the author’s own intellectual creation”.130 The Court of Justice of the 
+European Union (CJEU) subsequently broadened this harmonised concept to encompass all types 
+of  copyrighted  material.  In  the  Infopaq  case,  the  CJEU  articulated  that  originality  is  expressed 
+"through the choice, sequence, and combination of words," allowing the author to manifest their 
+creativity uniquely.131 Further clarifying the notion, the Eva-Maria Painer decision stated that a 
+work is deemed original—and thus eligible for protection—if it meets three criteria: it must be an 
+intellectual creation of the author; it must reflect the author's personality; and it must demonstrate 
+the author's free and creative choices in its production.132 These choices provide the work with the 
+author's unique “personal touch”. 133 Finally, in the Football Dataco case, the CJEU eliminated 
+any lingering support for the "sweat of the brow" doctrine, emphasizing that sheer labor and skill 
+on  the  part  of  the  author  are  insufficient  for  copyright  protection  unless  they  exhibit  genuine 
+originality.134 
+
+In  the  United  States,  the  prevailing  approach  to  defining  originality  in  copyright  law  is  also 
+rooted in the “personality theory”, which considers a work to be original if it reflects the creative 
+choices of the author and thereby captures their individual personality,135 “such as the final product 
+duplicates his conceptions and visions” of what the work should be.136 Seminal cases like Burrow-
+Giles v. Sarony established that originality emanates from the author's unique creative insights, 
+referring  to  photographs  as  copyrightable  when  originating  from  the  photographer’s  “unique 
+mental  conception”.137 Subsequently,  the  Feist  v.  Rural  decision  clarified  that  mere  labor  and 
+effort in crafting a work are insufficient criteria for copyright protection; the work must exhibit a 
+
+127 This  characterization  of  originality  builds  upon  Idealist  personality  theories,  according  to  which  intellectual 
+products are manifestations or extensions of the personalities of their creators. See Frosio, “Four Theories”, 158-159. 
+128 See e.g., International News Service v Associated Press 248 U.S. 215 (1918); Jeweler's Circular Publishing Co. v 
+Keystone Publishing Co. 281 F. 83, 88 (2nd Cir. 1922); Andreas Rahmatian, “Originality in UK Copyright Law: the 
+Old ‘‘Skill and Labour’’ Doctrine Under Pressure”, 44 IIC, (2013): 4–34. 
+129 The word author itself would bear this meaning on its face as the most accredited etymology of the word would 
+have it deriving from the ancient Greek “αὐτός”, which means “self”. See Giancarlo Frosio, Reconciling Copyright 
+with Cumulative Creativity: The Third Paradigm (Edward Elgar, 2018), 16. 
+130 Respectively, Article 1(3), Article 6, and Article 3(1). For a discussion, see Eleonora Rosati,  Originality in EU 
+Copyright - Full Harmonization through Case Law (Edward Elgar, 2013). 
+131 CJEU, C-5/08 Infopaq, para 45. 
+132 CJEU, C-145/10 Eva Maria Painer, para 94. 
+133 ibid para 92. 
+134 CJEU, C-604/10, Football Dataco Ltd and Others v Yahoo! UK Ltd and Others, 2012, ECLI:EU:C:2012:115, para 
+42. 
+135 See Burrow-Giles Lithographic, 60-61 (considering the copyrightability of a portrait photograph of Oscar Wilde).  
+136 Lindsay v The Wrecked and Abandoned Vessel R.M.S. Titanic 52 U.S.P.Q.2d 1609, 1614 (S.D.N.Y. 1999). 
+137 Burrow-Giles Lithographic, 54-55. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+minimum degree of creativity reflective of the author's personality.138 Following the United States' 
+adherence to the Berne Convention in 1988 and the Feist decision in 1991, a more harmonized 
+global view of copyright emerged, emphasizing the personality theory approach to originality.139  
+In  fact,  some  legal  scholars  have  argued  that  U.S.  copyright  law  does  not  explicitly  exclude 
+machine-generated  works  from  protection,  citing  the  low  threshold  for  what  constitutes 
+originality.140 However, the focus should not be on the degree of originality (whether it is high or 
+low). After Feist, originality is not only a question of quantum. For works generated by AI, the 
+obstacle is not the amount, but the type of originality required. AI systems, lacking the capability 
+for self-expression, cannot meet the criterion of imbuing their creations with personality, as they 
+possess no personality to express. 
+
+In recent years, several primarily common-law jurisdictions, including Australia, India, and the 
+United Kingdom, have shifted towards adopting a personality-centered approach to the concept of 
+originality in copyright law.141  This move has led these countries to abandon earlier frameworks 
+that emphasized "labor, skill, and effort," commonly known as the "sweat of the brow" doctrines. 
+A few jurisdictions like South Africa and New Zealand continue to adhere to this older view.142 
+
+Overall,  the  prevailing  interpretation  of  originality  leans  heavily  on  an  anthropocentric 
+perspective, asserting that a work can be deemed original only if it serves as an expression of the 
+author's  individual  personality  or  “self”.  This  understanding  implicitly  assumes  that  only  a 
+sentient, self-aware entity could fulfill such a criterion. Without the element of self-consciousness 
+in  the  creator,  the  originality  requirement,  which  hinges  on  the  representation  of  the  author's 
+personality,  cannot  be  satisfied.  As  a  result,  under  the  existing  legal  framework,  AI-generated 
+works fall short of meeting the threshold of originality, unless future advancements in strong AI 
+reach a point where machines gain self-consciousness. 
+
+3. The (A)Infringer 
+
+The question of whether it is possible for an AI to commit copyright infringement by producing 
+an output that closely resembles or is substantially similar to a copyrighted work is at the center of 
+multiple pending judicial cases. The answer, while straightforward at a glance, is subject to legal 
+intricacies that differ across jurisdictions.  
+
+In the United States, copyright infringement is considered a strict liability offense, meaning that 
+fault or intent is not a requirement for liability. For an act to be deemed infringing, three conditions 
+must be met: the act must involve copying rather than independent creation; the resulting copy 
+
+138 See Feist Publications, 362-363. 
+139 See Monroe Price and Malla Pollack, “The Author in Copyright: Notes for the Literary critic”, in The Construction 
+of  Authorship:  Textual  Appropriation  in  Law  and  Literature,  eds.  Martha  Woodmansee  and  Peter  Jaszi  (Duke 
+University Press, 1994), 717-720. 
+140 Samuelson,  “Allocating  Ownership  Rights  in  Computer-Generated  Works”,  1199-1200.  See  also  Nina  Brown, 
+“Artificial  Authors:  A  Case  for  Copyright  in  Computer-Generated  Works”  Columbia  Science  and  Tech.  L.  Rev. 9 
+(2019): 1, 24-27; Margot Kaminski, “Authorship, Disrupted: AI Authors in Copyright and First Amendment Law”, 
+51 UC Davis L. Rev. (017): 589, 601. 
+141 See e.g., IceTV, 43; Eastern Book Co. & Ors v D.B. Modak & Anr (2008) 1 SCC 1; Temple Island Collections v 
+New English Teas (No. 2) [2012] EWPCC 1; Rahmatian, “Originality in UK Copyright Law”, 4–34. 
+142 See  e.g., Appleton v Harnischfeger Corp.  (1995) 2 SA 247 (AD), [43]– [44]; Henkel KgaA v. Holdfast  [2006] 
+NZSC 102, [2007] 1 NZLR 577 [37] (NZ). 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+must  be  fixed  in  a  tangible  medium;  and  the  act  must  involve  the  improper  appropriation  of 
+protected material. While the requirement of being 'fixed in a tangible medium' is more specific to 
+U.S. law, the conditions concerning 'copying' and 'improper appropriation' are broadly relevant in 
+many legal jurisdictions. Copying can occur in several forms: mechanical reproduction, creating a 
+work substantially similar to a copyrighted one, or translating the original work to another medium. 
+Importantly,  copyright  infringement  does  not  require  intent. 143  Case  law  suggests  that  even 
+'innocent' or 'subconscious' copying is no defense,144 if access to the original work can be proven145 
+or the similarities between the unusual aspects of the two works are sufficiently striking.146 As for 
+'improper appropriation,' this depends on the character and extent of the material taken. Copyright 
+infringement  can  occur  either  by  copying  the  entire  work,  by  taking  significant  qualitative  or 
+quantitative parts of it, or by producing a work that is substantially similar in essence.147 Therefore, 
+if the AI's generated output borrows extensively from a copyrighted work or is substantially similar 
+to  it, it  would qualify as infringement.  If the use of the copyrighted material  is  transformative, 
+however,  one  must  consider  whether  such  use  falls  under  the  fair  use  doctrine. 148 Generally 
+speaking, transformative use is protected by fair use provisions and does not constitute copyright 
+infringement.149 Therefore, whether the AI-generated images qualify as fair use would hinge on 
+how transformative they are with respect to the original copyrighted works. 
+
+The discussion above serves to address a crucial question: Can AI-generated outputs infringe upon 
+the copyrights of the images, people, places, and objects used for training the models? The short 
+answer  is  “yes”,  but  only  if  the  protected  content  appears  in  the  output  in  an  identical  or 
+substantially similar form. Copyright infringement does not occur if the original content merely 
+serves  as  an  inspiration  and  is  either  minimally  replicated  in  the  output 150  or  used  in  a 
+transformative way.151  In the ongoing cases, both Stability AI and Midjourney assert that proof of 
+actual infringement or substantial similarity in the generated outputs has yet to be conclusively 
+demonstrated.152 Midjourney, in particular, challenges the notion that just because the outputs are 
+“derived from” the images used for training their model, they should automatically be classified 
+as  derivative  works. 153 They  contend  that  the  plaintiffs  are  misleadingly  conflating  the  legal 
+
+143 See Fisher v. Dillingham, 298 F. 145, 148 (SDNY 1924) (“it is no excuse that memory played a trick”). 
+144 See Bright Tunes v. Harrison, 420 F. Supp. 177, 181 (SDNY 1976). 
+145 See Three Boys Music v. Michael Bolton, 212 F.3d 477 (9th Cir. 2000). 
+146 See e.g., Selle v. Gibb, 741 F.2d 896 (7th Cir. 1984). 
+147 See e.g., Daniel Gervais, “Improper Appropriation”, Lewis and Clark L. Rev. 23(2) (2019): 600; Oren Bracha, “Not 
+de Minimis: (Improper) Appropriation in Copyright”, American U. L. Rev. 68 (2018): 139.  
+148 See e.g., 17 USC § 107; Casey Newton, “How DALL-E could power a creative revolution”, The Verge, June 10, 
+2022, https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution. 
+149 See Jiarui Liu, “An Empirical Study of Transformative Use in Copyright Law”, Stanford Tech. L. Rev. 22 (2019): 
+163, 166; Pierre Leval, “Toward a Fair Use Standard”, Harvard L. Rev. 103, (1990): 1105, 1111. 
+150 See e.g., Gervais, “Improper Appropriation”, 600; Bracha, “Not de Minimis”, 139. 
+151 See  Liu,  “An  Empirical  Study  of  Transformative  Use  in  Copyright  Law”,  166;  Leval,  “Toward  a  Fair  Use 
+Standard”, 1111. 
+152 See Andersen et al. v. Stability Ai et al., Case no 3:23-cv-00201-WHO (N.D. Cal., April 18, 2023) (Stability AI’s 
+Amended Mot to Dismiss), https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd.  
+153 Cf.  Daniel  Gervais,  “AI  Derivatives:  the  Application  to  the  Derivative  Work  Right  to  Literary  and  Artistic 
+Productions 
+1111, 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4022665.  
+
+Machines”, 
+
+(2022): 
+
+Seton 
+
+52(4) 
+
+Hall 
+
+Rev. 
+
+AI 
+
+of 
+
+L. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+copyright concept of a  “derivative work” with a terminology they have devised to describe the 
+output created by their users. 
+
+3.1. Protection of Style 
+
+Artists have expressed significant concern over the proliferation of AI-generated art that closely 
+mimics their unique styles. These anxieties are not just abstract worries; they're directly related to 
+ongoing legal disputes involving AI platforms such as Dall-E, Stable Diffusion, and Stability AI.  
+Users of the AI image-generating platforms are accused of creating works that imitate the style of 
+specific artists, including those who are Plaintiffs in the lawsuits.154 These users would employ 
+prompts containing the artists' names to generate outputs, misleadingly suggesting that the works 
+are original creations by those named artists. Referred to as 'Imposters' in the context of the case, 
+these users manipulate the AI to lean heavily on the stylistic elements of the mentioned artists, 
+producing images that closely resemble those artists' unique styles.155 
+
+Creators are alarmed by the extent to which AI-generated images, designed to imitate their styles, 
+are flooding online platforms and even overshadowing their original works in search results.156 
+Greg Rutkowski, the most popular artist used to generate AI images and well-known for producing 
+fantastical high-quality images, showed concern for the mass copying of individual styles by AI 
+by noting “right now, when you type in my name, you see more work from the AI than work that 
+I  have  done  myself,  which  is  terrifying  for  me.  How  long  till  the  AI  floods  my  results  and  is 
+indistinguishable from my works?”157 This phenomenon raises pressing questions that are at the 
+heart  of  current  litigation:  to  what  extent  can  or  should  generative  AI  be  held  accountable  for 
+infringing on artists' styles? 
+However,  from  a  copyright  law  perspective, 158 these  concerns  may  be  somewhat  misplaced. 
+Copyright  law  traditionally  protects  the  specific  expression  of  ideas,  not  the  general  style  or 
+techniques  used  to  achieve  that  expression.  In  other  words,  while  an  artist's  unique  manner  of 
+expression  is  noteworthy,  it  isn't  what  copyright  law  aims  to  protect.  Instead,  copyright  would 
+protect the specific expression of that style in a particular work. Courts have consistently held that 
+style is just one element of artistic expression; infringement only occurs when there is substantial 
+similarity between the specific expressions of two works.159 In Jewelry 10, the court explains that 
+
+is  a  more  popular  prompt 
+
+154 See Andersen et al. (Complaint), §5-6 
+155 ibid., §171-176. 
+156 See,  e.g.,  Johnston,  “Comic  Book  Creators  React  to  AI  Artificial  Intelligence  Art  Explosion”;  Baio,  “Invasive 
+Diffusion”.  
+157  Matt  Growcoot,  “AI  Image  Generator  Stable  Diffusion  Releases  Controversial  New  Version”,  PetaPixel,  (, 
+November  28,  2022,  https://petapixel.com/2022/11/28/ai-image-generator-stable-diffusion-releases-controversial-
+new-version. See also Melissa Heikkilä, “This artist is dominating AI-generated art. And he’s not happy about it. Greg 
+Rutkowski 
+than  Picasso”,  MIT  Technology  Rev.,  September  16,  2022, 
+https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-
+happy-about-it. 
+158 This might not be the case in all jurisdictions. There is, for example, at least one case in Italy—finally settled—
+where a Milanese court found an album cover of Roger Waters apparently infringing upon the “cancellation” technique 
+of Emilio Isgrò. See e.g., Gabriele Antonucci, “Roger Waters – Emilio Isgrò: perché è plagio l’artwork dell’album”, 
+Panorama, July 26, 2017, https://www.panorama.it/lifestyle/musica/roger-waters-e-davvero-plagio-lartwork-di-life-
+really-want (in Italian only). 
+159 See, e.g., Steinberg v. Columbia Pictures Industries, Inc., 663 F. Supp. 706, 706-716 (SDNY, 1987); Cummins v 
+Vella [2002] FCAFC 218. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+infringement will be found in “a detailed copying which takes not only the stylistic idea but the 
+manner or details of execution”.160 A ruling in the case Dave Grossman Designs v. Bortin clarified 
+that  an  artist  can  use  another's  style  without  infringing  on  copyright,  as  long  as  they  don't 
+substantially copy the specific expression of the original work. For example, the Court says, “Picasso 
+may be entitled to a copyright on his portrait of three women painted in his Cubist motif”, but other 
+artists “may paint a picture of any subject in the Cubist motif, including a portrait of three women, 
+and not violate Picasso's copyright so long as the second artist does not substantially copy Picasso's 
+specific expression of his idea”.161).  
+
+In  summary,  if  an  AI  generates  an  artwork  that  merely  echoes  the  style of  an  existing  artist—
+without closely replicating specific, copyright-protected elements of that artist’s work—it would 
+generally not  be considered an infringement  under current  copyright law. Copyright protection 
+encompasses a variety of factors like composition, framing, content, style, narrative, and artistic 
+intent  that  together  make  a  work  original  and  a  representation  of  the  author’s  personality. 162 
+Isolating one aspect, like style, typically does not meet the threshold for legal protection. 
+
+3.2. Who is infringing? Asking the Right Questions  
+
+A recent policy statement on the matter from Japan sheds some light on the distinction between 
+potentially infringing input and infringing output and seems to suggest that AI-generated art is not 
+inherently in violation of existing copyright laws. According to the Agency for Cultural Affairs of 
+Japan, there are two key phases in the creation of AI-generated art: the learning and research stage, 
+and  the  stage  of  image  and  artwork  generation.163 The  ACA’s  document  titled  document  titled 
+“About the relationship  between AI  and copyright”  claims that copyrighted works  can be used 
+without  permission  during  the  AI  training  phase,  since  these  works  would  be  used  for  non-
+commercial purposes.164 However, the commercial production and sale of AI-generated art would 
+be  subject  to  standard  copyright  infringement  laws.165 If  an  AI-generated  work  is  found  to  be 
+derivative of an existing copyrighted piece, legal ramifications including damages and criminal 
+charges  could  apply.  This  approach  upholds  the  conventional  mechanisms  for  copyright 
+protection:  if  you  believe  your  copyrighted  work  has  been  infringed  upon  by  an  AI-generated 
+piece, you can take legal action in much the same way you would for human-created art. In essence, 
+the standard legal procedures remain applicable. If a lawsuit clearly demonstrates that a specific 
+piece of AI-generated art is a direct copy of existing copyrighted work, then the original artist can 
+claim damages. On the other hand, if the claim is based merely on a subjective sense of similarity 
+without concrete evidence, the lawsuit is likely to fail, just as it would with disputes over non-AI 
+art.  
+
+160 See Jewelry 10, Inc. v. Elegance Trading Co., 1991 WL 144151 (S.D.N.Y. 1991). 
+161 Dave Grossman Designs v. Bortin, 347 F. Supp. 1150, 1156 (N.D. Ill. 1972).  
+162 See, e.g., Steinberg, 706-716; Malden Mills, Inc. v. Regency Mills, Inc., 626 F.2d 1112 (2d Cir. 1980) (“The two 
+designs are of such likeness with regard to subject matter, style of representation, shading, composition, relative size 
+and placement of components, and mood as to obviously substantially similar”); Burrow-Giles Lithographic, 53ff. 
+See also Feist; CJEU, C-145/10, para 99. 
+163 See  Daniel  Bueno,  “AI  Art  Will  Be  Subject  to  Copyright  Infringement  in  Japan”,  Siliconera,  June  6,  2023, 
+https://www.siliconera.com/ai-art-will-be-subject-to-copyright-infringement-in-japan 
+164 ibid. 
+165 ibid. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+Nevertheless, given that the machine generates its output based on specific user instructions, it 
+seems  reasonable  to  argue  that  responsibility  for  violations  stemming  from  the  output  should 
+predominantly fall on the user. In essence, these infringements would not have occurred without 
+the user's active role in eliciting the contentious material. Therefore, it's reasonable to categorize 
+the machine as the "primary infringer," with the user assuming "secondary liability" for instigating 
+the infringement through their directives. The rationale behind this is that the machine, trained to 
+generate  a  potentially  infinite  array  of  outputs  by  its  developers,  only  produces  the  infringing 
+material  as  a  direct  result  of  the  user's  targeted  instructions.  Without  these  guidelines,  the 
+contentious output would merely exist as one possibility among countless others. A generative AI 
+model has a range of possible outputs based on its training data and algorithms. The user's specific 
+instructions act as a filter, steering the AI towards generating content that is substantially similar 
+to  copyrighted  material.  In  this  sense,  the  user  can  be  seen  as  the  enabler  or  inducer  of  the 
+infringement,  making  them  secondarily  liable.  Their  specific  instructions  are  what  transform  a 
+potential infringement into an actual one, from among the myriad outputs the AI could generate 
+based  on  its  training.  AI's  capabilities  extend  to  a  virtually  limitless  array  of  possible  outputs. 
+Without  the  user's  specific  directives,  the  machine's  potential  to  generate  infringing  content 
+remains  just  that—potential.  It's  the  user's  intent  and  actions  that  crystallize  this  potential  into 
+actual,  actionable  infringement.  Therefore,  the  liability  for  infringement  could  be  more  closely 
+linked to the queries posed to the machine, rather than the machine's responses.  
+
+The advent of AI technology does prompt a rethinking of traditional frameworks for copyright 
+infringement and courts might need to change the litmus test for infringement.166 Traditionally, 
+the focus has been largely on the end-product, the “answer” that Generative AI provides to users 
+prompts. The entity that produced a piece of work substantially similar to an existing copyrighted 
+work would be considered liable for infringement. However, with AI stepping into the creative 
+process,  the  lines  become  blurred,  and  the  focus  could  potentially  shift  to  the  questions,  or 
+directives,  that  prompt  the  creation  of  such  content.  Generative  AI  compels  us  to  rethink  the 
+concept  of  copyright  infringement  from  a  product-centric  to  a  process-centric  viewpoint.  The 
+'questions' leading to the final work may become as, if not more, important than the work itself in 
+determining liability.  
+
+Legal systems will need to adapt to accommodate this paradigm shift, making room for nuanced 
+dialogues about intentionality, specificity, and the interactive nature of modern content creation. 
+First, courts might shift to intentionality. In a world of machine-generated content, a key criterion 
+for  infringement  might  become  the  intent  behind  the  directive  given  to  the  machine.  Here,  the 
+focus wouldn't be just on the similarity between the copyrighted work and the new work, but also 
+on the intent  of the user who provided the instructions to  the machine. Did  they knowingly  or 
+purposefully induce the AI to create something similar to an existing copyrighted work? Second, 
+the context in which a directive is given may also gain importance. For instance, if a user asks an 
+AI to "create something like X," where X is a copyrighted work, then even if the machine's output 
+isn't substantially similar, the intention to infringe was clearly present. Third, courts might need to 
+consider more carefully the interactive nature of AI. Traditional tests for infringement might not 
+work well for AI because AI is interactive. The process of creation often involves back-and-forth 
+interaction  between  the  user  and  the  machine.  This  makes  each  directive  part  of  an  ongoing 
+
+166 See Mark Lemley, “How Generative AI Turns Copyright Law on its Head” SSRN Research Paper no 4517702/23, 
+July 21, 2023, https://ssrn.com/abstract=4517702 (noting that “we may need to throw out our test for infringement, or 
+at least apply it in fundamentally different ways”). 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+dialogue,  which  cumulatively  leads  to  the  final  product.  Tracking  this  dialogue  could  become 
+important in determining infringement. 
+
+Finally, given the shift towards questioning, developers might have a role to play here, too, and 
+they  might  be  liable  under  certain  circumstances.  They  might  be  required  to  implement  pre-
+emptive  measures  and  could  incorporate  safeguards  into  the  AI  to  flag  potentially  infringing 
+directives, or to require additional confirmations from the user, making them more aware of the 
+implications of their directives. In this very regard, In light of the growing concern that learned 
+conditional  generative  models  may  output  samples  that  are  substantially  similar  to  some 
+copyrighted  data  that  was  in  their  training  set,  researchers  are  “trying  to  come  up  with  a 
+mathematical definition guaranteeing that the output of a generative model does not infringe on a 
+copyrighted  work,  even  if  that  work  is  present  in  its  training  set.”167 In  the  absence  of  these 
+technical safeguards, courts may extend liability to Generative AI platforms and their developers 
+for producing outputs that infringe on copyrights. In the same fashion, courts might consider that 
+if the developers provide a platform that allows users to generate works “in the style of a certain 
+artist”, and these generated works closely resemble the original artists' styles, then a preliminary 
+claim for copyright infringement appears viable. However, to truly assess the legitimacy of any 
+infringement claim, a detailed comparison between the plaintiffs' original works and the alleged 
+derivative works produced by the platforms is essential. To unequivocally address these pressing 
+concerns, Stability AI has actually taken the deliberate step of disabling the feature that allows the 
+generation of images in the styles of specific artists in its latest update.168 
+
+CONCLUSIONS 
+
+In this chapter, we delved deep into the intricate interplay between copyright law and the rapidly 
+advancing  field  of  Generative  AI.  While  the  law  has  yet  to  fully  adapt  to  these  technological 
+advances, ongoing litigation against generative AI platforms stands as a testament to the pressing 
+need for legal clarification. The courts have a pivotal role to play in shaping these norms. Amidst 
+the legal grey areas and pending litigation, judicial decisions will set important precedents that 
+could either stimulate or stifle innovation in this arena. 
+
+Courts ought to approach Generative AI with the nuanced understanding that it is a dual-use 
+technology, holding the potential for both significant societal benefits and copyright infringement 
+risks.  Historically,  such  technologies  aren't  strictly  regulated  unless  they  explicitly  encourage 
+unlawful activity.169 As with online platform intermediary liability,170 the focus may be best placed 
+on platforms that negligently enable copyright violations. If a platform has already taken steps to 
+
+167  See  Nikhil  Vyas,  Sham  Kakade,  Boaz  Barak,  “On  Provable  Copyright  Protection  for  Generative  Models”, 
+arXiv:2302.10870 [cs.LG] (2023), https://arxiv.org/abs/2302.10870.  
+168 See Stable Diffusion Version 2, https://github.com/Stability-AI/stablediffusion. See also Matthias Bastian, “Stable 
+Diffusion  v2  removes  NSFW  images  and  causes  protests”,  The  Decoder,  November  26,  2022,  https://the-
+decoder.com/stable-diffusion-v2-removes-nude-images-and-causes-protests. 
+169 See,  e.g.,  Sony,    417;  Reiner  Kraakman,  “Gatekeepers:  the  Anatomy  of  a  Third-Party  Enforcement  Strategy”, 
+Journal of Law, Economics and Organization 2(1) (1986): 53. 
+170 See, e.g., The Digital Millennium Copyright Act of 1998, 17 U.S.C. § 512; Directive 2000/31/EC of the European 
+Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular 
+electronic commerce, in the Internal Market, 2000 O.J. (L 178) 1-16, art 12-15; Regulation of the European Parliament 
+and of the Council of 19 October 2022 on a Single Market for Digital Services and amending Directive 2000/31/EC 
+(Digital Services Act), 2022 OJ L 277/1. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865
+
+ 
+prevent  misuse,  the  responsibility  should  shift  to  the  user  and  follow  traditional  copyright 
+infringement dynamics. In essence, the courts have the opportunity to create a balanced regulatory 
+approach, safeguarding artists' rights while not stifling technological innovation. Their decisions 
+will set the tone for the ethical and legal use of Generative AI moving forward. 
+
+Electronic copy available at: https://ssrn.com/abstract=4558865

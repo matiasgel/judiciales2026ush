@@ -1,17 +1,17 @@
-U — Academic Course Production Suite
+# EDU — Academic Course Production Suite
 # Standalone Configuration
 # Version: 1.0.0
 # Date: 2026-03-07
 
 # --- Project ---
-project_name: ""           # Nombre de la materia/curso
-institution: ""            # Institución educativa
+project_name: "Inteligencia Artificial en el Poder Judicial de la Nacion"           # Nombre de la materia/curso
+institution: "Poder Judicial de la Nacion"            # Institución educativa
 communication_language: "spanish"
 document_output_language: "spanish"
-user_name: ""              # Nombre del docente
+user_name: "Docente"              # Nombre del docente
 
 # --- Multi-Class ---
-course_prefix: ""                                          # Prefijo corto de la materia (ej: leng, para, algo). Usar /edu-switch-course para cambiar.
+course_prefix: "iapjn"                                     # Prefijo corto de la materia (ej: leng, para, algo). Usar /edu-switch-course para cambiar.
 course_year: "2026"                                        # Año académico activo — actualizar en /edu-start-new-year
 course_id: "{course_prefix}-{course_year}"                 # Clave compuesta materia+año (ej: leng-2026). Se deriva automáticamente.
 
@@ -29,7 +29,7 @@ header: "Pipeline completo de producción docente universitaria con inteligencia
 subheader: "Desde la ingesta del programa oficial hasta el cierre de cursada con validación automática y memoria acumulada año a año"
 
 # --- Behavioral ---
-default_professor_profile: "profesor-practico"
+default_professor_profile: "profesor-investigador"
 default_class_duration: "90"
 lms_provider: "none"
 academic_guardrail_enabled: "true"

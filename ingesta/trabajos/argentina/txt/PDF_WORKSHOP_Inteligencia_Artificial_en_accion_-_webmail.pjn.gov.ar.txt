@@ -1,0 +1,70 @@
+# Fuente
+- archivo: PDF_WORKSHOP_Inteligencia_Artificial_en_accion_-_webmail.pjn.gov.ar.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\PDF_WORKSHOP_Inteligencia_Artificial_en_accion_-_webmail.pjn.gov.ar.pdf
+- extraido: 2026-04-24T11:34:12
+
+# Contenido
+
+WORKSHOP
+
+Inteligencia Artiﬁcial 
+en acción: 
+Laboratorio de herramientas 
+aplicadas al ámbito judicial
+
+Un espacio para explorar, comparar y 
+aplicar IA al trabajo cotidiano en el PJN
+
+Cierre de inscripción: 22 de octubre
+
+28 Y 31 DE OCTUBRE
+
+INSCRIPCIÓN AQUÍ
+
+CONSEJO DE LA
+MAGISTRATURA
+
+DIRECCIÓN GENERAL 
+DE RECURSOS HUMANOS
+
+DEPARTAMENTO
+DE CAPACITACIÓN
+
+MARTES 28 DE OCTUBRE
+
+10 hs.
+Bienvenida y apertura
+Departamento de Capacitación
+
+10.10 hs. 
+NotebookLM: Principales funcionalidades y ventajas. 
+Uso y aplicación para el análisis jurisprudencial. 
+Facilitadora: María Sara Puyol
+
+11 hs. 
+Grok: La IA como herramienta estratégica
+para operadores jurídicos. 
+Facilitadores: Nicolás Nigro y Ezequiel Nesprias
+
+11.45 hs.
+Intercambio y consultas 
+
+12 hs. 
+Cierre
+
+VIERNES 31 DE OCTUBRE
+
+10 hs.
+Claude: De la exploración a la práctica cotidiana. 
+Facilitador: Nicolás Grandi 
+
+11 hs. 
+Google AI Studio: El arte de combinar IA en el 
+ámbito judicial. 
+Facilitadores: Sergio H. Aleksinko Escobosa
+
+11.45 hs. 
+Intercambio y consultas 
+
+12 hs.
+Cierre

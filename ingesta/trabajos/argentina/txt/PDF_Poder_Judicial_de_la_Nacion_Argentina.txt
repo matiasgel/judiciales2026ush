@@ -1,0 +1,8 @@
+# Fuente
+- archivo: PDF_Poder_Judicial_de_la_Nacion_Argentina.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\PDF_Poder_Judicial_de_la_Nacion_Argentina.pdf
+- extraido: 2026-04-24T11:34:11
+
+# Contenido
+
+[PDF sin texto extraíble: PDF_Poder_Judicial_de_la_Nacion_Argentina.pdf]

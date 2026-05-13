@@ -1,0 +1,1583 @@
+# Fuente
+- archivo: Herramientas_del_IA_para_el_analisis_de_casos_y_redaccion_jurid.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\Herramientas_del_IA_para_el_analisis_de_casos_y_redaccion_jurid.pdf
+- extraido: 2026-04-24T11:34:09
+
+# Contenido
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Herramientas del IA para el análisis de casos y redacción jurídica 
+
+Compilado sobre las clases realizadas los días 25 de noviembre, 2 y 9 de diciembre de 
+
+2024 en la Sala AMIA de los tribunales federales de Comodoro Py. 
+
+------------------------------------------------------------------------------------------------------------ 
+
+Documento elaborado por: 
+
+Presidencia de la Cámara Federal de Casación Penal 
+
+Doctor Mariano Hernán Borinsky. Presidente de la C.F.C.P. 
+
+Disertantes: 
+
+Doctor Daniel Antonio Petrone, Vicecepresidente de la C.F.C.P. 
+
+Hernán Elman, Director del Centro de Documentación Judicial, Consejo de la 
+
+Magistratura de la Nación. 
+
+Juan Manuel Garay, Prosecretario de Cámara de la C.F.C.P. 
+
+ Laura Fabiana Kvitko. Secretaria de Cámara y Elena Cassarino, Prosecretaria de 
+
+Coordinadoras: 
+
+Cámara, ambas de la C.F.C.P. 
+
+Edición: 
+
+Nicole Zoe Amquie, Prosecretaria de Cámara de la C.F.C.P. 
+
+Curso autorizado por el Tribunal de Superintendencia de la Cámara de Federal de 
+
+Casación Penal con fecha 29 de octubre de 2024 
+
+Diciembre 2024 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÍNDICE
+
+1.  Discurso Inaugural para el curso sobre aplicación de IA en 
+
+los 
+
+tribunales, 
+
+por 
+
+el 
+
+doctor  Mariano  Hernán 
+
+Borinsky__________________________________________4 
+
+2.  “Introducción a la IA, herramientas básicas para el ámbito 
+
+jurídico 
+
+y 
+
+su 
+
+aplicación 
+
+prác[ca”, 
+
+por  Hernán 
+
+Elman___________________________________________ 6 
+
+3.  “ChatGPT  en 
+
+la  prác[ca  jurídica”,  por  Juan  Manuel 
+
+Garay___________________________________________13 
+
+4.  “Jus[cia  e  Inteligencia  ar[ﬁcial”,  por  el  doctor  Daniel 
+
+Antonio Petrone__________________________________20 
+
+5.  “Algoritmos 
+
+predic[vos”, 
+
+por 
+
+Juan  Manuel 
+
+Garay___________________________________________25 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discurso Inaugural para el Curso sobre Aplicación de la IA en los Tribunales 
+
+Por Mariano Hernán Borinsky1 
+
+Es un honor darles la bienvenida al curso sobre la aplicación de la inteligencia 
+
+arJﬁcial  (IA)  en  las  funciones  de  los  tribunales,  una  inicia[va  que  busca  fortalecer 
+
+nuestra jus[cia mediante el uso responsable y é[co de estas herramientas. 
+
+Se trata del primer curso de IA dictado desde esta Cámara Federal de Casación 
+
+Penal que presidí durante este año 2024. El curso fue aprobado por la superintendencia 
+
+de esta CFCP el día 29 de octubre de 2024.   
+
+La inteligencia ar[ﬁcial ya está transformando nuestra profesión de una manera 
+
+que  hace  pocos  años  eran 
+
+impensable.  Desde 
+
+la  búsqueda  automa[zada  de 
+
+jurisprudencia  hasta  la  elaboración  de  memos  sobre  resoluciones,  estas  tecnologías 
+
+[enen  el  potencial  de  reducir  [empos  y  costos,  permi[éndonos  concentrarnos  en  lo 
+
+verdaderamente importante: impar[r jus[cia. 
+
+El desarrollo de la IA nos obliga a repensar el rol del abogado y del juez en un 
+
+contexto  donde  las  máquinas  pueden  realizar  tareas  que  antes  consumían  horas  de 
+
+trabajo.  Lejos  de  reemplazarnos,  la  IA  nos  ofrece  la  oportunidad  de  conver[rnos  en 
+
+profesionales más estratégicos, enfocados en el análisis crí[co y la toma de decisiones. 
+
+El  potencial  de  la  IA  radica  en  la  capacidad  de  automa[zar  tareas  repe[[vas, 
+
+como la clasiﬁcación de documentos o la creación de índices, y en potenciar nuestras 
+
+capacidades. Sin embargo, su uso requiere criterio humano para interpretar resultados, 
+
+veriﬁcar información y asegurar que las decisiones se ajusten al marco legal y é[co. 
+
+No  debemos  olvidar  que  la  IA,  como  toda  tecnología,  no  está  exenta  de  errores.  Las 
+
+llamadas  “alucinaciones”  –información 
+
+incorrecta  generada  por 
+
+los  modelos– 
+
+representan  un  riesgo  real.  Por  eso,  es  fundamental  implementar  mecanismos  de 
+
+veriﬁcación para garan[zar que la información que u[lizamos sea precisa y conﬁable. 
+
+Además, debemos enfrentar los desafos é[cos y de privacidad que plantea la 
+
+implementación de estas herramientas. En un sistema de jus[cia, el manejo de datos 
+
+1 Presidente de la Cámara Federal de Casación Penal.  
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+sensibles  requiere  un  estándar  de  cuidado  extraordinario.  Hay  que  garan[zar  la 
+
+conﬁdencialidad de la información. 
+
+Pese  a  estos  desafos,  no  podemos  ignorar  las  oportunidades  que  la  IA  ofrece 
+
+para mejorar nuestro sistema. Una jus[cia más ágil, accesible y eﬁciente es posible. La 
+
+incorporación de estas tecnologías debe contribuir a cerrar brechas de desigualdad y a 
+
+fortalecer la conﬁanza de la sociedad en nuestras ins[tuciones. 
+
+Es nuestra responsabilidad usar estas herramientas con prudencia, crea[vidad y, 
+
+sobre todo, con un profundo respeto por los valores que sustentan nuestra democracia. 
+
+Quiero agradecer a los más de 400 par[cipantes, quienes, desde cada rincón del 
+
+país, aportaron su experiencia y perspec[vas. Estoy seguro de que este intercambio será 
+
+enriquecedor para todos. 
+
+Que este curso sea un espacio para aprender, deba[r y construir juntos un futuro 
+
+en el que la tecnología esté al servicio de la jus[cia. 
+
+Muchas gracias. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducción a la IA, herramientas básicas para el ámbito jurídico y su aplicación 
+
+prácJca 
+
+Por Hernán Elman2 
+
+Abstract 
+
+Las  jornadas  sobre  Inteligencia  Ar[ﬁcial  y  Jus[cia,  organizadas  por  la  Cámara 
+
+Federal  de  Casación  Penal,  cons[tuyeron  un  espacio  único  para  reﬂexionar  sobre  el 
+
+impacto  transformador  de  la  inteligencia  ar[ﬁcial  (IA)  en  el  sistema  judicial.  La 
+
+inteligencia ar[ﬁcial, entendida como el úl[mo eslabón en una cadena de innovaciones 
+
+que  han  redeﬁnido  nuestra  civilización,  representa  un  desafo  y  una  oportunidad  sin 
+
+precedentes  para  op[mizar  procesos  judiciales,  ampliar  el  acceso  a  la  jus[cia  y 
+
+complementar las capacidades humanas en la toma de decisiones. 
+
+En  la  primera  ponencia,  [tulada  "De  la  teoría  a  la  prác.ca:  comprendiendo  la 
+
+inteligencia  ar.ﬁcial  y  sus  aplicaciones  en  la  Jus.cia",  se  exploraron  los  fundamentos 
+
+técnicos  de  la  IA,  las  precauciones  necesarias  para  su  implementación  é[ca  y 
+
+responsable, y su despliegue en diferentes niveles de complejidad en el ámbito judicial. 
+
+Desde herramientas de ges[ón documental y transcripción hasta sistemas predic[vos y 
+
+de análisis jurídico avanzado, la ponencia destacó el potencial de estas tecnologías para 
+
+transformar el trabajo de los operadores judiciales. 
+
+La segunda ponencia, "Explorando la IA en acción: casos prác.cos y plataformas 
+
+aplicadas al ámbito judicial", abordó de manera prác[ca el uso de plataformas como 
+
+ChatGPT,  Claude.ai,  y  Humata  para  tareas  jurídicas  especíﬁcas.  A  través  de  ejercicios 
+
+interac[vos, se demostró cómo estas herramientas pueden ser aliadas estratégicas en la 
+
+generación  de  documentos,  análisis  de  casos  y  traducción  de  conceptos  complejos  a 
+
+lenguaje accesible. Asimismo, se subrayó la importancia de una interacción consciente y 
+
+me[culosa,  basada  en  la  veriﬁcación  constante  de  resultados  y  el  respeto  por  la 
+
+conﬁdencialidad de los datos. 
+
+Estas  presentaciones  fueron  posibles  gracias  al  valioso  apoyo  de  la  Cámara 
+
+Federal de Casación Penal y sus organizadores: el presidente Dr. Mariano Borinsky, el 
+
+2 Director del Centro de Documentación Judicial, Consejo de la Magistratura de la Nación.  
+
+6 
+
+ 
+ 
+ 
+ 
+vicepresidente Daniel Petrone, la Secretaria Laura Kvitko y el prosecretario Juan Manuel 
+
+Garay,  quienes  contribuyeron  signiﬁca[vamente  al  éxito  del  evento,  a  quienes  deseo 
+
+felicitar una vez más por su compromiso e inicia[va. 
+
+La  integración  de  la  inteligencia  ar[ﬁcial  en  el  sistema  judicial  es  una  invitación  a 
+
+repensar  nuestra  relación  con  la  tecnología,  destacando  que  el  verdadero  avance  no 
+
+reside únicamente en la tecnología, sino en nuestra capacidad de integrarla crea[va y 
+
+é[camente al servicio de la Jus[cia. 
+
+Innovaciones que cambian el mundo: del fuego a la inteligencia arJﬁcial 
+
+La  historia  de  la  humanidad  puede  entenderse  como  una  sucesión  de 
+
+innovaciones transformadoras que han redeﬁnido nuestra forma de vivir, comunicarnos 
+
+y comprender el mundo. Estas innovaciones no surgen de manera espontánea o como 
+
+resultado  del  trabajo  de  genios  aislados,  sino  que  son  el  producto  de  esfuerzos 
+
+colec[vos, acumulación de conocimientos y procesos de colaboración con[nua. 
+
+Podemos trazar un arco evolu[vo de las grandes innovaciones tecnológicas que 
+
+han  marcado  nuestra  civilización.  Desde  el  dominio  del  fuego,  que  permi[ó  a  las 
+
+primeras  comunidades  humanas  calentarse,  cocinar  alimentos  y  protegerse,  hasta 
+
+invenciones  como  la  rueda,  la  escritura,  la  imprenta,  y  más  recientemente,  el 
+
+smartphone y la computadora personal, cada avance representa un salto cualita[vo en 
+
+nuestra capacidad de procesar información y transformar nuestro entorno. 
+
+Lo  fascinante  de  esta  evolución  tecnológica  es  la  aceleración  progresiva.  Si 
+
+consideramos que transcurrieron miles de años entre el dominio del fuego y la escritura, 
+
+las úl[mas décadas han sido tes[gos de transformaciones ver[ginosas. La invención de 
+
+la computadora, el desarrollo de internet, la aparición de la World Wide Web y ahora la 
+
+irrupción de la inteligencia ar[ﬁcial han ocurrido en un lapso increíblemente corto, casi 
+
+de manera exponencial. 
+
+La  inteligencia  ar[ﬁcial  no  debe  entenderse  como  un  fenómeno  aislado,  sino 
+
+como  el  resultado  de  décadas  de 
+
+inves[gación 
+
+interdisciplinaria  que 
+
+integra 
+
+conocimientos  de  campos  tan  diversos  como  la  computación,  la  matemá[ca,  la 
+
+psicología  cogni[va,  la  neurociencia  y  la  lingüís[ca.  No  es  un  destello  de  genialidad 
+
+7 
+
+ 
+ 
+individual, sino un complejo entramado de contribuciones ciennﬁcas y tecnológicas, de 
+
+las que en úl[mo caso, todos somos parte, conscientemente o no. 
+
+Hasta  hace  poco, 
+
+las  computadoras  funcionaban  bajo  un  modelo  de 
+
+programación  rígido:  cada  acción  debía  ser  especiﬁcada  mediante  instrucciones 
+
+detalladas y predeﬁnidas. La revolución del aprendizaje automá[co (machine learning) 
+
+ha  transformado  radicalmente  este  paradigma.  Ahora,  los  sistemas  de  inteligencia 
+
+ar[ﬁcial pueden aprender de grandes volúmenes de datos, iden[ﬁcar patrones, adaptar 
+
+sus modelos y mejorar con[nuamente su precisión. 
+
+El funcionamiento básico de la IA puede explicarse mediante un modelo simple 
+
+de tres componentes: input, función y output. Este modelo sirve tanto para entender un 
+
+procedimiento judicial, como la aplicación de una receta de cocina para elaborar, por 
+
+ejemplo, un pan. 
+
+Sin embargo, los sistemas actuales han evolucionado hacia arquitecturas mucho 
+
+más  complejas,  como  las  redes  neuronales  profundas,  que  integran  dis[ntas  capas, 
+
+siendo  así  capaces  de  procesar  múl[ples  variables  simultáneamente,  interpretar 
+
+contextos  y  generar  respuestas  soﬁs[cadas  que  se  aproximan  cada  vez  más  a  la 
+
+comprensión humana. 
+
+La  integración  de  la  inteligencia  ar[ﬁcial  en  nuestra  vida  co[diana  es  ya  una 
+
+realidad. Desde asistentes virtuales hasta herramientas de procesamiento de lenguaje 
+
+natural  capaces  de  traducir  y  generar  texto  con  sorprendente  ﬂuidez,  pasando  por 
+
+sistemas de generación de imágenes y videos que transforman descripciones textuales 
+
+en  representaciones  visuales  realistas,  la  IA  se  ha  conver[do  en  un  componente 
+
+fundamental de nuestra experiencia tecnológica. 
+
+La revolución de la inteligencia ar[ﬁcial nos invita a repensar nuestra relación con 
+
+la  tecnología,  especialmente  en  ámbitos  profesionales  complejos  como  el  sistema 
+
+judicial.  No  se  trata  simplemente  de  implementar  una  nueva  herramienta,  sino  de 
+
+comprender  cómo  estas  tecnologías  pueden  potenciar  las  capacidades  humanas  sin 
+
+reemplazarlas. 
+
+El uso efec[vo de estas herramientas requiere una aproximación me[culosa y 
+
+consciente.  Los  profesionales  que  han  comenzado  a  explorar  estas  tecnologías  han 
+
+8 
+
+ 
+ 
+descubierto que el éxito no depende sólo de la herramienta en sí, sino de la forma en 
+
+que  se  la  u[liza.  Una  solicitud  genérica  como  "¿Qué  dice  la  ley  sobre  esto?" 
+
+probablemente  generará  una  respuesta  vaga  e  imprecisa.  Sin  embargo,  cuando  se 
+
+formula  una  pregunta  especíﬁca,  citando  arnculos  concretos  y  proporcionando  un 
+
+contexto detallado, la herramienta puede ofrecer análisis sorprendentemente precisos. 
+
+La clave está en descomponer los problemas complejos en etapas más pequeñas 
+
+y manejables. Un análisis jurídico exitoso u[lizando inteligencia ar[ﬁcial no surge de una 
+
+única consulta, sino de un proceso metódico que incluye resumir los hechos, iden[ﬁcar 
+
+las  cues[ones 
+
+legales  centrales,  buscar  precedentes 
+
+relevantes  y  analizar 
+
+sistemá[camente los argumentos. 
+
+El contexto se convierte en el elemento fundamental. Cuanto más detallada sea 
+
+la información proporcionada, más precisa será la respuesta. Es como trabajar con un 
+
+asistente especializado que necesita comprender cada ma[z del caso para ofrecer una 
+
+perspec[va ú[l. 
+
+Sin  embargo,  la  veriﬁcación  constante  sigue  siendo  el  principio  rector.  La 
+
+inteligencia  ar[ﬁcial  no  es  infalible.  Su  construcción  del  conocimiento,  es  aún 
+
+incompleto, y las lagunas se completan con información que puede ser incorrecta. Los 
+
+profesionales  deben  mantener  una  ac[tud  crí[ca,  solicitando  explicaciones  de  los 
+
+razonamientos,  contrastando  perspec[vas  y  nunca  conﬁando  ciegamente  en  la 
+
+información generada. La conﬁdencialidad de la información y la protección de datos 
+
+sensibles  son  preocupaciones  centrales  que  requieren  también  una  manipulación 
+
+cuidadosa. 
+
+En dis[ntos sistemas judiciales del mundo, en tres niveles de complejidad, cada 
+
+uno  representando  una  forma  progresivamente  más  soﬁs[cada  de  intervención 
+
+tecnológica. En el nivel más básico, las herramientas se concentran en tareas de ges[ón 
+
+documental y administra[va, actuando como un asistente eﬁciente que alivia la carga 
+
+burocrá[ca  de  los  operadores  judiciales.  Aquí,  la  IA  se  comporta  como  un  gestor 
+
+documental inteligente, capaz de clasiﬁcar, sumarizar y anonimizar expedientes, realizar 
+
+búsquedas cogni[vas en repositorios legales y transcribir audiencias con una precisión 
+
+que hace poco [empo parecía imposible. Podemos mencionar como ejemplo chatbots, 
+
+9 
+
+ 
+ 
+el uso de asistentes conversacionales, herramientas de anonimización y traducción legal, 
+
+la clasiﬁcación automá[ca de expedientes, entre otras. 
+
+Cuando ascendemos al nivel de complejidad intermedia, la inteligencia ar[ﬁcial 
+
+comienza a asumir funciones más cercanas al análisis jurídico. Ya no se limita a organizar 
+
+documentos,  sino  que  puede  interpretar  argumentos  legales,  analizar  precedentes, 
+
+revisar contratos y generar borradores preliminares de documentos judiciales. Es como 
+
+tener  un  asistente  de  inves[gación  jurídica  que  trabaja  a  una  velocidad  y  con  una 
+
+capacidad de procesamiento muy superiores a las humanas, capaz de hacer conexiones 
+
+entre casos y legislaciones que podrían pasar desapercibidas para un profesional. En este 
+
+caso podemos nombrar los sistemas predic[vos COMPAS y HART para la evaluación del 
+
+riesgo  de  reincidencia,  o  los  sistemas  genera[vos  que  permiten  la  elaboración  de 
+
+borradores de documentos, incluidas las sentencias. 
+
+En  el  nivel  más  avanzado,  la  IA  explora  territorios  que  hasta  hace  poco 
+
+pertenecían al reino de la ciencia ﬁcción. Aquí, las herramientas comienzan a desarrollar 
+
+capacidades  la  autonomía  decisional,  con  sistemas  con  la  potencialidad  de  resolver 
+
+conﬂictos en línea o simular el proceso de toma de decisiones judiciales para causas de 
+
+baja complejidad. Se trata en todos los casos de modelos experimentales para causas 
+
+muy especíﬁcas, que más allá de los anuncios, no se conocen en profundidad. 
+
+Sin  embargo,  los  expertos  son  enfá[cos:  no  se  trata  de  reemplazar  el  juicio 
+
+humano, sino de complementarlo, ofreciendo perspec[vas adicionales y liberando a los 
+
+profesionales para concentrarse en aspectos más crea[vos y complejos de su trabajo. 
+
+Durante  la  clase  prác[ca,  exploramos  diversos  sistemas  que  ilustran  estas 
+
+potencialidades.  ChatGPT  se  reveló  como  una  herramienta  versá[l,  capaz  de  generar 
+
+documentos  jurídicos  con  una  coherencia  sorprendente,  adaptándose  rápidamente  a 
+
+diferentes  contextos  y  es[los.  Claude.ai  mostró  una  capacidad  extraordinaria  para 
+
+traducir lenguaje legal a términos comprensibles, actuando como un traductor que no 
+
+solo convierte palabras, sino que interpreta y simpliﬁca conceptos jurídicos complejos. 
+
+Humata presentó un enfoque innovador en el análisis documental, permi[endo 
+
+trabajar directamente sobre archivos PDF como una sentencia, y referenciar citas con 
+
+10 
+
+ 
+ 
+una  precisión  notable.  Su  fortaleza  radica  en  la  capacidad  de  extraer  y  contextualizar 
+
+información de manera inmediata, facilitando la inves[gación legal. 
+
+JUSTOIA  y  Video 
+
+Indexer  expandieron  nuestra  comprensión  sobre 
+
+las 
+
+posibilidades  de  transcripción  y  procesamiento  de  audio.  Estas  plataformas  no  solo 
+
+convierten grabaciones en texto, sino que lo hacen con una inteligencia contextual que 
+
+reconoce  las  voces,  reconstruyendo  un  diálogo,  y  la  mas  avanzada  de  ellas  incluso 
+
+captura  ma[ces  y  estructura  la  información  de  manera  intui[va,  clasiﬁcando  y 
+
+e[quetando el video con palabras clave y conceptos u[lizados durante la audiencia. 
+
+Finalmente,  GPT4All  se  presentó  como  una  solución  para  quienes  priorizan  la 
+
+privacidad, ofreciendo una plataforma que puede funcionar localmente, sin depender 
+
+de servicios en la nube, lo cual resulta crucial cuando se manejan datos sensibles. 
+
+Hemos reiterado que la inteligencia ar[ﬁcial (IA) es una herramienta que no sus[tuye al 
+
+humano,  sino  que  ampliﬁca  sus  capacidades.  Tal  como  la  imprenta  mul[plicó  la 
+
+capacidad de los escritores para compar[r conocimiento, la IA potencia las habilidades 
+
+de  los  operadores  judiciales  y  otros  profesionales,  permi[éndoles  concentrarse  en 
+
+tareas de mayor complejidad y valor estratégico. 
+
+En el ámbito judicial, su integración no solo op[miza procesos, sino que ofrece 
+
+una oportunidad para repensar la relación entre la tecnología y la toma de decisiones 
+
+humanas. 
+
+Las jornadas sobre Inteligencia Ar[ﬁcial y Jus[cia fueron un espacio clave para 
+
+explorar  cómo  la  IA  puede  transformar  el  sistema  judicial.  Lejos  de  desplazar  a  los 
+
+profesionales,  estas  tecnologías  los  capacitan  para  abordar  desafos  más  soﬁs[cados, 
+
+mejorando 
+
+la  eﬁciencia  y 
+
+la  calidad  del  trabajo  sin  comprometer  principios 
+
+fundamentales como la independencia y la conﬁdencialidad. 
+
+Lo hemos dicho, la verdadera revolución no está en las máquinas, sino en nuestra 
+
+capacidad  de  integrar  estas  tecnologías  de  manera  crea[va  y  colabora[va.  La  clave 
+
+radica en aprovechar los beneﬁcios de la innovación a nuestro modelo de trabajo y en 
+
+generar  marcos  regulatorios  claros  que  guíen  su  implementación,  buscando  siempre 
+
+lograr una jus[cia más ágil y eﬁcaz. 
+
+11 
+
+ 
+ 
+En deﬁni[va, la IA ofrece una gran promesa para el futuro de la jus[cia, pero su 
+
+éxito dependerá de nuestra capacidad para aprovecharla de manera é[ca y colabora[va. 
+
+La inteligencia ar[ﬁcial no es un ﬁn en sí mismo, sino un medio para seguir desarrollando 
+
+nuestra capacidad de comprender, transformar y mejorar el mundo que nos rodea. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ChatGPT en la prácJca jurídica 
+
+por Juan Manuel Garay3 
+
+El  obje[vo  de  mi  presentación  será  que  ustedes  se  vayan  con  una  idea  más 
+
+prác[ca de cómo usar ChatGPT personalizado. Es decir, que ustedes puedan personalizar 
+
+un ChatGPT para las tareas que quieran, con los documentos que ustedes quieran que 
+
+se alimente con eso. 
+
+Para  eso,  voy  a  mostrar  dos  ejemplos  prác[cos  para  que  ustedes  vean  lo  que 
+
+pueden hacer. Antes voy a hacer una breve introducción y algunas advertencias sobre 
+
+ellos. 
+
+El 29 de octubre pasado el tribunal de superintendencia de la CFCP aprobó el 
+
+dictado de estas jornadas. Al día siguiente, comenzamos con la difusión del evento y 20 
+
+días desde su promulgación, ya contábamos con más de 400 inscriptos de casi todas las 
+
+provincias del país. 
+
+La verdad que la convocatoria nos sorprendió y alegró mucho a todos. Pero en 
+
+realidad, si pensamos en el crecimiento y desarrollo que está teniendo el uso de la IA 
+
+actualmente y de ChatGPT en par[cular no debería ser una sorpresa. 
+
+En dos años ChatGPT alcanzó el mismo número de usuarios diarios que Neulix en 
+
+17 años. Esto pone en evidencia que la IA pasó de ser una promesa del futuro, algo que 
+
+parecía bastante lejano, y pasó a consolidarse como una herramienta imprescindible en 
+
+el presente. 
+
+Este uso masivo, ¿qué implica? Las tareas humanas, nuestros trabajos ¿se ven 
+
+amenazados? Cada vez vemos más seguido en internet, no[cias, twixer que dis[ntas 
+
+dependencias del estado van incorporando el uso de IA en sus tareas. Y en el ámbito 
+
+judicial, ¿cuál es el alcance del impacto? 
+
+Cuando hablamos de inteligencia ar[ﬁcial, suelen surgir dos posturas opuestas: 
+
+por  un  lado,  quienes  la  ven  como  una  amenaza  que  viene  a  reemplazarnos  o  incluso 
+
+conquistarnos; y por otro, los escép[cos que creen que no es más que una herramienta 
+
+limitada con poca u[lidad real. 
+
+3 Prosecretario de Cámara de la C.F.C.P. 
+
+13 
+
+ 
+ 
+ 
+ 
+Mi obje[vo es mostrar que ninguna de estas dos visiones captura plenamente el 
+
+potencial. Más allá del temor o de la subes[mación que podamos tener, lo cierto es que 
+
+la  IA  ofrece  oportunidades  concretas  para  transformar  nuestras  tareas  diarias,  sin 
+
+reemplazar el juicio humano. 
+
+Mi  visión  que  quiero  transmi[r  es  algo  así:  un  trabajo  conjunto  en  el  que  la 
+
+inteligencia ar[ﬁcial esté al servicio nuestro. 
+
+Esto  es  importante  porque,  primero,  la  IA  no  está  diseñada  para  reemplazar 
+
+nuestras  funciones.  No  es  el  obje[vo.  Es  una  herramienta  que  sirve  para  mejorar  la 
+
+eﬁciencia de nuestras tareas. En lo que respecta a la función judicial, especíﬁcamente, 
+
+nuestra intervención humana es indispensable por 3 aspectos principales: el juicio crí[co 
+
+que necesitamos al resolver cada caso, la interpretación jurídica que podemos dar y las 
+
+implicancias é[cas y sociales de los casos que tenemos que resolver.  
+
+14 
+
+ 
+ 
+ 
+ 
+Pero ¿qué limitaciones presenta ChatGPT que no puede reemplazarnos? Porque 
+
+no  es  solamente  que  no  nos  reemplaza  porque  no  quiere,  sino  que  también  [ene 
+
+algunas limitaciones. Son los llamados sesgos y alucinaciones. 
+
+Estos son casos que salieron mal como, por ejemplo, jurisprudencia inventada. El 
+
+caso Mata vs. Avianca surgió cuando el abogado de Mata presentó documentos legales 
+
+con  citas  ﬁc[cias  generadas  por  ChatGPT  ante  un  tribunal  federal  del  distrito  sur  de 
+
+Nueva York. El tribunal sancionó al abogado con una multa de 5 mil USD. El abogado 
+
+argumentó  que  desconocía  que  la  IA  podía  producir  información  inventada,  pero  el 
+
+tribunal destacó la obligación de veriﬁcar las fuentes. 
+
+Este  caso  fue  de  los  primeros  en  poner  en  evidencia  los  riesgos  del  uso 
+
+irresponsable de herramientas tecnológicas en el ámbito legal. 
+
+Sin embargo, no fue el único. Un juez de la Corte Suprema de Colorado (Estados 
+
+Unidos) suspendió a un abogado por 90 días por citar jurisprudencia falsa generada por 
+
+ChatGPT. 
+
+Pero no solo pasa a los abogados, sino que también le pasó a un juez federal que 
+
+confo ciegamente en ChatGPT. El Consejo Nacional de Jus[cia (CNJ) de Brasil abrió una 
+
+inves[gación  contra  un  juez  federal  que  uso  inteligencia  ar[ﬁcial  en  una  sentencia  e 
+
+15 
+
+ 
+ 
+ 
+ 
+incluyó  una  jurisprudencia  inexistente  que  la  IA  le  había  proporcionado.  La  decisión 
+
+contenía referencias a jurisprudencia inexistente, atribuidas erróneamente al Supremo 
+
+Tribunal de Jus[cia. 
+
+Como vemos, en el ámbito de la IA, se presenta el problema de las alucinaciones. 
+
+Una  alucinación  ocurre  cuando  el  modelo  genera  información  que  parece 
+
+plausible, pero es incorrecta, inventada o inexacta. Esto sucede porque los modelos de 
+
+lenguaje  están  diseñados  para  generar  respuestas  en  función  de  patrones  y 
+
+probabilidades en el texto, y a veces esa información puede ser completada con algo que 
+
+“suena” como correcto, pero no lo es. 
+
+El segundo problema que presenta la IA son los sesgos. Al estar entrenados con 
+
+grandes  can[dades  de  datos  recopilados  de  internet  y  otras  fuentes,  los  modelos 
+
+pueden  aprender  patrones  y  sesgos  presentes  en  esos  datos.  Esto  puede  llevar  a 
+
+respuestas que reﬂejan ciertos prejuicios o perspec[vas limitadas. 
+
+Tay de Microsoz se podría decir que fue el primer experimento de IA mediante 
+
+la  creación  de  un  Chatbot.  Estaba  programado  para  aprender  directamente  de  las 
+
+interacciones que recibía en Twixer. Pero no se implementaron los controles humanos 
+
+suﬁcientes. Y TAY comenzó a compar[r contenido ofensivo, inapropiado y a reproducir 
+
+discursos de odio. 
+
+16 
+
+ 
+ 
+ 
+Por eso, como decíamos, la interacción y el control humano son fundamentales. 
+
+Hay tareas, decisiones que no deben ser tomadas por una inteligencia ar[ﬁcial 
+
+justamente por esto que resaltaba antes del juicio crí[co y las implicancias é[cas de cada 
+
+caso. Lo vemos en las sentencias o en las medidas cautelares sobre todo. Esto no quiere 
+
+decir que no nos podamos apoyar en ChatGPT para resolver algunas cues[ones pero la 
+
+decisión ﬁnal es pura y exclusivamente humana. 
+
+Después  tenemos  lo  que  se  llama  Human  in  the  Loop  que  es  el  control  en  el 
+
+proceso.  Acá  la  inteligencia  ar[ﬁcial  realiza  una  tarea  inicial  como  recomendar  la 
+
+aplicación de un determinado presente, por ejemplo, cuando nos da una jurisprudencia 
+
+pero el humano debe revisarlo y tener el control ﬁnal sobre el resultado. 
+
+Por úl[mo, está Human over the Loop que es el control humano más remoto. Son 
+
+tareas que sí son más automa[zables, son más fáciles, que podemos conﬁar un poco 
+
+más  en  la  inteligencia  ar[ﬁcial.  Pero  ¿dónde  está  el  control  humano?  Bueno,  en  la 
+
+conﬁguración  inicial  y  en  tareas  digamos  de  mantenimiento  que  conserve  esta 
+
+conﬁabilidad y poder tener una supervisión que si bien no [ene que ser constante sí 
+
+[ene que ser periódica. Porque, de nuevo, ChatGPT, la inteligencia ar[ﬁcial se nutre de 
+
+información y a veces cuando queremos indagar con mayor profundidad puede recurrir 
+
+a sesgos o tener alucinaciones. 
+
+La  historia  nos  muestra  que  las  innovaciones  tecnológicas  [enden  a  generar 
+
+cambios profundos en las dinámicas laborales, pero rara vez eliminan completamente 
+
+el  trabajo  humano.  Más  bien,  lo  transforman,  creando  nuevas  oportunidades  y 
+
+desaVos. 
+
+17 
+
+ 
+ 
+En  los  años  70,  se  temía  que  los  cajeros  automá[cos  reemplazarían  a  los 
+
+empleados bancarios. En realidad, permi[eron que los bancos abrieran más sucursales, 
+
+lo que amplió las oportunidades laborales en servicios ﬁnancieros. 
+
+Yo creo que de manera similar con este ejemplo y muchos otros, la Inteligencia 
+
+Ar[ﬁcial  no  busca  sus[tuir  a  los  profesionales,  sino  complementar  sus  habilidades, 
+
+liberándolos  de  tareas  repe[[vas  para  concentrarse  en  ac[vidades  estratégicas, 
+
+humanas y crea[vas que requieren juicio, empana y experiencia. 
+
+Es  cierto  que  la  IA  puede  automa[zar  ciertas  tareas  que  antes  realizaban 
+
+personas, pero eso no necesariamente implica un reemplazo total de los trabajadores. 
+
+Más  bien,  implica  una  transformación  de  los  roles.  Las  tareas  ru[narias  y  repe[[vas 
+
+pueden ser delegadas a la IA, liberando a las personas para enfocarse en ac[vidades que 
+
+requieren juicio, crea[vidad y toma de decisiones, donde la intervención humana sigue 
+
+siendo  esencial.  La  clave  está  en  ver  a  la  IA  como  una  herramienta  para  potenciar 
+
+nuestras capacidades, no para desplazarlas, y en prepararnos para adaptarnos a estos 
+
+nuevos desafos. 
+
+En la jus[cia, esto ya pasó, por ejemplo con la implementación del Sistema Lex 
+
+100.  
+
+18 
+
+ 
+ 
+ 
+ 
+Al igual que en cada transformación pasada, la clave está en la adaptación. La 
+
+jus[cia [ene la oportunidad de liderar este cambio al integrar estas herramientas como 
+
+aliadas, para construir un sistema más eﬁciente, accesible y humano. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“JusJcia e Inteligencia ArJﬁcial” 
+
+Por Daniel Antonio Petrone4 
+
+Colaborador Emiliano Vallejo5 
+
+Introducción.  
+
+En el desarrollo de la denominada era digital, la presencia de herramientas de 
+
+inteligencia ar[ﬁcial (IA) en el ámbito jurídico es cada vez más evidente, con aplicaciones 
+
+cada  vez  más  frecuentes  en  la  administración  de  jus[cia,  ac[vidades  policiales  y 
+
+procesos  penales.  En  Estados  Unidos,  por  ejemplo,  destaca  el  sistema  COMPAS, 
+
+básicamente u[lizado para evaluar el riesgo de reincidencia de personas en conﬂicto con 
+
+la  ley  penal,  u[lizando  algoritmos  para  analizar  datos  como  antecedentes  penales, 
+
+caracterís[cas personales y otros factores. 
+
+Regulación en la Unión Europea. Herramientas de IA.   
+
+Ante  este  panorama,  surge  la  necesidad  de  un  marco  legal  que  proteja  los 
+
+derechos de los ciudadanos. Europa ha sido pionera en la regulación de la IA, adoptando 
+
+un enfoque estructurado para abordar los desafos é[cos y legales que estas tecnologías 
+
+plantean. Este esfuerzo regulatorio comenzó en 2020 con los debates iniciales sobre un 
+
+Reglamento de IA en el Consejo de Europa, culminando en un acuerdo provisional el 9 
+
+de diciembre de 2023. Finalmente, el Reglamento (UE) 2024/1689 (RIA) fue publicado 
+
+en el Diario Oﬁcial de la Unión Europea el 12 de julio de 2024, entrando en vigor en 
+
+agosto del mismo año6. 
+
+Al respecto, el RIA introduce conceptos fundamentales, como las deﬁniciones de 
+
+inteligencia ar[ﬁcial, proveedor y usuario, y establece normas armonizadas para el uso 
+
+de sistemas de IA, incluyendo la IA genera[va y de propósito general. Sin embargo, lo 
+
+más relevante es su enfoque basado en el riesgo, que clasiﬁca los sistemas de IA según 
+
+su  impacto  potencial  en  la  salud,  la  seguridad  y  los  derechos  fundamentales, 
+
+permi[endo  establecer  medidas  especíﬁcas  para  mi[gar  riesgos  y  garan[zar  un  uso 
+
+seguro y é[co. Esta clasiﬁcación incluye: 
+
+4 Vicepresidente de la Cámara Federal de Casación Penal. 
+5 Prosecretario de Cámara de la C.F.C.P. 
+6 https://artiﬁcialintelligenceact.eu/es/avances/ 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) Sistemas prohibidos: aquellos con impacto nega[vo en derechos y libertades, 
+
+como los que manipulan el comportamiento humano mediante técnicas subliminales, el 
+
+uso  de  IA  por  autoridades  públicas  para  puntuar  a  los  ciudadanos  según  su 
+
+comportamiento social, o el reconocimiento facial en [empo real en espacios públicos, 
+
+salvo excepciones muy limitadas. 
+
+b) Sistemas de alto riesgo: sujetos a requisitos estrictos por su posible impacto 
+
+en  derechos  fundamentales.  Esto  incluye  sistemas  que  determinan  el  acceso  a  la 
+
+educación, empleo o evaluaciones de desempeño. Estas herramientas deben garan[zar 
+
+supervisión  humana,  transparencia  en  su  funcionamiento  y  trazabilidad  en  sus 
+
+decisiones. 
+
+c) Sistemas de riesgo limitado: requieren medidas moderadas como informar a 
+
+los usuarios que están interactuando con sistemas de IA, como en el caso de los chatbots. 
+
+d) Sistemas de bajo riesgo: aplicaciones generales como videojuegos o asistentes 
+
+virtuales.  Aunque  el  reglamento  no  impone  obligaciones  especíﬁcas,  es  fundamental 
+
+ges[onar  los  riesgos  legales  derivados  de  su  uso,  como  en  temas  de  propiedad 
+
+intelectual y protección de datos personales, entre otros7. 
+
+Esta clasiﬁcación resulta especialmente relevante si consideramos la diversidad 
+
+de herramientas de IA que ya se u[lizan en múl[ples sectores, como “Veripol”, diseñada 
+
+por la Policía Nacional de España para iden[ﬁcar denuncias falsas, y “Calculadora 998”, 
+
+u[lizada por los tribunales en aquel país para automa[zar el cálculo de acumulación de 
+
+condenas.  
+
+Tan  evidente  es  el  avance  de  estas  tecnologías  que  la  Comisión  Europea  ha 
+
+considerado necesario desarrollar un Código de Prác[cas de IA de Propósito General8. 
+
+Este documento, aún en borrador, y a pesar de las diferencias regulatorias y contextuales 
+
+entre  la  Unión  Europea  y  América  La[na,  debe  tomarse  en  cuenta,  especialmente 
+
+considerando que en la región la regulación de la IA aún se encuentra en sus primeras 
+
+etapas, ya que sus directrices buscan mi[gar riesgos y fomentar la conﬁanza en el uso 
+
+7 https://artiﬁcialintelligenceact.eu/es/article/5/  
+8 https://digital-strategy.ec.europa.eu/en/library/ﬁrst-draft-general-purpose-ai-code-practice-
+published-written-independent-experts  
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de  tecnologías  avanzadas,  aspectos  esenciales  para  la  integración  segura  de  la  IA  en 
+
+diversos sectores.  
+
+Además,  las  categorías  deﬁnidas  por  el  RIA  y  las  directrices  del  Código  de 
+
+Prác[cas  son  herramientas  esenciales  para  abordar  cues[ones  que  generan  debates 
+
+como  la  explicabilidad,  auditabilidad  y  la  trazabilidad  de  los  sistemas  de  IA.  Estos 
+
+conceptos adquieren una relevancia par[cular en el ámbito del derecho penal, ya que 
+
+están directamente vinculados con la garanna del derecho de defensa de los acusados, 
+
+al requerir sistemas transparentes que permitan comprender y cues[onar los resultados 
+
+generados por la IA, evitando mecanismos denominados “black boxes”.  
+
+Inteligencia ArJﬁcial en ArgenJna. Casos concretos de uso. 
+
+En Argen[na, la regulación de la IA se encuentra en una etapa inicial, aunque con 
+
+avances signiﬁca[vos en diversas áreas. Si bien aún no existe una norma[va integral, se 
+
+están  llevando  a  cabo  inicia[vas  para  abordar  los  desafos  y  oportunidades  que  la  IA 
+
+plantea en contextos especíﬁcos. En ese marco, el 6 de agosto de 2024, la Comisión de 
+
+Ciencia,  Tecnología  e  Innovación  Produc[va  de  la  Cámara  de  Diputados  convocó  a 
+
+expertos para analizar seis proyectos relacionados con la regulación de la IA9. 
+
+Además, en 2023 se adoptó la Disposición 2/2023 de la Jefatura de Gabinete de 
+
+Ministros, inspirada en la Recomendación sobre la É[ca de la Inteligencia Ar[ﬁcial de la 
+
+UNESCO. Este documento destaca la necesidad de garan[zar que las decisiones recaigan 
+
+siempre en las personas, fomentar la diversidad en los equipos de desarrollo y aplicar 
+
+metodologías preven[vas para an[cipar posibles fallos en los sistemas de IA. 
+
+El  Poder  Judicial  también  ha  comenzado  a  tomar  conciencia  sobre  el  uso 
+
+responsable  de  la  IA,  adoptando  guías  y  protocolos  que  promueven  la  supervisión 
+
+humana y el cumplimiento é[co. Una de las inicia[vas más destacadas es el Programa 
+
+Nacional Integral de Inteligencia Ar[ﬁcial en la Jus[cia, lanzado en 2024, cuyo obje[vo 
+
+principal  es  mejorar  la  eﬁciencia  de  los  procesos  judiciales,  siempre  respetando  los 
+
+derechos fundamentales. 
+
+9 https://www.youtube.com/@diputados.argentina 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En  ese  sen[do,  provincias  como  San  Juan10  y  Río  Negro11  han  implementado 
+
+protocolos especíﬁcos para el uso aceptable de la IA genera[va. Estas guías enfa[zan la 
+
+supervisión  en  todas  las  etapas  de  interacción  con  la  IA,  prohíben  delegar  decisiones 
+
+completamente a los sistemas, garan[zan la capacitación de los usuarios y promueven 
+
+la  protección  de  datos  personales,  la  minimización  de  sesgos  y  un  uso  é[co  de  estas 
+
+herramientas. 
+
+Asimismo, se han desarrollado herramientas innovadoras en diferentes ámbitos. 
+
+Entre ellas, PROMETEA en la Ciudad Autónoma de Buenos Aires, introducida en 2017, 
+
+que u[liza aprendizaje automá[co para ges[onar expedientes ﬁscales, controlar plazos 
+
+y  proponer  soluciones  basadas  en  casos  similares.  En  San  Juan,  un  sistema  de  IA 
+
+automa[za  procesos  sencillos  en  ejecuciones  ﬁscales,  mientras  que,  en  Río  Negro,  el 
+
+fuero  contencioso  administra[vo  emplea  IA  para  veriﬁcar  la  consistencia  de  la 
+
+información en demandas ﬁscales y redactar sentencias sencillas basadas en modelos 
+
+consensuados por los jueces. En Mendoza, el fuero laboral ha comenzado a u[lizar la 
+
+herramienta CONCILIA, que facilita la homologación de convenios entre partes, reduce 
+
+errores y permite realizar trámites de manera completamente remota gracias a la ﬁrma 
+
+biométrica. 
+
+Conclusión.  
+
+En América La[na, los esfuerzos para regular la IA avanzan de manera progresiva, 
+
+aunque aún no existe un marco integral a nivel regional. Países como México, Brasil, Chile 
+
+y  Colombia  han  desarrollado  proyectos  de  ley  y  planes  estratégicos  enfocados  en  la 
+
+innovación tecnológica y el uso é[co de la IA.  
+
+Entre los principales retos de la región se encuentra la falta de infraestructura 
+
+tecnológica, que limita la implementación efec[va de la IA en varios países. Además, es 
+
+crucial fomentar la colaboración interdisciplinaria entre los Estados, el sector privado y 
+
+las comunidades académicas para crear marcos sostenibles que equilibren innovación y 
+
+protección de derechos. Persiste también el debate sobre la conveniencia de adoptar 
+
+10 Acordada nro. 102/24 de la Corte de Justicia de la Provincia de San Juan, emitida el 15 de octubre 
+de 2024.  
+
+11 Acordada nro. 15/24 del Superior Tribunal de Justicia de la Provincia de Río Negro, emitida el 1 de 
+octubre de 2024.  
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+marcos generales frente a norma[vas especíﬁcas para dis[ntas aplicaciones, mientras 
+
+que  la  ausencia  de  organismos  dedicados  exclusivamente  a  supervisar  y  aplicar  estas 
+
+norma[vas representa un desafo adicional. 
+
+Asimismo,  la  implementación  de  la  IA  plantea  interrogantes  en  punto  a  sus 
+
+límites, especialmente en el ámbito judicial, donde el derecho de defensa podría verse 
+
+afectado si no se garan[za la transparencia de los procesos.  
+
+Por lo tanto, aunque la IA ofrece grandes beneﬁcios, no puede sus[tuir al juicio 
+
+humano y su uso debe ser siempre complementario, bajo una supervisión que garan[ce 
+
+la é[ca y la transparencia.    
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Algoritmos predicJvos 
+
+Por Juan Manuel Garay12 
+
+Hoy  mi  presentación  va  a  estar  dirigida  a  dar  un  paneo  general  sobre  los 
+
+algoritmos predic[vos, cómo se u[lizan en la jus[cia, qué son y cuáles son los principales 
+
+problemas que presentan. 
+
+Los  algoritmos  predic[vos  son  sistemas  que  buscan  an[cipar  resoluciones 
+
+futuras analizando gran can[dad de datos pasados. Principalmente, buscan celeridad, 
+
+precisión y evaluar riesgos de reincidencia en la jus[cia. Los principales son PSA, LSI-R, 
+
+HART, CAS y COMPAS. 
+
+Pero  no  solo  se  u[lizan  en  la  jus[cia.  Los  algoritmos  predic[vos  cada  vez  se 
+
+u[lizan más en más ámbitos, en dis[ntos ámbitos. En Estados Unidos, por ejemplo, los 
+
+bancos los u[lizan para evaluar la probabilidad de que una persona a la que se le otorgue 
+
+un  crédito  efec[vamente  pague.  Es  decir,  miden  esta  probabilidad  de  que  la  persona 
+
+devuelva hace dinero y sea apta para el crédito. Lo curioso es que lo hacen a par[r de 
+
+palabras u[lizadas por el solicitante.  Las mayores probabilidades, por ejemplo, se dan 
+
+en  expresiones  como  “[pos  de  interés  más  bajos”  o  “después  de  impuestos”  que 
+
+denotan algún grado de conocimiento ﬁnanciero mientras que, si la persona que le está 
+
+solicitando  hace  mayor  hincapié  en  la  promesa  de  pago,  las  probabilidades  bajan 
+
+notoriamente. 
+
+Uno puede preguntarse ¿son algoritmos que necesitas realmente para evaluar la 
+
+capacidad  credi[cia  de  una  persona?  ¿no  se  puede  evaluar  de  otra  manera?  Bueno, 
+
+justamente, nos dan estas predicciones, estos datos con los que antes no contábamos.  
+
+También se u[lizan en el ámbito de salud y de seguros. 
+
+Como  dije,  los  algoritmos  predic[vos  son  análisis  de  gran  can[dad  de  datos 
+
+llamados Big Data. 
+
+12 Prosecretario de Cámara, C.F.C.P. 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+La mayoría de los que se u[lizan, sobre todo, en el ámbito penal están dirigidos 
+
+a  evaluar  una  probabilidad  de  reincidencia,  para  evaluar  también  el  otorgamiento  de 
+
+ins[tutos de libertad an[cipada y de medidas cautelares. 
+
+El Public Safety Assessement (PSA) está des[nado a la libertad previa al juicio. Se 
+
+u[liza en varias jurisdicciones estatales y locales en Estados Unidos actualmente. ¿Qué 
+
+nos va a querer demostrar el PSA?  
+
+Primero, cuál es el riesgo de no presentarse ante el tribunal para el juicio. También nos 
+
+va a dar una probabilidad del riesgo de que el sujeto cometa un nuevo delito mientras 
+
+espera el juicio y que ese delito nuevo sea violento. 
+
+¿Cuáles  son  los  factores  principales  de  análisis  de  estas  herramientas?  En  el  caso 
+
+par[cular del PSA vamos a tener: 
+
+•  Edad al momento del arresto 
+
+•  Historial de comparecencias fallidas 
+
+•  Condenas previas (delitos violentos y no violentos) 
+
+•  Arrestos previos por delitos graves 
+
+•  Cualquier historial de delitos violentos recientes 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+Después tenemos los Sistemas de Evaluación e Intervención Correccional que son el 
+
+LSI-R  y  el  CAS.  Están  dirigidos  a  la  resocialización:  evalúan  cuáles  son  los  riesgos 
+
+vinculados  con  la  rehabilitación,  la  supervisión  y  la  reintegración  de  individuos  a  la 
+
+sociedad. Se u[lizan en Estados Unidos, Canadá y Australia. 
+
+El CAS se u[liza en Nueva Zelanda, por ejemplo, para decidir sobre el otorgamiento 
+
+de  libertades  an[cipadas  previas  al  cumplimiento  de  la  condena  como  puede  ser  la 
+
+libertad condicional. 
+
+Los factores o las variables que estos sistemas van a evaluar son: 
+
+•  Historial criminal 
+
+•  Empleo y educación 
+
+•  Situación ﬁnanciera  
+
+•  Relaciones familiares y sociales 
+
+•  Alojamiento 
+
+•  Uso de [empo libre 
+
+•  Drogas y alcohol 
+
+•  Problemas emocionales/personales 
+
+•  Ap[tudes/profesiones 
+
+•  Comportamiento an[social  
+
+Los factores cada vez son un poco más cues[onables. El uso de [empo libre para 
+
+evaluar el otorgamiento de una medida de morigeración pareciera que no [ene mucho 
+
+que ver.  Algunos factores son discu[bles. 
+
+El  COMPAS  es  el  que  más  aplicación  [ene  actualmente  en  Estados  Unidos. 
+
+Básicamente, genera un perﬁl de ges[ón correccional de delincuentes para sanciones 
+
+alterna[vas. Las par[cularidades del COMPAS con respecto al resto de los algoritmos es 
+
+que es desarrollado por una empresa privada. 
+
+Está  dirigido  a  disminuir  la  probabilidad  de  reincidencia  general  y  violenta.  El 
+
+COMPAS realiza una predicción en base a una encuesta. Primero evalúa determinados 
+
+factores y luego [ene una encuesta de 137 preguntas que se le hacen al condenado. 
+
+27 
+
+ 
+ 
+Estos  son  los  [pos  de  escalas  principales  del  algoritmo.  Las  escalas  son  los 
+
+factores que se van a tener en cuenta al momento de que COMPAS haga su informe. 
+
+Dentro de las 137 preguntas que son dirigidas al pe[cionante del ins[tuto de que 
+
+se trate tenemos preguntas como:  
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+¿Cómo hace COMPAS con esta información? ¿qué hace? sabemos que se nutre 
+
+de determinada información que le damos nosotros de las respuestas a determinadas 
+
+preguntas, pero ¿cómo funciona? ¿qué peso [ene cada una de estas respuestas cada 
+
+una de estas escalas? Bueno, lo que hace a COMPAS tan par[cular es está diseñado por 
+
+una  empresa  privada.  No  sabemos  cómo  funciona,  no  sabemos  cómo  razona  la 
+
+información que le brindamos. Esto es un algoritmo de caja negra. Quiere decir que su 
+
+arquitectura no permite conocer su funcionamiento ni saber cómo inﬂuyen esas escalas 
+
+en  la  determinación  del  nivel  de  riesgo  de  reincidencia.  Esto  por  supuesto  es  muy 
+
+cri[cable. De hecho, huno un planteo ante los tribunales de Estados Unidos en el caso 
+
+Loomis. El planteo no prosperó básicamente sobre la idea de que es un algoritmo de 
+
+caja  negra,  porque  es  de  propiedad  privada  y  por  derechos  intelectuales  [enen  la 
+
+potestad de no decir cómo funciona. Sin embargo, lo que sí se puede evaluar desde el 
+
+lado del defensor es el informe ﬁnal. 
+
+¿Qué vamos a tener con todos estos algoritmos? un puntaje.   
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Para  concluir  con  estos  dos  personajes  el  escép[co  y  el  apocalíp[co,  quiero 
+
+invitarlos a pensar estas herramientas como tales que no escapen del control humano. 
+
+Y preguntarnos si en algún punto las preguntas o las escalas no reﬂejan lo que sucede 
+
+actualmente en la realidad sin el uso de algoritmo. Hay pensar si no exigimos más a la 
+
+inteligencia ar[ﬁcial que a nosotros mismos y no lo juzgamos con la misma vara teniendo 
+
+en cuenta principalmente que los sesgos de la inteligencia ar[ﬁcial son un espejo de la 
+
+información que nosotros le brindamos y la información que nosotros generamos. 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31

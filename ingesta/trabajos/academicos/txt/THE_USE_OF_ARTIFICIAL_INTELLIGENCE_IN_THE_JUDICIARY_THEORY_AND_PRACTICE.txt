@@ -1,0 +1,926 @@
+# Fuente
+- archivo: THE_USE_OF_ARTIFICIAL_INTELLIGENCE_IN_THE_JUDICIARY_THEORY_AND_PRACTICE.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\THE_USE_OF_ARTIFICIAL_INTELLIGENCE_IN_THE_JUDICIARY_THEORY_AND_PRACTICE.pdf
+- extraido: 2026-04-24T11:34:07
+
+# Contenido
+
+UDC: 347.9(045)(571.1)
+
+SUD HOKIMIYATI ORGANLARIDA SUN’IY 
+INTELLEKTNING QO‘LLANILISHI: NAZARIYA VA 
+AMALIYOT
+
+Bozarov Sardor Sohibjonovich, 
+
+Toshkent davlat yuridik universiteti 
+O‘quv-uslubiy boshqarma boshlig‘i, 
+yuridik fanlar bo‘yicha falsafa doktori, dotsent 
+ORCID: 0000-0003-0123-7811
+e-mail: Sardor_bazarov1980@mail.ru 
+Аnnotatsiya.  Mazkur  maqolada  muallif  tomonidan  sudlarda  sunʼiy  intellektning  asosiy  vazifalari: 
+maʼlumotlarni  tashkil  etish,  maslahat  berish,  bashorat-oldindan  taxmin  qilish  kabi  funksiyalari  tahlil 
+etilgan.  Bundan  tashqari,  ushbu  maqolada  sud  amaliyotida  SIning  qo‘llanilishi  tamoyillari:  axloqiy,  in-
+son  huquqlari  hurmat  qilinishi,  teng  munosabatda  bo‘lish,  maʼlumotlar  xavfsizligini  taʼminlash,  shaf-
+foflik,  sunʼiy  intellektning  foydalanuvchilar  nazorati  ostida  bo‘lishi  tamoyillari  ilmiy  nuqtai  nazardan 
+ko‘rib  chiqilgan.  Shu  bilan  birga,  muallif  o‘z  maqolasida  sunʼiy  intellektdan  sud  hokimiyati  organlarida 
+samarali foydalanish kabi masalalarni atroflicha o‘rgangan. Muallif o‘z xulosasida sunʼiy intellektni sud-
+da qo‘llashni yanada takomillashtirish bo‘yicha takliflarni ilgari surgan. Sud amaliyotining bir xilligi va 
+sud hujjatlarining ochiqligi taʼminlanadi. Fuqarolar uchun sunʼiy intellekt АT sohasidagi eng so‘nggi yu-
+tuqlardan foydalangan holda, sud ishlarini ko‘rib chiqish natijalarini topish va baholash uchun sifatli vo-
+sitaga aylanadi. Bu daʼvogarga sudga daʼvo qilingan arizaning muvaffaqiyatli bo‘lish ehtimolini taxmin 
+qilish va shu asosda ishni sudga bermasdan qaror qabul qilish imkonini beradi.
+
+Kalit  so‘zlar:  sunʼiy  intellekt,  bashorat-oldindan  taxmin  qilish,  axloqiy  tamoyillar,  inson  huquqlari 
+hurmat  qilinishi  tamoyili,  teng  munosabatda  bo‘lish  tamoyili,  maʼlumotlar  xavfsizligini  taʼminlash,  sud 
+hokimiyati organlari, raqamlashtirish, sunʼiy intellektni nazorat qilish, katta hajmdagi maʼlumotlar (big 
+data).
+
+ПРИМЕНЕНИЕ ИСКУССТВЕННОГО ИНТЕЛЛЕКТА В ОРГАНАХ СУДЕБНОЙ ВЛАСТИ: 
+ТЕОРИЯ И ПРАКТИКА 
+
+Бозаров Сардор Сохибжонович
+
+, 
+доктор философии по юридическим наукам, 
+доцент, начальник Учебно-методического управления 
+Ташкентского государственного юридического университета 
+Аннотация. В данной статье автором проанализированы основные функции искусственно-
+го интеллекта в судах, такие как организация данных, консультирование, прогнозирование. Кро-
+ме того, в статье рассматриваются с научной точки зрения принципы применения искусствен-
+ного интеллекта в судебной практике: этические принципы, принцип соблюдения прав человека, 
+принцип  равноправия,  принцип  безопасности  данных,  принцип  прозрачности,  принципы  поль-
+зовательского  контроля  за  искусственным  интеллектом.  Наряду  с  вышеизложенным  автор 
+подробно изучил такие вопросы, как эффективное использование искусственного интеллекта в 
+судебной системе. В заключении автор выдвигает предложения по дальнейшему совершенство-
+Так, будут обеспечены единообразие 
+ванию использования искусственного интеллекта в судах.
+
+39
+
+YURISPRUDENSIYA / 3 / 2022ISSN 2181-193812.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQI 
+судебной  практики  и  прозрачность  судебных  документов.  Для  граждан  искусственный  интел-
+лект станет качественным инструментом поиска и оценки исхода судебного разбирательства 
+с использованием последних достижений в области информационных технологий. Это позволя-
+ет истцу предсказать вероятность успеха рассмотрения иска и на основе этого принять реше-
+ние, не обращаясь в суд.
+
+Ключевые  слова:  искусственный  интеллект,  прогнозирование,  этические  принципы,  прин-
+цип защиты прав человека, принцип равенства, обеспечение безопасности информации, органы 
+судебной  власти,  цифровизация,  контроль  искусственного  интеллекта,  большие  данные  (big 
+data).
+
+THE USE OF ARTIFICIAL INTELLIGENCE IN THE JUDICIARY: THEORY AND PRACTICE
+
+Bazarov Sardor Sohibjonovich, 
+
+Head of the Educational and Methodological Department
+of Tashkent State University of Law, 
+Doctor of Philosophy in Law, Associate professor
+Abstract. In this article, the author analyzes the main functions of artificial intelligence in courts: such 
+as organizing data, consulting, and forecasting. In addition, this article discusses the principles of applying 
+artificial  intelligence  in  judicial  practice  from  a  scientific  point  of  view:  such  as  ethical  principles,  the 
+principle of respect for human rights, the principle of equality, the principle of data security, the principle 
+of transparency, the principle of user control over artificial intelligence. Along with the above, the author 
+thoroughly  studied  the  effective  use  of  artificial  intelligence  in  the  judicial  system.  In  conclusion,  the 
+author puts proposals forward for further improvement of the use of artificial intelligence in courts that 
+uniformity of court practice and transparency of court documents will be ensured. For citizens, artificial 
+intelligence will become a quality tool for finding and evaluating the outcome of court proceedings using 
+the latest advances in IT. This allows the plaintiff to predict the likelihood of the success of the application 
+being sued and to make a decision on that basis without going to court.
+
+Keywords:  artificial  intelligence,  predict-prognosis,  ethical  principles,  the  principle  of  protecting 
+human  rights,  the  principle  of  equality,  ensuring  the  security  of  information,  judicial  authorities, 
+digitalization, artificial intelligence control, big data.
+
+Kirish
+
+Ilm-fan  va  axborot-kommunikatsiya  tex-
+nologiyalari  jadal  taraqqiy  etib  borayotgan 
+bugungi  sharoitda  dunyoning  rivojlangan 
+mamlakatlarida  davlat  va  jamiyat  boshqaru-
+vi, iqtisodiyot, sanoat, ijtimoiy himoya, taʼlim, 
+tibbiyot,  bandlik,  qishloq  xo‘jaligi,  mudofaa, 
+xavfsizlik,  turizm  hamda  boshqa  sohalarda 
+zamonaviy  axborot  texnologiyalari  va  sunʼiy 
+intellekt  imkoniyatlaridan  keng  foydalanish 
+urfga kirmoqda. 
+
+Mazkur  maqolada  sunʼiy  intellekt  sud-
+lar  va  sudyalar  uchun  qanday  imkoniyatlar 
+yaratishi  mumkin,  sunʼiy  intellektdan  foy-
+dalanish  uchun  nimalar  qilish  kerak,  degan 
+savollar atroflicha tahlil qilinadi. 
+40
+
+Sunʼiy  intellekt  o‘zi  nima?  “Sunʼiy  intel-
+lekt”  atamasi  birinchi  marotaba  1956-yilda 
+kompyuter texnologiyalari sohasida amerika-
+lik  yetuk  mutaxassislardan  biri,  axborot  tex-
+nologiyalari sohasida funksional dasturlashni 
+yaratgan  mashhur  olim  Jon  Makarti  tomoni-
+dan  fanga  kiritilgan  [1].  Unga  ko‘ra,  sunʼiy 
+intellekt – aql-idrok, mantiqiy va izchil mulo-
+haza  yuritish,  o‘zaro  bog‘liqliklarni  aniqlash, 
+asoslash  va  ko‘rish,  muammolarni  hal  etish, 
+yangi  vazifalarni  bajarish,  yangi  vaziyatlar-
+ga  moslashuvchan  tizimlarni  yaratish  va 
+ muammoni  mustaqil  ravishda  o‘rganish  qo-
+biliyatidir. 
+
+Sunʼiy  intellekt  samarali  ishlashi  uchun 
+ kerak 
+
+unga  “katta  hajmdagi  maʼlumotlar” 
+
+12.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQIYURISPRUDENSIYA / 3 / 2022ISSN 2181-1938ismli  raqamli  yordamchi 
+bo‘ladi.  “SIRI” 
+yaratuvchilaridan  biri  Lyuk  Julia  shunday 
+deydi: “Sunʼiy intellektga asoslangan  mashina 
+mushukni  95%  aniqlik  bilan  taniy  olishi 
+uchun  bizga  100  000  ga  yaqin  mushukning 
+surati kerak bo‘ladi” [2].
+
+So‘nggi  yillarda  ijtimoiy  sohaning  barcha 
+tarmoqlariga  sunʼiy  intellektni  tatbiq  qilish, 
+axborotlashtirish  va  ilg‘or  texnologiyalardan 
+foydalanish  borasida  ko‘plab  ishlar  amalga 
+oshirib  kelinmoqda.  Chunki  mazkur  tenden-
+siya  inson  uchun  har  taraflama  qulayliklar 
+yaratish, vaqtni tejash, bir vazifani uzoq mud-
+dat  muntazam  ravishda  xatosiz  bajarish  im-
+Material va metodlar
+koniyatlarini yaratmoqda. 
+
+Tadqiqotning  normativ  asosini  O‘zbekis-
+ton  Respublikasi  Konstitutsiyasi  qoida-
+lari,  qonunlari,  O‘zbekiston  Respublikasi 
+Prezidenti va hukumatning farmon va qaror-
+lari,  shuningdek,  sud-huquq  faoliyati  sohasi-
+dagi ilmiy tadqiqotlar tashkil etadi. Tadqiqot-
+ning metodologik asosi sifatida umuminsoniy 
+xarakterga  ega  bo‘lgan 
+ilmiy  bilishning 
+umumiy  dialektik  usuli  hamda  mantiqiy  de-
+duksiya, 
+induksiya,  kognitiv  usullar,  taq-
+qoslash,  tahlil  qilish,  umumlashtirish  va  tav-
+Tadqiqot natijalari 
+siflash usullari tashkil etildi.
+
+Аynan  huquqni  muhofaza  qilish  idora-
+larida  ham  sunʼiy  intellektdan  foydalanishga 
+alohida  eʼtibor  qaratilmoqda.  Ushbu  fikrni 
+sud  tizimi  misolida  tahlil  qiladigan  bo‘lsak. 
+Аlbatta,  bunday  vaziyatda  sunʼiy  intllekt  sud 
+hokimiyati  organlari  uchun  qanday  imkoni-
+yatlar  taqdim  eta  oladi,  degan  savol  hech 
+kimni  befarq  qoldirmaydi.  Olimlar  va  yetuk 
+amaliyotchilarning 
+fikriga  ko‘ra,  sudlarda 
+sunʼiy  intellekt  insonlardan  farqli  o‘laroq, 
+
+hech qanday jismoniy toliqishni his qilmaydi 
+[3]. Bundan tashqari, ishlar o‘z vaqtida ko‘ri-
+lib,  yanada  adolatli  qaror  chiqarilishi  taʼmin-
+lanadi. 
+
+Sud  hokimiyati  organlarida  sunʼiy 
+in-
+tellektning  asosiy  vazifalaridan  biri  maʼlu-
+motlarni  tashkil  etish  yoki  maʼlumotlar  bi-
+lan  ishlashdir.  Ayniqsa,  matnli  hujjatlar  va 
+fayllarni tanib olish, katta va kichik hajmdagi 
+ishlarni  saralash,  shuningdek,  katta  hajm-
+dagi  maʼlumotlarni  o‘z  ichiga  olgan  murak-
+kab  holatlarda  juda  ham  foydali.  Bunga  mi-
+sol  qilib  “eDiscovery”ni  keltirish  mumkin. 
+Ushbu  sunʼiy  intellekt  qurilmasi  Аmerika 
+Qo‘shma  Shtatlarida  ishlab  chiqilgan  bo‘lib, 
+sud  jara yoniga  qadar  elektron  maʼlumotlar-
+ni  aniqlash  uchun  avtomatlashtirilgan  tek-
+shirish tizimi hisoblanadi. “eDiscovery” katta 
+hajmdagi maʼlumotlar ichidan muayyan ishga 
+taalluqli  bo‘lgan  qismini  ajratib  olishga  yor-
+dam  beradi.  “eDiscovery”dan  foydalanishda 
+sud  jarayoni  boshlanishidan  oldin  taraflar 
+ qaysi  so‘z  va  kodlardan  foydalanishlari  haqi-
+da  kelishib  oladilar.  Sudya  kelishuvni  ba-
+holaydi  va  tasdiqlaydi.  Hozirga  kelib  ushbu 
+sunʼiy  intellektga  asoslangan  qurilma  АQSh 
+va Buyuk Britaniya sudlari tomonidan eʼtirof 
+etilgan eng samarali usul hisoblanadi. Mazkur 
+usul  fayllarni  qo‘lda  o‘rganishga  qaraganda 
+*
+ancha tezroq va qulaydir
+
+ [4].
+
+Yana  bir  asosiy  vazifalaridan  biri  bu 
+maslahat  hisoblanadi.  Maslahat  berishga  qo-
+dir  bo‘lgan  sunʼiy  intellekt  o‘z  muammosi-
+ga  mazmunan  yechim  qidirayotgan  taraflar 
+hamda  huquqshunos  amaliyotchilar  uchun 
+katta  hajmdagi 
+ishlarni  bajaradi.  Mazkur 
+sunʼiy  intellekt  maʼlumotlarni  qidirib  topish 
+bilan  birga,  berilgan  savollarga  javob  ham 
+beradi.  Huquqiy  maslahat  beruvchi  sunʼiy 
+
+* The first case in which this methodology was accepted as legally valid was Anti-Monopoly, Inc. v. Hasbro, Inc., 1995 WL 649934 (S.D.N.Y., 
+Nov. 3, 1995), by Andrew Peck, magistrate in het Southern District of New York. In Da Silva Moore v. Publicis Groupe & MSL Group, No. 11 
+Civ. 1279 (ALC) (AJP) (S.D.N.Y., Feb. 24, 2012) Peck decided that eDiscovery is an acceptable way of searching for relevant digital information 
+in applicable cases, in Rio Tinto PLC v. Vale S.A., et al., 2015 WL 872294 (S.D.N.Y., Mar. 2, 2015) he approved the parties’ stipulated review  
+protocol for the technology assisted review (TAR) of documents, noting judicial acceptance of the practice when  proposed by the parties and 
+the emerging issue of disclosure of the seed set used to train the program. And in Hyles v. City of New York, et al., No. 10 Civ. 3119 (AT) (AJP) 
+(S.D.N.Y., Aug. 1, 2016) he wrote that “Even though TAR will be permitted in cases before his court, its use won’t be mandated. In the United 
+Kingdom, the practice was also recognized, in High Court of Justice Chancery Division, U.K. (2016). Pyrrho Investments Ltd v. MWB Property 
+Ltd [2016] EWHC 256 (Ch).
+
+41
+
+YURISPRUDENSIYA / 3 / 2022ISSN 2181-193812.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQIintellekt  o‘z  maslahatlari  bilan  fuqarolarga 
+muammolarni  mustaqil  ravishda  sudgacha 
+hal  qilish  imkoniyatini  yaratadi.  Аgar  masla-
+hat  yetarli  bo‘lmasa,  ushbu  sunʼiy  intellekt 
+muammoning  yechimi  bo‘yicha  asoslantiril-
+gan  fikrni  ilgari  surishi  ham  mumkin.  Ush-
+bu  sunʼiy 
+intellekt  Kanadaning  Britaniya 
+Kolumbiyasidagi fuqarolik ishlari tribunalida 
+qo‘llanilmoqda [4] va CRT mulk bilan bog‘liq 
+nizolarni  ko‘rib  chiqish  uchun  yaratilgan. 
+Tizimning  samarasi  tobora  ortib  borayot-
+gani sari uning qo‘llanilishi doirasi ham ken-
+gaymoqda.  2019-yildan  boshlab  esa  mazkur 
+tizim  sudda  yo‘l  transport  hodisalari  tufayli 
+badanga  tan  jarohati  yetkazish  bilan  bog‘liq 
+ishlarni ko‘rishda ham foydalanila boshladi.
+
+CRT  tun-u  kun  va  dam  olish  kunlarisiz 
+ishlaydigan  bepul  yuridik  maʼlumot  taqdim 
+etish  qobiliyatiga  ega  bo‘lgan  Solution  Exp- 
+lorerni  taklif  etadi.  Mazkur  CRTda  bosqich-
+ma-bosqich  ko‘rsatmalar  berish,  interaktiv 
+savollar  va  javoblar,  ishlarni  mazmunan  hal 
+qilish  yoki  ishni  sudgacha  tayyorlash  kabi 
+funksiyalar bajariladi. Bundan tashqari, CRT-
+da maxsus ekspert tizimi mavjud bo‘lib, u har 
+uch oyda yangilab boriladi. Mazkur tizim ek-
+spert-mutaxassislar  tomonidan 
+foydalanu-
+vchilarning  tizim  haqidagi  taqriz  va  tahliliy 
+maʼlumotlari  asosida  yangilanib,  amalga  os-
+hiriladi.  Shu  bois  ushbu  tizimni  to‘liq  sunʼiy 
+intellektga  asoslangan  qurilma  deyish  mush-
+kul.
+
+Niderlandiyaning  Sharqiy  Brabant  tuman 
+sudida  Tilburg  universiteti,  Eydxoven  Tex-
+nologiya  universiteti  va  Jeronimus  (JADS) 
+fanlar  akademiyasi  tomonidan  yo‘l  harakati 
+qoidalarini  buzish  holatlari  bilan  bog‘liq  ish-
+lar  bo‘yicha  fuqarolarning  maʼmuriy  sudga 
+murojaati bo‘yicha sunʼiy intellekt imkoniyat-
+larini  o‘rganish  davom  etmoqda  [5].  Ushbu 
+tadqiqot  sudyalarga  ishlar  yuzasidan  qaror 
+qabul  qilish  uchun  ko‘maklashuvchi  alohida 
+vositaning  faoliyati  bilan  bog‘liq.  Tadqiqotda 
+Sharqiy  Brabant  va  Zelandiya-G‘arbiy  Bra-
+bant  tuman  sudlari,  shuningdek,  apellatsiya- 
+larni  ko‘rib  chiqadigan  Аrnhem-Leuvarden 
+42
+
+Bashorat-oldindan  taxmin  qilish.
+
+apellatsiya  sudi  maʼlumotlaridan 
+niladi.
+
+foydala-
+
+  Hozir-
+gi  kunga  kelib,  jamiyat  hayotining  barcha 
+sohalarida  oldindan  taxmin  (bashorat)  qila 
+oladigan  sunʼiy  intellektga  alohida  eʼtibor 
+qaratilmoqda.  Xususan,  sud  ishlarini  ham 
+oldindan  taxmin  (bashorat)  qila  oladigan 
+sunʼiy  intellektga  katta  qiziqish  bildirilmo-
+qda.  Ushbu  sunʼiy  intellekt  ingliz/amerika 
+tajribasida  alohida  o‘ziga  xos  nom  bilan  ata-
+ladi, yaʼni “bashoratli adolat” deb nomlanadi. 
+Mazkur  atama  ko‘plab  bahs  va  munozaralar-
+ga  sabab  bo‘ldi,  chunki  sud  jarayonlari  ham 
+ol dindan  aytib  bo‘lmaydigan  oqibatlarga 
+olib  kelishi  mumkin.  Аlbatta,  sud  jarayonida 
+maʼlum  ish  yuzasidan  qancha  ko‘proq  maʼlu-
+mot  va  holatlar  mavjud  bo‘lsa,  ish  shuncha 
+murakkablashib  boraveradi.  Bu  sunʼiy  intel-
+lektga  bo‘lgan  qiziqishning  asosiy  sabablari-
+dan biri, chunki u xavfni kamaytirishga qodir 
+hisoblanadi. 
+
+Hammamizga  maʼlumki,  АQShda  oldin-
+dan taxmin (bashorat) qila oladigan turli vo-
+sitalar  tijorat  maqsadida  taklif  etiladi.  Shu 
+bois  bu  yerda  tijorat  siri  nou-xouning  qatʼi-
+yan sir tutilishi mazkur vositalarning qanday 
+ishlash  tartiblarini  bilish  imkoniyatini  umu-
+man  cheklab  qo‘yadi.  Biroq  baʼzi  bir  notijo-
+rat  ilovalar  mavjud  bo‘lib,  ularning  ishlash 
+mexanizmi haqida yetarlicha maʼlumotga ega 
+bo‘lish imkoniyati mavjud. 
+
+Misol uchun, bir guruh amerikalik olimlar 
+tomonidan  sunʼiy  intellekt  ilovasi  (SCOTUS) 
+ishlab chiqilib, ushbu ilova Аmerika Qo‘shma 
+Shtatlari  Oliy  sudidagi  ishlarning  70,2  %ini 
+aniqlik  bilan  taxmin  qilib  bera  oladigan, 
+shuningdek,  ovoz  berishda  alohida  shaxslar-
+ning  kelgusidagi  xatti-harakatlarini  71,9  % 
+aniqlik bilan aytib berish imkoniyatiga ega. 
+
+Yevropada  eng  ko‘p  eʼtirof  etilgan  ilova 
+bu  Inson  huquqlari  bo‘yicha  Yevropa  sudi 
+(ECHR)  qarorlarini  bashorat  qilish  imkoni-
+yatiga  ega  bo‘lgan  ilova  hisoblanadi  [6]. 
+Mazkur  qurilma  maʼlum  bir  holatda  sud  to-
+monidan  Inson  huquqlari  bo‘yicha  Yevropa 
+
+12.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQIYURISPRUDENSIYA / 3 / 2022ISSN 2181-1938konvensiyasining  (ECHR)  u  yoki  bu  normasi 
+buzilishi  to‘g‘risida  chiqariladigan  qarorlar-
+ni oldindan aytib berish uchun foydalaniladi. 
+Qurilma  oldingi  qarorlardagi  maʼlumotlar 
+asosida  ishlaydi  va  uning  aniqlik  ko‘rsat-
+kichi  79  %ni  tashkil  etadi.  Maʼlumotlar-
+ni  qayta  ishlaydigan  ushbu  sunʼiy  intellekt 
+murakkab  jarayonni  ancha  soddalashtiradi. 
+Inson  huquqlari  bo‘yicha  Yevropa  Konven-
+siyasi  (ECHR)  bilan  bog‘liq  ishlarning  asosiy 
+qismi  Komissiya,  bir  yoki  bir  necha  sudyalar 
+ishtirokida ko‘rib chiqiladi. 
+
+Tergovchilar 
+
+faqat  HUDOC, 
+
+Inson 
+huquqlari  bo‘yicha  Yevropa  Konvensiyasi-
+ning  onlayn  ma’lumotlar  bazasida  mavjud 
+bo‘lgan  qarorlar  va  boshqa  maʼlumotlardan 
+foydalanadilar [7].
+
+Аletras  ham  o‘ziga  xos  xususiyatga  ega 
+bo‘lib, ularning natijalari shundan dalolat be-
+radiki, ishning sud tomonidan taqdim etilgan 
+faktlari  ish  natijalarining  eng  kuchli  ko‘rsat-
+kichi  hisoblanadi.  Ular  buni  sudyalar  uchun 
+foydali yordam deb hisoblaydi, chunki u mat-
+ndagi belgilarni tez sur’atlarda tanib oladi va 
+shu  tariqa  hukm  qaysi  yo‘nalishda  bo‘lishi 
+mumkinligini qisqa fursatlarda anglay oladi.
+
+Jinoyat  ishlarida  jinoyatning  takroran  so-
+dir  etilishi  (retsidiv)ni  oldindan  bashorat 
+qilish Аmerika Qo‘shma Shtatlarida sunʼiy in-
+tellekt qo‘llanilishining yana bir amaliy miso-
+lidir.  COMPAS  amalda  АQShda  jinoyat  ishlari 
+bo‘yicha  sudyalar  tomonidan  ayrim  shtatlar-
+da  sudlanuvchilar  yoki  mahkumlarning  tak-
+roran  jinoyat  sodir  etish  xavfini  baholashda, 
+sudgacha  qamoqqa  olish,  hukm  chiqarish 
+yoki muddatidan oldin ozod qilish to‘g‘risida-
+gi qarorlarda qo‘llaniladi.
+
+Аmerika  Qo‘shma  Shtatlarida  boshqa 
+mamlakatlarga  nisbatan  ko‘proq  odamlar 
+hibsga  olinadi.  Shuning  uchun  COMPAS  kabi 
+vositalardan  foydalanish  tarafdorlari  shaxs-
+larni  hibsga  olish  sonini  sezilarli  darajada 
+kamaytiradi,  deb  o‘ylaydilar,  chunki  ushbu 
+uskunalarning  takroriy  jinoyatlar  sodir  etili-
+shi  xavfini  obyektiv  tarzda  baholash  darajasi 
+anchagina yuqori hisoblanadi [8].
+
+COMPAS  qurilmasi  o‘z  faoliyatida  137  ta 
+savoldan  iborat  anketa  maʼlumotlaridan  foy-
+dalanadi, jumladan: “Och qolgan odam o‘g‘ri-
+lik  qilishi  mumkinmi?  Javob:  to‘liq  qo‘shil-
+mayman, qo‘shilmayman va hokazo. 
+
+Yana  bir  misol  АQShdagi  Ravel  startapi 
+hisoblanadi. Mazkur startap hukmlar, sudlar, 
+shuningdek,  sudyalar  profilidagi  tendensi-
+yalarni  tahlil  qilish  uchun  alohida  vositalar 
+ishlab  chiqdi  va  ularni  obuna  asosida  taklif 
+qiladi.  Ushbu  uskunalarning  ishlashi  omma-
+viy  emas  va  uning  to‘g‘riligi  haqida  atrof-
+licha  maʼlumot  taqdim  qilinmagan.  Ravel 
+АQShdagi  eng  yirik  huquqiy  maʼlumot  yet-
+kazib  beruvchi  LexisNexis  tomonidan  sotib 
+olingan  va  ushbu  uskunalar  endi  Lexis Nexis 
+xizmatlari  paketining  bir  qismiga  aylanib 
+Sud  amaliyotida  SIning  qo‘llanish  tamoyil-
+bormoqda.
+lari
+
+1.  Аxloqiy  tamoyillar.
+
+  Ushbu  texnologi-
+ya  bilan  qanday  ishlash  va  undan  amaliyot-
+da  qan day  foydalanish  bo‘yicha  hanuzgacha 
+qizg‘in  muhokama  ketmoqda.  Umuman  ol-
+ganda,  sunʼiy  intellektdan  foydalanishning 
+axloqiy  tamoyillari  25  ortiq  hujjatda  o‘z  ak-
+sini  topgan.  Xususan,  bular  ichida  Elektr  va 
+elektronika  muhandislari 
+instituti  (IEEE), 
+Yevropa ittifoqi va Yevropa kengashining qoi-
+dalarini belgilovchi hujjatlar ham bor.
+
+Yevropa  kengashining  Odil  sudlov  sama-
+radorligi  komissiyasi  (CEPEJ)  bu  masalani 
+ko‘rib  chiqdi.  CEPEJning  sifat  bo‘yicha  ish-
+chi  guruhi  (GTQUAL)  odil  sudlovni  amalga 
+ oshirishda  sunʼiy  intellektdan  foydalanish-
+ning  axloqiy  tamoyillarini  ishlab  chiqdi  va 
+ushbu  tamoyillar  2018-yilning  dekabr  oyida 
+qabul qilindi [9].
+
+Ushbu  beshta  “Аxloqiy  tamoyillar”ning 
+ayrim  jihatlari  u  yoki  bu  holatda  bir-biriga 
+to‘qnash  keladi.  Shuning  uchun  ular  bilan 
+qatʼiy  va  tizimli  munosabatda  bo‘lish  biroz 
+Inson  huquqlari  hurmat  qilinishi 
+2. 
+ muammoli hisoblanadi.
+ tamoyili.
+
+ Sunʼiy intellekt xizmatlari, vositalari 
+va  uskunalarini  yaratish  hamda  amaliyotga 
+43
+
+YURISPRUDENSIYA / 3 / 2022ISSN 2181-193812.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQIjoriy  etishda  erkinlik  va  shaxsiy  daxlsizlik 
+huquqi, tenglik kabi asosiy tamoyillarga rioya 
+3.  Teng  munosabatda  bo‘lish  tamoyili.
+qilinishi shart.
+
+Mazkur tamoyil alohida guruhlar va shaxslar 
+o‘rtasidagi kamsitishlarga yo‘l qo‘yilmasligini 
+taʼminlaydi.  Baʼzi  holatlarda  sunʼiy  intellekt-
+dan  foydalanishda  shaxslarning  kamsitili-
+shi  va  asossiz  ravishda  guruhlarga  ajratilishi 
+taʼminlash 
+ xavfi yuzaga kelmoqda. 
+tamoyili.
+
+4.  Maʼlumotlar  xavfsizligini 
+
+  Sud  qarorlari  va  maʼlumotlarini 
+qayta  ishlashda  texnologik  jihatdan  xavfsiz 
+muhitga  joylashtirilgan  hamda  ko‘p  tarmoqli 
+modellar bilan o‘zgartirib bo‘lmaydigan serti-
+fikatlangan manbalar va maʼlumotlardan foy-
+5.  Shaffoflik  tamoyili.
+dalanish maqsadga muvofiq.  
+
+  Maʼlumotlarni  qay-
+ta 
+ishlash  usullari  shaffof  va  tushunarli 
+bo‘lishi  kerak,  bunda  maʼlumotlar  hamma 
+uchun ochiq bo‘lishi, tashqi yoki jamoatchilik 
+talab  etiladi. 
+nazoratiga  ruxsat  berilishi 
+texnologiyalari 
+Maʼlumki,  sunʼiy 
+intellekt 
+hamda  raqamlashtirish  tizimlarining 
+joriy 
+etilishi  sud  amaliyotida  oshkoralikni  taʼmin-
+laydi.  Аlgoritm  foydalanuvchisi  foydalanil-
+gan  maʼlumotlarni  o‘z  vaqtida  ommaga  eʼlon 
+qilib  borishi  muhim  hisoblanadi.  Bunday 
+oshkor  qilish  tamoyili  maʼlumotlar,  mulo-
+hazalar hamda taxminlarni baholash imkoni-
+ni yara tishi zarur. Mazkur maʼlumotlar, mulo-
+hazalar,  tanlashlar  va  taxminlarga  asoslanib, 
+qabul qilingan qarorlardan samarali huquqiy 
+foydalanuvchilar 
+himoyani taʼminlashda foydalaniladi. 
+nazorati  ostida  bo‘lishi  tamoyili. 
+
+intellektning 
+
+6.  Sunʼiy 
+
+Аlgoritmdan 
+xuddi  bir  ko‘rsatma  sifatida 
+foydalanib 
+bo‘lmaydi,  yaʼni  kompyuter  o‘zi  mustaqil 
+ravishda hech qanday ko‘rsatma bera olmay-
+di.  Foydalanuvchilar  sunʼiy  intellekt  nima 
+qilayotganini  bilishi  va  tushunishi 
+lozim, 
+shuningdek,  foydalanuvchilar  sunʼiy  intellekt 
+tomonidan  amalga  oshirilayotgan  tanlovlar-
+ni  muntazam  ravishda  nazorat  qilib  borishi 
+zarur.  Bu  shuni  anglatadiki,  foydalanuvchi-
+lar  hech  qanday  qiyinchiliksiz  algoritm  nati-
+44
+
+jalaridan chetga chiqa olish imkoniyatiga ega 
+bo‘lishlari  kerak.  Sunʼiy  intellektning  inson 
+tomonidan nazorat qilinishi bilan bog‘liq nizo 
+Аmerika  Qo‘shma  Shtatlaridagi  Viskonsin 
+Oliy sudidagi Lumis ishida ko‘rilgan [10].
+
+Mazkur  ishda  quyidagi  muammolar  mav-
+jud  edi:  birinchisi,  COMPAS  uskunasidan 
+foydalanish  va  unda  qanday  ishlash  jarayoni 
+tijorat  siri  bo‘lib  turgan  bir  vaqtda  mazkur 
+qurilma  bilan  xavfni  baholash  natijalaridan 
+foydalanish  javobgar  yoki  sudlanuv chining 
+odil  sudlovga  bo‘lgan  huquqini 
+ buzishi 
+mumkinmi  yoki  yo‘qmi,  degan  muhim 
+savol  ko‘ndalang  qo‘yilgan  edi,  chunki  maz-
+kur  jarayonning  sir  tutilishi  javobgarning 
+xavfni  qay  darajada  aniq  va  ilmiy  bahosini 
+tekshirish 
+imkoniyatini  sezilarli  darajada 
+cheklardi.  Ikkinchisi,  xavfni  baholashning 
+bunday  usuliga  tayanish  sudlanuvchining 
+odil  sudlovga  bo‘lgan  huquqini  buzadimi, 
+chunki  bunday  xavfni  baholash  jins  va  irq 
+masalalarini ham o‘z ichiga oladi. Mazkur ish-
+da Viskonsin Oliy sudi Lumisning eʼtirozlarini 
+rad etdi, biroq sudya COMPASdan qay tarzda 
+foydalanish  haqidagi  sabablarni  ko‘rsatishi 
+zarur ekanligini alohida taʼkidlab o‘tdi.
+
+So‘nggi  yillarda  Niderlandiyada  davlat 
+boshqaruvi  tizimida  ko‘plab  islohotlar  o‘tka-
+zib  kelinmoqda.  Xususan,  Davlat  Kengashi 
+samarali  boshqaruv  tamoyili,  asoslantirilgan 
+qarorlar qabul qilish tamoyili va zaruriy tek-
+shirish tamoyillarini raqamlashtirishga yana-
+da  ko‘proq  eʼtibor  qaratib  kelinmoqda  (881 
+N.W.2d  749  (Wis.  2016)  en  137  S.Ct.  2290 
+(2017)). Bu islohotning asosiy maqsadi bosh-
+qaruv  sohasidagi  maʼlum  bir  masala  yuzasi-
+dan  qarorlar  qabul  qilishda  qaysi  qoidalar 
+(algoritmlar)  qo‘llanilganligi  va  qaysi  davlat 
+organining maʼlumotlaridan nusxa olinganligi 
+to‘g‘risida axborotga ega bo‘lish edi. 
+
+Sunʼiy  intellektdan  sud  hokimiyati  organ-
+larida  samarali  foydalanish  uchun  nimalar 
+qilish kerak? 
+
+Inson  huquqlari  bo‘yicha  Yevropa  Kon-
+vensiyasining  6-moddasi  hamda  Аxloq  qoi-
+dalari  tegishli  standartlarni  belgilaydi.  Maz-
+
+12.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQIYURISPRUDENSIYA / 3 / 2022ISSN 2181-1938 
+kur  standartlar  shaffof  tartib,  sudda  ishtirok 
+etuvchi  tomonlarning  tengligi,  shuningdek, 
+sudyalar  tomonidan  asosli  va  adolatli  hukm 
+chiqarilishini talab etadi. Shuningdek, yuqori-
+da  taʼkidlab  o‘tilganidek,  sud  jarayonini  sod-
+dalashtirish  asosli,  shaffof  bo‘lishi,  shu  bi-
+lan  birga,  sud  ishtirokchilariga  teng  sharoit 
+yaratishi kerak. 
+
+SI  tomonidan  huquqiy  axborotlar  qayta 
+ishlanishi  uchun,  birinchi  navbatda,  ushbu 
+huquqiy  axborotlar  mashinada  qayta  ishla-
+nadigan  bo‘lishi  maqsadga  muvofiq.  Sunʼiy 
+intellekt  Inson  huquqlari  bo‘yicha  Konven-
+siyaning  6-moddasi  talablari  doirasida  ish-
+lashi uchun huquqiy ahamiyatga ega bo‘lgan 
+maʼlumotlar,  xususan,  sudlar  tomonidan 
+chiqarilgan  protsessual  hujjatlar  mazmun 
+jihatdan  to‘g‘ri  bo‘lishi  talab  etiladi.  Ho-
+zirgi  kunga  kelib,  huquqiy  ahamiyatga  ega 
+bo‘lgan  mazmunan  to‘g‘ri  qabul  qilingan 
+protsessual  hujjatlar  ko‘p  emas.  Mazkur 
+vaziyat  SI  lozim  darajada  ishlashi  va  sud-
+lar  uchun  foydalilik  koeffitsientini  tushirib 
+yuboradi [11]. 
+
+Yuqorida  taʼkidlab  o‘tganimizdek,  sunʼiy 
+intellekt  axborotni  tushunishi  va  qayta  ish-
+lashi uchun mazkur axborot boyitilgan, tizim-
+lashtirilgan va yuridik mazmunga ega bo‘lishi 
+lozim [12]. 
+
+Sud  qarorlari  chop  etilishidan  oldin 
+matnni  o‘qish,  hujjat  tuzilmalari,  shuning-
+dek,  identifikatsiya  kodlari  mavjud  bo‘lgan 
+holda,  mashinada  qayta  ishlanishi  mumkin 
+bo‘lganda,  sunʼiy  intellektdan  ancha  sama-
+rali  foydalanish  mumkin.  Tizimlashtirilgan 
+terminologiya  ko‘rinishida  yuridik  maz-
+mun  kasb  etuvchi  axborotlarni  qo‘shish 
+sunʼiy  intellektning  sud  jarayonida  ishlash 
+samaradorligini  oshiradi.  Bundan  tashqa-
+ri,  sunʼiy  intellekt  yanada  samarali  ishlashi 
+uchun  unga  ko‘proq  maʼlumotlar  kerak 
+bo‘ladi. 
+
+Sud  qarorlari,  shuningdek,  deyarli  har 
+doim  protsessual  va  mazmun 
+jihatdan 
+murakkab bo‘lgan axborotlarni o‘z ichiga ola-
+di. Boshqacha so‘z bilan aytganda, muhim qa-
+
+rorlar  har  doim  ham  savollarga  ha  yoki  yo‘q 
+deb  javob  berish  bilan  chegaralanadigan  qa-
+rorlar hisoblanmaydi.
+
+Аsoslantirilgan  qaror  qabul  qilish  uchun 
+sunʼiy  intellektga  qancha  miqdorda  ha  yoki 
+yo‘q javobi kerak bo‘ladi [13]. Sunʼiy intellekt 
+qanday  qilib  maʼlum  bir  qarorga  kelganini 
+asoslab,  tushuntirib  bera  olishi  kerak.  Tad-
+qiqotlar  shuni  ko‘rsatadiki,  sunʼiy  intellekt 
+texnik  jihatdan  shunday  yaratilishi  kerakki, 
+u  vaziyatni,  maʼlum  bir  holatni  insonlar  kabi 
+har  tomonlama  tushuntira  olish  qobiliyat-
+iga  ega  bo‘lishi  lozim.  Biroq  hozirga  kelib, 
+sunʼiy  intellekt  bu  darajada  taraqqiy  etma-
+gan va amaliyotda u voqea va hodisani inson 
+ tushuntira oladigan darajaga yetib kelganicha 
+yo‘q [14]. 
+
+Demak,  sudlarda  sunʼiy  intellektdan  sa-
+marali  foydalanish  uchun  hali  ko‘plab  cho-
+ra-tadbirlar  amalga  oshirilishi  kerak.  Sunʼiy 
+intellekt  maʼlum  bir  holat  yoki  ish  yuzasi-
+dan  natija  qanday  paydo  bo‘lganini  asoslan-
+tirilgan  tartibda  tushuntira  olishi  lozim.  Sud 
+idoralari  sunʼiy 
+foydalanishi 
+uchun  maʼlumotlarni  to‘liq  raqamlashtirish-
+lari zarur.
+
+intellektdan 
+
+intellektdan 
+
+Sudyalar  va  sunʼiy  intellekt  bilan  ishlay-
+digan  boshqa  shaxslar  ham  sunʼiy  intellekt 
+qay  tarzda  ishlashini  bilishi  lozim.  Mazkur 
+jarayonda  sunʼiy 
+foydalanish 
+bo‘yicha  axloq-etika  qoidalariga  nafaqat  sud 
+idoralari, balki har bir sud jarayonida ham ri-
+oya etilishi zarur. Аlbatta, bunda sunʼiy intel-
+lekt  bo‘yicha  etika  qoidalariga  rioya  etilishi-
+ni  kim  nazorat  qiladi,  degan  savol  hammani 
+qiziqtiradi. 
+
+Yuqorida  tahlil  etilgan  barcha  bosqichlar 
+inson  nazorati  zarur  ekanligini  ko‘rsatadi. 
+Аvvalambor,  sunʼiy  intellektdan  foydalanuv-
+chilar  sunʼiy  intellekt  qanday  funksiyani  ba-
+jarishini  yaxshi  bilib  olishi  kerak.  Bundan 
+intellekt 
+tashqari,  foydalanuvchilar  sunʼiy 
+o‘z  vazifasini  qay  darajada  to‘g‘ri  bajarayot-
+ganini  muntazam  ravishda  tekshirib  borishi 
+zarur. Shu bilan birga, tizim shunday yaratili-
+shi kerakki, uni hech qanday qiyinchiliklarsiz 
+45
+
+YURISPRUDENSIYA / 3 / 2022ISSN 2181-193812.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQImaʼlum  bir  vazifani  bajarishga  moslay  olish 
+darkor [15]. 
+
+Аlbatta,  bunda  sunʼiy 
+
+intellektni  tek-
+shirish,  nazorat  qilish  mustaqil  sud  tizimi 
+ichida  zarurmi  yoki  tashqaridan  tekshirish 
+maqsadga muvofiqmi, aniqlik kiritish zarur.
+
+Biz  o‘ylaymizki,  sud  idoralaridagi  ich-
+ki  nazorat  va  tekshiruvlarga  nisbatan  ja-
+moatchilik nazorati ko‘proq shaffoflik hamda 
+ishonchlilikni taʼminlay oladi. 
+
+Xulosalar
+
+Xulosa  o‘rnida  shuni  taʼkidlash 
+
+joizki, 
+so‘nggi  yillarda  sudlar  faoliyatida  zamonaviy 
+texnologiyalarni  keng  joriy  etish  bo‘yicha 
+amalga  oshirilgan  tadbirlar  fuqarolar  va  tad-
+birkorlik subyektlariga o‘z huquq va manfaat-
+larini  himoya  qilish  uchun  sudga  mu rojaat 
+qilishni erkinlashtirish, umuman, odil sudlov-
+ga erishishni oshirish hamda sudlar faoliyati-
+da ochiqlik va shaffoflikni taʼminlash imkoni-
+ni  bermoqda.  Sudlar  faoliya tiga  zamonaviy 
+texnologiyalari-
+axborot-kommunikatsiya 
+ning  joriy  etilishi  sudlarga  masofadan  turib 
+murojaat  qilish,  sud  majlislarida  videokon-
+ishtirok 
+ferensaloqa  tizimidan 
+etish,  sudyalar  o‘rtasida  ishlarni  avtomatik 
+tarzda  taqsimlash,  sud  qarorlarini  Inter-
+net  tarmog‘ida  eʼlon  qilish,  ijro  hujjatlarini 
+elektron  shaklda  majburiy  ijroga  yuborish 
+tizimlari  yaratilishiga  zamin  yaratdi.  Bu  esa 
+sudlar  faoliyatini  yanada  takomillashtirib, 
+fuqarolari mizga 
+sudga  murojaat  qilgan 
+yanada  ko‘proq  qulayliklar  yaratmoqda, 
+xalqning odil sud hokimiyati va odil sudlovga 
+ ishonchini  yanada  orttirmoqda.  Biroq  mam-
+lakatimizda  sud-huquq  tizimi  hamda  inson 
+huquqlari sohasida olib borilayotgan islohot-
+lar  sud  tizimini  yanada  takomillashtirishni 
+taqozo etmoqda. 
+
+foyda lanib 
+
+Hammamizga  maʼlumki,  sud-huquq  tizi-
+mida  juda  ham  ko‘p  maʼlumotlar  mavjud. 
+Katta  hajmdagi  maʼlumotlar  (big  data)  bi-
+lan  ishlash  uchun  sud  hokimiyati  organlari 
+faoliyatini  raqamlashtirilgan  tizimga  o‘tka-
+zishga  bo‘lgan  ehtiyoj  kundan-kunga  ortib 
+bor moqda.  Bundan  tashqari,  sud  hokimiyati 
+46
+
+organlarida inson omili bilan bog‘liq ish yuk-
+lamasini kamaytirish maqsadida sud tizimiga 
+sunʼiy intellektni joriy etish dolzarb mavzuga 
+aylanib bormoqda. 
+
+Hozirgi  kunga  kelib,  ko‘plab  rivojlangan 
+davlatlarning  sud-huquq  tizimida  sunʼiy  in-
+tellektdan  samarali  foydalanib  kelinmoqda. 
+Sunʼiy intellekt fuqarolarga sudda taraf bo‘lib 
+ishtirok  etayotgan  shaxslar  hamda  boshqa 
+sud  jarayoni  ishtirokchilariga,  shuningdek, 
+sudyalarga  maʼlumotlarni  tartibga  solishda 
+yordam  bermoqda.  Bundan  tashqari,  sunʼiy 
+intellekt  o‘z  maslahat  va  takliflari  bilan  sud 
+jarayoni  ishtirokchilariga  yordam  berib  kel-
+moqda.  Sudyalar  undan  to‘g‘ri  foydalanish 
+uchun  SI  qanday  ishlashini  tushunishlari 
+muhimdir.  Sudlar,  o‘z  navbatida,  sunʼiy  in-
+tellekt  tizimlari  samarali  ishlashi  uchun  o‘z 
+maʼlumotlarini  raqamlashtirishi  va  huquqiy 
+talqini  bilan  taʼminlashi  zarur.  Sudlar  o‘z 
+tizimining  samaradorligini  doimiy  ravishda 
+kuzatib  borishlari  va  kerak  bo‘lganda  tuza-
+tishlari lozim. 
+
+Аlbatta,  sud 
+
+tizimini  raqamlashtirish 
+hamda  unga  sunʼiy  intellektni  tatbiq  etish 
+sud  tizimini  rivojlantirishdagi  eng  asosiy 
+va  zamon  talablari  darajasidagi 
+islohot-
+dir.  Boshqacha  so‘z  bilan  aytganda,  tizim 
+o‘zgaruvchan  qonunchilikka  moslashadi  va 
+sudyalarning  qaror  qabul  qilishdan  oldin 
+yordamchisiga  aylanadi  hamda  fuqarolarga 
+daʼvo  istiqbollarini  ko‘rish  imkonini  bera-
+di.  U  Oliy  sudning  muayyan  ishlar  bo‘yicha 
+mavjud  qarorlari,  shuningdek,  Oliy  sud  qa-
+rorlari asosida prognoz-bashoratlarni ishlab 
+chiqadi. Shunday qilib, sud amaliyotining bir 
+xilligi  va  sud  hujjatlarining  ochiqligi  taʼmin-
+lanadi.  Fuqarolar  uchun  sunʼiy  intellekt  АT 
+sohasidagi  eng  so‘nggi  yutuqlardan  foyda-
+langan  holda,  sud  ishlarini  ko‘rib  chiqish 
+natijalarini  topish  va  baholash  uchun  sifatli 
+vositaga  aylanadi.  Bu  daʼvogarga  sudga  daʼ-
+vo  qilingan  arizaning  muvaffaqiyatli  bo‘lish 
+ehtimolini taxmin qilish va shu asosda ishni 
+sudga bermasdan qaror qabul qilish imkoni-
+ni beradi.
+
+12.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQIYURISPRUDENSIYA / 3 / 2022ISSN 2181-1938REFERENCES
+
+1.  McCarthy  J.  et  al.  A  Proposal  for  the  Dartmouth  Summer  Research  Project  on  Artificial 
+Intelligence,  1955,  August  31.  Ed.  J.  Kaplan.  Artificial  Intelligence:  What  Everyone  Needs  to  Know, 
+Oxford, Oxford University Press, 2016.
+
+2. Julia L. L’intelligence artificielle n’existe pas (AI does not exist). First Edition, Paris, 2019, p. 123.
+3. Kahnemann D. Thinking, fast and slow. London, Penguin, 2011, p. 43.
+4.  British  Columbia  Civil  Resolution  Tribunal,  2019.  The  Civil  Resolution  Tribunal.  Available  at: 
+
+https://civilresolutionbc.ca/.
+Rechtstreeks
+
+courts)? 
+
+5.  Van  der  Put  M.  Kan  artificiële  intelligentie  de  rechtspraak  betoveren  (Can  AI  bewitch  the 
+PeerJ Computer Science
+6.  Aletras  N.,  Tsarapatsanis  D.,  Preoţiuc-Pietro  D.,  Lampos  V.  Predicting  judicial  decisions  of  the 
+, 
+Nederlands Juristenblad,
+
+European Court of Human Rights: a Natural Language Processing perspective. 
+2016, 2:e93. DOI: 10.7717/peerj-cs.93/.
+
+, 2019, February, pp. 50-60.
+
+7. Prakken H. Komt de robotrechter eraan (Is the robot judge arriving?)? 
+
+2018, April, no. 207.
+
+8.  Institute  for  Crime  and  Justice  Policy  Research  World  Prison  Brief.  Available  at:  www.
+
+ProPublica
+
+prisonstudies.org/ (accessed 06.12.2019).
+
+9. Angwin J. Machine Bias. 
+10.  European  Commission  for  the  Efficiency  of  Justice  (CEPEJ).  European  Ethical  Charter  on  the 
+Use of Artificial Intelligence in Judicial systems and their environment. Strasbourg, Council of Europe, 
+2019.
+
+, 2016, May 23.
+
+11.  Council  of  State  advice  of  September  6  2018,  Staatscourant.  Official  Gazette,  2018, 
+Tools of Meaning: Representation, Objects, and Agency in the Technologies 
+12. Contini F., Lanzara G.F. The elusive mediation between law and technology. P. Branco, N. Hosen, 
+
+50999.
+of Law and Religion
+M. Leone and R. Mohr (eds), 
+
+, I Saggi di Lexia, Aracne, Rome, 2017-2018, pp. 4-9.
+
+13. Hildebrandt M. Position on artificial intelligence and the law’, Position paper for hearing/round 
+table discussion on Artificial Intelligence in the administration of justice, on at the Second Chamber of 
+Parliament of the Netherlands, 2018, March 29. Kamerstukken (Chamber documents) II 2018Z05199.
+
+14. Van Opijnen M. Legal(ly) linked data. Computerrecht, 2018, February, no. 55.
+15.  Scherer  M.  Artificial  Intelligence  and  Legal  Decision-Making:  The  Wide  Open?  Study  on  the 
+Ehample of International Arbitration, 2019, May 22. Queen Mary School of Law Legal Studies Research 
+Paper No. 318/2019. Available at: https://ssrn.com/abstract=3392669/.
+
+47
+
+YURISPRUDENSIYA / 3 / 2022ISSN 2181-193812.00.02 – KONSTITUTSIYAVIY HUQUQ. MA’MURIY HUQUQ. MOLIYA VA BOJXONA HUQUQI 
+YURISPRUDENSIYA
+
+HUQUQIY ILMIY-AMALIY JURNALI
+
+3 / 2022
+
+BOSH MUHARRIR:
+Xodjayev Baxshillo Kamolovich
+
+Tahririyat manzili:
+
+Ilmiy  ishlar  va  innovatsiyalar  bo‘yicha  prorektor, 
+y.f.d., dotsent
+BOSH MUHARRIR O‘RINBOSARI:
+Ikrom Ergashev
+
+Ilmiy  boshqarma  boshlig‘i,  yuridik  fanlar  bo‘yicha 
+Mas’ul muharrir: 
+falsafa doktori, dotsent – bosh muharrir o‘rinbosari 
+
+Muharrirlar: 
+
+D. Xudoynazarov
+
+Sh. Jahonov, K. Abduvaliyeva, 
+
+Texnik muharrirlar: 
+Y. Yarmolik, F. Muhammadiyeva, Sh. Yusupova
+
+U. Sapayev, D. Rajapov
+
+Tel.: 
+100047. Toshkent shahar, Sayilgoh ko‘chasi, 35.
+Faks: 
+
+(0371) 233-66-36, 233-41-09.
+(0371) 233-37-48.
+
+Web-sayt: 
+E-mail: 
+E-mail:
+Obuna indeksi:
+
+www.tsul.uz 
+lawjournal@tsul.uz 
+ tn.tdyu@mail.ru
+
+ 1387.
+
+Jurnal 19.07.2022-yilda tipografiyaga topshirildi. 
+Qog‘oz bichimi: A4. Shartli 23,28 b.t. Adadi: 100. 
+Buyurtma raqami: 47.
+TDYU tipografiyasida chop etildi.

@@ -1,0 +1,1872 @@
+# Fuente
+- archivo: Magistratura_Poder_Judicial_De_La_Nacio.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\Magistratura_Poder_Judicial_De_La_Nacio.pdf
+- extraido: 2026-04-24T11:34:11
+
+# Contenido
+
+J
+
+CONSEJO PE U\ MAGISTRATURA 
+PODER JUDICIAL DE LA NACIÓN
+
+ADMINISTRACIÓN GENERAL
+
+RESOLUCIÓN N° |4#j£>/2025.
+
+Expediente N°  15-06177/25
+
+Buenos  Aires, ^9* de ^ ¿ 7 ° d e   2025.
+
+VISTO:
+
+El 
+
+expediente 
+
+15-06177/25, 
+
+caratulado 
+
+"Proyecto 
+
+de 
+
+Implementación del Asistente Virtual  para  el  Poder  Judicial  de  la 
+
+Nación".
+
+CONSIDERANDO:
+
+1)  Que  la  incorporación  de  nuevas  tecnologias  al  ámbito 
+
+judicial  resulta  un  elemento  esencial  a  los  fines  de  asegurar  un 
+
+"eficaz  servicio  de  justicia",  conforme  lo  previsto  en  el  inciso 
+
+6 o  del  articulo  114  de  la  Constitucional,  por  su  capacidad  de 
+
+transformar  y  mejorar  los  servicios  ofrecidos  por  el  Poder 
+
+Judicial  de  la  Nación  a  la  ciudadanía  en  general  y  hacia  adentro 
+
+de  su  organización.
+
+2)  Que  la  tecnología  "inteligencia  artificial  (IA)"  fue 
+
+definida  por  la  Organización  de  las  Naciones  Unidas  como  "una 
+
+'constelación'  de  procesos  y  tecnologías  que  permi'ten  que  las 
+
+computadoras  complementen  o  reemplacen  tareas  específicas  que  de 
+
+otro  modo  serian  ejecutadas  por  seres  humanos,  como  tomar 
+
+decisiones  y  resolver  problemas.  (...)  La  IA  generalmente  optimiza 
+
+la  ejecución de  tareas  computerizadas  asignadas  por  seres  humanos 
+
+mediante  repetición  e  intentos  iterativos"  (cfr.  informe  n° 
+
+A/73/348  a  la  Asamblea  de  las  Naciones  Unidas  -  del  Relator 
+
+Especial  sobre la promoción y protección del derecho a la  libertad 
+
+de  opinión  y  de  expresión,  según  resolución  N°  34/18  del  Consejo 
+
+de  Derechos  Humanos  de  O N U ) .
+
+3)  Que,  en  virtud  de  los  beneficios  que  ofrece  esta 
+
+herramienta, 
+
+la 
+
+Dirección 
+
+General 
+
+de 
+
+Tecnología 
+
+de 
+
+la 
+
+Administración  General  del  Poder  Judicial  de  la  Nación  creó  el
+
+proyecto 
+
+"Inteligencia 
+
+Artificial:
+---  
+
+Innovación
+----------
+
+en
+
+la
+
+Administración de  Justicia",  en  el  cual  se  describen el  impacto  y 
+
+los  beneficios  esperados,  los  servicios  propuestos,  estructura  y 
+
+recursos  necesarios  y  las  consideraciones  finales.
+
+4)  Que la aplicación de ésta tiecnologia tendrá los siguientes 
+
+beneficios:  i)  mejora  la  eficiencia  operativa,  a  través  de  la 
+
+automatización de  tareas  repetitivas  y  la  optimización del  acceso 
+
+a la información relevante;  ii)  reducción de tiempos de  respuesta; 
+
+iii) 
+
+optimización  de  recursos  humanos,  iv)  mejora  de  la 
+
+experiencia y satisfacción del usuario,  mediante la simplificación 
+
+de  tareas  tediosas,  las  respuestas  personalizadas  y  herramientas 
+
+inclusivas;  v)  fortalecimiento de  la  seguridad y confidencialidad 
+
+y  vi)  escalabilidad  y  sostenibilidad  (v.  fs.  2/10).
+
+5)  Que,  en  el  ámbito  del  Plenario,  se  encuentran  en 
+
+consideración  diversos  proyectos  vinculados  a  esta •  temática 
+
+presentados  por  los/as  sres/as.  consejeros/as.  En esa  linea,  cabe 
+
+destacar  que  mediante'  resolución  n°  201/2024  el  Plenario  aprobó 
+
+diversas 
+
+medidas 
+
+de 
+
+digitalización, 
+
+despapelización 
+
+y 
+
+transparencia,  en  tanto  que  a  través  de  la  resolución n°  396/2024 
+
+creó  el  Comité  de  Innovación  y  Modernización  en  el  ámbito  de  la 
+
+Comisión  de  Administración  y  Financiera.
+
+6)  Que  de  manera  concordante  con  la  voluntad  de  los  los/as 
+
+sres/as.  consejeros/as  de  avanzar  en  la  temática,  resulta 
+
+necesario  aprobar  en  esta  oportunidad,  y  sin  perjuicio  de  elevar 
+
+a  consideración  de  la  superioridad  una  vez  obtenidos  los 
+
+resultados,  el  proyecto  de  servicio  planificado  y  propuesto  por 
+
+la  Dirección  General  de  Tecnología  denominado  "Asistente  virtual 
+
+basado  en  Inteligencia  Artificial  (IA)  para  el  Poder  Judicial  de 
+
+la  Nación"  cuyo  objetivo  principal  — en  esta  primera  etapa—  es 
+
+proporcionar  soporte  y  respuestas  a  consultas  frecuentes  de  los 
+
+usuarios  del  Portal  de  Gestión  de  Causas  y  otros  sistemas 
+
+asociados,  basándose  exclusivamente  en  una  base  de  conocimiento 
+
+gestionada  por  el  Departamento  de  Capacitación  y  Gestión  de 
+
+Desarrollo  de  la  Dirección  General  de  Tecnología  (Sistema  RAG) . 
+
+La  solución busca mejorar  la  experiencia del  usuario,  agilizar  la
+
+CONSEJO DE LA MAGISTRATURA 
+PODER JUDICIAL DE LA NACIÓN
+
+ADMINISTRACIÓN GENERAL
+
+resolución de  dudas  comunes  y optimizar  la  gestión  de  incidencias 
+
+(SAUE).
+
+7)  Que este servicio,  según expone el área propiciante,  tiene 
+
+como  objetivo:  i)  proveer  respuestas  automáticas  y  precisas  a 
+
+consultas de usuarios basadas en la base de conocimiento aprobada; 
+
+ii)  facilitar  el  acceso  a  la  información  relevante  para  los 
+
+usuarios  del  portal  PJN;  iii)  reducir  la  carga  de  trabajo  del 
+
+personal  de  soporte  mediante  la  automatización  de  respuestas  a 
+
+consultas  frecuentes;  iv)  optimizar  la  creación y gestión  inicial 
+
+de  tickets  de  soporte  (SAUE)  para  consultas  no  resueltas 
+
+automáticamente;  v)  proveer  una  interfaz  de  usuario  amigable  e 
+
+integrada  en el portal  existente;  vi)  Generar  información para  la 
+
+producción  de  estadisticas  o  respuestas  a  peticiones  de  los 
+
+distintos  estamentos  (basado  en  el  registro  de  interacciones).
+
+8)  Que  la  Dirección  General  de  Tecnología,  en  el  proyecto 
+
+propuesto,  ha  definido  las  etapas  y  fases,  asi  como  los  recursos 
+
+logisticos,  materiales  y  técnicos.  En  ese  sentido,  cabe  destacar 
+
+que — según indica el  área propiciante—  existe en el  ámbito de este 
+
+Consejo  en  general,  y  de  dicha  dirección  en  particular,  recursos 
+
+humanos  técnicos  con  la  capacidad  y  el  conocimiento  profesional 
+
+para  llevar  adelante  el  proyecto  en  estas  primeras; etapas.
+
+9)  Que,  además,  se estima pertinente autorizar  la aprobación 
+
+t
+
+de  los  tutoriales  y/o  documentos  elaborados  por  el  Departamento 
+
+de  Capacitación  y  Gestión  de  Desarrollo  de  la  Dirección  General 
+
+de  Tecnología,  los  que  servirán  de  insumo  para  esta  fase  inicial 
+
+del  servicio.
+
+10)  Que,  si  bien  no  existe  regulación  específica,  la 
+
+implementación y uso de  esta  tecnología  deberá  respetar  la  Ley de 
+
+Protección  de  Datos  Personales  N°  25.326  y  normas  concordantes.
+
+11)  Que,  conforme  lo  previsto  en  el  inciso  e)  del  articulo 
+
+18  de  la  ley 24.937,  esta Administración  General  tiene  a  su  cargo
+
+la  función de  "e)  Llevar  el  registro  de  estadística  e  informática 
+
+judicial".
+
+12)  Que  las  erogaciones  que  demande  la  implementación  de 
+
+este  sistema  deberán  ser  tramitadas  conforme  la  normativa  de 
+
+aplicación,  a  través  de  las  áreas  técnicas  con  competencia  en  la 
+
+ma t e r i a .
+
+13)  Que  ha  tomado  intervención  la  Dirección  General  de 
+
+Seguridad  Informática  señalando  que  "...no  observa  impedimentos 
+
+técnicos  en  lo  que  respecta  a  ciberseguridad  para  la  aprobación 
+
+del. proyecto,  siempre  que  se  contemplen y mantengan  los  recaudos- 
+
+indicados,  y  se  garantice  la  participación  de  esa  Dirección  en 
+
+las  etapas  críticas  del  desarrollo,  pruebas  e  implementación". 
+
+Los  recaudos  y  recomendaciones  técnicas  aludidas  se  vinculan  con 
+
+la  autenticación  y  gestión  de  identidades;  tratamiento  de  datos 
+
+personales; 
+
+interacción 
+
+con 
+
+servicios 
+
+externos 
+
+(OpenAI); 
+
+infraestructura  y  seguridad  operativa;  auditoría  y  trazabilidad; 
+
+fases  futuras y soberanía tecnológica;  gestión de vulnerabilidades 
+
+y  ciclo  de  vida.
+
+Dicha  oficina  técnica  sugirió  "...dejar  expresa  constancia 
+
+de  estas  condiciones  en  el  marco  de  la  aprobación  formal  del 
+
+proyecto,  a  fin  de  asegurar  una  ejecución  segura,  auditada  y 
+
+alineada con las políticas  institucionales en materia de seguridad 
+
+informática".
+
+14)  Que  ha  tomado  intervención  la  Secretaría  de  Asuntos
+
+Por  ello
+
+EL SR.  ADMINISTRADOR GENERAL DEL
+
+PODER JUDICIAL DE LA NACION
+
+RESUELVE:
+
+•ARTÍCULO  Io :  Aprobar  el  proyecto  de  servicio  denominado 
+
+"Implementación  del  Asistente  Virtual  para  el  Poder  Judicial  de 
+
+la  Nación"  y  que  será  identificado  como  Proyecto  IA-1-25,  cuya 
+
+presentación,  especificaciones  técnicas  y  glosario  de  términos,., 
+
+obran  como  Anexo  I .
+
+CONSEJO DE LA MAGISTRATURA 
+! PODER JUDICIAL DE LA NACION
+
+ADMINISTRACIÓN GENERAL
+
+ARTÍCULO 2 o :  Designar  al  titular  de  la  Dirección  General  de 
+
+Tecnología  como  autoridad  de 
+
+coordinación, 
+
+planificación, 
+
+desarrollo  y  ejecución  del  proyecto,  sin  perjuicio  de  contar  la 
+
+intervención  de  las  demás  áreas  competentes.
+
+Dicha  autoridad  debe  proponer  los  ajustes  que  resulten  menester 
+
+para  alcanzar  el  objetivo  y  presentar  reportes  periódicos  de 
+
+avances  de  las  fases  del  proyecto,  los  que,  a  través  de  esta 
+
+Administración  General,  serán  puestos  a  consideración  de  los/as 
+
+consejeros/as.
+
+ARTICULO 3o :  Autorizar al  titular de  la  Dirección General  de 
+
+Tecnología a aprobar los tutoriales elaborados por el  Departamento 
+
+de  Capacitación  y  Gestión  de  Desarrollo  de  la  Dirección  General 
+
+de  Tecnología  de  esta  Administración  General  del  Poder  Judicial 
+
+de  la  Nación.
+
+ARTÍCULO  4o :  Aprobar  los  "Términos  y  Condiciones  de  Uso  y 
+
+Política  de  Privacidad  del  Asistente  Virtual  del  Poder  Judicial 
+
+de  la  Nación"  que  deberán  aceptar  los/as  usuarios/as  en  forma 
+
+previa  a  la  utilización  de  dicho  servicio,  que  como  Anexo  II 
+
+forman parte  de  la  presente  resolución.
+
+La  Dirección  General  de  Tecnología  debe  dejar  expresa  mención 
+
+visible  a  los  usuarios  del  carácter  de  "prueba"  del  servicio, 
+
+hasta  tanto  se  apruebe  la  versión  definitiva.
+
+ARTÍCULO  5o :  Encomendar  a  la  Dirección  de  Seguridad 
+
+Informática  a  verificar  la  observancia  de  los  recaudos  y  las 
+
+recomendaciones  técnicas  pertinentes  con  el  fin  de  asegurar  la 
+
+ejecución  del  servicio  de  forma  segura,  auditada  y  alineada  con 
+
+las políticas institucionales en materia de seguridad informática, 
+
+conforme  lo  expresado  en  el  considerando  11  de  esta  medida.
+
+ARTÍCULO  6o :  Instruir, a  la  Subdirección  de  Contrataciones  y 
+
+a  la  Dirección  General  de  Tecnología  a  tramitar,  previa 
+
+intervención de la División de Programación Presupuestaria de.esta. 
+
+Administración  General,  mediante  el  encuadre  y  la  normativa  de 
+
+aplicación  pertinente,  la  contratación  de  los  recursos  asociados 
+
+a  la  implementación  del  servicio  aprobado  por  el  articulo  I o  de 
+
+la  presente  resolución.
+
+ARTÍCULO  7 o :  Dejar  sentado  que  el  proyecto  que  se  aprueba 
+
+por  la  presente  será  desarrollado  con  los  recursos  humanos 
+
+técnicos  existentes  y  no  implica  erogaciones  extraordinarias.
+
+ARTÍCULO  8 o :  Regístrese  y  publiquese.  Comuniqúese  a  la 
+
+Presidencia,  a  la  Comisión  de  Administración  y . Financiera,  al 
+
+Comité  de  Innovación  y  Modernización,  a  la  Dirección  Genefral  de 
+
+Tecnología,  a  la  Dirección  de  Seguridad  Informática  y 
+
+Subdirección  de  Contrataciones.  Cumplido,  pasp  a  la  Dirección 
+
+General  de  Tecnología  para  su  ejecución.
+
+\ P .  ALEXIS M. VARAD) 
+Administrador General 
+Poder Judicial de la Nac¡¿
+
+CONSEJO DE LA MAGISTRATURA
+
+PODER JUDICIAL DE LA NACIÓN
+
+ANEXO I  Resolución N°  fák/2025 
+
+Consejo de la Magistratura de la Nación 
+
+Dirección General de Tecnología
+
+PROYECTO: IMPLEMENTACIÓN DEL ASISTENTE VIRTUAL 
+
+PARA EL PODER JUDICIAL DE LA NACIÓN
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+I.  MARCO GENERAL DEL PROYECTO
+
+1.  Contexto General
+
+El proyecto de implementación del Asistente Virtual  se inserta en el marco impulsado por el 
+
+Consejo  de  la  Magistratura,  a  través  de  la  Dirección  General  de  Tecnología,  para  integrar 
+
+soluciones de inteligencia artificial (IA) y modelos de lenguaje de gran escala en los procesos 
+
+del  Poder  Judicial  de  la Nación1.  Esta  iniciativa busca  optimizar  las  operaciones  internas  y 
+
+mejorar  la  experiencia  de  los  usuarios  mediante  la  implementación  de  herramientas 
+
+tecnológicas innovadoras.
+
+2. Resumen Ejecutivo
+
+Este proyecto tiene como objetivo  la implementación de un Asistente Virtual  en el  Portal de 
+
+Gestión  de  Causas  del  Poder  Judicial  de  la  Nación  (PJN),  con  inteligencia  artificial  (IÁ). 
+
+Durante la Fase 1, su función será brindar respuestas automáticas a las consultas más frecuentes 
+
+de  los  usuarios  externos  —es  decir,  aquellos  operadores  habilitados  que  acceden  al  portal 
+
+mediante el Sistema de Autenticación Unificado (SAU)—, mejorando la eficiencia operativa y 
+
+la  experiencia  general  del  servicio.  La  herramienta  estará  basada  exclusivamente  en 
+
+información oficial provista por el Departamento de Capacitación y, en los casos que no pueda 
+
+resolver,  derivará automáticamente  las  consultas  al  Sistema  de  Atención  al  Usuario  Externo 
+
+(SAUE), para su tratamiento por parte de operadores humanos.
+
+El proyecto utilizará inteligencia artificial porque permite la comunicación en lenguaje natural, 
+
+con  mayor  rapidez  y  precisión  que  los  sistemas  tradicionales  de  asistencia.  A  través  de  un 
+
+modelo de lenguaje de gran escala (LLM) combinado con una base de conocimiento validada 
+
+(mediante  la  técnica RAG),  el  asistente podrá interpretar preguntas  diversas,  adaptarse  a  las 
+
+formulaciones propias de cada usuario y ofrecer una respuesta contextualizada.  Esta solución
+
+1  Para  facilitar  la  comprensión  del  presente  documento,  se  incluye  un  glosario  de  términos  al  final,  donde  se 
+explican abreviaturas y conceptos técnicos mencionados a lo largo del texto.
+
+ 
+¿Sggk CONSEJO DE LA MAGISTRATURA
+
+t í o   PODER JUDICIAL DE LA NACIÓN
+
+reduce  la  carga  operativa  del  soporte' técnico  y  mejora  la  experiencia  del  usuario  externo. 
+
+Además  de  su  valor  operativo  inmediato,  el  proyecto  representa  un  hito  estratégico  en  la 
+
+modernización tecnológica del Poder Judicial de la Nación.
+
+La implementación de esta solución implica el despliegue de microservicios especializados, la 
+
+integración  de  sistemas  mediante  APIs  institucionales,  y  el  desarrollo  de  componentes 
+
+reutilizables  que  podrán  ser  aprovechados  en  futuros  proyectos  basados^en  inteligencia 
+
+artificial.  En este  sentido,  el  asistente virtual  no  solo resuelve una necesidad actual,  sino  que 
+
+establece  una  infraestructura  escalable  y  un  marco  técnico  que  facilitará  el  abordaje  de 
+
+soluciones más complejas en próximas fases.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+3.  Etapas o fases
+
+La  primera  fase  estará  orientada  exclusivamente  a  los  usuarios  externos.  Esta  fase  inicial 
+
+incluirá  funcionalidades  básicas  como  la  resolución  de  dudas  recurrentes  y  la  generación 
+
+automática de tickets de soporte.
+
+En una segunda fase,  se abordará la experiencia de  usuarios  internos del Poder Judicial, con 
+
+ampliaciones funcionales y capacidades administrativas adicionales* 2.
+
+4.  Recursos Humanos
+
+El  desarrollo  del  proyecto  estará  a  cargo  de  la  Dirección  General  de  Tecnología,  con  la 
+
+asistencia de la Dirección General de Seguridad Informática y diversas áreas dentro del Consejo 
+
+de  la  Magistratura,  así  como  de  los  equipos  encargados  de  soporte  y  administración  de  la 
+
+plataforma.
+
+Esta  coordinación  permitirá  asegurar  una  implementación  eficiente  y  fluida  del  Asistente 
+
+Virtual, integrando los conocimientos y recursos de cada área.
+
+5.  Equipamiento y  hardware
+
+2  En  la Fase  1,  el  Asistente  Virtual  se orientará exclusivamente a usuarios externos,  con un enfoque en  resolver 
+dudas recurrentes y generar automáticamente tickets de soporte. Para garantizar una transición fluida hacia la Fase
+2,  será  fundamental  realizar  una  evaluación  exhaustiva  de  las  pruebas  de  desempeño  y  la  satisfacción  de  los 
+usuarios  externos  antes  de  la  ampliación  de  funcionalidades.  En  la  Fase  2,  se  contempla  la  integración  de 
+funcionalidades  adicionales  para  los  usuarios  internos  del  Poder  Judicial,  lo  que  incluirá  eventualmente 
+capacidades administrativas avanzadas y  una posible  expansión  a otras  plataformas o sistemas.  Esta fase podría 
+incorporar interacciones más complejas y una mejora continua de la inteligencia del asistente, con el objetivo de 
+ofrecer una solución más robusta y adaptada a las necesidades de los usuarios internos.
+
+ 
+CONSEJO DE LA MAGISTRATURA
+*■*  PODER JUDICIAL DE LA NACIÓN
+
+A  fin  de  llevar  adelante  el  proyecto,  en  la  primera  fase,  se  utilizará  el  equipamiento  de 
+
+computadoras  existentes  en la  Dirección  General  de  Tecnología,  así  como  las  conexiones  a 
+
+internet y demás servicios.
+
+En  cuanto  al  servidor,  se  utilizará  una  máquina  virtual  con  64  núcleos,  1TB  de 
+
+almacenamiento  en  disco,  124gb  de  memoria RAM y  sistema  operativo  S.O.  Rocky  Linux 9 
+
+(Centos 9).
+
+A  fin  de  escalar  el  proyecto,  según  se  avance  en  el  cronograma,  se  contempla  que  será 
+
+necesario adquirir el siguiente equipamiento: 5
+
+D e s c r i p c i ó n
+
+C o s t o  a p r o x i m a d o
+
+J u s t i f i c a c i ó n
+
+P R O Y E C T O  E N  EL 
+
+Q U E   SE  N E C E SIT A
+
+E t a p a  d e l
+
+Servidor  con  GPUs 
+dedicada
+
+A definir
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+Storage  dedicado  + 
+sistema de backup
+
+A definir
+
+Consola 
+monitoreo 
+rendimiento
+
+de 
+de 
+
+A definir
+
+y 
+
+local 
+
+para 
+Requerido 
+ejecutar  modelos  de 
+lenguaje 
+en 
+fases 
+futuras, 
+garantizando 
+soberanía  de  datos  y 
+autonomía
+tecnológica 
+disminuyendo costos
+Necesario 
+para 
+asegurar  persistencia 
+de  logs,  trazabilidad 
+interacciones  y 
+de 
+de 
+cumplimiento 
+de 
+políticas 
+conservación de  datos 
+institucionales
+Permitirá 
+métricas 
+clave 
+respuesta, 
+para 
+calidad del servicio
+
+evaluar 
+técnicas 
+(tiempos  de 
+caídas) 
+la 
+
+asegurar 
+
+Fase 2
+
+Fase 2
+
+Fase 2
+
+5.  Costos Asociados
+
+La  implementación  del  Asistente  Virtual  se  llevará  a  cabo  utilizando  los  recursos  y  la 
+
+infraestructura estándar de  servidores  asignados por  la  Dirección General de  Tecnología.  En 
+
+este proyecto, el procesamiento del modelo  de lenguaje  se realizará a través  de la API oficial
+
+ 
+CONSEJO DE LA MAGISTRATURA 
+PODER JUDICIAL DE LA NACIÓN
+
+i
+
+de  OpenAI,  utilizando  el  modelo  GPT-4.1-nano.  Se  estima  un  volumen  aproximado  de  100 
+
+conversaciones  diarias,  con  un  consumo  medio  de  926  tokens  de  entrada  y  185  tokens  de 
+
+salida por  interacción.  Esto representa un costo  operativo  de  USD  0.1667  por conversación, 
+
+alcanzando un presupuesto mensual proyectado de USD 500.  Los costos asociados podrán,ser 
+
+ajustados en función de la evolución del proyecto, ponderando los recursos necesarios en cada 
+
+fase  para optimizar el presupuesto  y  garantizar  la  sostenibilidad y  calidad del  servicio  de  la 
+
+plataforma a largo plazo.
+
+Dichos  ajustes  no  serán  automáticos,  sino  que  deberán  contemplarse  y  justificarse  en  las 
+
+proyecciones presupuestarias correspondientes a cada nuevo período.
+
+A fin de escalar en el proyecto, se estima
+
+Recursos Humanos
+
+Hardware
+
+Otros gastos
+
+Inicialmente, 650 horas de 
+trabajo por mes. ítem a 
+definir conforme avance.
+
+-  Servidores con GPUs 
+dedicadas. ítem a definir 
+conforme avance.
+-  Storage. ítem a definir 
+conforme avance.
+Uso  de  la  plataforma  openai 
+para  proyecto  SAUE.  ítem  a 
+definir conforme avance.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+8.  Cronograma
+
+A continuación se  expone un cronograma tentativo,  sujeto a diversas contingencias sobre las 
+
+que se tendrá precisiones una vez que se avance en el proyecto.
+
+El  cronograma  es  solo  referencial  y  se  encuentra  sujeto  a  cambios  y  ajustes  conforme  el 
+
+desarrollo de las etapas.
+
+Etapa
+
+1. Curación de 
+contenidos
+
+Días
+10 días
+
+FASE 1
+
+Descripción
+Revisión, validación y 
+estructuración de la base 
+de conocimiento por parte 
+del Departamento de 
+Capacitación y pruebas de 
+incrustaciones
+
+ 
+J j j y  CONSEJO DE LA MAGISTRATURA
+
+PODER JUDICIAL DE LA NACIÓN
+
+2. Desarrollo 
+técnico inicial
+
+3. Integración y 
+pruebas internas
+
+4. Ajustes y 
+mejoras
+
+5. Capacitación a 
+administradores
+
+6.
+Implementación
+Beta
+
+7. Evaluación y 
+validación final
+
+Implementación de los 
+frontend, lógica de flujos, 
+integración con el portal, 
+SAU,  SAUE y Guía 
+Judicial, gestión de 
+sesiones y estructura de 
+logs
+
+Pruebas funcionales y de 
+carga, simulaciones con 
+ejemplos reales, 
+validación de generación 
+de SAUEs y 
+comportamientos 
+esperados
+
+Correcciones derivadas de 
+las pruebas, afinamiento 
+de respuestas, mejoras en 
+experiencia de usuario
+
+Formación en el uso de  la 
+herramienta de contenido, 
+revisión de flujos 
+conversacionales y control 
+de calidad
+
+Puesta en línea para grupo 
+acotado de usuarios 
+externos con monitoreo 
+activó y retroalimentación
+
+Análisis del
+funcionamiento, calidad 
+de respuestas, volumen de 
+tickets y ajuste final 
+previo a ampliación
+
+35 días
+
+30 días
+
+10 días
+
+5 días
+
+a partir del’29 de 
+agosto
+
+5 días
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+Tal  como  se  menciona,  se  estipula  que  el  asistente  virtual  estará  disponible  en  una  versión 
+
+“beta”,  con una  estrategia  de  habilitación  progresiva.  La  activación  se  realizará  mediante  la 
+
+asignación semanal de permisos a grupos de usuarios,  lo que permitirá escalar el uso de forma
+
+, 
+
+( 
+
+>  X
+
+controlada  y  monitorear  su  desempeño.  Durante  los  primeros  dos  meses,  se  otorgarán 
+
+permisos  de  acceso  cada  semana  a  un  grupo  de  hasta  1.000  usuarios,  priorizando  perfiles 
+
+representativos.  Este enfoque facilitará la retroalimentación continua y permitirá  ajustar tanto
+
+ 
+É CONSEJO DE LA MAGISTRATURA
+
+PODER JUDICIAL DE LA NACIÓN 
+
+*
+
+los  contenidos  como  los  flujos  conversacionales  en  función  de  la  experiencia  real  de  los
+
+*
+
+usuarios.
+
+Se  sugiere que el acceso a dicho  servicio será previa aceptación de “términos y condiciones”, 
+
+en tanto se trata de un entorno de prueba de proyecto que aún no estará finalizado.
+
+II.  DESCRIPCIÓN DEL ASISTENTE VIRTUAL DEL PJN
+
+1.  Función Principal
+
+El  Asistente  Virtual  del  PJN  es  una  herramienta  conversacional  integrada  en  el  portal  de 
+
+gestión  de  causas,  destinada  a  brindar respuestas  automáticas a  las consultas operativas  más 
+
+comunes  de  los  usuarios  extemos.  Busca  agilizar  la  atención,  reducir  la  carga  del  soporte 
+
+técnico y ofrecer una experiencia más ágil y eficiente.,
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+2.  Alcance Temático
+
+Su  alcance  está  limitado  a  temáticas  frecuentes  del  uso  del  portal,  como  la  consulta  de 
+
+expedientes, notificaciones electrónicas, inscripción como perito, y la localización de escritos. 
+
+Todas las respuestas se basan en información validada y oficial.
+
+3.  Fuente de Información y Límite Operativo
+
+El  asistente  opera  exclusivamente  con  la  base  de  conocimiento  oficial  provista  por  el 
+
+Departamento  de  Capacitación.  No  realiza  búsquedas  extemas  ni  genera  contenido  propio. 
+
+Cuando una consulta excede su alcance, genera automáticamente un ticket SAUE y  lo deriva 
+
+al área correspondiente.
+
+4.  Atención y Derivación
+
+En los casos no resueltos, el asistente recopila información básica del usuario (nombre,  CUIT,
+
+/
+
+correo  electrónico,  etc.) y,  si  es necesario,  solicita  datos  adicionales.  Luego,  crea un ticket  y
+
+comunica al usuario el número asignado para seguimiento.
+
+/
+
+5.  Interfaz de  Uso
+
+La herramienta  se  presenta  como  una  ventana  flotante,  estilo burbuja de  chat,  ubicada  en  la 
+
+parte inferior derecha del portal. Al activarla, permite ingresar consultas y ofrece respuestas si 
+
+se encuentran dentro del alcance de su base de conocimiento.
+
+ 
+CONSEJO DE LA MAGISTRATURA
+
+PODER JUDICIAL DE LA NACIÓN
+
+6. Beneficios
+
+La  incorporación  del  Asistente  Virtual  permite  optimizar  los  recursos  humanos  del  soporte 
+
+técnico, acelerar la atención de dudas frecuentes y mejorar la experiencia del usuario externo. 
+
+Además,  genera  un  registro  ordenado  de  interacciones  que  puede  utilizarse  con  fines 
+
+estadísticos y de mejora continua.
+
+7. Implementación Inicial
+
+La Fase  1  se podría implementar a fines de agosto de 2025  o antes, dirigida exclusivamente a 
+
+usuarios  externos.  Incluirá  funciones  esenciales  como  responder  preguntas  frecuentes  y 
+
+gestionar derivaciones automatizadas al sistema SAUE.
+
+La Fase 2, estará centrada en usuarios internos del PJN.
+
+III.  ESPECIFICACIÓN FUNCIONAL
+
+1. Alcance de la Fase 1
+
+Esta  especificación  funcional  define  los  lincamientos para  la  implementación  de  la  primera 
+
+fase  del Asistente  Virtual del PJN,  centrada  en la  atención  a  usuarios externos  del portal  de 
+
+gestión  de  causas.  La  herramienta  se  desarrollará  bajo  metodologías  ágiles  y  en  fases 
+
+sucesivas.  Esta  primera  entrega  contempla  funcionalidades  esenciales  para  su  uso  inicial,, 
+
+mientras que funcionalidades ampliadas y el soporte a usuarios internos serán abordadas en  la 
+
+Fase 2.
+
+2.  Objetivos del Sistema  .
+
+•  Proveer respuestas automáticas y precisas a consultas frecuentes de usuarios externos, 
+
+basadas en una base de conocimiento validada.
+
+•  Facilitar el acceso rápido a información operativa del portal.
+
+•  Reducir la carga de trabajo del soporte técnico mediante automatización.
+
+•  Generar  y  gestionar  tickets  SAUE  cuando  la  consulta  no  pueda  ser  resuelta 
+
+automáticamente.
+
+•  Brindar una interfaz integrada y amigable.
+
+•  Registrar interacciones útiles para estadísticas y mejoras del sistema.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+ 
+gkCONSEJO DE LA MAGISTRATURA 
+
+?  PODER JUDICIAL DE LA NACIÓN 
+
+3.  Tipos de Usuarios
+
+;  f
+*
+
+' 
+
+Esta fase está dirigida a usuarios externos autenticados en el portal mediante  SAU: abogados, 
+
+peritos,  fiscales,  defensores,  representantes  de  organismos,  partes  y  otros  operadores 
+
+habilitados.  Además,  contempla usuarios  administradores  encargados de  gestionar la base  de 
+
+conocimiento y supervisar interacciones no resueltas.
+
+Los procedimientos particulares no  serán  resueltos por el  asistente y deberán canalizarse  por 
+
+el sistema  SAUE, ya que cada expediente o módulo puede requerir validaciones específicas.
+
+4.  Requisitos Funcionales
+
+• 
+
+Interfaz:  Ventana flotante accesible desde  la pantalla principal del portal, con campo 
+
+para ingresar preguntas en lenguaje natural (español).
+
+• 
+
+Inicio  de  Uso:  Aceptación  de  términos  y  condiciones  la  primera  vez  que  se  accede 
+
+desde un dispositivo.
+
+•  Base  de  Conocimiento:  Solo  responderá  sobre  temas  validados  y  registrados 
+
+oficialmente. No responderá consultas ajenas al sistema ni especulativas.
+
+• 
+
+Identificación  del  Usuario: 
+
+Integración  con  SAU  para  recuperar  nombre, 
+
+CUIT/CUIL y otros datos.
+
+•  Flujos de conversación:
+
+o  Flujo  A:  Interacciones  sociales  sin  contenido  operativo  ni  generación  de 
+
+SAUE.
+
+o  Flujo B:  Consulta resuelta con una respuesta válida,  se registra y se genera un 
+
+SAUE “pre-ftnalizado”.
+
+o  Flujo C:  Consulta sin respuesta,  se recopila información adicional y se genera 
+
+un SAUE estándar.
+
+Cada  interacción  nó  social  se  registrará  con  los  siguientes  datos:  identificación  del usuario, 
+
+fecha y hora, contenido de  la consulta, respuesta ofrecida, grado de  satisfacción y número de 
+
+ticket generado.
+
+•  Canales  de  contacto:  Toda respuesta  incluirá  la  información básica  de  contacto para 
+
+otras vías de atención.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+ 
+CONSEJO DE LA MAGISTRATURA
+PODER JUDICIAL DE LA NACIÓN
+
+n c a
+
+5. Requisitos No Funcionales
+
+•  Usabilidad:  La  interfaz debe ser clara, comprensible  y de  fácil acceso para todos  los 
+
+usuarios.
+
+•  Rendimiento:  Tiempo  de  respuesta  rápido  y  capacidad  de  escalabilidad  ante  alta 
+
+demanda.
+
+•  Seguridad:  Cumplimiento  con  normas  de  privacidad  y  seguridad  en  la  gestión  de 
+
+datos, especialmente al integrarse con  SAU.
+
+•  Accesibilidad: Cumplimiento con los estándares definidos por el PJN.
+
+•  Mantenibilidad: Capacidad de actualización fácil de  la base de conocimiento y de los 
+
+componentes del sistema.
+
+6. Integraciones Requeridas
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+•  SAU: Para la autenticación e identificación del usuario.
+
+•  SAUE: Para la generación, seguimiento y cierre de tickets de soporte.
+
+• y  Portal PJN: Para la inserción del asistente y su correcto funcionamiento en el entorno
+
+web.
+
+•  Guía Judicial: Para la búsqueda de información de las dependencias y sus integrantes
+
+7.  Consideraciones Adicionales
+
+El  sistema  debe  contemplar  una  demanda promedio  de  hasta  60  tickets  diarios  y  escenarios 
+
+pico de más de 200.  El correcto funcionamiento del asistente  estará condicionado a la  calidad 
+
+y actualización continua de la base de conocimiento. Es imprescindible una articulación fluida 
+
+con los equipos responsables del contenido y soporte técnico. 8
+
+8. Preguntas Guía para Evaluación
+
+Se utilizarán ejemplos representativos para evaluar la  efectividad del asistente en términos de 
+
+comprensión, contexto y pertinencia:
+
+• 
+
+¿Puedo enviar un Deox a una entidad financiera no registrada como Organismo?
+
+•  Quiero hacer una notificación electrónica y el expediente no aparece.
+
+• 
+
+¿Cómo consulto una causa por internet?
+
+•  Subí un escrito a una causa y ahora no lo encuentro.
+
+ 
+M m  CONSEJO DE LA MAGISTRATURA
+G k ?   PODER JUDICIAL DE LA NACIÓN
+%-•***
+
+IV.  IMPLEMENTACIÓN TÉCNICA DEL ASISTENTE VIRTUAL DEL PJN
+
+La  implementación  del  Asistente  Virtual  del  PJN  contempla  una  arquitectura  basada  en 
+
+inteligencia  artificial  conversacional,  orientada  a  responder  automáticamente  las  consultas 
+
+más frecuentes de  los usuarios del portal de  gestión de causas.  El desarrollo se  llevará a cabo 
+
+en dos fases:
+
+•  Fase  1  (Usuarios  Externos):  Dirigida  a  abogados,  peritos,  representantes  de 
+
+organismos, partes y demás operadores registrados, esta etapa contempla la puesta en 
+
+marcha  de  una versión  inicial con  funciones  esenciales:  atención de  dudas operativas 
+
+comunes,  generación  automática  de  tickets  SAUE  cuando  no  se  pueda  resolver  una 
+
+consulta,  e  integración  con  los  sistemas  SAU  y  SAUE  para  identificación  y 
+
+derivación.
+
+•  Fase  2  (Usuarios  Internos):  Prevista  para  etapas  posteriores,  esta  ampliación 
+
+abordará  funcionalidades  específicas para personal del PJN,  incluyendo herramientas 
+
+administrativas,  acceso  a  datos  internos  y  capacidades  extendidas  de  gestión  y 
+
+supervisión. 1
+
+1. Diseño  Tecnológico y  Operativo
+
+El Asistente  Virtual  utilizará modelos  de  lenguaje  generativos bajo  el  enfoque  de  Retrieval- 
+
+Augmented  Generation  (RAG).  Durante  la Fase  1,  se  empleará  el  modelo  GPT-4.1-nano  de 
+
+OpenAI,  accedido  a través  de  su API  oficial,  lo  que permite  garantizar tiempos de  respuesta 
+
+óptimos,  alta  precisión  y  flexibilidad  técnica  sin  requerir  infraestructura  local  especializada. 
+
+Esta  decisión  estratégica  responde  a  la  necesidad  de  contar  con  una  solución  escalable  en 
+
+plazos  breves,  sin  comprometer  la  seguridad  ni  la  trazabilidad  de  la  información,  ya  que  el 
+
+sistema  operará  exclusivamente  con contenidos validados  y públicos.  En  fases posteriores  se 
+
+evaluará  la  implementación  de  modelos  locales,  con  el  objetivo  de  fortalecer la  soberanía  de 
+
+datos  y  consolidar  una  infraestructura  propia  de  inteligencia  artificial  dentro  del  Poder 
+
+Judicial.
+
+La  integración  se  realizará  mediante  APIs  con  los  sistemas  SAU  (para  autenticación  e 
+
+identificación),  SAUE  (para generación  y  seguimiento  de  tickets de  soporte)  y  el portal web 
+
+del PJN (para su visualización como burbuja de chat flotante).
+
+El  procesamiento  de  datos  y  las  interacciones  serán  registrados  y  auditables,  incluyendo 
+
+fecha, hora, identificación del usuario, tipo de consulta, respuesta ofrecida, y número de ticket
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+ 
+CONSEJO DE LA MAGISTRATURA 
+PODERJUDICIAL DE LA NACIÓN
+
+generado  si correspondiera.  Estas interacciones alimentarán procesos estadísticos y de mejora 
+
+continua del sistema.
+
+2. Infraestructura y  Seguridad
+
+La  solución  técnica  requiere  infraestructura  robusta,  capaz  de  soportar  procesamiento  en 
+
+tiempo real y escalabilidad en  contextos  de alta demanda.  Se  estima una demanda promedio 
+
+de  60  tickets diarios,  con picos  superiores  a  los  200.  La  seguridad y privacidad de  los  datos 
+
+estarán  garantizadas  conforme  a  las  políticas  del  PJN,  con  almacenamiento  y  operación 
+
+exclusivamente dentro de su red interna.
+
+3.  Condiciones de Éxito y Recomendaciones
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+El éxito del proyecto estará garantizado mediante el cumplimiento de los siguientes factores:
+
+•  La base de conocimiento proporcionada por el Departamento de  Capacitación será de 
+
+alta  calidad,  actualizada  y  con  una  cobertura  temática  completa,  asegurando  que  el 
+
+asistente virtual brinde respuestas precisas y relevantes.
+
+•  La  integración  entre  los  sistemas  SAU,  SAUE  y  el  asistente  virtual  se  realizará  de 
+
+manera  eficiente,  garantizando  que  los  procesos  fluyan  de  forma  continua  y  sin 
+
+interrupciones.
+
+•  Se  ejecutará  un  plan  de  pruebas  exhaustivo  que  incluirá  pruebas  funcionales  y  de 
+
+carga,  validando  que  el  sistema  pueda  soportar  el  volumen  de  usuarios  y  consultas 
+
+esperados sin afectar el rendimiento.
+
+•  El personal administrador del sistema  recibirá una  capacitación  adecuada y  detallada 
+
+para garantizar el manejo efectivo del sistema y la resolución de posibles incidencias.
+
+Se  establecerá un proceso  de  curación y mantenimiento  continuo  de  contenidos,  asegurando 
+
+que la base de  conocimiento se mantenga actualizada y pertinente. Además, se  implementará 
+
+un  monitoreo  activo  del  rendimiento  técnico,  permitiendo  ajustar  la  infraestructura  según  la 
+
+'  evolución de la demanda y asegurando la disponibilidad y eficiencia del sistema a largo plazo.
+
+ 
+CONSEJO DE LA MAGISTRATURA
+1  PODER JUDICIAL DE LA NACIÓN
+
+i
+
+GLOSARIO DE TÉRMINOS
+
+Fases:  Etapas  de  un proyecto  que  agrupan  actividades  relacionadas  en  tomo  a  un  objetivo 
+
+intermedio.  Permiten  organizar  el  trabajo  en  bloques  manejables  y  facilitar  la  gestión  de 
+
+riesgos.
+
+Retrieval-Augmented  Generation  (RAG):  Técnica  que  combina  modelos  de  lenguaje 
+
+generativos (LLMs) con sistemas de recuperación de  información.  Permite que  las respuestas 
+
+generadas se basen en documentos o bases de conocimiento específicas, mejorando precisión 
+
+y control.
+
+LLM  (Modelo  de  Lenguaje  Grande):  Algoritmo  de  inteligencia  artificial  entrenado  para 
+
+procesar  y  generar  lenguaje  natural.  Puede  responder  preguntas,  redactar  textos  o  resumir 
+
+información.
+
+Soberanía  de  Datos:  Principio  que  garantiza  que  los  datos  generados,  procesados  o 
+
+almacenados en el marco del proyecto permanezcan bajo control exclusivo del Poder Judicial, 
+
+sin exposición a terceros o servicios extemos.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+Base  de  Conocimiento:  Conjunto  estructurado  de  documentos,  normativas,  guías  y 
+
+procedimientos  que  alimentan  al  asistente  virtual.  Su  calidad  y  actualización  son 
+
+fundamentales para brindar respuestas precisas.
+
+SAU (Sistema  de Autenticación Unificado):  Sistema institucional encargado de autenticar y 
+
+gestionar las credenciales de los usuarios que interactúan con los servicios del PJN.
+
+SAUE  (Sistema  de  Atención  al  Usuario  Externo):  Plataforma  de  gestión  de  consultas  e 
+
+incidencias  de  usuarios extemos.  Recibe  los  casos que  el asistente  virtual no puede  resolver 
+
+automáticamente.
+
+PoC (Prueba de  Concepto): Ensayo  limitado en alcance y duración, diseñado para validar la 
+
+viabilidad técnica de un componente o integración antes de su implementación definitiva. 
+
+Curación de Datos: Proceso continuo de revisión, validación y mejora de los datos utilizados 
+
+por el sistema, asegurando su calidad, relevancia y adecuación a los objetivos del proyecto. 
+
+Escalabilidad:  Capacidad  del  sistema  para  adaptarse  al  crecimiento  en  la  cantidad  de 
+
+usuarios, consultas o requerimientos sin degradar su rendimiento ni estabilidad.
+
+Capacidad  Computacional:  Recursos  de  hardware  (CPU,  GPU,  memoria,  almacenamiento) 
+
+necesarios para ejecutar el modelo de IA y soportar las cargas operativas previstas.
+
+ 
+CONSEJO DE LA MAGISTRATURA 
+PODER JUDICIAL DE iA NACIÓN
+
+Asistente Virtual: Herramienta basada en inteligencia artificial conversacional, diseñada para 
+
+responder de manera automática las consultas frecuentes de los usuarios del Portal de Gestión 
+
+de Causas del PJN.
+
+Consulta  Frecuente:  Pregunta  o  requerimiento  habitual  de  los  usuarios  que  se  repite
+
+regularmente y que puede ser resuelta de forma automatizada.
+
+j
+
+Dirección  General  de  Tecnología:  Área  del  Consejo  de  la  Magistratura  responsable  de  la 
+
+implementación, supervisión y soporte técnico de las soluciones informáticas en el PJN.
+
+Flujo  de  Conversación:  Secuencia  de  interacción  entre  el usuario y el Asistente  Virtual.  Se 
+
+clasifican como:
+
+•  Flujo A: Interacciones sociales o sin contenido operativo.
+
+•  Flujo  B:  Consultas  resueltas  automáticamente  con  generación  de  ticket  SAUE  pre­
+
+finalizado.
+
+•  Flujo  C:  Consultas  no  resueltas,  derivadas a  un  operador mediante  la  generación  de 
+
+ticket SAUE.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+Interfaz Conversacional:  Ventana  flotante  o burbuja  de  chat  integrada  en el portal web  del 
+
+PJN, mediante la cual los usuarios pueden interactuar con el Asistente Virtual.
+
+Inteligencia  Artificial  (IA):  Tecnología  que  permite  simular  procesos  de  razonamiento 
+
+humano en máquinas para resolver problemas y responder consultas de manera autónoma. 
+
+Modelo  de  Lenguaje  de  Gran  Escala  (LLM):  Algoritmo  de  procesamiento  de  lenguaje 
+
+natural  capaz  de  comprender y  generar  texto  en  lenguaje  humano,  aplicado  en  el  Asistente 
+
+Virtual para interpretar preguntas de los usuarios.
+
+Ticket: Registro formal de una consulta no resuelta por el Asistente Virtual,  que  se deriva al 
+
+equipo de soporte a través del sistema SAUE para su seguimiento y resolución.
+
+Usuario  Externo:  Persona  que  accede  al  Portal  de  Gestión  de  Causas  sin  pertenecer  al 
+
+personal  intemo  del  Poder  Judicial  de  la  Nación  (PJN),  tales  como  abogados,  peritos, 
+
+representantes de organismos, partes, y otros operadores habilitados, autenticados mediante el 
+
+Sistema de Autenticación Unificado (SAU).
+
+Usuario  Administrador:  Persona  designada  para  supervisar  la  operación  del  Asistente 
+
+Virtual,  actualizar  la  base  de  conocimiento  y  gestionar  la  calidad  de  las  respuestas  y 
+
+derivaciones.
+
+ 
+CONSEJO DE LA MAGISTRATURA
+f   PODER JUDICIAL DE LA NACIÓN
+
+Pre-finalizado:  Estado  de  un  ticket  SAUE  generado  automáticamente  por  una  consulta 
+
+resuelta  satisfactoriamente,  que  se  guarda  con  fines  estadísticos  sin  requerir  intervención 
+
+posterior del soporte.
+
+Términos  y  Condiciones:  Declaración  legal  que  debe  ser  aceptada  por  el  usuario  para 
+
+comenzar  a  utilizar  el  Asistente  Virtual,  estableciendo  las  reglas  de  uso  y  limitaciones  del 
+
+servicio.
+
+Experiencia del Usuario (UX): Calidad de la interacción del usuario con el Asistente Virtual, 
+
+evaluada por factores como claridad, rapidez, precisión y accesibilidad.
+
+L
+A
+
+I
+
+C
+
+I
+F
+O
+
+O
+S
+U
+
+F irm a d o   d ig ita lm e n te   por: 
+RONDINELLA W a lte r  H ernán 
+Fecha  y   hora:  2 0 .0 5 .2 0 2 5   1 9 :4 5 :4 3
+
+ 
+CONSEJO DE LA MAGISTRATURA 
+W   PODER JUDICIAL DE LA NACIÓN
+
+ADMINISTRACIÓN GENERAL
+
+ANEXO II  Resolución  N°  I
+
+72025.
+
+TÉRMINOS  Y  CONDICIONES  DE  USO  Y  POLÍTICA  DE  PRIVACIDAD  DEL 
+ASISTENTE VIRTUAL DEL PODER JUDICIAL DE LA NACIÓN
+
+1.  Alcance:
+
+Los  presentes  Términos  y  Condiciones  de  Uso  y  la  Política  de  Privacidad  (en  adelante 
+“Términos y Condiciones") son aplicables  al Asistente Virtual del Poder Judicial de  la  Nación 
+(en  adelante,  “el  Asistente” ).  Al  acceder  al  Asistente  e  interactuar  con  él,  usted  reconoce 
+
+haber leído,  entendido y manifiesta su consentimiento  libre,  expreso e informado  respecto de 
+
+los  presentes  Términos  y  Condiciones  con  el  Poder  Judicial  de  la  Nación  (en  adelante, 
+“P.J.N.”) con  relación al  uso  del Asistente,  incluyendo el tratamiento  de sus datos personales 
+con motivo  del  uso del Asistente.
+
+2. Objetivo del Asistente:
+
+El  Asistente  ha  sido  puesto  a  disposición  exclusiva  de  los  usuarios  externos  autenticados 
+mediante  el  Sistema  de  Autenticación  Unificado  (S.A.U.)  (en  adelante,  “el  Usuario”)  con 
+acceso al portal de gestión de expedientes web,  para brindar orientación inicial y/o  preliminar 
+y respuestas automáticas a  consultas frecuentes vinculadas  al  Portal de  Gestión de  Causas 
+y  sus  sistemas  asociados.  La  información  proporcionada  por  el  Asistente  no  tiene  valor 
+
+vinculante  ni  genera derechos  ni obligaciones  para  el P.J.N.
+
+3. Tipo de datos  personales solicitados en el  uso del Asistente:
+
+El  Asistente  le  requerirá  al  Usuario  datos  identificatorios  y  de  contacto  básicos,  como  su 
+nombre  y  apellido,  número  de  teléfono,  correo  electrónico,  C.U.I.T.  (la  “Información 
+Personal”).  Asimismo,  el  Asistente  podrá  requerir  otros  datos  adicionales  necesarios  para 
+llevar a cabo  las interacciones respectivas.
+El  tratamiento  de  la  Información  Personal  se  realiza  conforme  lo  establecido  en  la  Ley  N° 
+25.326  de  Protección  de  los  Datos  Personales,  en  particular  sus  artículos  5  y  6,  y  será 
+utilizado  exclusivamente  para  las finalidades  informadas al  Usuario  en el  marco  del  uso  del 
+
+Asistente.
+
+4.  Derechos del usuario:
+
+De acuerdo a las  normas vigentes,  usted tiene diversos derechos,  entre  los que se destacan:
+1.  Derecho a solicitar y obtener información sobre  su Información Personal recolectada;
+2.  Derecho a solicitar la rectificación o actualización de su  Información Personal;
+3.  Derecho  a solicitar la supresión de su  Información Personal de  nuestras  bases de datos.
+El  Usuario  conoce  que,  previa  acreditación  de  su  identidad,  puede  solicitar  al  P.J.N.  en 
+cualquier  momento  la  supresión  del  dato  personal,  acceso  a  ellos  y  rectificación  de  dato 
+
+erróneo  u otros derechos sobre datos según  normativa vigente.
+
+J i m  CONSEJO DE LA MAGISTRATURA
+
+f c p S   PODER JUDICIAL DE LA NACIÓN
+
+ADMINISTRACIÓN GENERAL
+
+0l
+
+La  Información  Personal  sólo  pocfrá^ser  difundida  a  otras  personas  cuando  exista  previa 
+autorización expresa por parte del Usuario o  cuando exista  una  ley  u orden gubernamental o 
+
+judicial  firme  que  obligue  al  P.J.N.  a  brindar  la  Información  Personal o  cuando  se configure 
+
+otros de los supuestos previstos en el artículo  5o de  la  ley 25.326.
+El  Usuario  conoce tener  la  facultad  para  ejercer el derecho  de  acceso  a  los  datos en forma 
+gratuita  a  intervalos  no  inferiores  a  seis  meses,  salvo  que  acredite  un  interés  legítimo  al 
+efecto,  conforme lo  establecido  en el artículo  14,  inc.  3 de  la  Ley  N° 25.326,  comunicándose 
+al correo  electrónico:  dat.direccion-qeneral@ pin.qov.ar.
+
+5.  Responsabilidad  del  usuario:
+
+El Usuario  es responsable de  la información y/o datos que ingrese en el servicio,  con  lo  cual 
+el P.J.N.  no se responsabiliza por la información que envíe al número de teléfono y/o dirección 
+de  correo  electrónico  que  haya  sido  proporcionado  por  el  propio  usuario,  siendo  ello 
+
+responsabilidad exclusiva del  mismo.
+
+Toda  consulta  realizada  por  el  usuario  a  través  del  Asistente  se  presumirá  hecha  por  el 
+usuario  bajo  su  total  responsabilidad.  Los  usuarios  se  obligan  a:  a)  utilizar  el  Asistente 
+únicamente  para fines  lícitos,  en forma  diligente y correcta.  El  uso  correcto  implica  la  buena 
+fe y el uso racional del Asistente; b) no vulnerar derechos de terceros y c) no utilizar aplicativos 
+o  programas que  puedan dañar al Asistente.
+
+El  incumplimiento  de  cualquiera  de  estas  obligaciones,  dará  lugar  a  las  responsabilidades 
+administrativas,  civiles  y/o  penales  correspondientes.  El  P.J.N.,  sus  funcionarios  y/o 
+empleados,  no  serán  responsables  en  form a  alguna  de  las  consecuencias  que,  por  el 
+incumplimiento  de  cualquiera  de  las  obligaciones  o  prohibiciones  mencionadas  en  los 
+presentes Términos y Condiciones,  se  puedan generar.
+
+El  usuario asume  la  responsabilidad  por permitir el acceso a terceros a su cuenta de  usuario 
+externo autenticado mediante el Sistema de Autenticación Unificado (SAU) liberando al P.J.N. 
+de toda responsabilidad  por el mal  uso.
+
+El  Usuario  reconoce  y  acepta  que,  en  la  medida  permitida  por  las  disposiciones  legales 
+aplicables,  el  P.J.N  no  garantiza  la  disponibilidad,  confiabilidad,  precisión,  actualidad  o 
+seguridad  del  Asistente.  El  P.J.N  no  será  responsable  si  este  Asistente  proporciona 
+información  incompleta,  inexacta,  desactualizada  o  incorrecta,  o  si,  por cualquier  motivo,  no 
+está disponible.
+
+El  Asistente  opera  sobre  una  base  de  datos  debidamente  validada  y  de  acceso  público, 
+compuesta  por  manuales,  instructivos  y  preguntas  frecuentes  autorizadas  por  la  Dirección 
+General  de  Tecnología  de  la  Oficina  de  Administración  y  Financiera  del  Consejo  de  la 
+Magistratura  de  la  Nación.
+
+El Asistente  no  brinda  asesoramiento  jurídico  ni  otro  tipo  de  asesoramiento  profesional,  ni 
+información  personalizada  sobre  expedientes,  causas  específicas  ni  actuaciones  judiciales,
+
+. J » , CONSEJO DELA MAGISTRATURA
+
+t P h *   p o d e r  JUDICIAL DE LA NACIÓN
+
+ADMINISTRACIÓN GENERAL
+
+ni  reemplaza canales formales  de contacto,  presentaciones judiciales  ni  constituye vía oficial 
+de notificación.  Para trámites formales, el usuario deberá utilizar los medios correspondientes.
+
+6. Disponibilidad def servicio:
+
+El  usuario  declara conocer y aceptar que  los servicios que se brindan a través de internet,  se 
+encuentran sujetos a la disponibilidad,  restricciones de  uso  y limitaciones propias de internet, 
+así como otros factores externos al P.J.N., por lo que libera al mismo de toda responsabilidad 
+por los perjuicios que pudiesen derivarse de  dicho  suceso.
+
+En tal sentido, el P.J.N.  no garantiza  la continuidad del funcionamiento yio acceso al servicio 
+ni  será  responsable  por  los  daños  y  perjuicios  que  puedan  derivarse  de  (i)  la  falta  de 
+disponibilidad  o  accesibilidad  al  servicio,  ya  sea  por  fallas  del  P.J.N.  o  ajenas;  (ii)  la 
+interrupción en  el funcionamiento  del servicio  o  fallos  informáticos,  desconexiones,  retrasos 
+o  bloqueos  causados  por deficiencias o  sobrecargas en  los  centros  de datos,  en  el  sistema 
+de internet o  en otros sistemas  electrónicos,  producidos en el curso  de su funcionamiento;  y 
+(iii) otros daños que puedan ser causados por terceros mediante intromisiones no autorizadas 
+ajenas o  no al control del P.J.N.
+
+7.  Política de  Privacidad del Asistente:
+
+El  Asistente  cumple  con  las  políticas  institucionales  de  privacidad,  acceso  restringido  y 
+seguridad de  la  información del Poder Judicial de  la  Nación (P.J.N.).
+Toda  la  infraestructura  tecnológica  utilizada  se  encuentra  alojada  y  protegida  dentro  del 
+entorno  de  la  Dirección General de  Seguridad  Informática  (DGSI),  qué  implementa  medidas 
+avanzadas  de seguridad, tales como firewalls  perimetrales, firewalls internos  para servidores 
+y firewalls de aplicación web.  Estas  herramientas garantizan, entre otras funciones,  el cifrado 
+
+de la aplicación y  la protección frente a  accesos  no autorizados.
+limitado  exclusivamente  a  usuarios 
+El  acceso  con  permisos  de  administración  está 
+previamente  autorizados,  cuyos  ingresos  se  encuentran  restringidos  a  direcciones 
+IP 
+registradas y protegidos mediante el cifrado de credenciales sensibles, incluidas aquellas que 
+
+otorgan control total sobre el sistema.
+No  se  almacenan datos  biométricos  ni  se  realiza  un análisis  adicional sobre  la  identidad  del 
+Usuario  más allá de  lo  provisto  por el Sistema de Autenticación Unificado  (SAU).
+
+7.1.  Responsable del tratamiento:
+
+El  responsable  del  tratamiento  es  el  P.J.N.  (Dirección  General  de  Tecnología,  Oficina  de 
+Administración  y  Financiera,  Consejo  de  la  Magistratura  de  la  Nación),  con  domicilio  en 
+Sarmiento  877,  9o  piso,  de  la Ciudad Autónoma de Buenos Aires.
+Dirección  de  correo  electrónico  de  contacto  del  responsable  de  tratamiento:  dgt.direccion- 
+
+general@ pjn.gov.ar.
+
+7.2 Datos solicitados al Usuario:
+
+CONSEJO DE LA MAGISTRATURA
+
+«/  PODER JUDICIAL DE LA
+L*
+
+ADMINISTRACIÓN GENERAL
+
+El Usuario  no está obligado a proporcionar la Información Personal solicitada por el Asistente. 
+En caso de que usted no proporcione dicha Información Personal, podría limitar u obstaculizar 
+
+el funcionamiento  del servicio.
+
+En  ningún  caso  le  serán  requeridos  al  Usuario  datos  sensibles  en  su  interacción  con  el 
+Asistente.  Conforme  las  normas  vigentes,  se  consideran  datos  sensibles  aquellos  datos 
+personales  que  revelan  origen  racial  y  étnico,  opiniones  políticas,  convicciones  religiosas, 
+filosóficas o  morales,  afiliación sindical  e información  referente  a  la salud o a  la vida  sexual., 
+E ncaso de que el  usuario brinde esos datos, el P.J.N.  no será  responsable de su tratamiento 
+
+y los  mismos serán eliminados. Además,  se entenderá que el Usuario  brindó esos datos bajo 
+
+su exclusiva responsabilidad.
+
+7.3 Objetivo de  la  utilización de  Información  Personal:
+
+Toda  la  información  ingresada  por  el  usuario  durante  la  interacción  con  el  Asistente  será 
+registrada  a  los  fines  de  su  trazabilidad,  análisis  estadístico  y,  en  caso  de  corresponder, 
+derivación automatizada  al sistema de  atención al Usuario  Externo  (SAUE):  Sistema  Integral 
+
+de Gestión y Administración de  Consultas  (S.I.G.A.C.).
+
+Cada consulta  no social (interacciones orientadas a tareas) será registrada junto con los datos 
+
+básicos  del  usuario  (según  SAU),  la  fecha  y  hora,  la  pregunta  ingresada,  la  respuesta 
+brindada y el número de “ticke t generado, en caso de aplicar.  Esta información será  utilizada 
+con  fines  de  mejora  del  servicio  y  podrá  ser  derivada  a  operadores  humanos  en  caso  de 
+requerir intervención.
+
+7.4.  Derivación  de consultas:
+
+Cuando  el  Asistente  no  pueda  brindar  una 
+respuesta  satisfactoria,  se  generará 
+automáticamente una consulta en el SAUE.  En estos casos, se informará al usuario el número 
+de gestión correspondiente  para su seguimiento.
+
+7.5. Tiempo de conservación de  la  Información Personal:
+
+La  Información  Personal  se  conservará  durante  el  tiempo  estrictamente  necesario  para 
+cumplir con  la  finalidad  para  la  que  fueron  recolectados.  Una  vez  cumplida  dicha  finalidad, 
+serán eliminados de  la base de datos,  excepto obligación  legal de  mantener los datos.
+
+8.  Protección  de datos personales:
+
+El  Asistente  cumple  con  las  políticas  institucionales  de  privacidad,  acceso  restringido  y 
+seguridad  de  la  información del  Poder Judicial de  la  Nación  (P.J.N.).  Toda  la  infraestructura 
+tecnológica  utilizada  se  encuentra  alojada  y  protegida  dentro  del  entorno  de  la  Dirección 
+General de Seguridad Informática (DGSI), que implementa medidas avanzadas de seguridad, 
+tales  como  firewalls  perimetrales,  firewalls  internos  para  servidores y firewalls de  aplicación
+
+CONSEJO DE LA MAGISTRATURA
+
+PODER JUDICIAL DE LA NACIÓN
+
+ADMINISTRACIÓN GENERAL
+
+web.  Estas  herramientas  garantizan,  entre  otras  funciones,  el  cifrado  de  la  aplicación  y  la 
+protección frente a  accesos no autorizados.
+
+limitado  exclusivamente  a  usuarios 
+El  acceso  con  permisos  de  administración  está 
+previamente  autorizados,  cuyos  ingresos  se  encuentran  restringidos  a  direcciones 
+IP 
+registradas y protegidos mediante el cifrado de credenciales sensibles, incluidas aquellas que 
+otorgan  control  total  sobre  el  sistema.  No  se  almacenan  datos  biométricos  ni  se  realiza  un 
+análisis  adicional  sobre  la  identidad  del  Usuario  más  allá  de  lo  provisto  por el  Sistema  de 
+Autenticación Unificado (SAU).
+
+8.1  Ejercicio de los derechos  relativos a la protección de datos personales del Usuario:
+
+El Usuario  podrá  ejercitar sus  derechos  de  rectificación,  actualización  y/o  supresión  de sus 
+datos  personales  mediante  presentación  escrita,  acompañada  de  fotocopia  de  su  D.N.I.  al 
+domicilio  del  Poder Judicial de  la  Nación,  anteriormente  indicado,  o  bien a  través del correo 
+electrónico dgt.direccion-general@ pjn.gov.ar.
+
+Cuando  el  Usuario  no  haya  obtenido  satisfacción  en  el  ejercicio  de  sus  derechos,  tiene  la 
+potestad de efectuar un  reclamo ante  la autoridad competente.
+
+9.  Actualizaciones
+
+El P.J.N.  puede actualizar los Términos y Condiciones del Asistente en cualquier momento y 
+cualquier  cambio  producirá  efectos  a  partir  de  su  publicación  en  el  sitio  web  del  P.J.N.  El 
+Usuario  es  responsable  de  revisar  regularmente  los  Términos  y  Condiciones  del  Asistente 
+para estar al tanto de dichas  modificaciones.  El  uso  del Asistente  luego  de  una  actualización 
+de estos Términos y  Condiciones del Asistente  constituirá  su  aceptación  de  los Términos y 
+
+Condiciones.
+
+10.  Derecho aplicable y jurisdicción:
+
+Los  Términos  y  Condiciones  y  la  Política  de  Privacidad  aquí  presentadas  se  rigen  por  las 
+
+disposiciones  de  la  Ley  N°  25.326  de  Protección  de  Datos  Personales,  sus  normas 
+
+complementarias y  normativa aplicable.
+
+En caso  de  surgir cualquier  controversia  respecto  de  la  interpretación  o  cumplimiento  de  la 
+presente,  el  Usuario  podrá  efectuar  el  respectivo  reclamo  administrativo  ante  la  autoridad 
+competente. El PJN y el Usuario se someten a  los Juzgados en lo Contencioso Administrativo 
+
+Federal con asiento en  la Ciudad Autónoma de Buenos Aires.
+
+F irm a d o   d ig ita lm e n te   por: 
+RONDINELLA W a lte r  H ernán 
+Fecha  y   hora:  2 6 .0 5 .2 0 2 5   1 6 :3 9 :1 2

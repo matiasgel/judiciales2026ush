@@ -1,0 +1,416 @@
+# Fuente
+- archivo: Artificial_Intelligence_and_Technology_for_Improving_the_Efficiency_of_The_Judiciary_in_Nigeria.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\academicos\Artificial_Intelligence_and_Technology_for_Improving_the_Efficiency_of_The_Judiciary_in_Nigeria.pdf
+- extraido: 2026-04-24T11:33:54
+
+# Contenido
+
+INTERNATIONAL JOURNAL OF RESEARCH AND INNOVATION IN APPLIED SCIENCE (IJRIAS) 
+
+ISSN No. 2454-6194 | DOI: 10.51584/IJRIAS | Volume VIII Issue V May 2023 
+
+Artificial Intelligence and Technology for Improving the Efficiency 
+of The Judiciary in Nigeria 
+Eli Adama Jiya1,*; Ahmed Nuruddeen Samaila2; Yusuf Surajo3 
+
+1Department of Computer Science, Federal University Dutsinma, Katsina State, Nigeria. 
+
+2Department of Software Engineering, Federal University Dutsinma, Katsina State, Nigeria. 
+
+3Department of Cyber Security, Federal University Dutsinma, Katsina State, Nigeria. 
+
+Corresponding Author*  
+
+DOI: https://doi.org/10.51584/IJRIAS.2023.8509 
+
+Received: 25 March 2023; Accepted: 05 April 2023; Published: 13 June 2023 
+
+Abstract:  Technology  is  an  essential  component  of  the  civilization  of  twenty-first-century  society  and  one  of  the  key  forces 
+influencing  public  sector  organizations.    Public  infrastructures  like  transportation  systems  and  important  service  delivery  are 
+managed using technology and powerful computing software. Artificial intelligence (AI) on the other hand helps to add intelligence 
+to computing devices and applications through learning, reasoning, and perceiving things from data. However, the level of adoption 
+or application of these technologies in the Nigerian judiciary seems to be low as seen during the covid-19 outbreak. The closed 
+down of courts led to an increase in the backlog of cases due to the suspension of court proceedings. Even the option of filling cases 
+using technology like WhatsApp could not function effectively. AI can This paper identifies some areas technology and AI can 
+improve the performance of Nigeria’s judiciary and increase the speed of justice dispensation. 
+
+Keywords: Artificial Intelligence in Judiciary, Information Technology in Judiciary, Artificial Intelligence and Legal System, 
+Legal System in COVID-19   
+
+I. Introduction 
+
+Technology  is  the  binding thread  for  the  civilization  of  the  twenty-first  century,  and it  is  transforming the  planet in  all  spheres 
+(Contini, 2020). Today, one of the key forces influencing public sector organizations is emerging technologies. These technologies 
+are used to handle public infrastructures and service delivery.  The drive from manual systems to online service delivery is a key 
+agenda of many countries around the globe and was the saving option for many developed worlds during the covid-9 lockdown. 
+The use of technology was also essential in aiding some developed nations to even continue court proceeding online (Sourdin et 
+al., 2018)   
+
+Artificial intelligence on the other hand has also significantly transformed the world of computing by enabling devices to learn, 
+reason, and perceive things from data and their environment (Xu, 2022). This level of intelligence of machines is made possible by 
+machine learning algorithms that provide intelligent analysis of massive data (Contini, 2020).  Artificial intelligence (AI) has already 
+begun to have a significant impact on the field of law, and it is likely to continue to do so in the future (Journal & Sourdin, 2018). 
+Judicial systems are using Artificial Intelligence (AI) to analyse large amounts of legal data to help lawyers identify precedents in 
+case law. The gains of AI also support judges with predictions on issues including sentence duration and recidivism scores.  
+
+Apart software systems, AI boots and robots are beginning to transform legal practice in the form lawyers. A good instance is Robot 
+Ross by Watson, IBM's cognitive computer. The robot demonstrated capacity to speak and interact with human language and to act 
+as an intelligent and efficient consultant in bankruptcy cases.  According (Lu & Hu, 2019),    a robot called DoNotPay developed 
+in UK, can help users in traffic related cases and to prepare necessary papers to defend their case. Another case is a legal robot 
+developed in Israel which went in contest with 20 experience lawyers in business contract related cases. The robot was claimed to 
+outperformed them with accuracy level beyond 90  (Lu & Hu, 2019). These adventures of AI in law gives prospect of what AI can 
+do even Nigeria. 
+
+However, the impact of technology and AI was not much felt during COVID-19 in Nigeria. The shutting down of courts stalled 
+trials and reduced the rate of case disposal. The judicial system being heavily dependent on physical convergence of litigants, their 
+lawyers and judge was adversely affected as a result of a halt in physical gathering (Olugasa & Davies, 2022). This setback was a 
+lack of necessary ICT structures and software to drive a judicial system in a digital area.  As the world gets into a new area of post 
+covid-19,  there  is  a  need  for  innovative  use  of  technology  and  Artificial  Intelligence  (AI)  to  drive  judicial  sector  to  achieve 
+efficiency.  It will speed up decision making process for the judges and increase case disposal rate  
+
+www.rsisinternational.org                                                                                                                                                   Page 80 
+
+ 
+ INTERNATIONAL JOURNAL OF RESEARCH AND INNOVATION IN APPLIED SCIENCE (IJRIAS) 
+
+ISSN No. 2454-6194 | DOI: 10.51584/IJRIAS | Volume VIII Issue V May 2023 
+
+II. Impact of Covid-19 Pandemic on Judiciary   
+
+ The COVID-19 pandemic had a major impact on Nigeria's judicial system, which changed how courts function. Yet, the epidemic 
+also offered chances for the adoption of cutting-edge procedures and technologies that could eventually boost the effectiveness and 
+accessibility of the legal system. 
+
+One significant effect is the delay in dispute resolution caused by the closing of courts to stop the spread of COVID-19. papers 
+reported a surge in certain type of cases like contract  (Ahmed, 2021; Arinze-Umobi & Okonkwo, 2021; Ojienda & Adude, 2021; 
+Prescott et al., 2017) and domestic violence (Ahmed, 2021). This led to increase in backlog of cases and suffering for those with 
+urgent cases. 
+
+Despite efforts to conduct court processes online, there were difficulties in cross-examining witnesses and determining the veracity 
+of  evidence  virtually  (Olugasa  &  Davies,  2022). The  current level  of  technology  and necessary  software  that  can  fast rack  this 
+development are not adopted yet, affecting the effective use of technology in legal system.  The level of connectivity in the country 
+also played a significant role in access to justice, many Nigerians were unable to access to justice due to lack of technology  or 
+internet connectivity(Olugasa & Davies, 2022). 
+
+III. Smart Courts for Post Covid-19 Courts in Nigeria 
+
+Smart courts will require the use of intelligent software as a means of filling cases electronically and will also involve use of AI to 
+support systems for decision-making both for judges and the lawyer. Large volume of files and documents are file in many cases, 
+requiring a judge to read and study much before passing judgments (Reiling, 2020). This reason alone can be the cause to delay in 
+many cases. 
+
+Limited use of online technology also greatly impacted the progress of trials during the outbreak of Covid-19 in Nigeria. Though 
+technologies like video conference such as zoom, Skype were used in trying remote proceedings (Olugasa & Davies, 2022), they 
+were  grossly  inadequate  for  various  areas  of  court  processes.  They  lack  capacity  for  file  documents  and  other  essential  cases 
+management  systems  that  will  enhance  proper  documentation.   Some  areas  that  software  technologies  can    judiciary  are  listed 
+below. 
+
+3.1 Case Management systems 
+
+ICT  can help  courts manage record more  effectively  by  automating  procedures  such  as  case  scheduling and hearings, case  file 
+management,  and  case  progress  tracking  (Prescott,  2017,  Keong,  2017).  CMS  are  also  useful  for  creating  reports.  Several 
+jurisdictions, such as the United States, use Odyssey  by Tyler Technologies, JIMS by Journal Technologies, CMS by Thomson 
+Reuters, and Court Explorer to speed up electronic filing, jury selection, and other administrative procedures. Similar technologies, 
+such as JUSTIS and e-Curia, are utilized in courts in India, China, and Europe. 
+
+Sometimes, cases are never called or mention for years due to manual scheduling and human error.  Therefore, case management 
+is a crucial step in the administration of justice (Ojienda & Adude, 2021; Sangwan & Navet, 2021) and  useful for assessing the 
+speed and progress of cases and may even prevent cases from going uncalled for a long period of time.   
+
+3.2 Electronic filing Systems  
+
+Electronic filing systems, which allow parties to electronically file legal papers and court forms, are becoming increasingly prevalent 
+in the judiciary (Emezue, 2020; Fenwick & Brownstone, 2002). It eliminates the need for paper filing and saves time. During Covid-
+19, the Chinese Judgments Online, China Legal Aid Online, and other related platforms were used to file new cases and make court 
+pronouncements available online even before the pandemic. PACER (Public Access to Court Electronic Records) and CM/ECF 
+(Case Management/Electronic Case Files) are also popular e-filing systems in the United States.  
+
+The Chief Justice of Nigeria and other state chief judges instructed Nigerian courts to file cases using WhatsApp, email, or Dropbox 
+during the pandemic (Olugasa & Davies, 2022). This approach of case filling is out of step with modern technologies. Though a 
+platform for standard case filling has been implemented in a few states in Nigeria, including Ogun, Rivers, and FCT (Olugasa & 
+Davies, 2022), however, in state without portals to file cases, the correct files cannot be posted in the method of practice guidance 
+for the judiciary.  
+
+ Implementation of proper e-filling system is crucial in all state in Nigeria to forestall issues of missing cases or people being deny 
+justice because they are unable file case within stipulated time by law. It also allows people to file cases without leaving the houses 
+and reduce the risk of travelling. 
+
+www.rsisinternational.org                                                                                                                                                   Page 81 
+
+ 
+ 
+ INTERNATIONAL JOURNAL OF RESEARCH AND INNOVATION IN APPLIED SCIENCE (IJRIAS) 
+
+ISSN No. 2454-6194 | DOI: 10.51584/IJRIAS | Volume VIII Issue V May 2023 
+
+3.3 Remote Hearing 
+
+In  the  wake  of  COVID-19,  videoconferencing  technology  gained  popularity  among  various  organizations. It  became  a  tool  for 
+judges in many countries like UK, USA, India and China to hold hearings and trials remotely (Keong, 2017). It eliminates the need 
+for in-person appearances by connecting courts with parties, witnesses, and legal professionals.   
+
+Webex, and Microsoft Teams are three of the more popular video conferencing programs used in some countries including Nigeria 
+(Olugasa  &  Davies,  2022),  however,  there  is  need  for  standard  organizational-based  software  which  Nigeria  government  will 
+develop and continue to upgrade its functionality to suite its judiciary.   
+
+3.4 Digital Evidence management 
+
+ Nigeria judiciary do not at the presents seem to have technology to handle digital evidence, however, digital evidence is becoming 
+more important in the court system as a result of technology's continued advancement (Kessler, 2010). Effective management and 
+storage are required as they gradually enter court cases. By offering tools for storing, indexing, and searching electronic documents 
+and  other types  of  digital  evidence,  ICT  can  assist  courts  in  managing  electronic  evidence  more  efficiently.  Some  jurisdictions 
+already employ programs like Trial Director and Sanction, Presentation Assistant, and Prezi for this reason.  
+
+3.5 Online Dispute Resolution: 
+
+Nigeria government have some dispute resolution departments in some agencies, however, the need for in-person appearance made 
+them ineffective during the lockdown. Online dispute management and resolutions are very vital in the current era of technology 
+and post Covid-19 Nigeria  (Arinze-Umobi & Okonkwo, 2021; Zeleznikow, 2017). Though there is a concept of mobile court in 
+Nigeria, it is completely a physical court which can change its location of sitting. 
+
+As the number cases are growing as a result of human population, some jurisdictions are testing online dispute resolution (ODR) 
+systems, which leverage ICT to facilitate conflict settlement without necessity of in-person court appearances (Rule, 2020; Mania, 
+2015).  ODR  has  developed  as  a  viable  alternative  to  regular  judicial proceedings.  Prior  to  COVID  -19  era,  China  initiated  the 
+development of online courts in 2015 to trial specific sorts of cases, these efforts were especially important during COVID-19 when 
+physical appearance could not possible.  
+
+3.6 Digital Transcription Tools: 
+
+ For  proper  archiving  and  analysis,  digital  transcription  tools  are  used  to  convert  audio  recordings  of  court  proceedings.  This 
+software enables the legal team to concentrate on other crucial tasks and aids in distant proceedings. One crucial aspect of need in 
+Nigeria is to develop digital transcription tools for the local languages, this tools will be essential to transcribe witnesses testimony 
+in local languages. 
+
+IV. Artificial Intelligence (Ai) In Judicial System  
+
+The major input of AI in courts is to assist judges in decision making and to reduce a surge in the number of cases that many come 
+to  court    (Sanctis,  2021;  Wang,  2020).  Several  application  of  AI  in  court  processes  has  shown  remarkable  success  in  legal 
+practice(Re & Solow-niederman, 2019). AI has found its way into judiciary system (Giuffrida et al., 2018; Godwin, 2021; Journal 
+&  Sourdin,  2018;  Kioko  et  al.,  2022;  Xu,  2022),and  has  transformed  justice  system  in  the  form  of  an  “assistant”  judge  which 
+complements the efforts of judges to improve accuracy of judgements (Xu, 2022). 
+
+Some may believe that algorithms do not possess the capacity for fairness and proper interpretation of law or explanation of decision 
+made (Soukupová, 2021), however, AI  can be thought of as an implementation of codified justice system that could bring about 
+fairness and reduction of arbitrariness in justice system (Re & Solow-niederman, 2019). It has capacity to transform legal system 
+by  predicting the outcomes of court decisions based on past judgements (Kauffman & Soares, 2020).  With Artificial Intelligence, 
+possibility of efficiency in judicial system with high level of predictability and accuracy of case outcome exist (Mccarthy, 2020). It 
+will also improve the quality of decisions and reduce time taken during trials and proceedings. There are simple and complex cases 
+which into which AI can support judge in different front Like examination of evidence during proceeding and the generation of 
+elemental adjudication instruments in a short period(Kauffman & Soares, 2020; Xu, 2022).  
+
+4.1 Specific areas of AI application in judiciary  
+
+4.1.1 Predicting outcome of a case 
+
+Based on past data, AI can assist lawyers in predicting the result of legal disputes. This can enable them to decide more intelligently 
+whether to settle a lawsuit or proceed to trial. Prediction capacity of AI application has been prevalent in many areas  of science 
+before now and has been of great power for helping in strategic making decisions, however, it’s starting to be implemented in areas 
+that do not seem to follow precise rule.  
+
+www.rsisinternational.org                                                                                                                                                   Page 82 
+
+ INTERNATIONAL JOURNAL OF RESEARCH AND INNOVATION IN APPLIED SCIENCE (IJRIAS) 
+
+ISSN No. 2454-6194 | DOI: 10.51584/IJRIAS | Volume VIII Issue V May 2023 
+
+AI software developed in Texas University using US Supreme Court judgment from 1791 to 2015 was able to predict Supreme 
+Court judges’ votes and decision with over 70% accuracy. This level of accuracy is said to be higher than the average human 66% 
+predictive accuracy of jurists (Xu, 2022). Due to frequency of pattern of certain cases, a relatively large proportion of routine cases 
+have  a  predictable  outcome.  In  those  cases,  the  court  rulings  are  relevant  for  input  data  into  AI-based  application  and  future 
+predictions judgment of other cases (Mccarthy, 2020; Reiling, 2020). Users of such AI software can easily predict the chances of 
+wining a particular case even before filling it and make right decision.   
+
+4.1.2 Evidence Analysis  
+
+One of the biggest challenges of digital era is the possibility  of digital manipulation and faking of evidence. A number of deep 
+learning  and  AI applications  exist  to handle  the  complexity  and  evidence  management  (Wang, 2020).   The  Shanghai  judiciary 
+developed  the  Intelligent  Auxiliary  Case  Handling  System  for  Criminal  Cases.  The  software  manages  case  through  Optical 
+Character Recognition (OCR) and Natural Language Processing (NLP). The software is developed to map evidence to appropriate 
+crimes and to review evidence to find probable contradictions. Variations and relevance of the evidence to the case can even be 
+establish using the software. In the era of remote court proceeding, AI stands as an important component which will help judges to 
+determine genuineness of evidence. 
+
+4.1.3 Extracting Patterns in Case Files 
+
+Pattern recognition is one powerful area that AI has thrived.  Machine learning algorithms are employed to recognize patterns in a 
+large volume of data (Karatzinis & Boutalis, 2021).  Sorting several cases into categories or finding pattern in a case with large 
+volume of information could be a daunting task; however, AI application like  ‘eDiscovery’ being used in American courts  performs 
+intelligent analysis of case files before the start of a court procedure (Reiling, 2020). eDiscovery uses machine learning to extract 
+the relevant parts from a large amount of information (Kauffman & Soares, 2020). This help to focus on the case more precisely.  
+
+‘SOCRATES’  is a similar AI based application which was trained from over 300,000 previous court judgments  (Sanctis, 2021).  
+The AI software scan and read through all the case file and cluster them so that they can be judged in blocks. It functions to screen 
+out cases that are outside the jurisdiction of the court so that the court time won’t be wasted. Cases similar to previously  judged 
+cases are return to the lower courts so that the previous judgments of the court on such cases can be apply on them. 
+
+4.1.4 Sentence preparation  
+
+Preparing court sentence can be challenging and time consuming due to large document to read, however, AI can speed up this 
+process. A good example is VICTOR, an AI software used by Brazilian Supreme Court Which read all appeal cases filed at the 
+Supreme Court and identify which ones are linked to certain repercussion. The software was claimed to have speed up the work of 
+the judges. It is also being proposed as a support system to judges in the lower courts to reduce number of cases that gets to appeal 
+court (Sanctis, 2021). With this very Machine learning application, the number of possible cases will be reduced with increase in 
+processing of appeal. The software has resolved about 10,000 extraordinary appeals that should have reach the supreme (Sanctis, 
+2021) 
+
+4.1.5 Sentiment Analysis and Natural Language Processing 
+
+AI can also be used to analyze legal texts to identify relevant legal principles, arguments or sentiment of a particular individual. 
+This can help to establish motive or intent in a case. The judges will also have more informed decisions from such analysis. A close 
+case  of this research in UK by European Court of Human Rights detects human right infringement base on choices and language  
+usage (Mccarthy, 2020). The success rate accomplished by the software is close to 80%.  With this remarkable success, it can be a 
+good support system for judges handling human right cases. 
+
+4.1.6 Legal counsel  
+
+ Legal advice helps litigants to take decision of on resolution of cases and reduce the need to court cases.  A number of AI software 
+are being developed to help the public in such instances so that if proper decision and resolution occur, there won’t be need to file 
+for  court  case.    Examples  are  AI  applications  developed  to  help  the  District  Court  of  East  Brabant  in  the  Netherlands  in 
+administrative handling of traffic violation cases.  A similar software developed for advising parties on cases relating to housing 
+dispute and accidents from collisions is being used by Civil Resolution Tribunal (CRT)  Columbia, Canada  (Reiling, 2020). The 
+software offers legal advice and information to the public on paths to resolve dispute. This software are very vital in resolving trivial 
+cases. 
+
+www.rsisinternational.org                                                                                                                                                   Page 83 
+
+ 
+ 
+ INTERNATIONAL JOURNAL OF RESEARCH AND INNOVATION IN APPLIED SCIENCE (IJRIAS) 
+
+ISSN No. 2454-6194 | DOI: 10.51584/IJRIAS | Volume VIII Issue V May 2023 
+
+4.1.7 Legal research 
+
+Legal research tools allow legal professionals to search and access legal resources. By combining machine learning and natural 
+language processing, AI-powered software can spot patterns and insights in vast amounts of legal data that would be challenging 
+for humans to discover on their own.   
+
+V. Ethical Concern Over Use of Ai in Court 
+
+Though the use of AI in legal system has prospect in empowering judiciary for speedy dispensation of justice; however, there are 
+concern on the use of AI in court on challenges of infringement of peoples right due to result of data analysis  (Moroianu et al., 
+2019). A number of issues were outlined by (Reiling, 2020) which include fairness of AI software to all parties during trials, respect 
+to fundamental human right of all parties and non-discrimination. The problem of taking responsivity for whatever decision an AI 
+system may take is also a very crucial aspect of law, an AI system cannot be sued for damages if it offers wrong advice or the 
+service result damages.    
+
+VI. Conclusion  
+
+As populations grow, crisis and litigations also grow among humans. This fact has led to an  ever-increasing surge of cases that 
+come before judicial officers for adjudication. However, Judiciary in Nigeria and globally are challenged daily with large number 
+of  cases  beyond  the available manpower,  this has  led  to many  not having  their  cases had  for  years.  However,  there  is need  for 
+collaborative research among scientist from various in other to produce efficient systems for legal service. The current level of over 
+dependence on manual system and physical proceedings are also a major challenge.  Implementation of intelligent software and use 
+of  appropriate technology  can improve  access  to  justice,  speed  up  the  work  and reduce  the  burden  on the  judicial  staff.  It  will 
+improve the quality of judgment and reduce arbitrariness of human judges.  
+
+Reference  
+
+1.  Ahmed, S. (2021). New legal challenges post covid with specific reference to Indian contract Act. Palarch’s Journal Of 
+
+Archaeology Of Egypt/Egyptology, 18(9), 96–102. 
+
+2.  Arinze-Umobi, C. N., & Okonkwo, I. T. (2021). Alternative dispute resolution practice in nigeria and the effect of covid-
+
+19 pandemic. IJOLACLE, 2(May), 82–85. 
+
+3.  Contini, F. (2020). Artificial Intelligence and the Transformation of Humans, Law and Technology Interactions in Judicial 
+
+Proceedings. Law, Technology and Humans, 2(1), 4–18. https://doi.org/10.5204/lthj.v2i1.1478 
+
+4.  Emezue,  C.  (2020).  Digital  or  digitally  delivered  responses  to  domestic  and intimate  partner  violence  during  COVID-
+
+19. JMIR public health and surveillance, 6(3), e19831. 
+
+5.  Fenwick,  W.  A.,  &  Brownstone,  R.  D.  (2002).  Electronic  Filing:  What  Is  It-What  Are  Its  Implications. Santa  Clara 
+
+Computer & High Tech. LJ, 19, 181. 
+
+6.  Giuffrida, I., Lederer, F., & Vermerys, N. (2018). A Legal Perspective on the Trials and Tribulations of AI : How Artificial 
+Intelligence , the Internet of Things , Smart Contracts , and Other Technologies Will Affect the Law. Case Western Reserve 
+Law Review Volume, 68(3), 747–781. 
+
+7.  Godwin, J. (2021). Position of Artificial Intelligence in Justice System : Justice of the Future. 1–15. 
+8.  Journal, U. L., & Sourdin, T. (2018).  Judge v Robot ? Artificial intelligence and judicial decision-making. UNSW Law 
+
+Journal, 41(4), 1114–1133. 
+
+9.  Karatzinis, G. D., & Boutalis, Y. S. (2021). Fuzzy cognitive networks with functional weights for time series and pattern 
+
+recognition applications. Applied Soft Computing, 106, 107415. https://doi.org/10.1016/j.asoc.2021.107415 
+
+10.  Kauffman, M. E., & Soares, M. N. (2020). AI in legal services : new trends in AI-enabled legal services. Service Oriented 
+
+Computing and Applications, 14(4), 223–226. https://doi.org/10.1007/s11761-020-00305-x 
+
+11.  Keong, G. C. (2017). Judicial Reforms through the Use of Technology in Malaysia. European Academic Research, 5(1), 
+
+399-409. 
+
+12.   Kessler,  G.  C.  (2010). Judges'  awareness,  understanding,  and  application  of  digital  evidence.  Nova  Southeastern 
+from  https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1195&context=gscis_etd/  on  
+
+University.  Retrieved 
+22/03/2023 
+
+13.  Kioko,  P.  M.,  Booker,  N.,  Chege,  N.,  &  Kimweli,  P.  (2022).  The  Adoption  of  Artificial  Intelligence  in  Newsrooms  in 
+Kenya: a Multi-case Study. European Scientific Journal, ESJ, 18(22), 278. https://doi.org/10.19044/esj.2022.v18n22p278  
+14.  Lu, H., & Hu, T. (2019). Study on the Influence of Artificial Intelligence on Legal Profession. Dvances in Economics, 
+
+Business and Management Research, 110(Emle), 964–968. 
+
+15.  Mccarthy, J. (2020). Role of Artificial Intelligence in Transforming the Justice Delivery System in COVID 19 Pandemic. 
+
+International Journal on Emerging Technologies, 11(3), 344–350.  
+
+16.  Moroianu,  I., Tescu,  Z.  L.  Ă.,  Emanuel,  P.,  &  Tescu,  Z.  L.  Ă. (2019).  of  Law  Implementation  of  the  european  ethical 
+
+www.rsisinternational.org                                                                                                                                                   Page 84 
+
+ INTERNATIONAL JOURNAL OF RESEARCH AND INNOVATION IN APPLIED SCIENCE (IJRIAS) 
+
+ISSN No. 2454-6194 | DOI: 10.51584/IJRIAS | Volume VIII Issue V May 2023 
+
+charter on the use of artificial intelligence in judicial systems and their environment. Supplement of Law Review, 237–
+242. 
+
+17.  Ojienda, T., & Adude, L. M. (2021). Access to Justice in the era of COVID-19: Adaptations and Coping Mechanisms of 
+
+the legal Services Industry in Kenya. Journal of Conflict Management and Sustainable Development, 6(2), 1–44. 
+
+18.  Olugasa, O., & Davies, A. (2022). Remote Court Proceedings in Nigeria: Justice Online or Justice on the Line. International 
+
+Journal for Court Administration, 13(2), 1–17. https://doi.org/10.36745/ijca.448 
+
+19.  Prescott, J. J., Bulinski, M., Rozema, K., Bouzat, F., Bridges, G., Epstein, T., Gallmeyer, J., Hogin, J., Kim, S., Moore, 
+M., Perry, M., Piligian, J., & Rouillard, A. (2017). Improving Access to Justice in State Courts with Platform Technology, 
+70 Vanderbilt Law Review. Vanderbilt Law Review, 70(6), 1995–2050. 
+
+20.  Re, R. M., & Solow-niederman, A. (2019). Developing Artificially Intelligent Justice. Stan. Tech. L. Rev., 242(2), 242–
+
+289. 
+
+21.  Reiling,  A.  D.  D.  (2020).  Courts  and  Artificial  Intelligence.  International  Journal  For  Court  Administration,  11(2). 
+
+https://doi.org/https://doi.org/10.36745/ijca.343 
+
+22.  Sanctis, F. M. De. (2021). Artificial Intelligence and Innovation in Brazilian Justice. International Annals of Criminology, 
+
+1–10. https://doi.org/10.1017/cri.2021.4 
+
+23.  Sangwan, S., & Navet, R. S. (2021). digitalization of legal services (No. 1). 
+24.  Soukupová, J. (2021). Ai-based legal technology: a critical assessment of the current use of artificial intelligence in legal 
+practice. Masaryk University Journal of Law and Technology, 15(2), 279–300. https://doi.org/10.5817/MUJLT2021-2-6 
+25.  Wang,  R.  (2020).  Legal  technology  in  contemporary  USA  and  China.  Computer  Law  &  Security  Review,  39,  1–20. 
+
+https://doi.org/10.1016/j.clsr.2020.105459 
+
+26.  Xu,  Z.  (2022).  Human  Judges  in  the  Era  of  Artificial  Intelligence :  Challenges  and  Opportunities.  Applied  Artificial 
+
+Intelligence, 36(1). https://doi.org/10.1080/08839514.2021.2013652 
+
+27.  Zeleznikow,  J.  (2017).  IJCA  -  Can  Artificial  Intelligence  And  Online  Dispute  Resolution  Enhance  Efficiency  And 
+
+Effectiveness In Courts. 8. https://doi.org/10.18352/ijca.223 
+
+www.rsisinternational.org                                                                                                                                                   Page 85

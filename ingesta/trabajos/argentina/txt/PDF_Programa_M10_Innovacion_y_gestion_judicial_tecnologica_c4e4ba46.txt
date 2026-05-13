@@ -1,0 +1,626 @@
+# Fuente
+- archivo: PDF_Programa_M10_Innovacion_y_gestion_judicial_tecnologica_c4e4ba46.pdf
+- ruta: C:\Users\matia\desarrollo\judiciales2026ush\ingesta\trabajos\argentina\PDF_Programa_M10_Innovacion_y_gestion_judicial_tecnologica_c4e4ba46.pdf
+- extraido: 2026-04-24T11:34:12
+
+# Contenido
+
+Innovación y  
+gestión judicial 
+tecnológica 
+
+La realidad actual está marcada por tiempos de tecnologías que se desarrollan 
+
+exponencialmente  y  una  hiperconectividad  sin  precedentes.  En  este  contexto, 
+
+las/los  líderes  públicos  deben  ser  capaces  de  reinventar  y  mantener  vigente la 
+
+propuesta  de  valor  de  sus servicios y procesos, como condición necesaria para 
+
+liderar administraciones eficientes y ágiles. 
+
+La innovación es el camino para lograr resultados distintos, si seguimos haciendo 
+
+lo  mismo,  
+
+los  resultados  seguirán  siendo  los  mismos.  La  tríada  de  personas, 
+
+tecnologías y procesos de gestión son el corazón de la innovación. En ello radica 
+
+la importancia de la innovación en la administración de justicia.  
+
+El  curso  está  orientado  a  brindar  una  mirada  general  en  torno  a  los  valores, 
+
+competencias,  y  habilidades  necesarias  para 
+
+lograr  una  transformación 
+
+disruptiva en el funcionamiento de la administración de justicia, y así brindar una 
+
+prestación  del  servicio  que  satisfaga  las  expectativas  ciudadanas.  Se  intentará 
+
+abordar  herramientas  y  conocimiento  sobre  las  tecnologías  emergentes  que 
+
+afectan de manera directa el ejercicio práctico de la gestión judicial.  
+
+ 
+            
+ 
+            
+ 
+          
+ 
+ 
+ 
+ 
+ 
+Es  decir,  acompañar  la  transformación  de  un  ecosistema  judicial  analógico  a 
+
+uno digital e Inteligente, cuyas características son la agilidad de los procesos, la 
+
+transparencia, 
+
+la  trazabilidad, 
+
+la  eficiencia, 
+
+la  automatización  de  tareas 
+
+repetitivas,  la  inmediatez,  la  seguridad  y  protección  de  la  información,  la 
+
+ubicuidad,  el  acceso  a  justicia,  y  fundamentalmente la incorporación continua 
+
+de soluciones novedosas a través del uso de las tecnologías emergentes. 
+
+DOCENTES: Romina Pousa, María Celina Abaurre, Sebastián Chumbita, Gabriel 
+
+Hernán Quadri, Mario Adaro y Marisa Repetto 
+
+OBJETIVOS 
+
+Que los cursantes: 
+
+●  Promuevan  la  innovación  permanente  para  crear  valor,  impacto  y 
+
+cambio  positivo  en  el  servicio  de  justicia,  mediante  el  uso  de  la 
+
+experimentación y la colaboración.   
+
+●  Conozcan  y  aborden  el ecosistema digital, sus factores, herramientas e 
+
+instrumentos  desde  una  mirada  legal-  jurídica  y  técnica,  aplicada  a  la 
+
+gestión judicial tecnológica. 
+
+●  Generen 
+
+ideas 
+
+innovadoras  y  disruptivas,  que  se  transformen  en 
+
+proyectos que impacten en un cambio en el sistema actual de justicia.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMPETENCIAS 
+
+Saberes  
+
+Saberes  
+
+conceptuales 
+
+procedimentales 
+
+Saberes  
+
+actitudinales 
+
+Conocer los 
+alcances y 
+beneficios de la 
+reorganización 
+institucional en el 
+marco de la 
+innovación y 
+transformación 
+judicial. 
+
+Aplicar eficazmente 
+los dispositivos y las 
+herramientas 
+digitales 
+optimizando su uso 
+a efectos de 
+consolidar la 
+transformación 
+judicial. 
+
+Conocer los 
+alcances del 
+Derecho Procesal 
+electrónico. 
+
+Conocer las 
+diferencias entre la 
+firma digital y 
+electrónica. 
+
+Conocer las 
+bondades del uso 
+de plataformas 
+digitales de 
+
+Utilizar de forma 
+adecuada las 
+herramientas y 
+gestionar los 
+aplicativos 
+tecnológicos para 
+mejorar el servicio 
+de justicia. 
+
+Aplicar eficazmente la 
+Firma Digital y 
+electrónica para 
+agilizar la Gestión 
+Judicial 
+Utilizar eficazmente las 
+plataformas digitales 
+
+Valorar la importancia 
+de conocer los 
+alcances y 
+aplicaciones de las 
+herramientas digitales, 
+y de su utilización 
+eficaz y eficiente para 
+agilizar la Gestión 
+Judicial. 
+
+Valorar la importancia 
+de la utilización de las 
+competencias digitales 
+para promover 
+cambios en el Modelo 
+de Gestión sin 
+implementarlas para 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tramitación y 
+comunicación. 
+
+de tramitación y 
+comunicación 
+
+replicar procedimientos 
+ya agotados. 
+
+Incorporar y aplicar 
+al servicio de justicia 
+las herramientas 
+digitales. 
+
+Alentar la promoción y 
+aplicación de la 
+cultura Mindset ágil en 
+el Poder Judicial de la 
+Nación. 
+
+Conocer los 
+diferentes aspectos 
+de la inteligencia 
+artificial y la 
+inclusión de 
+tecnologías 
+disruptivas en la 
+gestión judicial. 
+
+Conocer las 
+bondades de la 
+agilidad judicial. 
+
+Incorporar la cultura 
+ágil en el ámbito de 
+la justicia. 
+
+Conocer el impacto 
+de las emociones 
+en la toma de 
+decisiones 
+judiciales. 
+
+Aplicar y gestionar 
+eficazmente las 
+emociones en la 
+toma de decisiones 
+judiciales. 
+
+CONTENIDOS 
+
+●  Unidad 1 – Innovación en la gestión judicial 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Innovación  en  el  ámbito  público.  Concepto,  mitos,  tipos.  Paradigma 
+
+VICA-BUCA.  Procesos  centrados  en  la  persona  humana.  Hexágono  de 
+
+Innovación Pública. Modelo HIP aplicado a la justicia.  
+
+Reorganización 
+
+institucional  en  el  marco  de 
+
+la 
+
+transformación  e 
+
+innovación  judicial.  Organización  de  las  áreas  de  trabajo.  Método  ágil. 
+
+Legal Project Management.  
+
+●  Unidad 2 - Liderazgo y equipos ágiles 
+
+Agilidad Judicial. Una nueva cultura. Mindset Ágil. El líder Ágil.  
+
+El rol de las emociones en la toma de decisiones. Su impacto en la decisión 
+
+judicial.  
+
+Habilidades  que  debe  desarrollar  un  líder.  Manejo  de  estrés.  Manejo  del 
+
+tiempo.  
+
+●  Unidad 3 - Liderazgo y equipos ágiles 
+
+Colaboración  y  autonomía  de  equipos  ágiles.  Motivación.  Feedback. 
+
+Conversaciones difíciles. Resolución de problemas. Seguridad psicológica. 
+
+●  Unidad 4 – Nuevos desafíos del Derecho Procesal en clave digital 
+
+ 
+ 
+ 
+  
+ 
+Derecho  procesal  electrónico.  Concepto  y  fundamentos.  La  importancia 
+
+de 
+
+los  principios  procesales  clásicos  y  su  contextualización  en  el 
+
+movimiento de modernización de la justicia. 
+
+Firma digital y electrónica.  Distingos y casos de uso en la justicia. 
+
+Audiencias virtuales: uso de plataformas, buenas prácticas y protocolo.   
+
+Tramitación  remota  de  expedientes.  Convivencia  con  el  expediente 
+
+papel.   Multimedia  e  hipervinculación  en 
+
+las  resoluciones  judiciales. 
+
+Archivo digital.  
+
+Autenticación  y  validación  como  parte  de  los  diversos  medios  de 
+
+movilización  procesal.  Datos  y  biometría  como  medio  de  autenticación. 
+
+Publicidad y comunicación de las actuaciones judiciales. 
+
+Uso  de  plataformas  digitales  de 
+
+tramitación  y  comunicación. 
+
+Notificaciones electrónicas. Nuevos paradigmas: hacia el abandono de lo 
+
+físico  como  lugar  de  asiento  de  la  persona.  Notificaciones  procesales 
+
+disruptivas  (mensajería 
+
+instantánea,  perfiles  de  redes  sociales,  etc.): 
+
+experiencias locales y extranjeras 
+
+Evidencia  digital:  hacia  una  probática  basada  en  datos.  Prueba 
+
+electrónica, principios. Fuentes y medios de prueba 
+
+●  Unidad 5 
+
+Práctica sincrónica del desarrollo del trabajo final.  
+
+ 
+ 
+ 
+BIBLIOGRAFÍA 
+
+●  Unidad 1 
+
+●  Bibliografía  obligatoria  ǀ  Adaro.  La  innovación  tecnológica,  el  gran 
+
+desafío de la justicia. 
+
+●  Bibliografía  obligatoria  ǀ  Carta  Iberoamericana  de  Innovación  en  la 
+
+Gestión Pública. 
+
+●  Bibliografía  complementaria 
+
+ǀ  Bonina.  Aplicación  del  diseño  al 
+
+Derecho. Suplemento Innovación. 
+
+●  Bibliografía complementaria ǀ CEPAL. Innovación para el desarrollo. 
+
+●  Bibliografía  complementaria  ǀ NovaGob. Misiones de la Administración 
+
+Pública. 
+
+●  Bibliografía complementaria ǀ Panel: Innovación en la Justicia. Semana 
+
+de la Innovación. Innovación Ciudadana. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+●  Bibliografía  complementaria  ǀDeclaración  de  Lisboa  sobre  Innovación 
+
+Pública. 
+
+●  Unidad 2 - Liderazgo y equipos ágiles 
+
+●  Bibliografía  obligatoria.  Melina  Jajamovich  ǀ  Agilidad  101  y  por  qué  es 
+
+clave para navegar tiempos de cambio. 
+
+●  Bibliografía  obligatoria.   Forbes  ǀ  What´s  Missing  in  the  Agile  Manifiesto: 
+
+Mindset 
+
+●  Bibliografía obligatoria. 
+
+https://www.linkedin.com/posts/nanokigel_mindset-habilidades-talento-ac
+
+tivity-7143274595603709952-SnHn?utm_source=share&utm_medium=memb
+
+er_desktop  
+
+●  Bibliografía  complementaria.  Jajamovich  ǀ  Mindset  ágil.  Toma  I:  ley  del 
+
+cliente. 
+
+●  Bibliografía complementaria. Melina Jajamovich ǀ Mindset ágil. Toma 2: Ley 
+
+del equipo pequeño. 
+
+●  Bibliografía complementaria. Melina Jajamovich ǀ Toma III: Ley de la red. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+●  Bibliografía  complemetnaria.  ajamovich 
+
+ǀ 
+
+Toma 
+
+IV:  Ley  de 
+
+la 
+
+experimentación. 
+
+●  Bibliografía complementaria. Melina Jajamovich ǀ Context is King. 
+
+●  Bibliografía complementaria. Cascio ǀ Facing the Age of Caos. 
+
+●  Unidad 3 - Liderazgo y equipos ágiles 
+
+●  Bibliografía 
+
+obligatoria. 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7171135400948838400
+
+/  
+
+●  Bibliografía obligatoria. Agilidad en el Poder Judicial 
+
+●  Bibliografía obligatoria. Definiciones de Agilidad 
+
+●  Bibliografía obligatoria. ¡¿Ágil o no ágil?! 
+
+●  Bibliografía  complementaria.  Fuck-up  edición  (i)limitada:  o  el  reto  de 
+
+aprender de la pandemiaURL 
+
+●  Bibliografía  complementaria.  PUEDE  FALLAR.  O  CUANDO  EL  PODER 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JUDICIAL SE AMIGA CON EL FRACASO 
+
+●  Bibliografía 
+
+complementaria 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7171126436068483072
+
+/  
+
+●  Bibliografía 
+
+complementaria 
+
+https://www.linkedin.com/posts/nanokigel_liderazgoadaptativo-adaptivel
+
+eadership-liderazgo-activity-7153377951122632705-jQIK?utm_source=share
+
+&utm_medium=member_desktop  
+
+●  Bibliografía complementaria. The Art of Stress-Free Productivity: David Allen 
+
+at TEDxClaremontColleges  
+
+Unidad 4 - Proceso Digital 
+
+●  Bibliografía  obligatoria  ǀ  Bielli  y  Nizzo.  El  contralor  efectivo  del  Sistema  de 
+
+Gestión Judicial. 
+
+●  Bibliografía obligatoria ǀ Camps. Eficacia del derecho procesal electrónico 
+
+y pandemia. 
+
+●  Bibliografía  obligatoria  ǀ  Sánchez  Caparrós  y  Ross.  El  diseño  legal  en 
+
+entornos  digitales  para  hacer  efectivos 
+
+los  principios  clásicos  del 
+
+procedimiento administrativo. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+●  Bibliografía 
+
+obligatoria 
+
+ǀ  Quadri. 
+
+Sistematicidad 
+
+y 
+
+proceso 
+
+electrónico.docx.pdf 
+
+●  Bibliografía  obligatoria  ǀ  Quadri.  Consideraciones  preliminares  en  torno  al 
+
+domicilio procesal electrónico.pdf 
+
+●  Bibliografía obligatoria ǀ Quadri. Manifiesto del Tecnoactivismo judicial. 
+
+●  Unidad 5- Desarrollo  
+
+●  Bibliografía  obligatoria 
+
+ǀ  Oliván  Cortés.  Modelo  de  Hexágono  de 
+
+Innovación Pública. 
+
+●  Bibliografía obligatoria. 
+
+https://www.linkedin.com/posts/nanokigel_innovaciaejn-procesos-stakehol
+
+ders-activity-7168601581934764032-kWby?utm_source=share&utm_medium
+
+=member_desktop  
+
+●  Bibliografía obligatoria. 
+
+https://www.linkedin.com/posts/nanokigel_godaddy-designthinking-experi
+
+enciadeusuario-activity-7166075592960851968-2WEB?utm_source=share&ut
+
+m_medium=member_desktop  
+
+●  Bibliografía  complementaria  ǀ  Oliván  Cortés.  Instituciones  que  aprenden 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIP-resumen-ejecutivo. 
+
+●  Bibliografía complementaria ǀ Repetto, Cortés, Califa. Explorando Futuros. 
+
+●  Bibliografía complementaria.  
+
+https://www.linkedin.com/pulse/el-legal-project-management-enamorami
+
+ento-del-proceso-anna-marra-zvcbf/?trackingId=J0LgZsRDQxSpdJDwtD3yP
+
+g%3D%3D  
+
+●  Elevator pitch. Tienes 20 segundos - eduCaixa
