@@ -15,7 +15,7 @@ class_duration: "120"
 git_branch: "tema/01-encuentro-1"
 
 # Lifecycle status: design | class | study-guide | tp | quality | testing | closed
-status: "design"
+status: "class"
 
 # Topicos del plan-minimo asignados a este encuentro
 plan_minimo_topicos:
