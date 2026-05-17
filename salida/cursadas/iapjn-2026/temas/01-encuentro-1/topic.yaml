@@ -9,7 +9,7 @@ course_id: "iapjn-2026"
 topic_folder: "salida/cursadas/iapjn-2026/temas/01-encuentro-1"
 
 # Duration constraint (from config.yaml default_class_duration)
-class_duration: "90"
+class_duration: "120"
 
 # Git branch for this topic
 git_branch: "tema/01-encuentro-1"
