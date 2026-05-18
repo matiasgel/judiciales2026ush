@@ -2,34 +2,40 @@
 # Generado por /edu_slides_designer
 
 # --- Template Google Slides ---
-# 0 = "Simple Light" (default). Cambiar por el ID de un template propio si tenés.
-template_id: "1mGncfOizGbRHXNo5xqi9wfqePnlnGKbZUtlvTysYMsI"
+template_id: "1I1_kg3SgqTzT5y2hWvPqqfjPCuR29vKLmCGMLCsDkbg"
+
+# --- Directorio Drive para assets (imágenes, tablas) ---
+# Usar el ID de la carpeta de Drive donde está el template.
+# Para obtenerlo: abrir la carpeta en Drive → la URL termina en /folders/{ID}
+drive_parent_folder_id: "1AmkD1QZCPCD1Dqym1IAcaeeboU6y0rrc"
 
 # --- Paleta de colores ---
+# Paleta institucional PJN extraída de https://www.pjn.gov.ar/
 palette:
-  primary: "#8B0000"
-  secondary: "#FFFFFF"
-  accent: "#000000"
-  background: "#FFFFFF"
-  text: "#1A1A1A"
+  primary: "#0072bb"       # Azul institucional PJN — títulos y encabezados de tabla
+  secondary: "#FFFFFF"     # Blanco — texto sobre fondos oscuros / portadas
+  accent: "#2897D4"        # Azul claro PJN — énfasis inline y variantes hover
+  background: "#FFFFFF"   # Fondo de filmina
+  text: "#333333"          # Gris oscuro — texto principal (legible, no duro)
 
 # --- Tipografía (Google Fonts recomendadas) ---
+# Criterio: sala presencial 6m / pantalla 1080p → mín 36pt título, mín 20pt cuerpo
 typography:
   title:
     font: "Roboto"
-    size: 30
+    size: 36              # era 30 — mínimo recomendado para aula 6m
     weight: "bold"
   subtitle:
     font: "Roboto"
-    size: 28
+    size: 22              # era 28 — subtítulo debe ser menor que el título
     weight: "regular"
   body:
     font: "Roboto"
-    size: 16
+    size: 20              # era 16 — crítico para legibilidad a 6m
     weight: "regular"
   code:
     font: "Roboto Mono"
-    size: 18
+    size: 14              # era 18 — monospace más compacto = más contenido visible
     weight: "regular"
 
 # --- Layouts por tipo de filmina ---
@@ -167,6 +173,8 @@ gemini_image_strategy:
   default: "content"
   max_per_presentation: 12
   max_images_per_presentation: 12  # alias de compatibilidad
+  # Nota: para presentaciones >30 slides (ej: 46 slides), escalar con el Arquitecto
+  # el campo "maximum": 12 en plan-filminas.schema.json (bump a v4).
   fallback: "none"
   safety_rules: "Sin texto, sin letras, sin código, sin etiquetas ni fórmulas. Solo elementos visuales: objetos, iconos, escenas o diagramas mudos. Estilo vectorial limpio, fondo claro, académico."
   prompt_guide: |
@@ -179,6 +187,6 @@ markdown_rendering:
   unordered_bullet_preset: "BULLET_DISC_CIRCLE_SQUARE"
   ordered_bullet_preset: "NUMBERED_DIGIT_ALPHA_ROMAN"
   inline_code_font: "Roboto Mono"
-  inline_code_color: "#8B0000"
+  inline_code_color: "#0072bb"   # coincide con primary (azul PJN) para coherencia visual
   lead_scale: 1.0
-  heading_scale: 1.12
+  heading_scale: 1.15            # era 1.12 — headings ligeramente más prominentes

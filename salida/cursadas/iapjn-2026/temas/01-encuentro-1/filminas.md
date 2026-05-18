@@ -32,15 +32,15 @@ Encuentro 1 — Entender para no equivocarse
 
 # Temario del encuentro
 
-- Definición de Inteligencia Artificial y ubicación de ChatGPT, Claude y Gemini
-- Herramientas y supuestos de aplicación en el Poder Judicial
-- Aproximación inicial a ChatGPT
-- Riesgos — antecedente jurisprudencial nacional (Rosario, 2025)
-- Ventana de contexto
-- Formulación adecuada del prompt
-- Configuraciones avanzadas y resguardo de privacidad
-- Sentencia en lenguaje claro y anonimización de datos
-- Cierre y principio rector
+- Definición de Inteligencia Artificial y ubicación de ChatGPT, Claude y Gemini.
+- Herramientas y supuestos de aplicación en el Poder Judicial.
+- Aproximación inicial a ChatGPT.
+- Riesgos — antecedente jurisprudencial nacional (Rosario, 2025).
+- Ventana de contexto.
+- Formulación adecuada del prompt.
+- Configuraciones avanzadas y resguardo de privacidad.
+- Sentencia en lenguaje claro y anonimización de datos.
+- Cierre y Regla principal.
 
 > La exposición se desarrolla íntegramente mediante proyección por Google Meet. No se requieren dispositivos personales por parte de los asistentes.
 
@@ -58,12 +58,12 @@ Encuentro 1 — Entender para no equivocarse
 
 # Sistemas informáticos que ejecutan tareas asociadas a la cognición humana
 
-- Definición operativa: emulan capacidades que tradicionalmente requirieron intervención intelectual humana
+- Definición operativa: emulan capacidades que tradicionalmente requirieron intervención intelectual humana.
 - Aplicaciones de uso cotidiano frecuentemente inadvertidas:
-  - Filtro de correo no deseado
-  - Sistemas de recomendación de plataformas audiovisuales
-  - Predicción de texto en dispositivos móviles
-  - Asistentes de reconocimiento de voz
+  - Filtro de correo no deseado.
+  - Sistemas de recomendación de plataformas audiovisuales.
+  - Predicción de texto en dispositivos móviles.
+  - Asistentes de reconocimiento de voz.
 
 ---
 
@@ -75,10 +75,10 @@ Encuentro 1 — Entender para no equivocarse
 
 # Círculos concéntricos: del universo más amplio al más específico
 
-- **IA** — el universo entero: cualquier sistema que imita capacidades humanas
-- **Machine Learning** — IA que aprende de ejemplos (filtro de spam, scoring crediticio)
-- **Deep Learning** — ML con redes neuronales grandes (reconocimiento facial, traducción)
-- **LLMs** — Deep Learning especializado en lenguaje: ChatGPT, Claude, Gemini, Copilot
+- **IA** — el universo entero: cualquier sistema que imita capacidades humanas.
+- **Machine Learning** — IA que aprende de ejemplos (filtro de spam, scoring crediticio).
+- **Deep Learning** — ML con redes neuronales grandes (reconocimiento facial, traducción).
+- **LLMs** — Deep Learning especializado en lenguaje: ChatGPT, Claude, Gemini, Copilot.
 
 > En el discurso contemporáneo, la referencia a "IA" alude predominantemente a un LLM. No obstante, la categoría de Inteligencia Artificial comprende un campo sustancialmente más amplio.
 
@@ -92,9 +92,9 @@ Encuentro 1 — Entender para no equivocarse
 
 # Un predictor estadístico de la palabra subsiguiente
 
-- El modelo procesa un texto y predice el término siguiente de manera iterativa
-- Dicho procedimiento fue ejecutado millones de veces sobre vastos corpus textuales durante su entrenamiento
-- En consecuencia, su apariencia de comprensión obedece al cálculo probabilístico, no a la aprehensión semántica
+- El modelo procesa un texto y predice el 1 siguiente de manera iterativa.
+- Dicho procedimiento fue ejecutado millones de veces sobre vastos corpus textuales durante su entrenamiento.
+- En consecuencia, su apariencia de comprensión obedece al cálculo probabilístico, no a la aprehensión semántica.
 
 > Ilustración: "El acusado se presenta ante el…" → juez / tribunal / fiscal
 
@@ -159,12 +159,12 @@ Encuentro 1 — Entender para no equivocarse
 
 # Seis supuestos de aplicación documentados en dependencias judiciales
 
-1. **Redacción de oficios** — proyecto inicial elaborado a partir de datos elementales
-2. **Síntesis de expedientes** — resumen temático (con las prevenciones del Bloque 3 sobre datos sensibles)
-3. **Mejora de redacción** — depuración del lenguaje en términos de claridad, formalidad o accesibilidad
-4. **Búsqueda de jurisprudencia** — sistematización de criterios (con verificación obligatoria en SAIJ / InfoJus)
-5. **Traducción** de documentación en idioma extranjero
-6. **Explicación de tecnicismos** a partes no profesionales (desarrollado en el Bloque 5b)
+1. **Redacción de oficios** — proyecto inicial elaborado a partir de datos elementales.
+2. **Síntesis de expedientes** — resumen temático (con las prevenciones del Bloque 3 sobre datos sensibles).
+3. **Mejora de redacción** — depuración del lenguaje en términos de claridad, formalidad o accesibilidad.
+4. **Búsqueda de jurisprudencia** — sistematización de criterios (con verificación obligatoria en SAIJ / InfoJus).
+5. **Traducción** de documentación en idioma extranjero.
+6. **Explicación de tecnicismos** a partes no profesionales (desarrollado en el Bloque 5b).
 
 ---
 
@@ -177,8 +177,8 @@ Encuentro 1 — Entender para no equivocarse
 # La inteligencia artificial elabora proyectos. La suscripción es humana.
 
 - En todos los supuestos enunciados, la herramienta propone; no decide
-- La suscripción, el criterio jurídico y la decisión jurisdiccional corresponden indefectiblemente al operador humano
-- La delegación de la decisión en un sistema automatizado supone la desnaturalización misma del Poder Judicial
+- La suscripción, el criterio jurídico y la decisión jurisdiccional corresponden indefectiblemente al operador humano.
+- La delegación de la decisión en un sistema automatizado supone la desnaturalización misma del Poder Judicial.
 
 ---
 
@@ -217,7 +217,7 @@ Encuentro 1 — Entender para no equivocarse
 - **Campo de texto inferior** — sitio de ingreso del prompt
 - **Selector de modelo (superior)** — GPT-4o, GPT-4o mini. Se recomienda conservar la selección predeterminada
 - **Botón "New chat"** — inicia una conversación nueva, sin memoria heredada
-- **Ícono de perfil (superior derecho)** — Settings y controles de privacidad (Bloque 4b)
+- **Ícono de perfil (superior derecho)** — Settings y controles de privacidad (Bloque 4b).
 
 ---
 
@@ -229,9 +229,9 @@ Encuentro 1 — Entender para no equivocarse
 
 # Premisas a internalizar desde la primera interacción
 
-1. **Se prohíbe la incorporación de información sensible de expedientes** (Bloque 3)
-2. El producto generado constituye un **proyecto preliminar** — su revisión integral es ineludible
-3. **Se impone la verificación de los controles de privacidad** con carácter previo a su empleo en tareas del PJN (Bloque 4b)
+1. **Se prohíbe la incorporación de información sensible de expedientes** (Bloque 3).
+2. El producto generado constituye un **proyecto preliminar** — su revisión integral es ineludible.
+3. **Se impone la verificación de los controles de privacidad** con carácter previo a su empleo en tareas del PJN (Bloque 4b).
 
 ---
 
@@ -259,9 +259,9 @@ La inteligencia artificial propone. La persona valida, decide y suscribe.
 
 # El modelo genera información verosímil pero fácticamente falsa
 
-- Reviste particular gravedad respecto de fallos, artículos legales y números de expediente
-- El modelo formula tanto enunciados verídicos como fabricados con idéntico grado de aparente certeza
-- El sistema no anoticia al usuario respecto del estado de alucinación
+- Reviste particular gravedad respecto de fallos, artículos legales y números de expediente.
+- El modelo formula tanto enunciados verídicos como fabricados con idéntico grado de aparente certeza.
+- El sistema no informa al usuario respecto del estado de alucinación.
 
 > El modelo redacta con el aplomo del experto, con independencia de la veracidad de su contenido.
 
@@ -279,9 +279,9 @@ La inteligencia artificial propone. La persona valida, decide y suscribe.
 
 ## Plataforma fáctica
 
-- Un letrado interpuso recurso de apelación invocando jurisprudencia **inexistente**, generada mediante ChatGPT
-- El profesional reconoció haber omitido la verificación de las citas
-- **Resolución:** rechazo del recurso, llamado de atención y comunicación al Tribunal de Ética del Colegio respectivo
+- Un letrado interpuso recurso de apelación invocando jurisprudencia **inexistente**, generada mediante ChatGPT.
+- El profesional reconoció haber omitido la verificación de las citas.
+- **Resolución:** rechazo del recurso, llamado de atención y comunicación al Tribunal de Ética del Colegio respectivo.
 
 ---
 
@@ -310,12 +310,12 @@ La inteligencia artificial propone. La persona valida, decide y suscribe.
 
 # El contenido ingresado en ChatGPT puede ser utilizado para reentrenamiento del modelo
 
-- En la configuración predeterminada de cuentas personales, las conversaciones se incorporan al corpus de entrenamiento
+- En la configuración predeterminada de cuentas personales, las conversaciones se incorporan al corpus de entrenamiento.
 - **Implicancias en el ámbito del PJN:**
-  - Datos personales de partes, testigos y menores de edad
-  - Información comprendida bajo secreto de sumario
-  - Datos sensibles de naturaleza médica
-- **Principio rector:** la determinación sobre qué información egresa del sistema corresponde siempre a una decisión humana deliberada, jamás refleja
+  - Datos personales de partes, testigos y menores de edad.
+  - Información comprendida bajo secreto de sumario.
+  - Datos sensibles de naturaleza médica.
+- **Principio rector:** la determinación sobre qué información egresa del sistema corresponde siempre a una decisión humana deliberada, jamás refleja.
 
 > Bloque 4b: procedimiento de desactivación del entrenamiento. Bloque 5b: criterios de anonimización.
 
@@ -329,10 +329,10 @@ La inteligencia artificial propone. La persona valida, decide y suscribe.
 
 # El modelo reproduce los sesgos presentes en el corpus de entrenamiento
 
-- Sesgos de género, origen étnico y condición socioeconómica
-- Pueden manifestarse en la redacción de resoluciones, en la descripción de personas y en valoraciones diversas
-- **Principio rector:** corresponde al operador humano revisar el lenguaje del proyecto previo a su suscripción
-- No se admite la incorporación de texto generado sin lectura crítica
+- Sesgos de género, origen étnico y condición socioeconómica.
+- Pueden manifestarse en la redacción de resoluciones, en la descripción de personas y en valoraciones diversas.
+- **Principio rector:** corresponde al operador humano revisar el lenguaje del proyecto previo a su suscripción.
+- No se admite la incorporación de texto generado sin lectura crítica.
 
 ---
 
@@ -344,9 +344,9 @@ La inteligencia artificial propone. La persona valida, decide y suscribe.
 
 # La presunción de veracidad como reflejo de mayor peligrosidad
 
-- La práctica continuada erosiona progresivamente el hábito de verificación
-- El antecedente de Rosario resulta ilustrativo: el letrado obró bajo la convicción de que ChatGPT informaba jurisprudencia auténtica
-- **Principio rector:** corresponde efectuar lectura crítica del producto de la IA, con el mismo rigor que se aplicaría al proyecto de un meritorio en período de incorporación
+- La práctica continuada erosiona progresivamente el hábito de verificación.
+- El antecedente de Rosario resulta ilustrativo: el letrado obró bajo la convicción de que ChatGPT informaba jurisprudencia auténtica.
+- **Principio rector:** corresponde efectuar lectura crítica del producto de la IA, con el mismo rigor que se aplicaría al proyecto de un meritorio en período de incorporación.
 
 ---
 
@@ -358,8 +358,8 @@ La inteligencia artificial propone. La persona valida, decide y suscribe.
 
 # La suscripción humana implica la asunción íntegra del contenido como propio
 
-- La eventual sugerencia de un texto por parte de la IA no altera el régimen de responsabilidad: ésta recae plenamente sobre el firmante
-- No resulta admisible invocar la "responsabilidad de la IA" como eximente — los letrados sancionados en Rosario y Río Negro no pudieron prevalerse de tal defensa
+- La eventual sugerencia de un texto por parte de la IA no altera el régimen de responsabilidad: ésta recae plenamente sobre el firmante.
+- No resulta admisible invocar la "responsabilidad de la IA" como eximente — los letrados sancionados en Rosario y Río Negro no pudieron prevalerse de tal defensa.
 - **Síntesis del bloque:** la IA elabora proyectos. El operador humano decide, valida y suscribe.
 
 > La exclusión del operador humano del proceso decisorio importa la pérdida del control de la administración de justicia.

@@ -1,0 +1,2306 @@
+{
+  "$schema_version": "plan-filminas/v3",
+  "meta": {
+    "topic_id": "01-encuentro-1",
+    "title": "Encuentro 1 — Entender para no equivocarse",
+    "source": "salida/cursadas/iapjn-2026/temas/01-encuentro-1/filminas.md",
+    "generated_at": "2026-05-17T12:00:00Z",
+    "template_id": "1I1_kg3SgqTzT5y2hWvPqqfjPCuR29vKLmCGMLCsDkbg",
+    "topics_folder": "salida/cursadas/iapjn-2026/temas",
+    "topic_folder": "salida/cursadas/iapjn-2026/temas/01-encuentro-1",
+    "design_system_path": "_edu/slides-config.yaml",
+    "pipeline_runtime_path": "_edu/schemas/pipeline-runtime.schema.json",
+    "schema_registry_path": "_edu/schemas/schema-registry.json"
+  },
+  "slides": [
+    {
+      "id": "F-00",
+      "type": "portada",
+      "title": "Inteligencia Artificial en el Poder Judicial de la Nación",
+      "subtitle": "Encuentro 1 — Entender para no equivocarse",
+      "body_blocks": [],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "center-bottom",
+        "image": "background",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "background",
+        "prompt": "Two abstract circular shapes overlapping on white background. Left circle dark bordo color with soft gradient. Right circle dark gray color with soft gradient. Subtle radial light from center. Flat minimalist style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-00-img.png",
+        "drive_id": "1KZjqBq5i7sCn9fFXdBjgsylzp8y6PxJC"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-01",
+      "type": "concepto-abstracto",
+      "title": "Temario del encuentro",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Definición de Inteligencia Artificial y ubicación de ChatGPT, Claude y Gemini.",
+              "level": 0
+            },
+            {
+              "content": "Herramientas y supuestos de aplicación en el Poder Judicial.",
+              "level": 0
+            },
+            {
+              "content": "Aproximación inicial a ChatGPT.",
+              "level": 0
+            },
+            {
+              "content": "Riesgos — antecedente jurisprudencial nacional (Rosario, 2025).",
+              "level": 0
+            },
+            {
+              "content": "Ventana de contexto.",
+              "level": 0
+            },
+            {
+              "content": "Formulación adecuada del prompt.",
+              "level": 0
+            },
+            {
+              "content": "Configuraciones avanzadas y resguardo de privacidad.",
+              "level": 0
+            },
+            {
+              "content": "Sentencia en lenguaje claro y anonimización de datos.",
+              "level": 0
+            },
+            {
+              "content": "Cierre y Regla principal.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "La exposición se desarrolla íntegramente mediante proyección por Google Meet. No se requieren dispositivos personales por parte de los asistentes."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "Ten small horizontal rectangles arranged vertically as a checklist on the right side. Each rectangle dark bordo on white background. To the left of each, a small dark gray circle. Flat icon style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-01-img.png",
+        "drive_id": "1A3pGIJ8UOAWbZlacvxu3eOk9eiYFYgzv"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-02",
+      "type": "concepto-mixto",
+      "title": "Sistemas informáticos que ejecutan tareas asociadas a la cognición humana",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Definición operativa: emulan capacidades que tradicionalmente requirieron intervención intelectual humana.",
+              "level": 0
+            },
+            {
+              "content": "Aplicaciones de uso cotidiano frecuentemente inadvertidas:",
+              "level": 0
+            },
+            {
+              "content": "Filtro de correo no deseado.",
+              "level": 1
+            },
+            {
+              "content": "Sistemas de recomendación de plataformas audiovisuales.",
+              "level": 1
+            },
+            {
+              "content": "Predicción de texto en dispositivos móviles.",
+              "level": 1
+            },
+            {
+              "content": "Asistentes de reconocimiento de voz.",
+              "level": 1
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-03",
+      "type": "diagrama",
+      "title": "Círculos concéntricos: del universo más amplio al más específico",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "**IA** — el universo entero: cualquier sistema que imita capacidades humanas.",
+              "level": 0
+            },
+            {
+              "content": "**Machine Learning** — IA que aprende de ejemplos (filtro de spam, scoring crediticio).",
+              "level": 0
+            },
+            {
+              "content": "**Deep Learning** — ML con redes neuronales grandes (reconocimiento facial, traducción).",
+              "level": 0
+            },
+            {
+              "content": "**LLMs** — Deep Learning especializado en lenguaje: ChatGPT, Claude, Gemini, Copilot.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "En el discurso contemporáneo, la referencia a \"IA\" alude predominantemente a un LLM. No obstante, la categoría de Inteligencia Artificial comprende un campo sustancialmente más amplio."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "Four concentric circles centered on the right half of a white background. Outermost circle largest dark bordo thin outline. Second circle dark gray thin outline. Third circle bordo medium thickness. Innermost small filled bordo solid disk. All circles share the same center point. Clean geometric flat style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-03-img.png",
+        "drive_id": "1OqfI7DeHyKp2JNsNzvNmoZGMDWACbRUT"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-04",
+      "type": "concepto-mixto",
+      "title": "Un predictor estadístico de la palabra subsiguiente",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "El modelo procesa un texto y predice el siguiente de manera iterativa.",
+              "level": 0
+            },
+            {
+              "content": "Dicho procedimiento fue ejecutado millones de veces sobre vastos corpus textuales durante su entrenamiento.",
+              "level": 0
+            },
+            {
+              "content": "En consecuencia, su apariencia de comprensión obedece al cálculo probabilístico, no a la aprehensión semántica.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ilustración: \"El acusado se presenta ante el…\" → juez / tribunal / fiscal"
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-05",
+      "type": "tabla-comparativa",
+      "title": "Distinción respecto de motores de búsqueda y bases de datos",
+      "subtitle": "",
+      "body_blocks": [],
+      "code_blocks": [],
+      "tables": [
+        "| | Motor de búsqueda (Google) | Base de datos jurídica (SAIJ, Lex Doctor) | LLM (ChatGPT) |\n|---|---|---|---|\n| **Función** | Localiza información | Almacena registros verificados | Genera texto probabilísticamente plausible |\n| **Garantía de veracidad** | Remite a la fuente | Sí, respecto del contenido cargado | **No — admite la fabulación** |\n| **Cita de la fuente** | Sí (vínculo) | Sí (registro) | Eventualmente, con riesgo de tergiversación |\n| **Conexión requerida** | Sí | Condicional | Sí |"
+      ],
+      "layout": {
+        "title": "full-title",
+        "body": "table-intro",
+        "image": "none",
+        "code": "none",
+        "table": "table-main"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": [
+        {
+          "index": 0,
+          "table_markdown": "| | Motor de búsqueda (Google) | Base de datos jurídica (SAIJ, Lex Doctor) | LLM (ChatGPT) |\n|---|---|---|---|\n| **Función** | Localiza información | Almacena registros verificados | Genera texto probabilísticamente plausible |\n| **Garantía de veracidad** | Remite a la fuente | Sí, respecto del contenido cargado | **No — admite la fabulación** |\n| **Cita de la fuente** | Sí (vínculo) | Sí (registro) | Eventualmente, con riesgo de tergiversación |\n| **Conexión requerida** | Sí | Condicional | Sí |",
+          "local_asset": "slides/assets/F-05-table-1.png",
+          "drive_id": null
+        }
+      ]
+    },
+    {
+      "id": "F-06",
+      "type": "concepto-mixto",
+      "title": "Tres términos de uso recurrente durante el encuentro",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "**LLM** — Modelo extenso de lenguaje (Large Language Model). Comprende a ChatGPT, Claude, Gemini y plataformas análogas.",
+              "level": 0
+            },
+            {
+              "content": "**Prompt** — instrucción textual que el usuario formula al modelo.",
+              "level": 0
+            },
+            {
+              "content": "**Alucinación** — generación, por parte del modelo, de información verosímil pero fácticamente errónea.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-07",
+      "type": "tabla",
+      "title": "Las cinco más relevantes para trabajo administrativo y judicial",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "text",
+          "content": "Se adopta ChatGPT como caso testigo. Los criterios expuestos resultan extrapolables, con mínimas variaciones, a las restantes herramientas."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [
+        "| Herramienta | Quién la hace | Para qué sirve | Navegador |\n|---|---|---|---|\n| **ChatGPT** | OpenAI | Conversación, redacción, análisis de texto | chatgpt.com |\n| **Claude** | Anthropic | Textos largos, raciocinio jurídico | claude.ai |\n| **Gemini** | Google | Conversación integrada con servicios Google | gemini.google.com |\n| **NotebookLM** | Google | \"Cuaderno\" con documentos propios cargados | notebooklm.google.com |\n| **Copilot** | Microsoft | Integrado en Word, Outlook, Edge | Microsoft 365 |"
+      ],
+      "layout": {
+        "title": "full-title",
+        "body": "table-intro",
+        "image": "none",
+        "code": "none",
+        "table": "table-main"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": [
+        {
+          "index": 0,
+          "table_markdown": "| Herramienta | Quién la hace | Para qué sirve | Navegador |\n|---|---|---|---|\n| **ChatGPT** | OpenAI | Conversación, redacción, análisis de texto | chatgpt.com |\n| **Claude** | Anthropic | Textos largos, raciocinio jurídico | claude.ai |\n| **Gemini** | Google | Conversación integrada con servicios Google | gemini.google.com |\n| **NotebookLM** | Google | \"Cuaderno\" con documentos propios cargados | notebooklm.google.com |\n| **Copilot** | Microsoft | Integrado en Word, Outlook, Edge | Microsoft 365 |",
+          "local_asset": "slides/assets/F-07-table-1.png",
+          "drive_id": null
+        }
+      ]
+    },
+    {
+      "id": "F-08",
+      "type": "concepto-abstracto",
+      "title": "Seis supuestos de aplicación documentados en dependencias judiciales",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "content": "**Redacción de oficios** — proyecto inicial elaborado a partir de datos elementales.",
+              "level": 0
+            },
+            {
+              "content": "**Síntesis de expedientes** — resumen temático (con las prevenciones del Bloque 3 sobre datos sensibles).",
+              "level": 0
+            },
+            {
+              "content": "**Mejora de redacción** — depuración del lenguaje en términos de claridad, formalidad o accesibilidad.",
+              "level": 0
+            },
+            {
+              "content": "**Búsqueda de jurisprudencia** — sistematización de criterios (con verificación obligatoria en SAIJ / InfoJus).",
+              "level": 0
+            },
+            {
+              "content": "**Traducción** de documentación en idioma extranjero.",
+              "level": 0
+            },
+            {
+              "content": "**Explicación de tecnicismos** a partes no profesionales (desarrollado en el Bloque 5b).",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "Six small flat icons arranged in two columns of three on the right half of a white background. Each icon a different abstract shape: a rectangle, a folded page corner, a horizontal arrow, a magnifying loop, a globe outline, an open mouth bubble. Three icons dark bordo, three icons dark gray, alternating. Clean flat minimalist style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-08-img.png",
+        "drive_id": "1up7Tf9wAxv0KYRg-rYNbnq-mZAGlWJ7g"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-09",
+      "type": "concepto-mixto",
+      "title": "La inteligencia artificial elabora proyectos. La suscripción es humana.",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "En todos los supuestos enunciados, la herramienta propone; no decide.",
+              "level": 0
+            },
+            {
+              "content": "La suscripción, el criterio jurídico y la decisión jurisdiccional corresponden indefectiblemente al operador humano.",
+              "level": 0
+            },
+            {
+              "content": "La delegación de la decisión en un sistema automatizado supone la desnaturalización misma del Poder Judicial.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-10",
+      "type": "demo",
+      "title": "No se requiere instalación de software. Una cuenta gratuita resulta suficiente.",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Procedimiento de acceso"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Apertura del navegador (Chrome, Firefox o Edge).",
+              "level": 0
+            },
+            {
+              "content": "Navegación al dominio **chatgpt.com**.",
+              "level": 0
+            },
+            {
+              "content": "Creación de cuenta gratuita mediante correo electrónico o cuenta Google.",
+              "level": 0
+            },
+            {
+              "content": "La interfaz registra modificaciones periódicas; los elementos sustanciales permanecen invariables.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "El docente expone la plataforma vía Google Meet, mediante compartición de pantalla."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-11",
+      "type": "diagrama",
+      "title": "Cinco elementos de la interfaz a identificar",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "**Barra lateral izquierda** — registro histórico de conversaciones.",
+              "level": 0
+            },
+            {
+              "content": "**Área central** — conversación en curso.",
+              "level": 0
+            },
+            {
+              "content": "**Campo de texto inferior** — sitio de ingreso del prompt.",
+              "level": 0
+            },
+            {
+              "content": "**Selector de modelo (superior)** — GPT-4o, GPT-4o mini. Se recomienda conservar la selección predeterminada.",
+              "level": 0
+            },
+            {
+              "content": "**Botón \"New chat\"** — inicia una conversación nueva, sin memoria heredada.",
+              "level": 0
+            },
+            {
+              "content": "**Ícono de perfil (superior derecho)** — Settings y controles de privacidad (Bloque 4b).",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "Stylized rectangle representing a browser window on the right half of a white background. Inside it: a narrow vertical strip on the left dark gray representing a sidebar. A large central rectangle white representing the conversation area. A long horizontal rounded rectangle at the bottom bordo representing an input box. A small circle in the top right corner dark gray representing a profile icon. Five small thin arrows in dark bordo pointing to each element from outside. Flat minimalist diagram style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-11-img.png",
+        "drive_id": "1mNaQ2EUxfkWNaUbPMBqujdZUJ4bRt1aW"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-12",
+      "type": "concepto-mixto",
+      "title": "Premisas a internalizar desde la primera interacción",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "content": "**Se prohíbe la incorporación de información sensible de expedientes** (Bloque 3).",
+              "level": 0
+            },
+            {
+              "content": "El producto generado constituye un **proyecto preliminar** — su revisión integral es ineludible.",
+              "level": 0
+            },
+            {
+              "content": "**Se impone la verificación de los controles de privacidad** con carácter previo a su empleo en tareas del PJN (Bloque 4b).",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-13",
+      "type": "socratica",
+      "title": "El operador humano decide en primer término",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "text",
+          "content": "La inteligencia artificial propone. La persona valida, decide y suscribe."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "center-top",
+        "body": "center-middle",
+        "image": "background",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "background",
+        "prompt": "A large central irregular blob shape dark bordo with soft edges on white background. Around it three small dark gray dots arranged at varying distances. Subtle radial gradient. Flat minimalist abstract. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-13-img.png",
+        "drive_id": "1DLiNXG7lmwSpSesfV2P3qZLNNc3Zt4V4"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-14",
+      "type": "concepto-abstracto",
+      "title": "El modelo genera información verosímil pero fácticamente falsa",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Reviste particular gravedad respecto de fallos, artículos legales y números de expediente.",
+              "level": 0
+            },
+            {
+              "content": "El modelo formula tanto enunciados verídicos como fabricados con idéntico grado de aparente certeza.",
+              "level": 0
+            },
+            {
+              "content": "El sistema no informa al usuario respecto del estado de alucinación.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "El modelo redacta con el aplomo del experto, con independencia de la veracidad de su contenido."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "A small page outline dark gray on the right side of a white background. From inside the page three small irregular blobs emerge dark bordo, increasing in size from bottom to top. Flat minimalist icon style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-14-img.png",
+        "drive_id": "1HSyKJqc5WObQdaG5Mt-hq1PpP3Bxg4D7"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-15",
+      "type": "socratica",
+      "title": "Dr. Oscar Puccinelli — cita textual",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "text",
+          "content": "«Es sumamente riesgoso y hasta temerario delegar la labor de búsqueda de jurisprudencia de soporte y luego volcarla sin cotejar la fuente.»"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Plataforma fáctica"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Un letrado interpuso recurso de apelación invocando jurisprudencia **inexistente**, generada mediante ChatGPT.",
+              "level": 0
+            },
+            {
+              "content": "El profesional reconoció haber omitido la verificación de las citas.",
+              "level": 0
+            },
+            {
+              "content": "**Resolución:** rechazo del recurso, llamado de atención y comunicación al Tribunal de Ética del Colegio respectivo.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "center-top",
+        "body": "center-middle",
+        "image": "background",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "background",
+        "prompt": "A central rectangular shape dark bordo with subtle texture on white background, suggesting a closed page or document. Around it, soft empty space. A thin dark gray line frames it on the right side only. Flat minimalist. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-15-img.png",
+        "drive_id": "1ZfWQbdIMsZaEoTg3fVCW7NHK5ku5CP-F"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-16",
+      "type": "timeline",
+      "title": "Antecedentes análogos verificados en distintas jurisdicciones",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "text",
+          "content": "La omisión del deber de verificación respecto del producto de la IA ostenta ya consecuencias jurisprudenciales consolidadas."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [
+        "| Antecedente | Fuero / Provincia | Año | Consecuencia |\n|---|---|---|---|\n| Cámara Civil de Rosario (Dr. Puccinelli) | Civil — Santa Fe | 2025 | Llamado de atención y comunicación al Tribunal de Ética |\n| Cipolletti (Río Negro) | Civil — Río Negro | 2025 | Pérdida del derecho a honorarios respecto de dos letrados |\n| Pronunciamientos diversos | Múltiples provincias | 2024–2025 | Episodios documentados de manera reiterada |"
+      ],
+      "layout": {
+        "title": "full-title",
+        "body": "left-top-split",
+        "image": "none",
+        "code": "none",
+        "table": "right-half"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": [
+        {
+          "index": 0,
+          "table_markdown": "| Antecedente | Fuero / Provincia | Año | Consecuencia |\n|---|---|---|---|\n| Cámara Civil de Rosario (Dr. Puccinelli) | Civil — Santa Fe | 2025 | Llamado de atención y comunicación al Tribunal de Ética |\n| Cipolletti (Río Negro) | Civil — Río Negro | 2025 | Pérdida del derecho a honorarios respecto de dos letrados |\n| Pronunciamientos diversos | Múltiples provincias | 2024–2025 | Episodios documentados de manera reiterada |",
+          "local_asset": "slides/assets/F-16-table-1.png",
+          "drive_id": null
+        }
+      ]
+    },
+    {
+      "id": "F-17",
+      "type": "concepto-mixto",
+      "title": "El contenido ingresado en ChatGPT puede ser utilizado para reentrenamiento del modelo",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "En la configuración predeterminada de cuentas personales, las conversaciones se incorporan al corpus de entrenamiento.",
+              "level": 0
+            },
+            {
+              "content": "**Implicancias en el ámbito del PJN:**",
+              "level": 0
+            },
+            {
+              "content": "Datos personales de partes, testigos y menores de edad.",
+              "level": 1
+            },
+            {
+              "content": "Información comprendida bajo secreto de sumario.",
+              "level": 1
+            },
+            {
+              "content": "Datos sensibles de naturaleza médica.",
+              "level": 1
+            },
+            {
+              "content": "**Principio rector:** la determinación sobre qué información egresa del sistema corresponde siempre a una decisión humana deliberada, jamás refleja.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Bloque 4b: procedimiento de desactivación del entrenamiento. Bloque 5b: criterios de anonimización."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-18",
+      "type": "concepto-mixto",
+      "title": "El modelo reproduce los sesgos presentes en el corpus de entrenamiento",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Sesgos de género, origen étnico y condición socioeconómica.",
+              "level": 0
+            },
+            {
+              "content": "Pueden manifestarse en la redacción de resoluciones, en la descripción de personas y en valoraciones diversas.",
+              "level": 0
+            },
+            {
+              "content": "**Principio rector:** corresponde al operador humano revisar el lenguaje del proyecto previo a su suscripción.",
+              "level": 0
+            },
+            {
+              "content": "No se admite la incorporación de texto generado sin lectura crítica.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-19",
+      "type": "concepto-mixto",
+      "title": "La presunción de veracidad como reflejo de mayor peligrosidad",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "La práctica continuada erosiona progresivamente el hábito de verificación.",
+              "level": 0
+            },
+            {
+              "content": "El antecedente de Rosario resulta ilustrativo: el letrado obró bajo la convicción de que ChatGPT informaba jurisprudencia auténtica.",
+              "level": 0
+            },
+            {
+              "content": "**Principio rector:** corresponde efectuar lectura crítica del producto de la IA, con el mismo rigor que se aplicaría al proyecto de un nuevo agente judicial en período de incorporación.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-20",
+      "type": "concepto-mixto",
+      "title": "La suscripción humana implica la asunción íntegra del contenido como propio",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "La eventual sugerencia de un texto por parte de la IA no altera el régimen de responsabilidad: ésta recae plenamente sobre el firmante.",
+              "level": 0
+            },
+            {
+              "content": "No resulta admisible invocar la \"responsabilidad de la IA\" como eximente — los letrados sancionados en Rosario y Río Negro no pudieron prevalerse de tal defensa.",
+              "level": 0
+            },
+            {
+              "content": "**Síntesis del bloque:** la IA elabora proyectos. El operador humano decide, valida y suscribe.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "La exclusión del operador humano del proceso decisorio importa la pérdida del control de la administración de justicia."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-21",
+      "type": "concepto-mixto",
+      "title": "La memoria operativa del modelo durante una conversación",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Metáfora ilustrativa: el **pizarrón que se borra al finalizar cada clase**.",
+              "level": 0
+            },
+            {
+              "content": "En el transcurso de una conversación, el modelo accede a la totalidad del texto producido hasta ese instante.",
+              "level": 0
+            },
+            {
+              "content": "Al cerrarse la conversación, dicho contenido se disipa: en interacciones posteriores no obra registro alguno.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-22",
+      "type": "concepto-mixto",
+      "title": "La ausencia de contexto deriva en resultados genéricos o fabulados",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "La instrucción \"Redactar un oficio\", sin elementos adicionales, no aporta información alguna sobre la causa.",
+              "level": 0
+            },
+            {
+              "content": "Corresponde proveer al modelo el contexto íntegro en cada interacción:",
+              "level": 0
+            },
+            {
+              "content": "Tipo de causa.",
+              "level": 1
+            },
+            {
+              "content": "Partes intervinientes.",
+              "level": 1
+            },
+            {
+              "content": "Datos relevantes del expediente.",
+              "level": 1
+            },
+            {
+              "content": "Resultado pretendido.",
+              "level": 1
+            },
+            {
+              "content": "**Limitación práctica:** los modelos actuales admiten documentos extensos, mas tienden a desatender los fragmentos iniciales en textos de gran longitud.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-23",
+      "type": "concepto-mixto",
+      "title": "Si el contexto resulta determinante, el prompt debe contenerlo en su integridad",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Fragmentos de extensión manejable y requerimientos específicos.",
+              "level": 0
+            },
+            {
+              "content": "El contexto se provee de manera explícita en cada conversación.",
+              "level": 0
+            },
+            {
+              "content": "Lo expuesto conduce directamente al prompting estructurado.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-24",
+      "type": "concepto-mixto",
+      "title": "El modelo responde con el grado de detalle que la instrucción le confiere",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Instrucción imprecisa → respuesta genérica.",
+              "level": 0
+            },
+            {
+              "content": "Instrucción precisa, con contexto y restricciones → proyecto de utilidad.",
+              "level": 0
+            },
+            {
+              "content": "Dicha disciplina se denomina **prompt engineering**.",
+              "level": 0
+            },
+            {
+              "content": "Constituye la habilidad fundamental para el empleo eficaz de cualquier LLM.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Recordatorio bajo el principio del operador humano primero: todo cuanto se produzca en adelante reviste el carácter de **proyecto preliminar**."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-25",
+      "type": "concepto-abstracto",
+      "title": "Rol + Tarea + Contexto + Restricciones + Plantilla de salida",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "**Rol** — perspectiva desde la cual actúa el modelo (\"Actúe como asistente redactor del PJN\").",
+              "level": 0
+            },
+            {
+              "content": "**Tarea** — acción concreta (\"reescribir\", \"sintetizar\", \"enumerar\").",
+              "level": 0
+            },
+            {
+              "content": "**Contexto** — información sustantiva del caso.",
+              "level": 0
+            },
+            {
+              "content": "**Restricciones** — prohibiciones expresas (\"sin latinismos\", \"extensión máxima de tres párrafos\").",
+              "level": 0
+            },
+            {
+              "content": "**Plantilla de salida** — estructura esperada del producto.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "La presente filmina permanece a la vista durante las demostraciones subsiguientes."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "Five small horizontal rectangles stacked vertically on the right half of a white background. From top to bottom: first rectangle dark bordo, second dark gray, third dark bordo, fourth dark gray, fifth dark bordo. Each rectangle isolated, with thin connecting lines between them. Flat minimalist diagram style. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-25-img.png",
+        "drive_id": "1z090oQA19Nobp-uPu0VAQwCDBhKEu4sV"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-26",
+      "type": "demo",
+      "title": "Idéntico modelo, resultados sustancialmente distintos",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Prompt impreciso"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Prompt estructurado"
+        },
+        {
+          "type": "text",
+          "content": "La diferencia no reside en el modelo, sino en la instrucción que se le imparte."
+        }
+      ],
+      "code_blocks": [
+        {
+          "lang": "text",
+          "content": "Redactar un oficio."
+        },
+        {
+          "lang": "text",
+          "content": "Actúe como asistente redactor del PJN. Redacte un oficio de citación\na prestar declaración testimonial dirigido al Juzgado de Familia N.º 3\nde Ushuaia. Convocado: [NOMBRE]. Causa: [NÚMERO]. Audiencia:\n[FECHA] a las [HORA]. Empléese lenguaje formal, en tratamiento de\nusted, con fórmula de cierre: \"Sin otro particular, saludo a Ud. atte.\".\nOmítanse latinismos."
+        }
+      ],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-27",
+      "type": "demo",
+      "title": "Las restricciones gobiernan el comportamiento del modelo con anterioridad a la generación",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Cláusula incorporada al prompt precedente"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Resultado"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "La respuesta observa rigurosamente la restricción establecida.",
+              "level": 0
+            },
+            {
+              "content": "**No corresponde depositar confianza en el modelo, sino impartirle las reglas adecuadas desde el inicio.**",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [
+        {
+          "lang": "text",
+          "content": "Omítase toda referencia a datos del expediente, tanto en el asunto\ncomo en el cuerpo del correo electrónico; consígnense exclusivamente\nen el documento adjunto."
+        }
+      ],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-28",
+      "type": "socratica",
+      "title": "¿Qué tarea resulta susceptible de automatización?",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Conviene identificar una tarea cotidiana: oficio, informe, comunicación formal, notificación.",
+              "level": 0
+            },
+            {
+              "content": "Se construye colectivamente sobre los cinco componentes.",
+              "level": 0
+            },
+            {
+              "content": "De resultar el tiempo suficiente, se ejecuta en ChatGPT durante la sesión.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "No se trata de un procedimiento mágico, sino de la observancia de una estructura."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "center-top",
+        "body": "center-middle",
+        "image": "background",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "background",
+        "prompt": "Five small dark bordo dots and three dark gray dots scattered organically on a white background, connected by thin dark gray lines suggesting collaboration. Subtle empty space around. Flat minimalist abstract. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-28-img.png",
+        "drive_id": "1PjvAEMg7QfeQyB5aq_yQMZFiqSR3Oq6y"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-29",
+      "type": "concepto-mixto",
+      "title": "La herramienta ha trascendido la categoría de \"chat\": constituye una plataforma con modalidades diversas",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Conversación estándar.",
+              "level": 0
+            },
+            {
+              "content": "GPTs personalizados.",
+              "level": 0
+            },
+            {
+              "content": "Modo agente.",
+              "level": 0
+            },
+            {
+              "content": "Búsqueda profunda.",
+              "level": 0
+            },
+            {
+              "content": "Controles granulares de privacidad.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Resulta pertinente conocer su existencia, aun cuando no se haga uso de la totalidad en la presente jornada."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-30",
+      "type": "demo",
+      "title": "Una versión de ChatGPT configurada a medida en una única oportunidad",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Caracterización"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Instrucciones fijas registradas en el sistema: rol, tono, reglas y plantilla.",
+              "level": 0
+            },
+            {
+              "content": "Su empleo resulta reiterado: basta con suministrar los datos particulares del caso.",
+              "level": 0
+            },
+            {
+              "content": "Se requiere cuenta en modalidad Plus.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Demostración proyectada — GPT \"Redactor de Oficios PJN\""
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "El modelo responde directamente con la plantilla íntegra.",
+              "level": 0
+            },
+            {
+              "content": "**Principio rector:** el GPT constituye una herramienta de eficiencia; el contenido permanece sujeto a revisión humana.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [
+        {
+          "lang": "text",
+          "content": "Prompt sintético:\n\"Oficio dirigido a la Secretaría de Trabajo por incumplimiento\ncontractual. Expediente 12345/2025. Plazo: cinco (5) días.\""
+        }
+      ],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-31",
+      "type": "concepto-mixto",
+      "title": "Modalidad en la cual ChatGPT ejecuta secuencias de acciones de manera autónoma",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Accede a sitios web, cumplimenta formularios, descarga archivos y encadena tareas.",
+              "level": 0
+            },
+            {
+              "content": "**Supuesto de aplicación en el PJN:** \"Localizar los últimos cinco fallos en materia de tenencia compartida y consolidarlos en una planilla\".",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Advertencias críticas"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "El sistema puede incurrir en errores en pasos intermedios sin emitir aviso.",
+              "level": 0
+            },
+            {
+              "content": "**Bajo ningún supuesto se autorizará su operación sobre sistemas internos del PJN ni mediante credenciales institucionales.**",
+              "level": 0
+            },
+            {
+              "content": "En el estado actual: exclusivamente tareas de carácter exploratorio sobre datos públicos.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-32",
+      "type": "concepto-mixto",
+      "title": "Producción de informes extensos con citas susceptibles de verificación",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Insume varios minutos relevando múltiples fuentes.",
+              "level": 0
+            },
+            {
+              "content": "Genera un documento estructurado con referencias bibliográficas.",
+              "level": 0
+            },
+            {
+              "content": "**Supuesto de aplicación en el PJN:** \"Investigación pormenorizada sobre la evolución de la doctrina de la prisión preventiva en el último quinquenio\".",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Limitación crítica: el sistema admite la posibilidad de error o de cita incorrectamente interpretada. La verificación de cada cita se impone de manera individualizada, conforme las enseñanzas del antecedente Rosario."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-33",
+      "type": "concepto-mixto",
+      "title": "La totalidad del texto ingresado resulta susceptible de empleo en el entrenamiento de modelos futuros",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "En **cuentas personales con configuración predeterminada de fábrica**, las conversaciones se incorporan al corpus de entrenamiento.",
+              "level": 0
+            },
+            {
+              "content": "Para un usuario común el riesgo reviste menor entidad.",
+              "level": 0
+            },
+            {
+              "content": "Para quien incorpora texto de expedientes la cuestión adquiere gravedad institucional.",
+              "level": 0
+            },
+            {
+              "content": "**Resulta menester conocer que estos controles existen y activarlos expresamente.**",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-34",
+      "type": "demo",
+      "title": "Settings → Data Controls → \"Improve the model for everyone\" en posición OFF",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Procedimiento (demostración en pantalla real de ChatGPT)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "content": "Pulsar el ícono de perfil (superior derecho).",
+              "level": 0
+            },
+            {
+              "content": "Ingresar a **Settings**.",
+              "level": 0
+            },
+            {
+              "content": "Acceder a **Data Controls**.",
+              "level": 0
+            },
+            {
+              "content": "Desactivar el conmutador **\"Improve the model for everyone\"**.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Efecto"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Las conversaciones continúan almacenándose en el historial del usuario.",
+              "level": 0
+            },
+            {
+              "content": "**OpenAI deja de emplearlas con fines de entrenamiento.**",
+              "level": 0
+            },
+            {
+              "content": "La opción se halla disponible tanto en la versión gratuita cuanto en la Plus.",
+              "level": 0
+            },
+            {
+              "content": "**No se activa por defecto** — corresponde habilitarla expresamente.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-35",
+      "type": "demo",
+      "title": "Modalidad análoga al \"modo incógnito\" de los navegadores",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Procedimiento de activación"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Botón al inicio de una nueva conversación → **Chat temporal**.",
+              "level": 0
+            },
+            {
+              "content": "Alternativamente, ícono de modo temporal en el encabezado.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Efecto"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "**No se almacena en el historial.**",
+              "level": 0
+            },
+            {
+              "content": "**No se incorpora al corpus de entrenamiento.**",
+              "level": 0
+            },
+            {
+              "content": "**No genera memoria persistente.**",
+              "level": 0
+            },
+            {
+              "content": "Se suprime automáticamente a los treinta (30) días.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Supuesto de aplicación en el PJN"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Consultas puntuales sobre texto sensible respecto del cual no resulte conveniente preservar rastro alguno.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-36",
+      "type": "demo",
+      "title": "ChatGPT puede conservar información proveniente de conversaciones anteriores",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Ubicación"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Settings → **Personalization** → **Memory**.",
+              "level": 0
+            },
+            {
+              "content": "Permite activar, desactivar o suprimir registros específicos.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Recomendación institucional para empleo en el PJN"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Procede su **desactivación** o, en su defecto, su revisión periódica.",
+              "level": 0
+            },
+            {
+              "content": "No resulta admisible que el modelo conserve fragmentos de casos precedentes entre sesiones.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-37",
+      "type": "concepto-mixto",
+      "title": "Protección automática conferida en planes comerciales",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "**En las modalidades Business, Team, Enterprise y Edu, por defecto, NO se utilizan los datos del usuario con fines de entrenamiento.**",
+              "level": 0
+            },
+            {
+              "content": "El instrumento contractual activa dicha protección de manera automática.",
+              "level": 0
+            },
+            {
+              "content": "**Implicancia institucional:** la eventual contratación de ChatGPT por el PJN a nivel institucional importaría heredar tal régimen de protección.",
+              "level": 0
+            },
+            {
+              "content": "En contraposición, **la cuenta personal de un agente exige la configuración manual** de los controles 1 a 3 enunciados.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "El resguardo de la privacidad en ChatGPT no se opera de manera automática en cuentas personales: requiere su activación expresa."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-38",
+      "type": "tabla-comparativa",
+      "title": "Cuadro de decisión expedita",
+      "subtitle": "",
+      "body_blocks": [],
+      "code_blocks": [],
+      "tables": [
+        "| Tarea | Modalidad recomendada |\n|---|---|\n| Redacción de textos recurrentes con formato establecido (oficios, cédulas) | **GPT personalizado** |\n| Recolección de datos públicos provenientes de múltiples sitios en formato tabular | **Modo agente** (con verificación obligatoria) |\n| Elaboración de informe doctrinario o de panorama extenso | **Búsqueda profunda** |\n| Consulta puntual sobre texto sensible que no debe persistir en historial | **Chat temporal** |\n| Consulta breve, ajuste de redacción o traducción | Conversación estándar (con \"Improve the model\" en posición OFF) |"
+      ],
+      "layout": {
+        "title": "full-title",
+        "body": "table-intro",
+        "image": "none",
+        "code": "none",
+        "table": "table-main"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": [
+        {
+          "index": 0,
+          "table_markdown": "| Tarea | Modalidad recomendada |\n|---|---|\n| Redacción de textos recurrentes con formato establecido (oficios, cédulas) | **GPT personalizado** |\n| Recolección de datos públicos provenientes de múltiples sitios en formato tabular | **Modo agente** (con verificación obligatoria) |\n| Elaboración de informe doctrinario o de panorama extenso | **Búsqueda profunda** |\n| Consulta puntual sobre texto sensible que no debe persistir en historial | **Chat temporal** |\n| Consulta breve, ajuste de redacción o traducción | Conversación estándar (con \"Improve the model\" en posición OFF) |",
+          "local_asset": "slides/assets/F-38-table-1.png",
+          "drive_id": null
+        }
+      ]
+    },
+    {
+      "id": "F-39",
+      "type": "concepto-mixto",
+      "title": "Las sentencias se redactan en clave técnica para operadores del derecho; las partes ostentan también el derecho a su comprensión",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "El lenguaje claro reviste el carácter de política pública en diversos tribunales argentinos.",
+              "level": 0
+            },
+            {
+              "content": "Posibilita que las partes aprehendan el contenido de la decisión recaída sobre su caso.",
+              "level": 0
+            },
+            {
+              "content": "La IA permite agilizar la reescritura; el contenido jurídico permanece bajo la decisión del magistrado o magistrada.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-40",
+      "type": "demo",
+      "title": "Texto ficticio → ChatGPT → versión accesible",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Observación pedagógica"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "El modelo produce la versión en lenguaje claro en pocos segundos.",
+              "level": 0
+            },
+            {
+              "content": "El docente efectúa lectura en voz alta y procede al cotejo con el original.",
+              "level": 0
+            },
+            {
+              "content": "**Principio rector:** ¿se ha desvirtuado algún matiz? ¿se ha alterado el sentido de alguna cláusula?",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [
+        {
+          "lang": "text",
+          "content": "Reescriba el siguiente fragmento de resolución judicial en lenguaje\nclaro, empleando oraciones breves y voz activa, sin latinismos\ny sin omitir dato sustancial alguno. Consérvese la estructura:\nencabezado, hechos, decisión y fundamentos.\n\n[insertar fragmento de resolución ficticia]"
+        }
+      ],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-41",
+      "type": "tabla-comparativa",
+      "title": "Sustitución de datos reales por etiquetas genéricas con anterioridad al ingreso al modelo",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "content": "Procedimiento"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "content": "Anonimización del texto (mediante búsqueda y reemplazo manual en un editor).",
+              "level": 0
+            },
+            {
+              "content": "Ingreso al modelo de ChatGPT — éste opera exclusivamente con etiquetas.",
+              "level": 0
+            },
+            {
+              "content": "Sustitución de las etiquetas por los datos reales con anterioridad a la utilización oficial del documento.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [
+        "| Texto original | Texto anonimizado |\n|---|---|\n| La parte actora, **María González Díaz**, | La parte actora, **PERSONA_1**, |\n| con domicilio en **Av. Mitre 1234 de Rosario**, | con domicilio en **DIRECCIÓN_1**, |\n| representada por el Dr. **Juan Pérez** | representada por el Dr. **PERSONA_2** |"
+      ],
+      "layout": {
+        "title": "full-title",
+        "body": "table-intro",
+        "image": "none",
+        "code": "none",
+        "table": "table-main"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": [
+        {
+          "index": 0,
+          "table_markdown": "| Texto original | Texto anonimizado |\n|---|---|\n| La parte actora, **María González Díaz**, | La parte actora, **PERSONA_1**, |\n| con domicilio en **Av. Mitre 1234 de Rosario**, | con domicilio en **DIRECCIÓN_1**, |\n| representada por el Dr. **Juan Pérez** | representada por el Dr. **PERSONA_2** |",
+          "local_asset": "slides/assets/F-41-table-1.png",
+          "drive_id": null
+        }
+      ]
+    },
+    {
+      "id": "F-42",
+      "type": "concepto-mixto",
+      "title": "Supuestos del PJN que imponen la anonimización previa",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "Expedientes con **datos de menores de edad** → obligación legal de reserva.",
+              "level": 0
+            },
+            {
+              "content": "**Víctimas o testigos amparados por protección de identidad** → información cuya circulación se halla vedada.",
+              "level": 0
+            },
+            {
+              "content": "**Datos médicos y psicológicos** de las partes → sensibilidad cualificada.",
+              "level": 0
+            },
+            {
+              "content": "**Secreto de sumario** → el contenido no debe trascender el ámbito jurisdiccional.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "La anonimización opera como **segunda capa** de tutela sobre los controles de privacidad: ambos no son excluyentes, sino complementarios."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-43",
+      "type": "concepto-mixto",
+      "title": "Eficiencia de la IA + criterio humano + protección de datos",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "content": "La IA permite agilizar la reescritura.",
+              "level": 0
+            },
+            {
+              "content": "El magistrado o magistrada continúa decidiendo el contenido jurídico.",
+              "level": 0
+            },
+            {
+              "content": "La anonimización garantiza que el proceso no comprometa datos sensibles.",
+              "level": 0
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "content": "La conjunción de los tres elementos enunciados configura el empleo **responsable** de la inteligencia artificial en el ámbito judicial."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "none",
+        "code": "right-half",
+        "table": "none"
+      },
+      "image": {
+        "layer": "none",
+        "prompt": "",
+        "local_asset": "",
+        "drive_id": null
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-44",
+      "type": "concepto-abstracto",
+      "title": "Síntesis del encuentro",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            {
+              "content": "Los **LLMs (ChatGPT, Claude, Gemini)** constituyen una rama del Deep Learning, comprendida dentro del campo de la Inteligencia Artificial.",
+              "level": 0
+            },
+            {
+              "content": "La IA genera texto **probable**; no garantiza veracidad. El antecedente Rosario 2025 ostenta ya consecuencias profesionales concretas.",
+              "level": 0
+            },
+            {
+              "content": "**El operador humano decide en primer término**: la IA propone, la persona valida, decide y suscribe.",
+              "level": 0
+            },
+            {
+              "content": "**No corresponde, bajo ningún supuesto, ingresar datos reales** en una conversación pública; de resultar imprescindible, se impone la anonimización previa.",
+              "level": 0
+            },
+            {
+              "content": "**El resguardo de la privacidad no opera de manera automática** en cuentas personales; corresponde activar los Data Controls.",
+              "level": 0
+            },
+            {
+              "content": "El **contexto del prompt** determina la calidad de la respuesta.",
+              "level": 0
+            },
+            {
+              "content": "ChatGPT presenta **modalidades especializadas**: GPTs personalizados, modo agente y búsqueda profunda.",
+              "level": 0
+            }
+          ]
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "full-title",
+        "body": "left-middle",
+        "image": "right-half",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "content",
+        "prompt": "Seven small dark bordo dots arranged in a vertical column on the right side of a white background. Each dot connected to the next with a thin dark gray line. Flat minimalist abstract. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-44-img.png",
+        "drive_id": "1MB-BSlQe9n0p-l3sFAydyv5f_gfomikk"
+      },
+      "table_assets": []
+    },
+    {
+      "id": "F-45",
+      "type": "cierre",
+      "title": "La IA no garantiza veracidad: genera respuestas plausibles",
+      "subtitle": "",
+      "body_blocks": [
+        {
+          "type": "text",
+          "content": "El operador humano decide en primer término."
+        },
+        {
+          "type": "text",
+          "content": "Se da cita en el Encuentro 2. El enlace a los prompts empleados quedará disponible en el grupo institucional."
+        }
+      ],
+      "code_blocks": [],
+      "tables": [],
+      "layout": {
+        "title": "center-middle",
+        "body": "center-bottom",
+        "image": "background",
+        "code": "none",
+        "table": "none"
+      },
+      "image": {
+        "layer": "background",
+        "prompt": "A single large dark bordo shape centered on a white background, soft circular form with subtle radial gradient from center outward. Around it a thin dark gray halo line. Flat minimalist abstract. Sin texto, sin letras, sin etiquetas, sin código, sin números. Alta resolución.",
+        "local_asset": "slides/assets/F-45-img.png",
+        "drive_id": "1ViwvCte3y1uZVncTDSFULERY7uIJBW4w"
+      },
+      "table_assets": []
+    }
+  ],
+  "summary": {
+    "total_slides": 46,
+    "images_planned": 12,
+    "tables_planned": 5,
+    "code_slides": 4,
+    "status": "READY_FOR_VALIDATION",
+    "pending_types": 0,
+    "pending_prompts": 0,
+    "type_distribution": {
+      "portada": 1,
+      "concepto-abstracto": 5,
+      "concepto-mixto": 21,
+      "diagrama": 2,
+      "tabla": 1,
+      "tabla-comparativa": 3,
+      "timeline": 1,
+      "demo": 8,
+      "socratica": 3,
+      "cierre": 1
+    }
+  }
+}
